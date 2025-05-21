@@ -1,3 +1,5 @@
+import re
+
 import polars as pl
 
 
@@ -26,7 +28,8 @@ def format_selections(df: pl.DataFrame) -> pl.DataFrame:
 
 def format_boards(df: pl.DataFrame) -> pl.DataFrame:
     """
-    Format the Board spreadsheet data
+    Format the Board spreadsheet data.
+    Expects each level column to be of the form "<full_pattern> <phrase>"
     :param df:
     :return dataframe with columns
     full_pattern
@@ -35,9 +38,7 @@ def format_boards(df: pl.DataFrame) -> pl.DataFrame:
     selection
     menu_title
     """
-    terminal_level = pl.coalesce(
-        pl.col("L5"), pl.col("L4"), pl.col("L3"), pl.col("L2"), pl.col("L1"),
-    )
+    terminal_level = create_level_coalesce(df)
     df = df.with_columns(
         terminal_level.alias("terminal_level")
     ).with_columns(
@@ -71,4 +72,57 @@ def format_boards(df: pl.DataFrame) -> pl.DataFrame:
         menu_title=pl.col("menu_title").fill_null(value="MAIN MENU")
     )
 
+    return result
+
+
+def create_level_coalesce(df):
+    l_cols = [
+        col for col in df.columns
+        if re.fullmatch(r"L\d+", col)
+    ]
+    l_cols_sorted = sorted(
+        l_cols,
+        key=lambda x: int(x[1:]),
+        reverse=True
+    )
+    terminal_level = pl.coalesce(*[pl.col(c) for c in l_cols_sorted])
+    return terminal_level
+
+
+def format_board_v1(df: pl.DataFrame) -> pl.DataFrame:
+    """
+    Expects a "lookup code" column and each level column to consist of just the phrase
+    :param df:
+    :return dataframe with columns
+    full_pattern
+    menu_pattern
+    button
+    selection
+    menu_title
+    """
+    terminal_level = create_level_coalesce(df)
+    df = df.select(
+        pl.col("Lookup code").alias("full_pattern"),
+        terminal_level.alias("selection")
+    ).with_columns(
+        str_length=pl.col("full_pattern").str.len_chars()
+    ).with_columns(
+        menu_pattern=pl.col("full_pattern").str.slice(0, pl.col("str_length") - 1),
+        button=pl.col("full_pattern").str.slice(-1)
+    ).select(
+        "full_pattern",
+        "menu_pattern",
+        "button",
+        "selection",
+    )
+    result = df.join(
+        df.select(
+            "full_pattern", pl.col("selection").alias("menu_title")
+        ),
+        how="left",
+        left_on="menu_pattern",
+        right_on="full_pattern"
+    ).with_columns(
+        menu_title=pl.col("menu_title").fill_null(value="MAIN MENU")
+    )
     return result

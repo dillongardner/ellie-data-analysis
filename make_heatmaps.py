@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import polars as pl
 import seaborn as sns
 
-from format import format_selections, format_boards
+from format import format_selections, format_boards, format_board_v1
 from heatmaps import make_heatmap_arr, make_heatmap_plot_by_menu
 
 OUTPUT_PATH = "./figures/iteration_2/"
@@ -14,13 +14,16 @@ SELECTIONS_FILE ="./data/iteration_2_selections.csv"
 # %%
 def main(board_file: str=BOARD_FILE,
          selections_file: str=SELECTIONS_FILE,
-         output_path: str=OUTPUT_PATH):
+         output_path: str=OUTPUT_PATH,
+         is_v1: bool=False,):
 
     board = pl.read_csv(board_file)
     selections = pl.read_csv(selections_file)
 
-
-    formatted_board = format_boards(board)
+    if is_v1:
+        formatted_board = format_board_v1(board)
+    else:
+        formatted_board = format_boards(board)
     formatted_selections = format_selections(selections)
 
     df: pl.DataFrame = formatted_selections.join(formatted_board,
@@ -30,10 +33,10 @@ def main(board_file: str=BOARD_FILE,
     bad_matches.write_csv(os.path.join(output_path, "missing_selections.csv"))
     bad_matches
     df = df.filter(pl.col('full_pattern').is_not_null())
+
     df.write_csv(os.path.join(output_path, "full_selections.csv"))
-
-
-    # %%
+    formatted_board.write_csv(os.path.join(output_path, "formatted_board.csv"))
+    formatted_selections.write_csv(os.path.join(output_path, "formatted_selections.csv"))
 
 
     # Create figure with constrained layout to handle colorbar properly
@@ -55,11 +58,20 @@ def main(board_file: str=BOARD_FILE,
 
     menus = formatted_board["menu_title"].unique().to_list()
     for menu in menus:
+        print(menu)
         fig, ax = make_heatmap_plot_by_menu(df, menu, board=formatted_board)
         fig.savefig(os.path.join(output_path, f"{menu}.png"))
         plt.close(fig)
 
 if __name__ == "__main__":
-    main()
+    main('./data/iteration_3_board.csv',
+         './data/iteration_3_selections.csv',
+         './figures/iteration_3')
+    main('./data/iteration_2_board.csv',
+         './data/iteration_2_selections.csv',
+         './figures/iteration_2')
+    main('./data/iteration_1_board.csv',
+         './data/iteration_1_selections.csv',
+         './figures/iteration_1', is_v1=True)
 
 
