@@ -10,18 +10,24 @@ def format_selections(df: pl.DataFrame) -> pl.DataFrame:
     :return: dataframe with column "selection" and "row_number"
     """
     if "Destination Word" in df.columns:
-        terminal_press = pl.coalesce(pl.col("Destination Word"), pl.col("Menu"))
-    else:
-        terminal_press = pl.coalesce(pl.col("Word/Phrase"), pl.col("Menu"))
+        # Column name for selection of board 1
+        df = df.rename({"Destination Word": "Word/Phrase"})
+    terminal_press = pl.coalesce(pl.col("Word/Phrase"), pl.col("Menu"))
+    source = pl.when(pl.col("Word/Phrase").is_not_null()).then(pl.lit("FINAL")).otherwise(pl.lit("MENU"))
     result = df.with_columns(
-        terminal_press.str.to_uppercase().alias("selection")
+        terminal_press.str.to_uppercase().alias("selection"),
+        source.alias("source"),
     ).filter(
         pl.col("selection").is_not_null()
-    ).select(pl.arange(0,pl.count()).alias("row_number"),
+    ).select(pl.arange(0, pl.count()).alias("row_number"),
              (pl.col("selection").str.strip_chars()
               .str.replace("  ", " ")
               .str.replace("BEETHOVEN AND DVORAK", "BEETHOVEN & DVORAK")
-              .alias("selection"))
+              .alias("selection")),
+             "source",
+             pl.col("Word/Phrase").alias("word"),
+             pl.col("Menu").alias("menu"),
+             pl.col("Menu").forward_fill().alias("menu_ff"),
              )
     return result
 
@@ -61,18 +67,7 @@ def format_boards(df: pl.DataFrame) -> pl.DataFrame:
         "button",
         "selection",
     )
-    result = df.join(
-        df.select(
-            "full_pattern", pl.col("selection").alias("menu_title")
-        ),
-        how="left",
-        left_on="menu_pattern",
-        right_on="full_pattern"
-    ).with_columns(
-        menu_title=pl.col("menu_title").fill_null(value="MAIN MENU")
-    )
-
-    return result
+    return _add_board_columns(df)
 
 
 def create_level_coalesce(df):
@@ -87,6 +82,54 @@ def create_level_coalesce(df):
     )
     terminal_level = pl.coalesce(*[pl.col(c) for c in l_cols_sorted])
     return terminal_level
+
+
+def _add_board_columns(df: pl.DataFrame) -> pl.DataFrame:
+    """
+    Expects a dataframe with columns
+    full_pattern
+    menu_pattern
+    button
+    selection
+    :param df:
+    :return:
+    full_pattern
+    menu_pattern
+    button
+    selection
+    menu_title
+    is_menu
+    """
+    menus = df.select(
+        "full_pattern"
+    ).join(
+        df.select("menu_pattern", pl.col("full_pattern").alias("TMP")),
+        how="semi",
+        left_on="full_pattern",
+        right_on="menu_pattern"
+    ).select(
+        "full_pattern",
+        pl.lit(True).alias("is_menu"),
+    )
+
+    result = (df.join(
+        df.select(
+            "full_pattern", pl.col("selection").alias("menu_title")
+        ),
+        how="left",
+        left_on="menu_pattern",
+        right_on="full_pattern"
+    ).with_columns(
+        menu_title=pl.col("menu_title").fill_null(value="MAIN MENU")
+    ).join(
+        menus, how="left", on="full_pattern"
+    ).with_columns(
+        pl.col("is_menu").fill_null(value=pl.lit(False)).alias("is_menu"),
+    ).with_columns(
+        pl.col("full_pattern").len().over("selection", "is_menu").alias("duplicity")
+    )
+              )
+    return result
 
 
 def format_board_v1(df: pl.DataFrame) -> pl.DataFrame:
@@ -115,14 +158,38 @@ def format_board_v1(df: pl.DataFrame) -> pl.DataFrame:
         "button",
         "selection",
     )
-    result = df.join(
-        df.select(
-            "full_pattern", pl.col("selection").alias("menu_title")
-        ),
-        how="left",
-        left_on="menu_pattern",
-        right_on="full_pattern"
-    ).with_columns(
-        menu_title=pl.col("menu_title").fill_null(value="MAIN MENU")
+    return _add_board_columns(df)
+
+def combine(selections: pl.DataFrame, board: pl.DataFrame) -> pl.DataFrame:
+
+    high_confidence = ((
+                               (pl.col("source") == pl.lit("MENU"))
+                               & (pl.col("selection") == pl.col("selection_right"))
+                               & (pl.col("is_menu"))
+                               & (pl.col("duplicity") == 1))
+                       | (
+                               (
+                                       (pl.col("source") == pl.lit("FINAL"))
+                                       & (pl.col("selection") == pl.col("selection_right")))
+                               & (
+                                       (pl.col("duplicity") == 1) |
+                                       (pl.col("menu_ff") == pl.col("menu_title"))
+                               )
+                       ))
+
+    low_confidence = (
+            (pl.col("source") == pl.lit("FINAL"))
+            & (pl.col("selection") == pl.col("selection_right"))
+            &
+            (pl.col("duplicity") <= 2)
     )
-    return result
+
+    df: pl.LazyFrame = selections.lazy().join(
+        board.lazy(), how="cross"
+    ).with_columns(
+        high_confidence.alias("high_confidence"),
+        low_confidence.alias("low_confidence"),
+    )
+    res = df.filter((pl.col("high_confidence")) | (pl.col("low_confidence"))
+              ).collect()
+    return res

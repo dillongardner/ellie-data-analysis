@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import polars as pl
 import seaborn as sns
 
-from format import format_selections, format_boards, format_board_v1
+from format import format_selections, format_boards, format_board_v1, combine
 from heatmaps import make_heatmap_arr, make_heatmap_plot_by_menu
 
 OUTPUT_PATH = "./figures/iteration_2/"
@@ -26,24 +26,27 @@ def main(board_file: str=BOARD_FILE,
         formatted_board = format_boards(board)
     formatted_selections = format_selections(selections)
 
-    df: pl.DataFrame = formatted_selections.join(formatted_board,
+    bad_match_base: pl.DataFrame = formatted_selections.join(formatted_board,
                                                  how="left",
                                                  on="selection",)
-    bad_matches = df.filter(pl.col('full_pattern').is_null()).group_by("selection").len().sort("len", descending=True)
+    bad_matches = bad_match_base.filter(pl.col('full_pattern').is_null()).group_by("selection").len().sort("len", descending=True)
     bad_matches.write_csv(os.path.join(output_path, "missing_selections.csv"))
-    bad_matches
+
+    df = combine(selections=formatted_selections, board=formatted_board,)
     df = df.filter(pl.col('full_pattern').is_not_null())
 
     df.write_csv(os.path.join(output_path, "full_selections.csv"))
     formatted_board.write_csv(os.path.join(output_path, "formatted_board.csv"))
     formatted_selections.write_csv(os.path.join(output_path, "formatted_selections.csv"))
 
+    plot_df = df.filter(pl.col("high_confidence"))
+
 
     # Create figure with constrained layout to handle colorbar properly
     fig = plt.figure(figsize=(7, 3), layout='constrained')
     ax = fig.add_subplot(111)
 
-    arr = make_heatmap_arr(df)
+    arr = make_heatmap_arr(plot_df)
 
     # Format the annotations as percentages
     # Create a version of the array with formatted strings
@@ -58,10 +61,11 @@ def main(board_file: str=BOARD_FILE,
 
     menus = formatted_board["menu_title"].unique().to_list()
     for menu in menus:
-        print(menu)
-        fig, ax = make_heatmap_plot_by_menu(df, menu, board=formatted_board)
-        fig.savefig(os.path.join(output_path, f"{menu}.png"))
+        fig, ax = make_heatmap_plot_by_menu(plot_df, menu, board=formatted_board)
+        fig.savefig(os.path.join(output_path, f"{menu}_cts.png"))
         plt.close(fig)
+        fig, ax = make_heatmap_plot_by_menu(plot_df, menu, board=formatted_board, normalize=True)
+        fig.savefig(os.path.join(output_path, f"{menu}_pct.png"))
 
 if __name__ == "__main__":
     main('./data/iteration_3_board.csv',
