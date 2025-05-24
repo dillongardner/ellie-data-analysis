@@ -120,7 +120,8 @@ def _add_board_columns(df: pl.DataFrame) -> pl.DataFrame:
         left_on="menu_pattern",
         right_on="full_pattern"
     ).with_columns(
-        menu_title=pl.col("menu_title").fill_null(value="MAIN MENU")
+        menu_title=pl.when(pl.col("menu_title").is_not_null()).then(pl.col("menu_title")).when(
+            pl.col("full_pattern").str.len_chars() == 1).then(pl.lit("MAIN MENU")).otherwise(pl.lit("UNKNOWN"))
     ).join(
         menus, how="left", on="full_pattern"
     ).with_columns(
@@ -128,7 +129,7 @@ def _add_board_columns(df: pl.DataFrame) -> pl.DataFrame:
     ).with_columns(
         pl.col("full_pattern").len().over("selection", "is_menu").alias("duplicity")
     )
-              )
+    )
     return result
 
 
@@ -160,8 +161,8 @@ def format_board_v1(df: pl.DataFrame) -> pl.DataFrame:
     )
     return _add_board_columns(df)
 
-def combine(selections: pl.DataFrame, board: pl.DataFrame) -> pl.DataFrame:
 
+def combine(selections: pl.DataFrame, board: pl.DataFrame) -> pl.DataFrame:
     high_confidence = ((
                                (pl.col("source") == pl.lit("MENU"))
                                & (pl.col("selection") == pl.col("selection_right"))
@@ -191,5 +192,5 @@ def combine(selections: pl.DataFrame, board: pl.DataFrame) -> pl.DataFrame:
         low_confidence.alias("low_confidence"),
     )
     res = df.filter((pl.col("high_confidence")) | (pl.col("low_confidence"))
-              ).collect()
+                    ).collect()
     return res

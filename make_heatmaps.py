@@ -66,6 +66,7 @@ def main(board_file: str=BOARD_FILE,
         plt.close(fig)
         fig, ax = make_heatmap_plot_by_menu(plot_df, menu, board=formatted_board, normalize=True)
         fig.savefig(os.path.join(output_path, f"{menu}_pct.png"))
+        plt.close(fig)
 
 if __name__ == "__main__":
     main('./data/iteration_3_board.csv',
