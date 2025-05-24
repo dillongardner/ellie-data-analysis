@@ -1,0 +1,3559 @@
+row_number,selection,source,word,menu,menu_ff
+0,ABOUT ME,MENU,,About Me,About Me
+1,BODY,MENU,,Body,Body
+2,TYPES OF OUCH,MENU,,Types of ouch,Types of ouch
+3,CANCER,FINAL,Cancer,,Types of ouch
+4,CANCER,FINAL,Cancer,,Types of ouch
+5,INSIDE OUCH,FINAL,Inside Ouch,,Types of ouch
+6,INSIDE OUCH,FINAL,Inside Ouch,,Types of ouch
+7,ABOUT ME,MENU,,About me,About me
+8,BODY,MENU,,Body,Body
+9,FEELINGS,MENU,,Feelings,Feelings
+10,EXCITED,MENU,,Excited,Excited
+11,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+12,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+13,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+14,PREFERENCES,MENU,,Preferences,Preferences
+15,DARK,FINAL,dark,,Preferences
+16,DARK,FINAL,dark,,Preferences
+17,DARK,FINAL,dark,,Preferences
+18,DARK,FINAL,dark,,Preferences
+19,OUTSIDE,FINAL,outside,,Preferences
+20,DARK,FINAL,dark,,Preferences
+21,DARK,FINAL,dark,,Preferences
+22,NO-LIKE,FINAL,no-like,,Preferences
+23,LIGHT,FINAL,light ,,Preferences
+24,DARK,FINAL,dark,,Preferences
+25,DARK,FINAL,dark,,Preferences
+26,BROKEN,FINAL,broken,,Preferences
+27,DARK,FINAL,dark,,Preferences
+28,DARK,FINAL,dark,,Preferences
+29,DARK,FINAL,dark,,Preferences
+30,LIGHT,FINAL,light ,,Preferences
+31,ABOUT ME,MENU,,About me,About me
+32,BODY,MENU,,Body,Body
+33,I FEEL GOOD,FINAL,I feel good,,Body
+34,I FEEL GOOD,FINAL,I feel good,,Body
+35,I FEEL GOOD,FINAL,I feel good,,Body
+36,I FEEL GOOD,FINAL,I feel good,,Body
+37,OUCH,FINAL,ouch,,Body
+38,OUCH,FINAL,ouch,,Body
+39,I FELT OUCH,FINAL,I felt ouch,,Body
+40,SICK OUCH,FINAL,sick ouch,,Body
+41,MOM,FINAL,mom,,Body
+42,SICK OUCH,FINAL,sick ouch,,Body
+43,I FELT OUCH,FINAL,I felt ouch,,Body
+44,I WILL FEEL OUCH,FINAL,I will feel ouch,,Body
+45,MOM,FINAL,Mom,,Body
+46,BONE OUCH,FINAL,Bone ouch,,Body
+47,MOM/I FELT OUCH,FINAL,Mom/I felt ouch,,Body
+48,SICK OUCH,FINAL,Sick ouch,,Body
+49,I WILL FEEL OUCH,FINAL,I will feel ouch,,Body
+50,I FELT OUCH/I FELT OUCH,FINAL,I felt ouch/I felt ouch,,Body
+51,I FELT OUCH/MOM,FINAL,I felt ouch/mom,,Body
+52,MOM,FINAL,Mom,,Body
+53,I FELT OUCH,FINAL,I felt ouch,,Body
+54,CANCER,FINAL,Cancer,,Body
+55,TILLIE,FINAL,Tillie,,Body
+56,I FELT OUCH,FINAL,I felt ouch,,Body
+57,WHAT KIND OF OUCH/WHAT KIND OF OUCH,FINAL,What kind of ouch/What kind of ouch,,Body
+58,SICK OUCH,FINAL,Sick ouch,,Body
+59,WHAT KIND OF OUCH,FINAL,What kind of ouch ,,Body
+60,SICK OUCH,FINAL,Sick ouch,,Body
+61,BONE OUCH,FINAL,Bone ouch,,Body
+62,BONE OUCH,FINAL,Bone ouch,,Body
+63,I FELT OUCH,FINAL,I felt ouch,,Body
+64,BONE OUCH,FINAL,Bone ouch,,Body
+65,I FELT OUCH,FINAL,I felt ouch,,Body
+66,I FELT OUCH,FINAL,I felt ouch,,Body
+67,OUCH,FINAL,Ouch,,Body
+68,OUCH,FINAL,Ouch,,Body
+69,OUCH,FINAL,Ouch,,Body
+70,OUCH,FINAL,Ouch,,Body
+71,I FEEL GOOD,FINAL,I feel good,,Body
+72,OUCH,FINAL,Ouch,,Body
+73,OUCH,FINAL,Ouch,,Body
+74,I FEEL GOOD,FINAL,I feel good,,Body
+75,I FEEL GOOD,FINAL,I feel good,,Body
+76,OUCH,FINAL,Ouch,,Body
+77,OUCH,FINAL,Ouch,,Body
+78,OUCH,FINAL,Ouch,,Body
+79,OUCH,FINAL,Ouch,,Body
+80,I FEEL GOOD,FINAL,I feel good,,Body
+81,ABOUT ME,MENU,,About me,About me
+82,BODY,MENU,,Body,Body
+83,I FEEL GOOD,FINAL,I feel good,,Body
+84,I FEEL GOOD,FINAL,I feel good,,Body
+85,MEDICINE,FINAL,Medicine,,Body
+86,TYPES OF OUCH,FINAL,Types of ouch,,Body
+87,I FELT OUCH,FINAL,I felt ouch,,Body
+88,I WILL FEEL OUCH,FINAL,I will feel ouch,,Body
+89,WHAT KIND OF OUCH?,FINAL,What kind of ouch?,,Body
+90,MOM,FINAL,Mom,,Body
+91,I FELT OUCH,FINAL,I felt ouch,,Body
+92,I FELT OUCH,FINAL,I felt ouch,,Body
+93,I FEEL OUCH,FINAL,I feel ouch,,Body
+94,I FELT OUCH,FINAL,I felt ouch,,Body
+95,CANCER,FINAL,Cancer,,Body
+96,OUTSIDE OUCH,FINAL,Outside ouch,,Body
+97,BONE OUCH,FINAL,Bone ouch,,Body
+98,I FELT OUCH,FINAL,I felt ouch,,Body
+99,MOM/MOM,FINAL,Mom/Mom,,Body
+100,WHAT KIND OF OUCH?,FINAL,What kind of ouch?,,Body
+101,I FELT OUCH,FINAL,I felt ouch,,Body
+102,OUTSIDE OUCH,FINAL,Outside ouch,,Body
+103,I FELT OUCH,FINAL,I felt ouch,,Body
+104,I FEEL OUCH,FINAL,I feel ouch,,Body
+105,MOM,FINAL,Mom,,Body
+106,I FELT OUCH,FINAL,I felt ouch,,Body
+107,MOM,FINAL,Mom,,Body
+108,I FELT OUCH,FINAL,I felt ouch,,Body
+109,I FELT OUCH,FINAL,I felt ouch,,Body
+110,BONE OUCH,FINAL,Bone ouch,,Body
+111,I FELT OUCH,FINAL,I felt ouch,,Body
+112,I FELT OUCH,FINAL,I felt ouch,,Body
+113,SICK OUCH,FINAL,Sick ouch,,Body
+114,I FELT OUCH,FINAL,I felt ouch,,Body
+115,I FELT OUCH,FINAL,I felt ouch,,Body
+116,I FELT OUCH,FINAL,I felt ouch,,Body
+117,CANCER,FINAL,Cancer,,Body
+118,MOM,FINAL,Mom,,Body
+119,I FEEL OUCH,FINAL,I feel ouch,,Body
+120,ABOUT ME,MENU,,About me,About me
+121,BACK,FINAL,Back,Body,Body
+122,I FEEL GOOD,FINAL,I feel good,,Body
+123,OUCH,FINAL,Ouch,,Body
+124,TYPES OF OUCH,MENU,,Types of ouch,Types of ouch
+125,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+126,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+127,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+128,I FEEL OUCH,FINAL,I feel ouch,,Types of ouch
+129,CANCER,FINAL,Cancer,,Types of ouch
+130,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+131,SICK OUCH,FINAL,Sick ouch,,Types of ouch
+132,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+133,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+134,BONE OUCH,FINAL,Bone ouch,,Types of ouch
+135,CANCER,FINAL,Cancer,,Types of ouch
+136,MOM,FINAL,Mom,,Types of ouch
+137,CANCER,FINAL,Cancer,,Types of ouch
+138,MOM,FINAL,Mom,,Types of ouch
+139,I WILL FEEL OUCH,FINAL,I will feel ouch,,Types of ouch
+140,OUTSIDE OUCH,FINAL,Outside ouch,,Types of ouch
+141,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+142,CANCER,FINAL,Cancer,,Types of ouch
+143,OUTSIDE OUCH,FINAL,Outside ouch,,Types of ouch
+144,SICK OUCH,FINAL,Sick ouch,,Types of ouch
+145,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+146,OPPOSITES,MENU,,Opposites,Opposites
+147,HIGH UP,FINAL,High up,,Opposites
+148,HIGH UP,FINAL,High up,,Opposites
+149,FIX,FINAL,Fix,,Opposites
+150,FIX,FINAL,Fix,,Opposites
+151,LIGHT,FINAL,Light,,Opposites
+152,FIX,FINAL,Fix,,Opposites
+153,DOWN LOW,FINAL,Down low,,Opposites
+154,DOWN LOW,FINAL,Down low,,Opposites
+155,DOWN LOW,FINAL,Down low,,Opposites
+156,LIGHT,FINAL,Light,,Opposites
+157,HIGH UP,FINAL,High up,,Opposites
+158,FIX,FINAL,Fix,,Opposites
+159,DOWN LOW,FINAL,Down low,,Opposites
+160,DOWN LOW,FINAL,Down low,,Opposites
+161,ABOUT ME,MENU,,About Me,About Me
+162,BODY,MENU,,Body,Body
+163,I FEEL GOOD,FINAL,I feel good,,Body
+164,OUCH,FINAL,Ouch,,Body
+165,I FEEL GOOD,FINAL,I feel good,,Body
+166,I FEEL GOOD,FINAL,I feel good,,Body
+167,OUCH,FINAL,Ouch,,Body
+168,OUCH,FINAL,Ouch,,Body
+169,OUCH,FINAL,Ouch,,Body
+170,I FEEL GOOD,FINAL,I feel good,,Body
+171,I FEEL GOOD,FINAL,I feel good,,Body
+172,ABOUT ME,MENU,,About Me,About Me
+173,BODY,MENU,,Body,Body
+174,TUMMY,FINAL,Tummy,,Body
+175,MEDICINE,FINAL,Medicine,,Body
+176,SICK OUCH ANTIBIOTICS,FINAL,Sick ouch antibiotics,,Body
+177,OUTSIDE OUCH MEDICINE,FINAL,Outside ouch medicine,,Body
+178,ABOUT ME,MENU,,About Me,About Me
+179,BODY,MENU,,Body,Body
+180,OUCH,FINAL,Ouch,,Body
+181,I FEEL GOOD,FINAL,I feel good,,Body
+182,EXPERIENCE,MENU,,Experience,Experience
+183,MOM,FINAL,Mom,,Experience
+184,MOM,FINAL,Mom,,Experience
+185,MOM,FINAL,Mom,,Experience
+186,TOUCH,FINAL,Touch,,Experience
+187,MOM,FINAL,Mom,,Experience
+188,ISABELLE,FINAL,Isabelle,,Experience
+189,SEE,FINAL,See,,Experience
+190,TILLIE,FINAL,Tillie,,Experience
+191,ELLIE,FINAL,Ellie,,Experience
+192,TASTE,FINAL,Taste,,Experience
+193,READ,FINAL,Read ,,Experience
+194,READING BOOK,FINAL,Reading book,,Experience
+195,HOLIDAYS,FINAL,Holidays,,Experience
+196,HALLOWEEN,FINAL,Halloween,,Experience
+197,CHRISTMAS,FINAL,Christmas,,Experience
+198,HALLOWEEN,FINAL,Halloween,,Experience
+199,ENTERTAINMENT,MENU,,Entertainment,Entertainment
+200,ALEXA,MENU,,Alexa,Alexa
+201,ALEXA PLAY BEETHOVEN ON SPOTIFY,FINAL,Alexa play Beethoven on Spotify,,Alexa
+202,ALEXA PLAY VIVALDI,FINAL,Alexa play Vivaldi,,Alexa
+203,ALEXA PLAY HANDEL,FINAL,Alexa play Handel,,Alexa
+204,ALEXA PLAY PEPPA PIG CARTOONS,FINAL,Alexa play Peppa Pig Cartoons,,Alexa
+205,ALEXA PLAY BEETHOVEN ON SPOTIFY,FINAL,Alexa play Beethoven on Spotify,,Alexa
+206,TO PLAY,MENU,,To play,To play
+207,SNUGGLE,FINAL,Snuggle,,To play
+208,SNUGGLE,FINAL,Snuggle,,To play
+209,BOOK,FINAL,Book,,To play
+210,TOUCH AND FEEL,FINAL,Touch and Feel,,To play
+211,TOUCH AND FEEL,FINAL,Touch and Feel,,To play
+212,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences
+213,MOVEMENT,FINAL,movement,,Descriptions and Preferences
+214,RUN,FINAL,run,,Descriptions and Preferences
+215,MOM,FINAL,mom,,Descriptions and Preferences
+216,MOM,FINAL,mom,,Descriptions and Preferences
+217,MOM,FINAL,mom,,Descriptions and Preferences
+218,SIT,FINAL,sit,,Descriptions and Preferences
+219,MOM,FINAL,mom,,Descriptions and Preferences
+220,WALK,FINAL,walk,,Descriptions and Preferences
+221,SLOW,FINAL,slow,,Descriptions and Preferences
+222,JUMP,FINAL,jump,,Descriptions and Preferences
+223,JUMP,FINAL,jump,,Descriptions and Preferences
+224,FAST,FINAL,fast,,Descriptions and Preferences
+225,ELLIE,FINAL,Ellie,,Descriptions and Preferences
+226,ELLIE,FINAL,Ellie,,Descriptions and Preferences
+227,ELLIE,FINAL,Ellie,,Descriptions and Preferences
+228,SWIM,FINAL,Swim,,Descriptions and Preferences
+229,ABOUT ME,MENU,,About me,About me
+230,FEELINGS AND PREFERENCES,FINAL,feelings and preferences,,About me
+231,I WANT TO FEEL MAD,FINAL,I want to feel mad,,About me
+232,I WANT TO FEEL MAD,FINAL,I want to feel mad,,About me
+233,I WANT TO FEEL MAD,FINAL,I want to feel mad,,About me
+234,MEMORY & TIME,MENU,,Memory & Time,Memory & Time
+235,REMEMBER,MENU,,Remember,Remember
+236,TALK ABOUT,MENU,,Talk About,Talk About
+237,FEELINGS,MENU,,Feelings,Feelings
+238,TALK ABOUT FEELINGS,FINAL,Talk About Feelings,,Feelings
+239,ABOUT ME,MENU,,About me,About me
+240,FEELINGS,MENU,,Feelings,Feelings
+241,EXCITED,MENU,,excited,excited
+242,I FEEL EXCITED,FINAL,I feel excited,,excited
+243,PLACES,MENU,,Places,Places
+244,ISABELLE,FINAL,Isabelle,,Places
+245,OUTSIDE WALK,FINAL,outside walk,,Places
+246,CURTAIN,FINAL,curtain ,,Places
+247,CURTAIN,FINAL,curtain ,,Places
+248,ISABELLE'S HOUSE,FINAL,Isabelle's House,,Places
+249,PLAYSTAND,FINAL,Playstand,,Places
+250,ABOUT ME,MENU,,About Me,About Me
+251,BODY,MENU,,Body,Body
+252,I FEEL GOOD,FINAL,I feel good,,Body
+253,DESCRIPTIONS & PREFERENCES,MENU,,Descriptions & Preferences,Descriptions & Preferences
+254,MOVEMENT,MENU,,Movement,Movement
+255,WALK,FINAL,walk,,Movement
+256,FAST,FINAL,fast,,Movement
+257,MOM,FINAL,Mom,,Movement
+258,FAST,FINAL,fast,,Movement
+259,FAST,FINAL,fast,,Movement
+260,MOM,FINAL,Mom,,Movement
+261,TILLIE,FINAL,Tillie,,Movement
+262,ABOUT ME,MENU,,About Me,About Me
+263,BODY,MENU,,Body,Body
+264,PAST,FINAL,past,,Body
+265,"OUCH, OUCH",FINAL,"ouch, ouch",,Body
+266,I FEEL GOOD,FINAL,I feel good,,Body
+267,I FEEL GOOD,FINAL,I feel good,,Body
+268,"OUCH, OUCH",FINAL,"ouch, ouch",,Body
+269,OUCH,FINAL,ouch ,,Body
+270,OUCH,FINAL,ouch,,Body
+271,OUCH,FINAL,ouch,,Body
+272,OUCH,FINAL,ouch,,Body
+273,I FEEL GOOD,FINAL,I feel good,,Body
+274,BACK,FINAL,back,,Body
+275,BACK,FINAL,back,,Body
+276,ABOUT ME,MENU,,About me,About me
+277,FEELINGS,MENU,,Feelings,Feelings
+278,EXCITED,MENU,,Excited,Excited
+279,I FEEL EXCITED,FINAL,I feel excited,,Excited
+280,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+281,I FELT EXCITED,FINAL,I felt excited,,Excited
+282,I FELT EXCITED,FINAL,I felt excited,,Excited
+283,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+284,I WILL FEEL EXCITED,FINAL,I will feel excited,,Excited
+285,I WILL FEEL EXCITED,FINAL,I will feel excited,,Excited
+286,ABOUT ME,MENU,,About me,About me
+287,TEMPERATURE,MENU,,Temperature,Temperature
+288,RAIN,FINAL,rain,,Temperature
+289,CLOUD,FINAL,cloud,,Temperature
+290,RAIN,FINAL,rain,,Temperature
+291,WARM,FINAL,warm,,Temperature
+292,WARM OUTSIDE,FINAL,warm outside,,Temperature
+293,WARM OUTSIDE,FINAL,warm outside,,Temperature
+294,TALK ABOUT,FINAL,talk about,,Temperature
+295,WARM INSIDE,FINAL,Warm inside,,Temperature
+296,TALK ABOUT,FINAL,talk about,,Temperature
+297,WARM INSIDE,FINAL,warm inside,,Temperature
+298,CORI,FINAL,Cori,,Temperature
+299,CASSIE,FINAL,Cassie,,Temperature
+300,CASSIE,FINAL,Cassie,,Temperature
+301,BIRD FRIENDS,FINAL,Bird friends,,Temperature
+302,CAR RIDE,FINAL,Car Ride,,Temperature
+303,ABOUT ME,MENU,,About me,About me
+304,BODY,MENU,,Body,Body
+305,WING,FINAL,Wing,,Body
+306,ABOUT ME,MENU,,About me,About me
+307,BODY,MENU,,Body,Body
+308,I FEEL GOOD,FINAL,I feel good,,Body
+309,I FEEL GOOD,FINAL,I feel good,,Body
+310,BACK,FINAL,Back,,Body
+311,OUCH,FINAL,ouch,,Body
+312,I FEEL GOOD,FINAL,I feel good,,Body
+313,I FEEL GOOD,FINAL,I feel good,,Body
+314,OUCH,FINAL,Ouch,,Body
+315,CORI,FINAL,Cori,,Body
+316,CORI,FINAL,Cori,,Body
+317,BIRD FRIENDS,FINAL,Bird friends,,Body
+318,TALK ABOUT,MENU,,Talk about,Talk about
+319,TO PLAY,MENU,,To play,To play
+320,TRACING AND WRITING,FINAL,Tracing and writing,,To play
+321,BOOK,FINAL,Book,,To play
+322,SEASONAL,FINAL,Seasonal,,To play
+323,TOUCH AND FEEL,FINAL,Touch and feel,,To play
+324,SEASONAL,FINAL,Seasonal,,To play
+325,POP UP,FINAL,Pop up,,To play
+326,SEASONAL,FINAL,Seasonal,,To play
+327,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences
+328,BACK,FINAL,Back,,Descriptions and Preferences
+329,FEELINGS,MENU,,Feelings,Feelings
+330,AFRAID,FINAL,Afraid,,Feelings
+331,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Feelings
+332,I WILL FEEL AFRAID,FINAL,I will feel afraid,,Feelings
+333,ABOUT ME,MENU,,About Me,About Me
+334,BODY,MENU,,Body,Body
+335,HEAD,FINAL,head,,Body
+336,HEAD,FINAL,head,,Body
+337,HEAD,FINAL,head,,Body
+338,I FEEL GOOD,FINAL,I feel good,,Body
+339,BACK,FINAL,back,,Body
+340,HEAD,FINAL,head,,Body
+341,HEAD,FINAL,head,,Body
+342,I FEEL GOOD,FINAL,I feel good,,Body
+343,OUCH,FINAL,ouch,,Body
+344,BACK,FINAL,back,,Body
+345,BACK,FINAL,back,,Body
+346,OUCH,FINAL,ouch,,Body
+347,OUCH,FINAL,ouch,,Body
+348,I FEEL GOOD,FINAL,I feel good,,Body
+349,HEAD,FINAL,head,,Body
+350,TUMMY,FINAL,tummy,,Body
+351,HEAD,FINAL,head,,Body
+352,TUMMY,FINAL,tummy,,Body
+353,OUCH,FINAL,ouch,,Body
+354,I FEEL GOOD,FINAL,I feel good,,Body
+355,I FEEL GOOD,FINAL,I feel good,,Body
+356,I FEEL GOOD,FINAL,I feel good,,Body
+357,HEAD,FINAL,head,,Body
+358,TO PLAY,MENU,,To Play,To Play
+359,TRACING AND WRITING,FINAL,Tracing and writing,,To Play
+360,ABOUT ME,MENU,,About Me,About Me
+361,TEMPERATURE,MENU,,Temperature,Temperature
+362,WARM,MENU,,Warm,Warm
+363,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm
+364,I FEEL WARM,FINAL,I feel warm,,Warm
+365,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+366,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+367,MOVEMENT,FINAL,Movement,,Descriptions and preferences
+368,JUMP,FINAL,Jump,,Descriptions and preferences
+369,ABOUT ME,MENU,,About me,About me
+370,BODY,MENU,,Body,Body
+371,OUCH,FINAL,ouch,,Body
+372,OUCH,FINAL,ouch,,Body
+373,OUCH,FINAL,ouch,,Body
+374,I FEEL GOOD,FINAL,I feel good,,Body
+375,OUCH,FINAL,ouch,,Body
+376,I FEEL GOOD,FINAL,I feel good,,Body
+377,I FEEL GOOD,FINAL,I feel good,,Body
+378,I FEEL GOOD,FINAL,I feel good,,Body
+379,BACK,FINAL,back,,Body
+380,I FEEL GOOD,FINAL,I feel good,,Body
+381,BACK,FINAL,back,,Body
+382,BACK,FINAL,back,,Body
+383,OUCH,FINAL,ouch,,Body
+384,ABOUT ME,MENU,,About me,About me
+385,TEMPERATURE,MENU,,Temperature,Temperature
+386,COOL,MENU,,Cool,Cool
+387,LIKE,FINAL,like,,Cool
+388,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Cool
+389,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+390,PREFERENCES,FINAL,preferences,,Descriptions and preferences
+391,MOVE,FINAL,move,,Descriptions and preferences
+392,JUMP,FINAL,jump,,Descriptions and preferences
+393,WALK,FINAL,walk,,Descriptions and preferences
+394,MOM,FINAL,Mom,,Descriptions and preferences
+395,MOM,FINAL,Mom,,Descriptions and preferences
+396,MOM,FINAL,Mom,,Descriptions and preferences
+397,TO PLAY,MENU,,To play,To play
+398,BACK,FINAL,back,,To play
+399,TALK ABOUT,MENU,,Talk about,Talk about
+400,ABOUT ME,MENU,,About me,About me
+401,BACK,FINAL,Back,,About me
+402,ABOUT ME,MENU,,About me,About me
+403,TEMPERATURE,MENU,,Temperature,Temperature
+404,CLOUD,FINAL,Cloud,,Temperature
+405,CLOUD,FINAL,Cloud,,Temperature
+406,WIND,FINAL,Wind,,Temperature
+407,CLOUD,FINAL,Cloud,,Temperature
+408,WIND,FINAL,Wind,,Temperature
+409,WIND,FINAL,Wind,,Temperature
+410,ABOUT ME,MENU,,About me,About me
+411,FEELINGS,MENU,,Feelings,Feelings
+412,SAD,FINAL,Sad,,Feelings
+413,I FELT MAD,FINAL,I felt mad,,Feelings
+414,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Feelings
+415,I WANT TO FEEL MAD,FINAL,I want to feel mad ,,Feelings
+416,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Feelings
+417,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Feelings
+418,TO SAY HELLO TO,MENU,,To say hello to,To say hello to
+419,CASSIE,FINAL,Cassie,,To say hello to
+420,CASSIE,FINAL,Cassie,,To say hello to
+421,MOM,FINAL,Mom,,To say hello to
+422,MOM,FINAL,Mom,,To say hello to
+423,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+424,PREFERENCES,FINAL,Preferences,,Descriptions and preferences
+425,TO SAY HELLO TO,MENU,,To say hello to,To say hello to
+426,CASSIE,FINAL,Cassie,,To say hello to
+427,TRACING AND WRITING,FINAL,Tracing and writing,,To say hello to
+428,ABOUT ME,MENU,,About me,About me
+429,TEMPERATURE,MENU,,Temperature,Temperature
+430,HOT,MENU,,Hot,Hot
+431,HOT OUTSIDE,FINAL,Hot outside,,Hot
+432,HOT OUTSIDE,FINAL,Hot outside,,Hot
+433,HOT OUTSIDE,FINAL,Hot outside,,Hot
+434,HOT OUTSIDE,FINAL,Hot outside,,Hot
+435,HOT OUTSIDE,FINAL,Hot outside,,Hot
+436,I FEEL HOT,FINAL,I feel hot,,Hot
+437,HOT OUTSIDE,FINAL,Hot outside,,Hot
+438,HOT OUTSIDE,FINAL,Hot outside,,Hot
+439,I FEEL HOT,FINAL,I feel hot,,Hot
+440,I FEEL HOT,FINAL,I feel hot,,Hot
+441,I FEEL HOT,FINAL,I feel hot,,Hot
+442,HOT OUTSIDE,FINAL,Hot outside,,Hot
+443,HOT OUTSIDE,FINAL,Hot outside,,Hot
+444,HOT OUTSIDE,FINAL,Hot outside,,Hot
+445,HOT OUTSIDE,FINAL,Hot outside,,Hot
+446,HOT OUTSIDE,FINAL,Hot outside,,Hot
+447,HOT OUTSIDE,FINAL,Hot outside,,Hot
+448,I FEEL HOT,FINAL,I feel hot,,Hot
+449,HOT OUTSIDE,FINAL,Hot outside,,Hot
+450,HOT OUTSIDE,FINAL,Hot outside,,Hot
+451,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Hot
+452,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Hot
+453,MEMORY AND TIME,MENU,,Memory and time,Memory and time
+454,REMEMBER,FINAL,Remember,,Memory and time
+455,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Memory and time
+456,CHRIS,FINAL,Chris,,Memory and time
+457,CHRIS,FINAL,Chris,,Memory and time
+458,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Memory and time
+459,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Memory and time
+460,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Memory and time
+461,HAPPY,FINAL,Happy,,Memory and time
+462,I FEEL HAPPY,FINAL,I feel happy,,Memory and time
+463,I FEEL HAPPY,FINAL,I feel happy,,Memory and time
+464,I FEEL HAPPY,FINAL,I feel happy,,Memory and time
+465,I FEEL HAPPY,FINAL,I feel happy,,Memory and time
+466,I FEEL HAPPY,FINAL,I feel happy,,Memory and time
+467,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Memory and time
+468,I FEEL HAPPY,FINAL,I feel happy,,Memory and time
+469,I FELT HAPPY,FINAL,I felt happy,,Memory and time
+470,ABOUT ME,MENU,,About me,About me
+471,BODY,MENU,,Body,Body
+472,TUMMY,FINAL,Tummy,,Body
+473,I FEEL GOOD,FINAL,I feel good,,Body
+474,OUCH,FINAL,ouch,,Body
+475,I FEEL GOOD,FINAL,I feel good,,Body
+476,I FEEL GOOD,FINAL,I feel good,,Body
+477,I FEEL GOOD,FINAL,I feel good,,Body
+478,I FEEL GOOD,FINAL,I feel good,,Body
+479,OUCH,FINAL,ouch,,Body
+480,OUCH,FINAL,ouch,,Body
+481,I FEEL GOOD,FINAL,I feel good,,Body
+482,TUMMY,FINAL,Tummy,,Body
+483,I FEEL GOOD,FINAL,I feel good,,Body
+484,OUCH,FINAL,ouch,,Body
+485,OUCH,FINAL,ouch,,Body
+486,I FEEL GOOD,FINAL,I feel good,,Body
+487,I FEEL GOOD,FINAL,I feel good,,Body
+488,BACK,FINAL,back,,Body
+489,I FEEL GOOD,FINAL,I feel good,,Body
+490,I FEEL GOOD,FINAL,I feel good,,Body
+491,I FEEL GOOD,FINAL,I feel good,,Body
+492,OUCH,FINAL,ouch,,Body
+493,I FEEL GOOD,FINAL,I feel good,,Body
+494,OUCH,FINAL,ouch,,Body
+495,NO,FINAL,no,,Body
+496,YES,FINAL,yes,,Body
+497,YES,FINAL,yes,,Body
+498,TO PLAY,MENU,,To play,To play
+499,SNUGGLE,FINAL,snuggle,,To play
+500,SNUGGLE,FINAL,snuggle,,To play
+501,CARDS,FINAL,cards,,To play
+502,SNUGGLE,FINAL,snuggle,,To play
+503,TRACING AND WRITING,FINAL,tracing and writing,,To play
+504,SNUGGLE,FINAL,snuggle,,To play
+505,TO PLAY,MENU,,To play,To play
+506,SNUGGLE,FINAL,snuggle,,To play
+507,TYPING,FINAL,typing,,To play
+508,C,FINAL,C,,To play
+509,C,FINAL,C,,To play
+510,F,FINAL,F,,To play
+511,F,FINAL,F,,To play
+512,F,FINAL,F,,To play
+513,P,FINAL,P,,To play
+514,B,FINAL,B,,To play
+515,A,FINAL,A,,To play
+516,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+517,PREFERENCES,MENU,,Preferences,Preferences
+518,MOVEMENT,FINAL,movement,,Preferences
+519,LIKE,FINAL,like,,Preferences
+520,LIKE,FINAL,like,,Preferences
+521,ISABELLE,FINAL,Isabelle,,Preferences
+522,ISABELLE,FINAL,Isabelle,,Preferences
+523,WALK,FINAL,walk,,Preferences
+524,TO PLAY,MENU,,To play,To play
+525,SNUGGLE,FINAL,Snuggle,,To play
+526,SNUGGLE,FINAL,Snuggle,,To play
+527,LEAF WRESTLE,FINAL,Leaf wrestle,,To play
+528,MEMORY AND TIME,FINAL,Memory and time,,To play
+529,ABOUT ME,MENU,,About me,About me
+530,FEELINGS,MENU,,Feelings,Feelings
+531,EXCITED,MENU,,Excited,Excited
+532,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+533,I FEEL EXCITED,FINAL,I feel excited,,Excited
+534,TO PLAY,MENU,,To play,To play
+535,TRACING AND WRITING,FINAL,Tracing and writing,,To play
+536,SNUGGLE,FINAL,Snuggle,,To play
+537,TRACING AND WRITING,FINAL,Tracing and writing,,To play
+538,SNUGGLE,FINAL,Snuggle,,To play
+539,ABOUT ME,MENU,,About me,About me
+540,TEMPERATURE,MENU,,Temperature,Temperature
+541,CLOUD,FINAL,Cloud,,Temperature
+542,WIND,FINAL,Wind,,Temperature
+543,HOT,FINAL,Hot,,Temperature
+544,COOL OUTSIDE,FINAL,Cool outside,,Temperature
+545,ABOUT ME,MENU,,About me,About me
+546,TEMPERATURE,MENU,,Temperature,Temperature
+547,RAIN,FINAL,Rain ,,Temperature
+548,HOT,FINAL,Hot,,Temperature
+549,ABOUT ME,MENU,,About me,About me
+550,FEELINGS,MENU,,Feelings,Feelings
+551,I FEEL GOOD,FINAL,I feel good,,Feelings
+552,I FEEL GOOD,FINAL,I feel good,,Feelings
+553,OUCH,FINAL,Ouch,,Feelings
+554,OUCH,FINAL,Ouch,,Feelings
+555,OUCH,FINAL,Ouch,,Feelings
+556,I FEEL GOOD,FINAL,I feel good,,Feelings
+557,BACK,FINAL,Back,,Feelings
+558,I FEEL GOOD,FINAL,I feel good,,Feelings
+559,I FEEL GOOD,FINAL,I feel good,,Feelings
+560,OUTSIDE OUCH,FINAL,Outside ouch,,Feelings
+561,INSIDE OUCH,FINAL,Inside ouch,,Feelings
+562,BONE OUCH,FINAL,Bone ouch,,Feelings
+563,BONE OUCH,FINAL,Bone ouch,,Feelings
+564,BONE OUCH,FINAL,Bone ouch,,Feelings
+565,BONE OUCH,FINAL,Bone ouch,,Feelings
+566,SICK OUCH,FINAL,Sick ouch,,Feelings
+567,OUTSIDE OUCH,FINAL,Outside ouch,,Feelings
+568,BONE OUCH,FINAL,Bone ouch,,Feelings
+569,OUTSIDE OUCH,FINAL,Outside ouch,,Feelings
+570,BONE OUCH,FINAL,Bone ouch,,Feelings
+571,INSIDE OUCH,FINAL,Inside ouch,,Feelings
+572,BONE OUCH,FINAL,Bone ouch,,Feelings
+573,SICK OUCH,FINAL,Sick ouch,,Feelings
+574,WHAT KIND OF OUCH,FINAL,What kind of ouch,,Feelings
+575,INSIDE OUCH,FINAL,Inside ouch,,Feelings
+576,OUTSIDE OUCH,FINAL,Outside ouch,,Feelings
+577,INSIDE OUCH,FINAL,Inside ouch,,Feelings
+578,SICK OUCH,FINAL,Sick ouch,,Feelings
+579,BONE OUCH,FINAL,Bone ouch,,Feelings
+580,OUTSIDE OUCH,FINAL,Outside ouch,,Feelings
+581,YES,FINAL,Yes,,Feelings
+582,YES,FINAL,Yes,,Feelings
+583,YES,FINAL,Yes,,Feelings
+584,YES,FINAL,Yes,,Feelings
+585,NO,FINAL,No,,Feelings
+586,YES,FINAL,Yes,,Feelings
+587,NO,FINAL,No,,Feelings
+588,NO,FINAL,No,,Feelings
+589,YES,FINAL,Yes,,Feelings
+590,NO,FINAL,No,,Feelings
+591,NO,FINAL,No,,Feelings
+592,YES,FINAL,Yes,,Feelings
+593,YES,FINAL,Yes,,Feelings
+594,BACK,FINAL,Back,,Feelings
+595,TO PLAY,MENU,,To play,To play
+596,TRACING AND WRITING,FINAL,Tracing and writing,,To play
+597,SNUGGLE,FINAL,Snuggle,,To play
+598,SNUGGLE,FINAL,Snuggle,,To play
+599,ABOUT ME,MENU,,About me,About me
+600,BODY,MENU,,Body,Body
+601,I FEEL GOOD,FINAL,I feel good,,Body
+602,OUCH,FINAL,Ouch,,Body
+603,OUCH,FINAL,Ouch,,Body
+604,BACK,FINAL,Back,,Body
+605,OUCH,FINAL,Ouch,,Body
+606,I FEEL GOOD,FINAL,I feel good,,Body
+607,I FEEL GOOD,FINAL,I feel good,,Body
+608,MEDICINE,FINAL,Medicine,,Body
+609,SICK OUCH ANTIBIOTICS,FINAL,Sick ouch antibiotics,,Body
+610,ABOUT ME,MENU,,About me,About me
+611,FEELINGS,MENU,,Feelings,Feelings
+612,NO LIKE,FINAL,No like,,Feelings
+613,AFRAID,FINAL,Afraid,,Feelings
+614,ABOUT ME,MENU,,About me,About me
+615,FEELINGS,MENU,,Feelings,Feelings
+616,EXCITED,MENU,,Excited,Excited
+617,I FELT EXCITED,FINAL,I felt excited,,Excited
+618,I FELT EXCITED,FINAL,I felt excited,,Excited
+619,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+620,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+621,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+622,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+623,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+624,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+625,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+626,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+627,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+628,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+629,OPPOSITES,MENU,,Opposites,Opposites
+630,BROKEN,FINAL,Broken,,Opposites
+631,LIGHT,FINAL,Light,,Opposites
+632,LIGHT,FINAL,Light,,Opposites
+633,LIGHT,FINAL,Light,,Opposites
+634,DARK,FINAL,Dark,,Opposites
+635,LIGHT,FINAL,Light,,Opposites
+636,BROKEN,FINAL,Broken,,Opposites
+637,FIX,FINAL,Fix,,Opposites
+638,LIGHT,FINAL,Light,,Opposites
+639,LIGHT,FINAL,Light,,Opposites
+640,LIGHT,FINAL,Light,,Opposites
+641,BROKEN,FINAL,Broken,,Opposites
+642,EMPTY,FINAL,Empty,,Opposites
+643,NO LIKE,FINAL,No like,,Opposites
+644,DARK,FINAL,Dark,,Opposites
+645,LIGHT,FINAL,Light,,Opposites
+646,LIGHT,FINAL,Light,,Opposites
+647,BROKEN,FINAL,Broken,,Opposites
+648,FIX,FINAL,Fix,,Opposites
+649,LIGHT,FINAL,Light,,Opposites
+650,FIX,FINAL,Fix,,Opposites
+651,LIGHT,FINAL,Light,,Opposites
+652,BROKEN,FINAL,Broken,,Opposites
+653,DARK,FINAL,Dark,,Opposites
+654,LIGHT,FINAL,Light,,Opposites
+655,LIGHT,FINAL,Light,,Opposites
+656,BROKEN,FINAL,Broken,,Opposites
+657,EASY,FINAL,Easy,,Opposites
+658,BROKEN,FINAL,Broken,,Opposites
+659,LIGHT,FINAL,Light,,Opposites
+660,LIGHT,FINAL,Light,,Opposites
+661,LIGHT,FINAL,Light,,Opposites
+662,DOWN LOW,FINAL,Down low,,Opposites
+663,BROKEN,FINAL,Broken,,Opposites
+664,YES,FINAL,Yes,,Opposites
+665,ISABELLE,FINAL,Isabelle,,Opposites
+666,TASTE,FINAL,Taste,,Opposites
+667,TOUCH,FINAL,Touch,,Opposites
+668,TOUCH,FINAL,Touch,,Opposites
+669,TASTE,FINAL,Taste,,Opposites
+670,ELLIE,FINAL,Ellie,,Opposites
+671,ELLIE,FINAL,Ellie,,Opposites
+672,ELLIE,FINAL,Ellie,,Opposites
+673,ELLIE,FINAL,Ellie,,Opposites
+674,ELLIE,FINAL,Ellie,,Opposites
+675,MOM,FINAL,Mom,,Opposites
+676,TILLIE,FINAL,Tillie,,Opposites
+677,TILLIE,FINAL,Tillie,,Opposites
+678,ELLIE,FINAL,Ellie,,Opposites
+679,TILLIE,FINAL,Tillie,,Opposites
+680,TOUCH,FINAL,Touch,,Opposites
+681,TILLIE,FINAL,Tillie,,Opposites
+682,ABOUT ME,MENU,,About me,About me
+683,TEMPERATURE,MENU,,Temperature,Temperature
+684,NO LIKE,FINAL,No like,,Temperature
+685,CLOUD,FINAL,Cloud,,Temperature
+686,COOL,FINAL,Cool,,Temperature
+687,COOL,FINAL,Cool,,Temperature
+688,COOL,FINAL,Cool,,Temperature
+689,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Temperature
+690,I FELT COOL,FINAL,I felt cool,,Temperature
+691,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Temperature
+692,TALK ABOUT,FINAL,Talk about,,Temperature
+693,LIKE,FINAL,Like,,Temperature
+694,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Temperature
+695,LIKE,FINAL,Like,,Temperature
+696,EXPERIENCE,MENU,,Experience,Experience
+697,TILLIE,FINAL,Tillie,,Experience
+698,TOUCH,FINAL,Touch,,Experience
+699,TOUCH,FINAL,Touch,,Experience
+700,SMELL,FINAL,Smell,,Experience
+701,SEE,FINAL,See,,Experience
+702,MOM,FINAL,Mom,,Experience
+703,ELLIE,FINAL,Ellie,,Experience
+704,ISABELLE,FINAL,Isabelle,,Experience
+705,ISABELLE,FINAL,Isabelle,,Experience
+706,ISABELLE,FINAL,Isabelle,,Experience
+707,READ,FINAL,Read,,Experience
+708,TASTE,FINAL,Taste,,Experience
+709,SEE,FINAL,See,,Experience
+710,TO PLAY,MENU,,To play,To play
+711,WRITING AND TYPING,FINAL,Writing and Typing,,To play
+712,F,FINAL,F,,To play
+713,ABOUT ME,MENU,,About me,About me
+714,ABOUT ME,MENU,,About me,About me
+715,FEELINGS,MENU,,Feelings,Feelings
+716,AFRAID,FINAL,Afraid,,Feelings
+717,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Feelings
+718,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Feelings
+719,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Feelings
+720,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Feelings
+721,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Feelings
+722,I FELT AFRAID,FINAL,I felt afraid,,Feelings
+723,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Feelings
+724,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Feelings
+725,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Feelings
+726,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Feelings
+727,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Feelings
+728,I FEEL AFRAID,FINAL,I feel afraid,,Feelings
+729,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Feelings
+730,EXPERIENCE,MENU,,Experience,Experience
+731,ISABELLE,FINAL,Isabelle,,Experience
+732,SEE,FINAL,See,,Experience
+733,ELLIE,FINAL,Ellie,,Experience
+734,TILLIE,FINAL,Tillie,,Experience
+735,ELLIE,FINAL,Ellie,,Experience
+736,TILLIE,FINAL,Tillie,,Experience
+737,TILLIE,FINAL,Tillie,,Experience
+738,TASTE,FINAL,Taste,,Experience
+739,ELLIE,FINAL,Ellie,,Experience
+740,TOUCH,FINAL,Touch,,Experience
+741,TOUCH,FINAL,Touch,,Experience
+742,TOUCH,FINAL,Touch,,Experience
+743,TOUCH,FINAL,Touch,,Experience
+744,MOM,FINAL,Mom,,Experience
+745,SEE,FINAL,See,,Experience
+746,TOUCH,FINAL,Touch,,Experience
+747,ISABELLE,FINAL,Isabelle,,Experience
+748,ISABELLE,FINAL,Isabelle,,Experience
+749,TILLIE,FINAL,Tillie,,Experience
+750,ELLIE,FINAL,Ellie,,Experience
+751,ELLIE,FINAL,Ellie,,Experience
+752,ISABELLE,FINAL,Isabelle,,Experience
+753,TASTE,FINAL,Taste,,Experience
+754,TOUCH,FINAL,Touch,,Experience
+755,ABOUT ME,MENU,,About me,About me
+756,ABOUT ME,MENU,,About me,About me
+757,FEELINGS,MENU,,Feelings,Feelings
+758,HAPPY,FINAL,Happy,,Feelings
+759,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+760,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+761,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+762,TO PLAY,MENU,,To play,To play
+763,SNUGGLE,FINAL,Snuggle,,To play
+764,SNUGGLE,FINAL,Snuggle,,To play
+765,TRACING & WRITING,FINAL,Tracing & writing,,To play
+766,SNUGGLE,FINAL,Snuggle,,To play
+767,TRACING & WRITING,FINAL,Tracing & writing,,To play
+768,ABOUT ME,MENU,,About me,About me
+769,FEELINGS,MENU,,Feelings,Feelings
+770,EXCITED,MENU,,Excited,Excited
+771,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+772,I FELT EXCITED,FINAL,I felt excited,,Excited
+773,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+774,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+775,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+776,I FELT EXCITED,FINAL,I felt excited,,Excited
+777,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+778,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+779,I FELT EXCITED,FINAL,I felt excited,,Excited
+780,I FELT EXCITED,FINAL,I felt excited,,Excited
+781,I FELT EXCITED,FINAL,I felt excited,,Excited
+782,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+783,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+784,ABOUT ME,MENU,,About me,About me
+785,FEELINGS,MENU,,Feelings,Feelings
+786,HAPPY,FINAL,Happy,,Feelings
+787,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Feelings
+788,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+789,ABOUT ME,MENU,,About me,About me
+790,MY OPINION,MENU,,My opinion,My opinion
+791,SCARY,FINAL,scary,,My opinion
+792,GOOD IDEA,FINAL,good idea,,My opinion
+793,INTERESTING,FINAL,interesting,,My opinion
+794,BAD IDEA,FINAL,bad idea,,My opinion
+795,INTERESTING,FINAL,interesting,,My opinion
+796,GOOD IDEA,FINAL,good idea,,My opinion
+797,BORING,FINAL,boring,,My opinion
+798,BORING,FINAL,boring,,My opinion
+799,ABOUT ME,MENU,,About me,About me
+800,BODY,MENU,,Body,Body
+801,MEDICINE,MENU,,Medicine,Medicine
+802,TYPES OF OUCH,MENU,,Types of ouch,Types of ouch
+803,WHAT KIND OF OUCH,FINAL,What kind of ouch,,Types of ouch
+804,SICK OUCH,FINAL,Sick ouch,,Types of ouch
+805,OUTSIDE OUCH,FINAL,Outside ouch,,Types of ouch
+806,WHAT KIND OF OUCH,FINAL,What kind of ouch,,Types of ouch
+807,SICK OUCH,FINAL,Sick ouch,,Types of ouch
+808,INSIDE OUCH,FINAL,Inside ouch,,Types of ouch
+809,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+810,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+811,SICK OUCH,FINAL,Sick ouch,,Types of ouch
+812,SICK OUCH,FINAL,Sick ouch,,Types of ouch
+813,SICK OUCH,FINAL,Sick ouch,,Types of ouch
+814,SICK OUCH,FINAL,Sick ouch,,Types of ouch
+815,TO PLAY,MENU,,To play,To play
+816,EXPERIENCE,MENU,,Experience,Experience
+817,TOUCH,FINAL,Touch,,Experience
+818,MOM,FINAL,Mom,,Experience
+819,ISABELLE,FINAL,Isabelle,,Experience
+820,SMELL,FINAL,Smell,,Experience
+821,MOM,FINAL,Mom,,Experience
+822,MOM,FINAL,Mom,,Experience
+823,MOM,FINAL,Mom,,Experience
+824,HEAR,FINAL,Hear,,Experience
+825,MOM,FINAL,Mom,,Experience
+826,TILLIE,FINAL,Tillie,,Experience
+827,ISABELLE,FINAL,Isabelle,,Experience
+828,HEAR,FINAL,Hear,,Experience
+829,SMELL,FINAL,Smell,,Experience
+830,SEE,FINAL,See ,,Experience
+831,MOM,FINAL,Mom,,Experience
+832,MOM,FINAL,Mom,,Experience
+833,TOUCH,FINAL,Touch,,Experience
+834,PLACES,MENU,,Places,Places
+835,MOVEMENT,MENU,,Movement,Movement
+836,SLOW,FINAL,Slow,,Movement
+837,SLOW,FINAL,Slow,,Movement
+838,WALK,FINAL,Walk,,Movement
+839,SIT,FINAL,Sit,,Movement
+840,MOM,FINAL,Mom,,Movement
+841,MOM,FINAL,Mom,,Movement
+842,MOM,FINAL,Mom,,Movement
+843,SIT,FINAL,Sit,,Movement
+844,RUN,FINAL,Run,,Movement
+845,MEMORY AND TIME,MENU,,Memory and time,Memory and time
+846,FUTURE,FINAL,Future,,Memory and time
+847,FUTURE,FINAL,Future,,Memory and time
+848,SAD,FINAL,Sad,,Memory and time
+849,YESTERDAY,FINAL,Yesterday,,Memory and time
+850,PAST,FINAL,Past,,Memory and time
+851,PAST,FINAL,Past,,Memory and time
+852,LOOK AT PICTURES,FINAL,Look at pictures,,Memory and time
+853,TOMORROW,FINAL,Tomorrow,,Memory and time
+854,HAPPY,FINAL,Happy,,Memory and time
+855,FUTURE,FINAL,Future,,Memory and time
+856,ABOUT ME,MENU,,About me,About me
+857,FEELINGS,MENU,,Feelings,Feelings
+858,EXCITED,FINAL,Excited,,Feelings
+859,I FEEL EXCITED,FINAL,I feel excited,,Feelings
+860,ABOUT ME,MENU,,About me,About me
+861,FEELINGS,MENU,,Feelings,Feelings
+862,EXCITED,MENU,,Excited,Excited
+863,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+864,LIKE,FINAL,Like,,Excited
+865,ABOUT ME,MENU,,About me,About me
+866,FEELINGS,MENU,,Feelings,Feelings
+867,MAD,FINAL,Mad,,Feelings
+868,ABOUT ME,MENU,,About me,About me
+869,BODY,MENU,,Body,Body
+870,WING,FINAL,Wing,,Body
+871,BODY,FINAL,Body,,Body
+872,I FEEL GOOD,FINAL,I feel good,,Body
+873,BACK,FINAL,Back,,Body
+874,BACK,FINAL,Back,,Body
+875,I FEEL GOOD,FINAL,I feel good,,Body
+876,TO PLAY,MENU,,To Play,To Play
+877,SNUGGLE,FINAL,Snuggle,,To Play
+878,SNUGGLE,FINAL,Snuggle,,To Play
+879,TRACING AND WRITING,FINAL,Tracing and Writing,,To Play
+880,CHRISTMAS MUSIC,FINAL,Christmas music,,To Play
+881,LIKE,FINAL,Like,,To Play
+882,GAMES,FINAL,Games,,To Play
+883,ABOUT ME,MENU,,About me,About me
+884,FEELINGS,MENU,,Feelings,Feelings
+885,HAPPY,MENU,,Happy,Happy
+886,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+887,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+888,I FEEL HAPPY,FINAL,I feel happy,,Happy
+889,I FEEL HAPPY,FINAL,I feel happy,,Happy
+890,I FEEL HAPPY,FINAL,I feel happy,,Happy
+891,I FEEL HAPPY,FINAL,I feel happy,,Happy
+892,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+893,TALK ABOUT,MENU,,Talk about,Talk about
+894,SEASONAL,FINAL,Seasonal,,Talk about
+895,HOLIDAYS,FINAL,Holidays,,Talk about
+896,CHRISTMAS,FINAL,Christmas,,Talk about
+897,CHRISTMAS MUSIC,FINAL,Christmas music,,Talk about
+898,CHRISTMAS MUSIC,FINAL,Christmas music,,Talk about
+899,CHRISTMAS MUSIC,FINAL,Christmas music,,Talk about
+900,LIKE,FINAL,Like,,Talk about
+901,GAME,FINAL,Game,,Talk about
+902,ABOUT ME,MENU,,About me,About me
+903,FEELINGS,MENU,,Feelings,Feelings
+904,HAPPY,FINAL,Happy,,Feelings
+905,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Feelings
+906,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Feelings
+907,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Feelings
+908,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+909,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+910,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+911,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Feelings
+912,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+913,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+914,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Feelings
+915,ABOUT ME,MENU,,About me,About me
+916,BACK,FINAL,Back,,About me
+917,OUCH,FINAL,Ouch,,About me
+918,I FEEL GOOD,FINAL,I feel good,,About me
+919,OUCH,FINAL,Ouch,,About me
+920,OUCH,FINAL,Ouch,,About me
+921,I FEEL GOOD,FINAL,I feel good,,About me
+922,TYPES OF OUCH,MENU,,Types of ouch,Types of ouch
+923,I FEEL OUCH,FINAL,I feel ouch,,Types of ouch
+924,SICK OUCH,FINAL,Sick ouch,,Types of ouch
+925,MOM,FINAL,Mom,,Types of ouch
+926,SICK OUCH,FINAL,Sick ouch,,Types of ouch
+927,SICK OUCH,FINAL,Sick ouch,,Types of ouch
+928,SICK OUCH,FINAL,Sick ouch,,Types of ouch
+929,MOM,FINAL,Mom,,Types of ouch
+930,I FEEL OUCH,FINAL,I feel ouch,,Types of ouch
+931,I WILL FEEL OUCH,FINAL,I will feel ouch,,Types of ouch
+932,I WILL FEEL OUCH,FINAL,I will feel ouch,,Types of ouch
+933,ISABELLE,FINAL,Isabelle,,Types of ouch
+934,ISABELLE,FINAL,Isabelle,,Types of ouch
+935,I FEEL GOOD,FINAL,I feel good,,Types of ouch
+936,I FEEL GOOD,FINAL,I feel good,,Types of ouch
+937,I FEEL GOOD,FINAL,I feel good,,Types of ouch
+938,ABOUT ME,MENU,,About me,About me
+939,BODY,MENU,,Body,Body
+940,I FEEL GOOD,FINAL,I feel good,,Body
+941,OUCH,FINAL,Ouch,,Body
+942,ABOUT ME,MENU,,About me,About me
+943,BODY,MENU,,Body,Body
+944,OUCH,FINAL,Ouch,,Body
+945,I FEEL GOOD,FINAL,I feel good,,Body
+946,I FEEL GOOD,FINAL,I feel good,,Body
+947,I FEEL GOOD,FINAL,I feel good,,Body
+948,NO,FINAL,No,,Body
+949,YES,FINAL,Yes,,Body
+950,YES,FINAL,Yes,,Body
+951,NO,FINAL,No,,Body
+952,NO,FINAL,No,,Body
+953,NO,FINAL,No,,Body
+954,YES,FINAL,Yes,,Body
+955,NO,FINAL,No,,Body
+956,YES,FINAL,Yes,,Body
+957,NO,FINAL,No,,Body
+958,YES,FINAL,Yes,,Body
+959,I'M NOT SURE,FINAL,I'm not sure,,Body
+960,NO,FINAL,No,,Body
+961,YES,FINAL,Yes,,Body
+962,NO,FINAL,No,,Body
+963,YES,FINAL,Yes,,Body
+964,YES,FINAL,Yes,,Body
+965,YES,FINAL,Yes,,Body
+966,NO,FINAL,No,,Body
+967,NO,FINAL,No,,Body
+968,YES,FINAL,Yes,,Body
+969,NO,FINAL,No,,Body
+970,YES,FINAL,Yes,,Body
+971,YES,FINAL,Yes,,Body
+972,YES,FINAL,Yes,,Body
+973,NO,FINAL,No,,Body
+974,YES,FINAL,Yes,,Body
+975,YES,FINAL,Yes,,Body
+976,YES,FINAL,Yes,,Body
+977,NO,FINAL,No,,Body
+978,YES,FINAL,Yes,,Body
+979,NO,FINAL,No,,Body
+980,YES,FINAL,Yes,,Body
+981,NO,FINAL,No,,Body
+982,YES,FINAL,Yes,,Body
+983,NO,FINAL,No,,Body
+984,YES,FINAL,Yes,,Body
+985,SOMETHING ELSE,FINAL,Something else,,Body
+986,ABOUT ME,MENU,,About me,About me
+987,TUMMY,FINAL,Tummy,,About me
+988,BACK,FINAL,Back,,About me
+989,I FEEL GOOD,FINAL,I feel good,,About me
+990,I FEEL GOOD,FINAL,I feel good,,About me
+991,I FEEL GOOD,FINAL,I feel good,,About me
+992,MEDICINE,FINAL,Medicine,,About me
+993,SICK OUCH ANTIBIOTICS,FINAL,Sick ouch antibiotics,,About me
+994,SICK OUCH ANTIBIOTICS,FINAL,Sick ouch antibiotics,,About me
+995,TREAT SYRINGE,FINAL,Treat syringe,,About me
+996,TO PLAY,MENU,,To play,To play
+997,LEAF WRESTLE,FINAL,Leaf wrestle,,To play
+998,SNUGGLE,FINAL,Snuggle,,To play
+999,BOOK,FINAL,Book,,To play
+1000,SEASONAL,MENU,,Seasonal,Seasonal
+1001,FALL,FINAL,Fall,,Seasonal
+1002,CARTOONS,FINAL,Cartoons,,Seasonal
+1003,CARTOONS,FINAL,Cartoons,,Seasonal
+1004,ABOUT ME,MENU,,About me,About me
+1005,ABOUT ME,MENU,,About me,About me
+1006,ABOUT ME,MENU,,About me,About me
+1007,BODY,MENU,,Body,Body
+1008,WING,FINAL,Wing,,Body
+1009,WING,FINAL,Wing,,Body
+1010,OUCH,FINAL,Ouch,,Body
+1011,OUCH,FINAL,Ouch,,Body
+1012,OUCH,FINAL,Ouch,,Body
+1013,I FEEL GOOD,FINAL,I feel good,,Body
+1014,I FEEL GOOD,FINAL,I feel good,,Body
+1015,I FEEL GOOD,FINAL,I feel good,,Body
+1016,I FEEL GOOD,FINAL,I feel good,,Body
+1017,I FEEL GOOD,FINAL,I feel good,,Body
+1018,I FEEL GOOD,FINAL,I feel good,,Body
+1019,TUMMY,FINAL,Tummy ,,Body
+1020,TUMMY,FINAL,Tummy ,,Body
+1021,TUMMY,FINAL,Tummy ,,Body
+1022,TUMMY,FINAL,Tummy ,,Body
+1023,TUMMY,FINAL,Tummy ,,Body
+1024,OUCH,FINAL,Ouch,,Body
+1025,OUCH,FINAL,Ouch,,Body
+1026,FOOT,FINAL,Foot,,Body
+1027,FOOT,FINAL,Foot,,Body
+1028,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+1029,WALK,FINAL,Walk,,Descriptions and preferences
+1030,ELLIE,FINAL,Ellie,,Descriptions and preferences
+1031,RUN,FINAL,Run,,Descriptions and preferences
+1032,RUN,FINAL,Run,,Descriptions and preferences
+1033,TO PLAY,MENU,,To Play,To Play
+1034,SNUGGLE,FINAL,Snuggle,,To Play
+1035,TYPING,FINAL,Typing,,To Play
+1036,T,FINAL,T ,,To Play
+1037,L,FINAL,L,,To Play
+1038,L,FINAL,L,,To Play
+1039,T,FINAL,T,,To Play
+1040,T,FINAL,T,,To Play
+1041,T,FINAL,T,,To Play
+1042,T,FINAL,T,,To Play
+1043,ABOUT ME,MENU,,About me,About me
+1044,FEELINGS,MENU,,Feelings,Feelings
+1045,MAD,FINAL,Mad,,Feelings
+1046,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Feelings
+1047,I FELT MAD,FINAL,I felt mad,,Feelings
+1048,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Feelings
+1049,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Feelings
+1050,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Feelings
+1051,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+1052,OPPOSITES,MENU,,Opposites,Opposites
+1053,HIGH UP,FINAL,High up,,Opposites
+1054,BROKEN,FINAL,Broken,,Opposites
+1055,BROKEN,FINAL,Broken,,Opposites
+1056,HIGH UP,FINAL,High up,,Opposites
+1057,FIX,FINAL,Fix,,Opposites
+1058,FIX,FINAL,Fix,,Opposites
+1059,HIGH UP,FINAL,High up,,Opposites
+1060,BIG,FINAL,Big,,Opposites
+1061,BIG,FINAL,Big,,Opposites
+1062,EASY,FINAL,Easy,,Opposites
+1063,BIG,FINAL,Big,,Opposites
+1064,LITTLE,FINAL,Little,,Opposites
+1065,BIG,FINAL,Big,,Opposites
+1066,OUT,FINAL,Out,,Opposites
+1067,HIGH UP,FINAL,High up,,Opposites
+1068,HIGH UP,FINAL,High up,,Opposites
+1069,OUT,FINAL,Out,,Opposites
+1070,BIG,FINAL,Big,,Opposites
+1071,BROKEN,FINAL,Broken,,Opposites
+1072,FIX,FINAL,Fix,,Opposites
+1073,BROKEN,FINAL,Broken,,Opposites
+1074,DARK,FINAL,Dark,,Opposites
+1075,DARK,FINAL,Dark,,Opposites
+1076,LIGHT,FINAL,Light,,Opposites
+1077,FIX,FINAL,Fix,,Opposites
+1078,HIGH UP,FINAL,High up,,Opposites
+1079,DARK,FINAL,Dark,,Opposites
+1080,LIGHT,FINAL,Light,,Opposites
+1081,MEMORY AND TIME,MENU,,Memory and time,Memory and time
+1082,TIME,FINAL,Time,,Memory and time
+1083,YESTERDAY,FINAL,Yesterday,,Memory and time
+1084,PAST,FINAL,Past,,Memory and time
+1085,YESTERDAY,FINAL,Yesterday,,Memory and time
+1086,YESTERDAY,FINAL,Yesterday,,Memory and time
+1087,BODY,MENU,,Body,Body
+1088,BACK,FINAL,Back,,Body
+1089,I FEEL GOOD,FINAL,I feel good,,Body
+1090,I FEEL GOOD,FINAL,I feel good,,Body
+1091,BACK,FINAL,Back,,Body
+1092,BACK,FINAL,Back,,Body
+1093,I FEEL GOOD,FINAL,I feel good,,Body
+1094,YESTERDAY,FINAL,Yesterday,,Body
+1095,YESTERDAY,FINAL,Yesterday,,Body
+1096,YESTERDAY,FINAL,Yesterday,,Body
+1097,PAST,FINAL,Past,,Body
+1098,SAD,FINAL,Sad,,Body
+1099,TODAY,FINAL,Today,,Body
+1100,TODAY,FINAL,Today,,Body
+1101,NO LIKE,FINAL,No like,,Body
+1102,YESTERDAY,FINAL,Yesterday,,Body
+1103,TOMORROW,FINAL,Tomorrow,,Body
+1104,YESTERDAY,FINAL,Yesterday,,Body
+1105,YESTERDAY,FINAL,Yesterday,,Body
+1106,YESTERDAY,FINAL,Yesterday,,Body
+1107,SAD,FINAL,Sad,,Body
+1108,YESTERDAY,FINAL,Yesterday,,Body
+1109,YESTERDAY,FINAL,Yesterday,,Body
+1110,YESTERDAY,FINAL,Yesterday,,Body
+1111,YESTERDAY,FINAL,Yesterday,,Body
+1112,YESTERDAY,FINAL,Yesterday,,Body
+1113,PAST,FINAL,Past,,Body
+1114,YESTERDAY,FINAL,Yesterday,,Body
+1115,YESTERDAY,FINAL,Yesterday,,Body
+1116,YESTERDAY,FINAL,Yesterday,,Body
+1117,YESTERDAY,FINAL,Yesterday,,Body
+1118,PAST,FINAL,Past,,Body
+1119,YESTERDAY,FINAL,Yesterday,,Body
+1120,YESTERDAY,FINAL,Yesterday,,Body
+1121,LOOK AT PICTURES,FINAL,Look at pictures,,Body
+1122,ABOUT ME,MENU,,About me,About me
+1123,ABOUT ME,MENU,,About me,About me
+1124,TEMPERATURE,MENU,,Temperature,Temperature
+1125,WARM,MENU,,Warm,Warm
+1126,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm
+1127,WARM OUTSIDE,FINAL,Warm outside,,Warm
+1128,TALK ABOUT,FINAL,Talk about,,Warm
+1129,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm
+1130,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm
+1131,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm
+1132,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm
+1133,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm
+1134,I FEEL WARM,FINAL,I feel warm,,Warm
+1135,TALK ABOUT,FINAL,Talk about,,Warm
+1136,YES,FINAL,Yes,,Warm
+1137,YES,FINAL,Yes,,Warm
+1138,YES,FINAL,Yes,,Warm
+1139,YES,FINAL,Yes,,Warm
+1140,NO,FINAL,No,,Warm
+1141,YES,FINAL,Yes,,Warm
+1142,ABOUT ME,MENU,,About me,About me
+1143,TEMPERATURE,MENU,,Temperature,Temperature
+1144,ABOUT ME,MENU,,About me,About me
+1145,BODY,MENU,,Body,Body
+1146,WING,FINAL,Wing,,Body
+1147,I FEEL GOOD,FINAL,I feel good,,Body
+1148,OUCH,FINAL,Ouch,,Body
+1149,BACK,FINAL,Back,,Body
+1150,I FEEL GOOD,FINAL,I feel good,,Body
+1151,YES,FINAL,Yes,,Body
+1152,YES,FINAL,Yes,,Body
+1153,EXPERIENCE,MENU,,Experience,Experience
+1154,ELLIE,FINAL,Ellie,,Experience
+1155,ELLIE,FINAL,Ellie,,Experience
+1156,MOM,FINAL,Mom,,Experience
+1157,TOUCH,FINAL,Touch,,Experience
+1158,TILLIE,FINAL,Tillie,,Experience
+1159,MOM,FINAL,Mom,,Experience
+1160,TASTE,FINAL,Taste,,Experience
+1161,SMELL,FINAL,Smell,,Experience
+1162,ISABELLE,FINAL,Isabelle,,Experience
+1163,READ,FINAL,Read,,Experience
+1164,ISABELLE,FINAL,Isabelle,,Experience
+1165,TILLIE,FINAL,Tillie,,Experience
+1166,TASTE,FINAL,Taste,,Experience
+1167,TASTE,FINAL,Taste,,Experience
+1168,ENTERTAINMENT,MENU,,Entertainment,Entertainment
+1169,ALEXA,MENU,,Alexa,Alexa
+1170,ALEXA VOLUME 5,FINAL,Alexa volume 5,,Alexa
+1171,ALEXA VOLUME 5,FINAL,Alexa volume 5,,Alexa
+1172,ALEXA PLAY HOOKED ON A FEELING ON PANDORA,FINAL,Alexa play hooked on a feeling on pandora,,Alexa
+1173,ALEXA PLAY HANDEL,FINAL,Alexa play handel,,Alexa
+1174,ABOUT ME,MENU,,About me,About me
+1175,BODY,MENU,,Body,Body
+1176,WING,FINAL,Wing,,Body
+1177,I FEEL GOOD,FINAL,I feel good,,Body
+1178,OUCH,FINAL,Ouch,,Body
+1179,OUCH,FINAL,Ouch,,Body
+1180,OUCH,FINAL,Ouch,,Body
+1181,I FEEL GOOD,FINAL,I feel good,,Body
+1182,WING,FINAL,Wing,,Body
+1183,YESTERDAY,FINAL,Yesterday,,Body
+1184,YESTERDAY,FINAL,Yesterday,,Body
+1185,YESTERDAY,FINAL,Yesterday,,Body
+1186,YESTERDAY,FINAL,Yesterday,,Body
+1187,TODAY,FINAL,Today,,Body
+1188,TODAY,FINAL,Today,,Body
+1189,TODAY,FINAL,Today,,Body
+1190,TODAY,FINAL,Today,,Body
+1191,YESTERDAY,FINAL,Yesterday,,Body
+1192,YESTERDAY,FINAL,Yesterday,,Body
+1193,TODAY,FINAL,Today,,Body
+1194,TODAY,FINAL,Today,,Body
+1195,TODAY,FINAL,Today,,Body
+1196,TOMORROW,FINAL,Tomorrow,,Body
+1197,TODAY,FINAL,Today,,Body
+1198,YESTERDAY,FINAL,Yesterday,,Body
+1199,YESTERDAY,FINAL,Yesterday,,Body
+1200,YESTERDAY,FINAL,Yesterday,,Body
+1201,TOMORROW,FINAL,Tomorrow,,Body
+1202,TOMORROW,FINAL,Tomorrow,,Body
+1203,NO LIKE,FINAL,No like,,Body
+1204,LIKE,FINAL,Like,,Body
+1205,FUTURE,FINAL,Future,,Body
+1206,TODAY,FINAL,Today,,Body
+1207,YESTERDAY,FINAL,yesterday,,Body
+1208,ABOUT ME,MENU,,About me,About me
+1209,FEELINGS,MENU,,Feelings,Feelings
+1210,AFRAID,FINAL,Afraid,,Feelings
+1211,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Feelings
+1212,I WILL FEEL AFRAID,FINAL,I will feel afraid,,Feelings
+1213,I WILL FEEL AFRAID,FINAL,I will feel afraid,,Feelings
+1214,I WILL FEEL AFRAID,FINAL,I will feel afraid,,Feelings
+1215,I WILL FEEL AFRAID,FINAL,I will feel afraid,,Feelings
+1216,I WILL FEEL AFRAID,FINAL,I will feel afraid,,Feelings
+1217,I WILL FEEL AFRAID,FINAL,I will feel afraid,,Feelings
+1218,I WILL FEEL AFRAID,FINAL,I will feel afraid,,Feelings
+1219,I'M NOT SURE,FINAL,I'm not sure,,Feelings
+1220,YES,FINAL,Yes,,Feelings
+1221,ABOUT ME,MENU,,About me,About me
+1222,FEELINGS,MENU,,Feelings,Feelings
+1223,HAPPY,FINAL,Happy,,Feelings
+1224,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1225,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1226,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1227,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1228,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1229,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1230,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1231,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1232,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Feelings
+1233,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1234,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1235,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1236,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1237,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Feelings
+1238,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1239,ABOUT ME,MENU,,About me,About me
+1240,MAD,FINAL,Mad,Feelings,Feelings
+1241,I FEEL MAD,FINAL,I feel mad,,Feelings
+1242,I FEEL MAD,FINAL,I feel mad,,Feelings
+1243,I FEEL MAD,FINAL,I feel mad,,Feelings
+1244,ABOUT ME,MENU,,About me,About me
+1245,BODY,MENU,,Body,Body
+1246,TUMMY,FINAL,Tummy,,Body
+1247,I FEEL GOOD,FINAL,I feel good,,Body
+1248,OUCH,FINAL,Ouch,,Body
+1249,OUCH,FINAL,Ouch,,Body
+1250,OUCH,FINAL,Ouch,,Body
+1251,I FEEL GOOD,FINAL,I feel good,,Body
+1252,I FEEL GOOD,FINAL,I feel good,,Body
+1253,OUCH,FINAL,Ouch,,Body
+1254,OUCH,FINAL,Ouch,,Body
+1255,I FEEL GOOD,FINAL,I feel good,,Body
+1256,BACK,FINAL,Back,,Body
+1257,OUCH,FINAL,Ouch,,Body
+1258,I FEEL GOOD,FINAL,I feel good,,Body
+1259,BACK,FINAL,Back,,Body
+1260,OUCH,FINAL,Ouch,,Body
+1261,OUCH,FINAL,Ouch,,Body
+1262,PAST,FINAL,Past,,Body
+1263,PAST,FINAL,Past,,Body
+1264,OUCH,FINAL,Ouch,,Body
+1265,OUCH,FINAL,Ouch,,Body
+1266,I FEEL GOOD,FINAL,I feel good,,Body
+1267,I FEEL GOOD,FINAL,I feel good,,Body
+1268,TODAY,FINAL,Today,,Body
+1269,I FEEL GOOD,FINAL,I feel good,,Body
+1270,OUCH,FINAL,Ouch,,Body
+1271,OUCH,FINAL,Ouch,,Body
+1272,I FEEL GOOD,FINAL,I feel good,,Body
+1273,PAST,FINAL,Past,,Body
+1274,OUCH,FINAL,Ouch,,Body
+1275,I FEEL GOOD,FINAL,I feel good,,Body
+1276,HEAD,FINAL,Head,,Body
+1277,ABOUT ME,MENU,,About me,About me
+1278,BODY,MENU,,Body,Body
+1279,I FEEL GOOD,FINAL,I feel good,,Body
+1280,I FEEL GOOD,FINAL,I feel good,,Body
+1281,I FEEL GOOD,FINAL,I feel good,,Body
+1282,I FEEL GOOD,FINAL,I feel good,,Body
+1283,TODAY,FINAL,Today,,Body
+1284,I FEEL GOOD,FINAL,I feel good,,Body
+1285,OUCH,FINAL,Ouch,,Body
+1286,I FEEL GOOD,FINAL,I feel good,,Body
+1287,TODAY,FINAL,Today,,Body
+1288,I FEEL GOOD,FINAL,I feel good,,Body
+1289,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences
+1290,OPPOSITES,MENU,,Opposites,Opposites
+1291,DARK,FINAL,Dark,,Opposites
+1292,DARK,FINAL,Dark,,Opposites
+1293,BROKEN,FINAL,Broken,,Opposites
+1294,FIX,FINAL,Fix,,Opposites
+1295,DARK,FINAL,Dark,,Opposites
+1296,DARK,FINAL,Dark,,Opposites
+1297,FIX,FINAL,Fix,,Opposites
+1298,LIGHT,FINAL,Light,,Opposites
+1299,FIX,FINAL,Fix,,Opposites
+1300,DARK,FINAL,Dark,,Opposites
+1301,DARK,FINAL,Dark,,Opposites
+1302,DOWN LOW,FINAL,Down low,,Opposites
+1303,LIGHT,FINAL,Light,,Opposites
+1304,FIX,FINAL,Fix,,Opposites
+1305,DARK,FINAL,Dark,,Opposites
+1306,LIGHT,FINAL,Light,,Opposites
+1307,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites
+1308,GOLF CART RIDE,FINAL,Golf Cart Ride,,Opposites
+1309,LIKE,FINAL,Like,,Opposites
+1310,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites
+1311,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites
+1312,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites
+1313,GOLF CART RIDE,FINAL,Golf Cart Ride,,Opposites
+1314,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites
+1315,NO LIKE,FINAL,No like,,Opposites
+1316,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites
+1317,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites
+1318,RIVER AVIARY,FINAL,River aviary,,Opposites
+1319,GOLF CART RIDE,FINAL,Golf Cart Ride,,Opposites
+1320,GOLF CART RIDE,FINAL,Golf Cart Ride,,Opposites
+1321,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites
+1322,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites
+1323,ABOUT ME,MENU,,About me,About me
+1324,TEMPERATURE,MENU,,Temperature,Temperature
+1325,HOT,FINAL,Hot,,Temperature
+1326,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Temperature
+1327,COOL,FINAL,Cool,,Temperature
+1328,LIKE,FINAL,Like ,,Temperature
+1329,I FELT COOL,FINAL,I felt cool,,Temperature
+1330,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Temperature
+1331,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Temperature
+1332,ABOUT ME,MENU,,About me,About me
+1333,MEMORY AND TIME,MENU,,Memory and time,Memory and time
+1334,TIME,MENU,,Time,Time
+1335,TIME,FINAL,Time,,Time
+1336,YESTERDAY,FINAL,Yesterday,,Time
+1337,FUTURE,FINAL,Future,,Time
+1338,YESTERDAY,FINAL,Yesterday,,Time
+1339,YESTERDAY,FINAL,Yesterday,,Time
+1340,TODAY,FINAL,Today,,Time
+1341,YESTERDAY,FINAL,Yesterday,,Time
+1342,TODAY,FINAL,Today,,Time
+1343,TODAY,FINAL,Today,,Time
+1344,YESTERDAY,FINAL,Yesterday,,Time
+1345,YESTERDAY,FINAL,Yesterday,,Time
+1346,YESTERDAY,FINAL,Yesterday,,Time
+1347,YESTERDAY,FINAL,Yesterday,,Time
+1348,HAPPY,FINAL,Happy,,Time
+1349,TOMORROW,FINAL,Tomorrow,,Time
+1350,YESTERDAY,FINAL,Yesterday,,Time
+1351,YESTERDAY,FINAL,Yesterday,,Time
+1352,YESTERDAY,FINAL,Yesterday,,Time
+1353,YESTERDAY,FINAL,Yesterday,,Time
+1354,TOMORROW,FINAL,Tomorrow,,Time
+1355,TODAY,FINAL,Today,,Time
+1356,TOMORROW,FINAL,Tomorrow,,Time
+1357,PAST,FINAL,Past,,Time
+1358,HAPPY,FINAL,Happy,,Time
+1359,HAPPY,FINAL,Happy,,Time
+1360,HAPPY,FINAL,Happy,,Time
+1361,TALK ABOUT,FINAL,Talk About,,Time
+1362,TOMORROW,FINAL,Tomorrow,,Time
+1363,YESTERDAY,FINAL,Yesterday,,Time
+1364,YESTERDAY,FINAL,Yesterday,,Time
+1365,TOMORROW,FINAL,Tomorrow,,Time
+1366,YESTERDAY,FINAL,Yesterday,,Time
+1367,TODAY,FINAL,Today,,Time
+1368,YESTERDAY,FINAL,Yesterday,,Time
+1369,EXPERIENCE,MENU,,Experience,Experience
+1370,TOUCH,FINAL,Touch,,Experience
+1371,ISABELLE,FINAL,Isabelle,,Experience
+1372,TASTE,FINAL,Taste,,Experience
+1373,TOUCH,FINAL,Touch,,Experience
+1374,MOM,FINAL,Mom,,Experience
+1375,SEE,FINAL,See,,Experience
+1376,ISABELLE,FINAL,Isabelle,,Experience
+1377,OUCH,FINAL,Ouch,,Experience
+1378,OUCH,FINAL,ouch,,Experience
+1379,I FEEL GOOD,FINAL,I feel good,,Experience
+1380,ABOUT ME,MENU,,About me,About me
+1381,TEMPERATURE,MENU,,Temperature,Temperature
+1382,NIGHT STAR,FINAL,Night star,,Temperature
+1383,HOT,FINAL,Hot,,Temperature
+1384,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Temperature
+1385,I FEEL HOT,FINAL,I feel hot,,Temperature
+1386,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences
+1387,PREFERENCES,MENU,,Preferences,Preferences
+1388,PREFERENCES,MENU,,Preferences,Preferences
+1389,PREFERENCES,MENU,,Preferences,Preferences
+1390,OPPOSITES,MENU,,Opposites,Opposites
+1391,LIGHT,FINAL,Light,,Opposites
+1392,LIGHT,FINAL,Light,,Opposites
+1393,HIGH UP,FINAL,High Up,,Opposites
+1394,BROKEN,FINAL,Broken,,Opposites
+1395,FIX,FINAL,Fix,,Opposites
+1396,HIGH UP,FINAL,High Up,,Opposites
+1397,BROKEN,FINAL,Broken,,Opposites
+1398,FIX,FINAL,Fix,,Opposites
+1399,DOWN LOW,FINAL,Down low,,Opposites
+1400,DOWN LOW,FINAL,Down low,,Opposites
+1401,DOWN LOW,FINAL,Down low,,Opposites
+1402,DARK,FINAL,Dark,,Opposites
+1403,DARK,FINAL,Dark,,Opposites
+1404,DARK,FINAL,Dark,,Opposites
+1405,FIX,FINAL,Fix,,Opposites
+1406,MEMORY AND TIME,MENU,,Memory and Time,Memory and Time
+1407,REMEMBER,MENU,,Remember,Remember
+1408,TALK ABOUT,FINAL,Talk about,,Remember
+1409,TALK ABOUT,FINAL,Talk about,,Remember
+1410,LOOK AT PICTURES,FINAL,Look at pictures,,Remember
+1411,TALK ABOUT,FINAL,Talk about,,Remember
+1412,MOONLIGHT,FINAL,Moonlight,,Remember
+1413,HAPPY,FINAL,Happy,,Remember
+1414,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Remember
+1415,I FELT HAPPY,FINAL,I felt happy,,Remember
+1416,I FEEL HAPPY,FINAL,I feel happy,,Remember
+1417,I FEEL HAPPY,FINAL,I feel happy,,Remember
+1418,ABOUT ME,MENU,,About me,About me
+1419,BODY,MENU,,Body,Body
+1420,I FEEL GOOD,FINAL,I feel good,,Body
+1421,I FEEL GOOD,FINAL,I feel good,,Body
+1422,I FEEL GOOD,FINAL,I feel good,,Body
+1423,OUCH,FINAL,Ouch,,Body
+1424,OUCH,FINAL,Ouch,,Body
+1425,OUCH,FINAL,Ouch,,Body
+1426,PAST/BACK,FINAL,Past/Back,,Body
+1427,PAST/BACK,FINAL,Past/Back,,Body
+1428,PAST/BACK,FINAL,Past/Back,,Body
+1429,ABOUT ME,MENU,,About me,About me
+1430,FEELINGS,MENU,,Feelings,Feelings
+1431,AFRAID,FINAL,Afraid,,Feelings
+1432,I FEEL AFRAID,FINAL,I feel afraid,,Feelings
+1433,I WILL FEEL AFRAID,FINAL,I will feel afraid,,Feelings
+1434,PAST,FINAL,Past,,Feelings
+1435,GAMES,FINAL,Games,,Feelings
+1436,BOOKS,FINAL,Books,,Feelings
+1437,ABOUT ME,MENU,,About me,About me
+1438,TEMPERATURE,MENU,,Temperature,Temperature
+1439,WARM,MENU,,Warm,Warm
+1440,WARM,MENU,,Warm,Warm
+1441,WARM,MENU,,Warm,Warm
+1442,WARM OUTSIDE,FINAL,Warm Outside,,Warm
+1443,MEMORY AND TIME,MENU,,Memory and time,Memory and time
+1444,TIME,MENU,,Time,Time
+1445,YESTERDAY,FINAL,Yesterday,,Time
+1446,YESTERDAY,FINAL,Yesterday,,Time
+1447,HAPPY,FINAL,Happy,,Time
+1448,SAD,FINAL,Sad,,Time
+1449,HAPPY,FINAL,Happy,,Time
+1450,HAPPY,FINAL,Happy,,Time
+1451,HAPPY,FINAL,Happy,,Time
+1452,TALK ABOUT,FINAL,Talk about,,Time
+1453,HAPPY,FINAL,Happy,,Time
+1454,HAPPY,FINAL,Happy,,Time
+1455,SAD,FINAL,Sad,,Time
+1456,LIKE,FINAL,Like,,Time
+1457,YES,FINAL,Yes ,,Time
+1458,YES,FINAL,Yes,,Time
+1459,HAPPY,FINAL,Happy,,Time
+1460,I FEEL HAPPY,FINAL,I feel happy,,Time
+1461,I FEEL HAPPY,FINAL,I feel happy,,Time
+1462,HAPPY,FINAL,Happy,,Time
+1463,HAPPY,FINAL,Happy,,Time
+1464,WRITING,FINAL,Writing,,Time
+1465,TRACING,FINAL,Tracing,,Time
+1466,TRACING,FINAL,Tracing,,Time
+1467,WRITE WORDS,FINAL,Write words,,Time
+1468,WRITE WORDS,FINAL,Write words,,Time
+1469,TRACING,FINAL,Tracing,,Time
+1470,FREE WRITING PRACTICE,FINAL,Free writing practice,,Time
+1471,LETTER PRACTICE,FINAL,Letter practice,,Time
+1472,TRACING,FINAL,Tracing,,Time
+1473,ABOUT ME,MENU,,About me,About me
+1474,FEELINGS,MENU,,Feelings,Feelings
+1475,NO LIKE,FINAL,No like,,Feelings
+1476,HAPPY,FINAL,Happy,,Feelings
+1477,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1478,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1479,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Feelings
+1480,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Feelings
+1481,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1482,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1483,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1484,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1485,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1486,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Feelings
+1487,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1488,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1489,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1490,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Feelings
+1491,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Feelings
+1492,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Feelings
+1493,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Feelings
+1494,I FELT HAPPY,FINAL,I felt happy,,Feelings
+1495,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Feelings
+1496,TO PLAY,MENU,,To play,To play
+1497,SNUGGLE,FINAL,Snuggle,,To play
+1498,SNUGGLE,FINAL,Snuggle,,To play
+1499,TRACING AND WRITING,FINAL,Tracing and writing,,To play
+1500,SNUGGLE,FINAL,Snuggle,,To play
+1501,OUCH,FINAL,Ouch,,To play
+1502,I FEEL GOOD,FINAL,I feel good,,To play
+1503,BACK,FINAL,Back,,To play
+1504,OUCH,FINAL,Ouch,,To play
+1505,OUCH,FINAL,Ouch,,To play
+1506,BACK,FINAL,Back,,To play
+1507,BACK,FINAL,Back,,To play
+1508,I FEEL GOOD,FINAL,I feel good,,To play
+1509,BACK,FINAL,Back,,To play
+1510,I FEEL GOOD,FINAL,I feel good,,To play
+1511,SANTA,FINAL,Santa,,To play
+1512,FROSTY,FINAL,Frosty,,To play
+1513,SANTA,FINAL,Santa,,To play
+1514,SANTA,FINAL,Santa,,To play
+1515,SANTA,FINAL,Santa,,To play
+1516,CHRISTMAS CARTOONS,FINAL,Christmas cartoons,,To play
+1517,FROSTY,FINAL,Frosty,,To play
+1518,CHRISTMAS CARTOONS,FINAL,Christmas cartoons,,To play
+1519,FROSTY,FINAL,Frosty,,To play
+1520,FROSTY,FINAL,Frosty,,To play
+1521,SANTA,FINAL,Santa,,To play
+1522,CHRISTMAS CARTOONS,FINAL,Christmas cartoons,,To play
+1523,CHRISTMAS CARTOONS,FINAL,Christmas cartoons,,To play
+1524,FROSTY,FINAL,Frosty,,To play
+1525,YES,FINAL,Yes,,To play
+1526,SNUGGLE,FINAL,Snuggle,,To play
+1527,SNUGGLE,FINAL,Snuggle,,To play
+1528,SNUGGLE,FINAL,Snuggle,,To play
+1529,ENTERTAINMENT,MENU,,Entertainment,Entertainment
+1530,MUSIC,FINAL,Music,,Entertainment
+1531,LEARN SOMETHING NEW,FINAL,Learn something new,,Entertainment
+1532,I PLAY,FINAL,I play,,Entertainment
+1533,ABOUT ME,MENU,,About me,About me
+1534,FEELINGS,MENU,,Feelings,Feelings
+1535,MAD,MENU,,Mad,Mad
+1536,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+1537,I FEEL MAD,FINAL,I feel mad,,Mad
+1538,TYPING,FINAL,Typing,,Mad
+1539,ABOUT ME,MENU,,About me,About me
+1540,BODY,MENU,,Body,Body
+1541,OUCH,FINAL,Ouch,,Body
+1542,WING,FINAL,Wing,,Body
+1543,I FEEL GOOD,FINAL,I feel good,,Body
+1544,TYPES OF OUCH,MENU,,Types of ouch,Types of ouch
+1545,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1546,MOM,FINAL,Mom,,Types of ouch
+1547,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1548,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1549,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1550,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1551,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1552,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1553,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1554,I WILL FEEL OUCH,FINAL,I will feel ouch,,Types of ouch
+1555,WHAT KIND OF OUCH?,FINAL,What kind of ouch?,,Types of ouch
+1556,INSIDE OUCH,FINAL,Inside ouch,,Types of ouch
+1557,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1558,INSIDE OUCH,FINAL,Inside ouch,,Types of ouch
+1559,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1560,CANCER,FINAL,Cancer,,Types of ouch
+1561,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1562,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1563,BONE OUCH,FINAL,Bone ouch,,Types of ouch
+1564,INSIDE OUCH,FINAL,Inside ouch,,Types of ouch
+1565,CANCER,FINAL,Cancer,,Types of ouch
+1566,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1567,SICK OUCH,FINAL,Sick ouch,,Types of ouch
+1568,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1569,ABOUT ME,MENU,,About me,About me
+1570,FEELINGS,MENU,,Feelings,Feelings
+1571,EXCITED,MENU,,Excited,Excited
+1572,I WILL FEEL EXCITED,FINAL,I will feel excited,,Excited
+1573,ABOUT ME,MENU,,About me,About me
+1574,FEELINGS,MENU,,Feelings,Feelings
+1575,AFRAID,MENU,,Afraid,Afraid
+1576,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Afraid
+1577,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Afraid
+1578,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Afraid
+1579,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Afraid
+1580,TO PLAY,MENU,,To play,To play
+1581,BOOKS,MENU,,Books,Books
+1582,READING BOOKS,FINAL,Reading books,,Books
+1583,ABOUT ME,MENU,,About me,About me
+1584,TEMPERATURE,MENU,,Temperature,Temperature
+1585,COOL,MENU,,Cool,Cool
+1586,COOL INSIDE,FINAL,Cool inside,,Cool
+1587,I FEEL COOL,FINAL,I feel cool,,Cool
+1588,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Cool
+1589,NIGHT STAR,FINAL,Night star,,Cool
+1590,HOT,FINAL,Hot,,Cool
+1591,I FEEL HOT,FINAL,I feel hot,,Cool
+1592,I FEEL HOT,FINAL,I feel hot,,Cool
+1593,I FEEL HOT,FINAL,I feel hot,,Cool
+1594,I FEEL HOT,FINAL,I feel hot,,Cool
+1595,LIKE,FINAL,Like,,Cool
+1596,RAIN,FINAL,Rain,,Cool
+1597,MOON,FINAL,Moon,,Cool
+1598,HOT,FINAL,Hot,,Cool
+1599,TALK ABOUT,FINAL,Talk about,,Cool
+1600,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Cool
+1601,YES,FINAL,Yes,,Cool
+1602,NO,FINAL,No,,Cool
+1603,NO,FINAL,No,,Cool
+1604,YES,FINAL,Yes,,Cool
+1605,NO,FINAL,No,,Cool
+1606,NO,FINAL,No,,Cool
+1607,NO,FINAL,No,,Cool
+1608,NO,FINAL,No,,Cool
+1609,YES,FINAL,Yes,,Cool
+1610,NO,FINAL,No,,Cool
+1611,NO,FINAL,No,,Cool
+1612,YES,FINAL,Yes,,Cool
+1613,SOMETHING ELSE,FINAL,Something else,,Cool
+1614,ABOUT ME,MENU,,About me,About me
+1615,FEELINGS,MENU,,Feelings,Feelings
+1616,MAD,MENU,,Mad,Mad
+1617,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+1618,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+1619,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+1620,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+1621,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+1622,BACK,FINAL,Back,,Mad
+1623,TO SAY HELLO TO,MENU,,To say hello to,To say hello to
+1624,CASSIE,FINAL,Cassie,,To say hello to
+1625,MOM,FINAL,Mom,,To say hello to
+1626,CASSIE,FINAL,Cassie,,To say hello to
+1627,CORI,FINAL,Cori,,To say hello to
+1628,ABOUT ME,MENU,,About me,About me
+1629,FEELINGS,MENU,,Feelings,Feelings
+1630,AFRAID,FINAL,Afraid,,Feelings
+1631,I FEEL AFRAID,FINAL,I feel afraid,,Feelings
+1632,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,Feelings
+1633,I FEEL AFRAID,FINAL,I feel afraid,,Feelings
+1634,I FEEL AFRAID,FINAL,I feel afraid,,Feelings
+1635,BACK,FINAL,Back,,Feelings
+1636,MEMORY AND TIME,MENU,,Memory and time,Memory and time
+1637,MEMORY AND TIME,MENU,,Memory and Time,Memory and Time
+1638,TIME,MENU,,Time,Time
+1639,YESTERDAY,FINAL,Yesterday,,Time
+1640,YESTERDAY,FINAL,Yesterday,,Time
+1641,YESTERDAY,FINAL,Yesterday,,Time
+1642,TODAY,FINAL,Today,,Time
+1643,TODAY,FINAL,Today,,Time
+1644,TOMORROW,FINAL,Tomorrow,,Time
+1645,TODAY,FINAL,Today,,Time
+1646,YESTERDAY,FINAL,Yesterday,,Time
+1647,TODAY,FINAL,Today,,Time
+1648,TODAY,FINAL,Today,,Time
+1649,YESTERDAY,FINAL,Yesterday,,Time
+1650,YESTERDAY,FINAL,Yesterday,,Time
+1651,YESTERDAY,FINAL,Yesterday,,Time
+1652,YESTERDAY,FINAL,Yesterday,,Time
+1653,TODAY,FINAL,Today,,Time
+1654,YESTERDAY,FINAL,Yesterday,,Time
+1655,TOMORROW,FINAL,Tomorrow,,Time
+1656,TOMORROW,FINAL,Tomorrow,,Time
+1657,YESTERDAY,FINAL,Yesterday,,Time
+1658,NO LIKE,FINAL,No like,,Time
+1659,LIKE,FINAL,Like,,Time
+1660,LIKE,FINAL,Like,,Time
+1661,TOMORROW,FINAL,Tomorrow,,Time
+1662,TODAY,FINAL,Today,,Time
+1663,YESTERDAY,FINAL,Yesterday,,Time
+1664,TOMORROW,FINAL,Tomorrow,,Time
+1665,LIKE,FINAL,Like,,Time
+1666,TOMORROW,FINAL,Tomorrow,,Time
+1667,TODAY,FINAL,Today,,Time
+1668,TOMORROW,FINAL,Tomorrow,,Time
+1669,TOMORROW,FINAL,Tomorrow,,Time
+1670,TOMORROW,FINAL,Tomorrow,,Time
+1671,TOMORROW,FINAL,Tomorrow,,Time
+1672,TOMORROW,FINAL,Tomorrow,,Time
+1673,LOOK AT PICTURES,FINAL,Look at pictures,,Time
+1674,TOMORROW,FINAL,Tomorrow,,Time
+1675,YESTERDAY,FINAL,Yesterday,,Time
+1676,YESTERDAY,FINAL,Yesterday,,Time
+1677,BODY,FINAL,Body,,Time
+1678,BODY,FINAL,Body,,Time
+1679,BODY,FINAL,Body,,Time
+1680,NO-LIKE,FINAL,No-like,,Time
+1681,YESTERDAY,FINAL,Yesterday,,Time
+1682,TODAY,FINAL,Today,,Time
+1683,LIKE,FINAL,Like,,Time
+1684,YESTERDAY,FINAL,Yesterday,,Time
+1685,TODAY,FINAL,Today,,Time
+1686,TOMORROW,FINAL,Tomorrow,,Time
+1687,TODAY,FINAL,Today,,Time
+1688,TODAY,FINAL,Today,,Time
+1689,TODAY,FINAL,Today,,Time
+1690,YESTERDAY,FINAL,Yesterday,,Time
+1691,NO-LIKE,FINAL,No-like,,Time
+1692,LOOK AT PICTURES,FINAL,Look at pictures,,Time
+1693,NO,FINAL,No,,Time
+1694,NO,FINAL,No,,Time
+1695,YES,FINAL,Yes ,,Time
+1696,YES,FINAL,Yes,,Time
+1697,YES,FINAL,Yes,,Time
+1698,NO,FINAL,No,,Time
+1699,NO,FINAL,No,,Time
+1700,YES,FINAL,Yes,,Time
+1701,NO,FINAL,No,,Time
+1702,BODY,MENU,,Body,Body
+1703,I FEEL GOOD,FINAL,I feel good,,Body
+1704,I FEEL GOOD,FINAL,I feel good,,Body
+1705,I FEEL GOOD,FINAL,I feel good,,Body
+1706,I FEEL GOOD,FINAL,I feel good,,Body
+1707,YES,FINAL,Yes,,Body
+1708,YES,FINAL,Yes,,Body
+1709,LIKE,FINAL,Like,,Body
+1710,NO,FINAL,No,,Body
+1711,SOMETHING ELSE,FINAL,Something else,,Body
+1712,SOMETHING ELSE,FINAL,Something else,,Body
+1713,NO,FINAL,No,,Body
+1714,NO,FINAL,No,,Body
+1715,NO,FINAL,No,,Body
+1716,NO,FINAL,No,,Body
+1717,NO,FINAL,No,,Body
+1718,YES,FINAL,Yes,,Body
+1719,NO,FINAL,No,,Body
+1720,I'M NOT SURE,FINAL,I'm not sure,,Body
+1721,YES,FINAL,Yes,,Body
+1722,SOMETHING ELSE,FINAL,Something else,,Body
+1723,I'M NOT SURE,FINAL,I'm not sure,,Body
+1724,NO,FINAL,No,,Body
+1725,NO LIKE,FINAL,No like,,Body
+1726,NO LIKE,FINAL,No like,,Body
+1727,NO,FINAL,No,,Body
+1728,SOMETHING ELSE,FINAL,something else,,Body
+1729,ABOUT ME,MENU,,About me,About me
+1730,FEELINGS,MENU,,Feelings,Feelings
+1731,HAPPY,FINAL,Happy,,Feelings
+1732,I FEEL HAPPY,FINAL,I feel happy,,Feelings
+1733,YES,FINAL,Yes,,Feelings
+1734,YES,FINAL,Yes,,Feelings
+1735,NO,FINAL,No,,Feelings
+1736,YES,FINAL,Yes,,Feelings
+1737,NO,FINAL,No,,Feelings
+1738,YES,FINAL,Yes,,Feelings
+1739,NO,FINAL,no,,Feelings
+1740,NO,FINAL,no,,Feelings
+1741,NO,FINAL,no,,Feelings
+1742,NO,FINAL,no,,Feelings
+1743,NO,FINAL,no,,Feelings
+1744,NO,FINAL,no ,,Feelings
+1745,NO,FINAL,no,,Feelings
+1746,SOMETHING ELSE,FINAL,something else,,Feelings
+1747,NO,FINAL,no,,Feelings
+1748,SOMETHING ELSE,FINAL,something else,,Feelings
+1749,YES,FINAL,yes,,Feelings
+1750,YES,FINAL,yes,,Feelings
+1751,NO,FINAL,no,,Feelings
+1752,YES,FINAL,yes,,Feelings
+1753,I'M NOT SURE,FINAL,I'm not sure,,Feelings
+1754,NO,FINAL,No,,Feelings
+1755,YES,FINAL,yes,,Feelings
+1756,NO,FINAL,No,,Feelings
+1757,YES,FINAL,yes,,Feelings
+1758,MEMORY AND TIME,MENU,,Memory and time,Memory and time
+1759,TIME,MENU,,Time,Time
+1760,PAST,FINAL,Past,,Time
+1761,PAST,FINAL,Past,,Time
+1762,ABOUT ME,MENU,,About me,About me
+1763,BODY,MENU,,Body,Body
+1764,TUMMY,FINAL,Tummy,,Body
+1765,HEAD,FINAL,Head,,Body
+1766,BACK,FINAL,Back,,Body
+1767,BACK,FINAL,Back,,Body
+1768,BACK,FINAL,Back,,Body
+1769,I FEEL GOOD,FINAL,I feel good,,Body
+1770,TODAY,FINAL,Today,,Body
+1771,I FEEL GOOD,FINAL,I feel good,,Body
+1772,TODAY,FINAL,Today,,Body
+1773,TODAY,FINAL,Today,,Body
+1774,I FEEL GOOD,FINAL,I feel good,,Body
+1775,OUCH,FINAL,Ouch,,Body
+1776,TODAY,FINAL,Today,,Body
+1777,TODAY,FINAL,today,,Body
+1778,MEMORY AND TIME,MENU,,Memory and time,Memory and time
+1779,TIME,MENU,,Time,Time
+1780,HAPPY,FINAL,Happy,,Time
+1781,SAD,FINAL,Sad,,Time
+1782,HAPPY,FINAL,Happy,,Time
+1783,SAD,FINAL,Sad,,Time
+1784,HAPPY,FINAL,Happy,,Time
+1785,SAD,FINAL,Sad,,Time
+1786,SAD,FINAL,Sad,,Time
+1787,FUTURE,FINAL,Future,,Time
+1788,FUTURE,FINAL,Future,,Time
+1789,HAPPY,FINAL,Happy,,Time
+1790,HAPPY,FINAL,Happy,,Time
+1791,AFRAID,FINAL,Afraid,,Time
+1792,YESTERDAY,FINAL,Yesterday,,Time
+1793,HAPPY,FINAL,Happy,,Time
+1794,LOOK AT PICTURES,FINAL,Look at pictures,,Time
+1795,HAPPY,FINAL,Happy,,Time
+1796,LIKE,FINAL,Like,,Time
+1797,FUTURE,FINAL,Future,,Time
+1798,ABOUT ME,MENU,,About me,About me
+1799,PLACES,MENU,,Places,Places
+1800,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places
+1801,OUTSIDE WALK,FINAL,Outside walk,,Places
+1802,BACK,FINAL,Back,,Places
+1803,ABOUT ME,MENU,,About me,About me
+1804,TEMPERATURE,MENU,,Temperature,Temperature
+1805,HOT,MENU,,Hot,Hot
+1806,HOT,MENU,,Hot,Hot
+1807,I FEEL HOT,FINAL,I feel hot,,Hot
+1808,TALK ABOUT,FINAL,Talk about,,Hot
+1809,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Hot
+1810,RAIN,FINAL,Rain,,Hot
+1811,WIND,FINAL,Wind,,Hot
+1812,WARM,FINAL,Warm,,Hot
+1813,LIKE,FINAL,Like,,Hot
+1814,WARM OUTSIDE,FINAL,Warm outside,,Hot
+1815,TALK ABOUT,FINAL,Talk about,,Hot
+1816,WARM INSIDE,FINAL,Warm inside,,Hot
+1817,LIKE,FINAL,Like,,Hot
+1818,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Hot
+1819,WARM,FINAL,Warm,,Hot
+1820,LIKE,FINAL,Like,,Hot
+1821,WARM OUTSIDE,FINAL,Warm outside,,Hot
+1822,WARM INSIDE,FINAL,Warm inside,,Hot
+1823,ABOUT ME,MENU,,About me,About me
+1824,BODY,MENU,,Body,Body
+1825,BACK,FINAL,Back,,Body
+1826,I FEEL GOOD,FINAL,I feel good,,Body
+1827,I FEEL GOOD,FINAL,I feel good,,Body
+1828,OUCH,FINAL,Ouch,,Body
+1829,TYPES OF OUCH,MENU,,Types of ouch,Types of ouch
+1830,I WILL FEEL OUCH,FINAL,I will feel ouch,,Types of ouch
+1831,MOM,FINAL,Mom,,Types of ouch
+1832,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1833,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1834,CANCER,FINAL,Cancer,,Types of ouch
+1835,I WILL FEEL OUCH,FINAL,I will feel ouch,,Types of ouch
+1836,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1837,SICK OUCH,FINAL,Sick ouch,,Types of ouch
+1838,CANCER,FINAL,Cancer,,Types of ouch
+1839,I FEEL OUCH,FINAL,I feel ouch,,Types of ouch
+1840,I FEEL OUCH,FINAL,I feel ouch,,Types of ouch
+1841,MOM,FINAL,Mom,,Types of ouch
+1842,MOM,FINAL,Mom,,Types of ouch
+1843,TILLIE,FINAL,Tillie,,Types of ouch
+1844,TILLIE,FINAL,Tillie,,Types of ouch
+1845,I WILL FEEL OUCH,FINAL,I will feel ouch,,Types of ouch
+1846,ELLIE,FINAL,Ellie,,Types of ouch
+1847,MOM,FINAL,Mom,,Types of ouch
+1848,MOM,FINAL,Mom,,Types of ouch
+1849,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1850,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1851,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+1852,I WILL FEEL OUCH,FINAL,I will feel ouch,,Types of ouch
+1853,MOM,FINAL,Mom,,Types of ouch
+1854,CANCER,FINAL,Cancer,,Types of ouch
+1855,MOM,FINAL,Mom,,Types of ouch
+1856,MOM,FINAL,Mom,,Types of ouch
+1857,MOM,FINAL,Mom,,Types of ouch
+1858,ELLIE,FINAL,Ellie,,Types of ouch
+1859,ABOUT ME,MENU,,About me,About me
+1860,FEELINGS,MENU,,Feelings,Feelings
+1861,MAD,MENU,,Mad,Mad
+1862,I WILL FEEL MAD,FINAL,I will feel mad,,Mad
+1863,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+1864,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+1865,I FEEL MAD,FINAL,I feel mad,,Mad
+1866,I FEEL MAD,FINAL,I feel mad,,Mad
+1867,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+1868,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+1869,I FEEL MAD,FINAL,I feel mad,,Mad
+1870,ABOUT ME,MENU,,About me,About me
+1871,TEMPERATURE,MENU,,Temperature,Temperature
+1872,WARM,MENU,,Warm,Warm
+1873,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm
+1874,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm
+1875,HOT,FINAL,Hot,,Warm
+1876,I FEEL HOT,FINAL,I feel hot,,Warm
+1877,HOT,FINAL,Hot,,Warm
+1878,ABOUT ME,MENU,,About me,About me
+1879,BODY,MENU,,Body,Body
+1880,MEDICINE,MENU,,Medicine,Medicine
+1881,SICK OUCH ANTIBIOTICS,FINAL,Sick ouch antibiotics,,Medicine
+1882,I FEEL GOOD,FINAL,I feel good,,Medicine
+1883,I FEEL GOOD,FINAL,I feel good,,Medicine
+1884,ABOUT ME,MENU,,About me,About me
+1885,FEELINGS,MENU,,Feelings,Feelings
+1886,MAD,MENU,,Mad,Mad
+1887,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+1888,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+1889,ABOUT ME,MENU,,About me,About me
+1890,FEELINGS,MENU,,Feelings,Feelings
+1891,EXCITED,MENU,,Excited,Excited
+1892,I FEEL EXCITED,FINAL,I feel excited,,Excited
+1893,I FEEL EXCITED,FINAL,I feel excited,,Excited
+1894,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+1895,I FEEL EXCITED,FINAL,I feel excited,,Excited
+1896,I FELT EXCITED,FINAL,I felt excited,,Excited
+1897,I FEEL EXCITED,FINAL,I feel excited,,Excited
+1898,I WILL FEEL EXCITED,FINAL,I will feel excited,,Excited
+1899,ABOUT ME,MENU,,About me,About me
+1900,BODY,MENU,,Body,Body
+1901,I FEEL GOOD,FINAL,I feel good,,Body
+1902,TODAY,FINAL,Today,,Body
+1903,TODAY,FINAL,Today,,Body
+1904,I FEEL GOOD,FINAL,I feel good,,Body
+1905,OUCH,FINAL,Ouch,,Body
+1906,PAST,FINAL,Past,,Body
+1907,I FEEL GOOD,FINAL,I feel good,,Body
+1908,I FEEL GOOD,FINAL,I feel good,,Body
+1909,I FEEL GOOD,FINAL,I feel good,,Body
+1910,I FEEL GOOD,FINAL,I feel good,,Body
+1911,I FEEL GOOD,FINAL,I feel good,,Body
+1912,TODAY,FINAL,Today,,Body
+1913,PAST,FINAL,Past,,Body
+1914,OUCH,FINAL,Ouch,,Body
+1915,MEDICINE,MENU,,Medicine,Medicine
+1916,SICK OUCH ANTIBIOTICS,FINAL,Sick ouch antibiotics,,Medicine
+1917,NO,FINAL,No,,Medicine
+1918,YES,FINAL,Yes,,Medicine
+1919,YES,FINAL,Yes,,Medicine
+1920,YES,FINAL,Yes,,Medicine
+1921,EXPERIENCE,MENU,,Experience,Experience
+1922,MOM,FINAL,Mom,,Experience
+1923,TOUCH,FINAL,Touch,,Experience
+1924,ISABELLE,FINAL,Isabelle,,Experience
+1925,ELLIE,FINAL,Ellie,,Experience
+1926,MOM,FINAL,Mom,,Experience
+1927,MOM,FINAL,Mom,,Experience
+1928,ISABELLE,FINAL,Isabelle,,Experience
+1929,MOM,FINAL,Mom,,Experience
+1930,ISABELLE,FINAL,Isabelle,,Experience
+1931,MOM,FINAL,Mom,,Experience
+1932,TOUCH,FINAL,Touch,,Experience
+1933,ELLIE,FINAL,Ellie,,Experience
+1934,SMELL,FINAL,Smell,,Experience
+1935,TASTE,FINAL,Taste,,Experience
+1936,TOUCH,FINAL,Touch,,Experience
+1937,ISABELLE,FINAL,Isabelle,,Experience
+1938,MOM,FINAL,Mom,,Experience
+1939,SEE,FINAL,See,,Experience
+1940,MOM,FINAL,Mom,,Experience
+1941,TOUCH,FINAL,Touch,,Experience
+1942,MOM,FINAL,Mom,,Experience
+1943,MOM,FINAL,Mom,,Experience
+1944,BACK,FINAL,Back,,Experience
+1945,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences
+1946,OPPOSITES,MENU,,Opposites,Opposites
+1947,HIGH UP,FINAL,High up,,Opposites
+1948,LIGHT,FINAL,Light,,Opposites
+1949,LIGHT,FINAL,Light,,Opposites
+1950,FIX,FINAL,Fix,,Opposites
+1951,FIX,FINAL,Fix,,Opposites
+1952,LIGHT,FINAL,Light,,Opposites
+1953,FIX,FINAL,Fix,,Opposites
+1954,DARK,FINAL,Dark,,Opposites
+1955,DARK,FINAL,Dark,,Opposites
+1956,DARK,FINAL,Dark,,Opposites
+1957,LIGHT,FINAL,Light,,Opposites
+1958,DARK,FINAL,Dark,,Opposites
+1959,DOWN LOW,FINAL,Down low,,Opposites
+1960,HIGH UP,FINAL,High up,,Opposites
+1961,LIGHT,FINAL,Light,,Opposites
+1962,FIX,FINAL,Fix,,Opposites
+1963,DARK,FINAL,Dark,,Opposites
+1964,DOWN LOW,FINAL,Down low,,Opposites
+1965,HIGH UP,FINAL,High up,,Opposites
+1966,HIGH UP,FINAL,High up,,Opposites
+1967,LIGHT,FINAL,Light,,Opposites
+1968,HIGH UP,FINAL,High up,,Opposites
+1969,DOWN LOW,FINAL,Down low,,Opposites
+1970,BROKEN,FINAL,Broken,,Opposites
+1971,DOWN LOW,FINAL,Down low,,Opposites
+1972,BIG,FINAL,Big,,Opposites
+1973,HIGH UP,FINAL,High up,,Opposites
+1974,HIGH UP,FINAL,High up,,Opposites
+1975,YES,FINAL,Yes,,Opposites
+1976,YES,FINAL,Yes,,Opposites
+1977,YES,FINAL,Yes,,Opposites
+1978,NO,FINAL,No,,Opposites
+1979,YES,FINAL,Yes,,Opposites
+1980,BACK,FINAL,Back,,Opposites
+1981,ABOUT ME,MENU,,About me,About me
+1982,TEMPERATURE,MENU,,Temperature,Temperature
+1983,CLOUD,FINAL,Cloud,,Temperature
+1984,HOT,FINAL,Hot,,Temperature
+1985,LIKE,FINAL,Like,,Temperature
+1986,HOT,FINAL,Hot,,Temperature
+1987,I FEEL HOT,FINAL,I feel hot,,Temperature
+1988,I FEEL HOT,FINAL,I feel hot,,Temperature
+1989,I FEEL HOT,FINAL,I feel hot,,Temperature
+1990,I FEEL HOT,FINAL,I feel hot,,Temperature
+1991,I FEEL HOT,FINAL,I feel hot,,Temperature
+1992,I FEEL HOT,FINAL,I feel hot,,Temperature
+1993,LIKE,FINAL,Like,,Temperature
+1994,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Temperature
+1995,I FEEL HOT,FINAL,I feel hot,,Temperature
+1996,I FEEL HOT,FINAL,I feel hot,,Temperature
+1997,I FEEL HOT,FINAL,I feel hot,,Temperature
+1998,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Temperature
+1999,LIKE,FINAL,Like,,Temperature
+2000,LIKE,FINAL,Like,,Temperature
+2001,I FEEL HOT,FINAL,I feel hot,,Temperature
+2002,I FEEL HOT,FINAL,I feel hot,,Temperature
+2003,I FEEL HOT,FINAL,I feel hot,,Temperature
+2004,I FEEL HOT,FINAL,I feel hot,,Temperature
+2005,EXPERIENCE,MENU,,Experience,Experience
+2006,READ,FINAL,Read,,Experience
+2007,TOUCH,FINAL,Touch,,Experience
+2008,TOUCH,FINAL,Touch,,Experience
+2009,TILLIE,FINAL,Tillie,,Experience
+2010,MOM,FINAL,Mom,,Experience
+2011,MOM,FINAL,Mom,,Experience
+2012,TOUCH,FINAL,Touch,,Experience
+2013,BACK,FINAL,Back,,Experience
+2014,EXPERIENCE,MENU,,Experience,Experience
+2015,TOUCH,FINAL,Touch,,Experience
+2016,TOUCH,FINAL,Touch,,Experience
+2017,MOM,FINAL,Mom,,Experience
+2018,SMELL,FINAL,Smell,,Experience
+2019,MOM,FINAL,Mom,,Experience
+2020,TOUCH,FINAL,Touch,,Experience
+2021,READING BOOK,FINAL,Reading book,,Experience
+2022,HOLIDAYS,FINAL,Holidays,,Experience
+2023,HALLOWEEN,FINAL,Halloween,,Experience
+2024,ABOUT ME,MENU,,About me,About me
+2025,BODY,MENU,,Body,Body
+2026,I FEEL GOOD,FINAL,I feel good,,Body
+2027,TODAY,FINAL,Today,,Body
+2028,OUCH,FINAL,Ouch,,Body
+2029,I FEEL GOOD,FINAL,I feel good,,Body
+2030,OUCH,FINAL,Ouch,,Body
+2031,I FEEL GOOD,FINAL,I feel good,,Body
+2032,TODAY,FINAL,Today,,Body
+2033,OUCH,FINAL,Ouch,,Body
+2034,OUCH,FINAL,Ouch,,Body
+2035,I FEEL GOOD,FINAL,I feel good,,Body
+2036,I FEEL GOOD,FINAL,I feel good,,Body
+2037,I FEEL GOOD,FINAL,I feel good,,Body
+2038,ABOUT ME,MENU,,About me,About me
+2039,BODY,MENU,,Body,Body
+2040,I FEEL GOOD,FINAL,I feel good,,Body
+2041,OUCH,FINAL,Ouch,,Body
+2042,I FEEL GOOD,FINAL,I feel good,,Body
+2043,I FEEL GOOD,FINAL,I feel good,,Body
+2044,MEMORY AND TIME,MENU,,Memory and time,Memory and time
+2045,ABOUT ME,MENU,,About me,About me
+2046,BODY,MENU,,Body,Body
+2047,TUMMY,FINAL,Tummy,,Body
+2048,I FEEL GOOD,FINAL,I feel good,,Body
+2049,TODAY,FINAL,Today,,Body
+2050,OUCH,FINAL,Ouch,,Body
+2051,I FEEL GOOD,FINAL,I feel good,,Body
+2052,I FEEL GOOD,FINAL,I feel good,,Body
+2053,OUCH,FINAL,Ouch,,Body
+2054,I FEEL GOOD,FINAL,I feel good,,Body
+2055,OUCH,FINAL,Ouch,,Body
+2056,TODAY,FINAL,Today,,Body
+2057,TODAY,FINAL,Today,,Body
+2058,I FEEL GOOD,FINAL,I feel good,,Body
+2059,OUCH,FINAL,Ouch,,Body
+2060,OUCH,FINAL,Ouch,,Body
+2061,OUCH,FINAL,Ouch,,Body
+2062,I FEEL GOOD,FINAL,I feel good,,Body
+2063,OUCH,FINAL,Ouch,,Body
+2064,I FEEL GOOD,FINAL,I feel good,,Body
+2065,ABOUT ME,MENU,,About me,About me
+2066,BODY,MENU,,Body,Body
+2067,TUMMY,FINAL,Tummy,,Body
+2068,I FEEL GOOD,FINAL,I feel good,,Body
+2069,I FEEL GOOD,FINAL,I feel good,,Body
+2070,TODAY,FINAL,Today,,Body
+2071,OUCH,FINAL,Ouch,,Body
+2072,OUCH,FINAL,Ouch,,Body
+2073,OUCH,FINAL,Ouch,,Body
+2074,ABOUT ME,MENU,,About me,About me
+2075,TREATS,FINAL,Treats,,About me
+2076,PISTACHIO,FINAL,Pistachio,,About me
+2077,SUNFLOWER SEEDS,FINAL,Sunflower seeds,,About me
+2078,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+2079,PREFERENCES,FINAL,Preferences,,Descriptions and preferences
+2080,PREFERENCES,FINAL,Preferences,,Descriptions and preferences
+2081,INSIDE,FINAL,Inside,,Descriptions and preferences
+2082,TABLET,FINAL,Tablet,,Descriptions and preferences
+2083,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2084,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2085,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2086,OUTSIDE,FINAL,Outside,,Descriptions and preferences
+2087,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2088,INSIDE,FINAL,Inside,,Descriptions and preferences
+2089,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2090,OUTSIDE,FINAL,Outside,,Descriptions and preferences
+2091,TABLET,FINAL,Tablet,,Descriptions and preferences
+2092,FIX,FINAL,fix,,Descriptions and preferences
+2093,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2094,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2095,TABLET,FINAL,Tablet,,Descriptions and preferences
+2096,GREEN,FINAL,green,,Descriptions and preferences
+2097,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2098,LIKE,FINAL,Like,,Descriptions and preferences
+2099,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2100,OUTSIDE,FINAL,Outside,,Descriptions and preferences
+2101,ISABELLE,FINAL,Isabelle,,Descriptions and preferences
+2102,FIX,FINAL,Fix,,Descriptions and preferences
+2103,BROKEN,FINAL,Broken,,Descriptions and preferences
+2104,FIX,FINAL,Fix,,Descriptions and preferences
+2105,FIX,FINAL,Fix,,Descriptions and preferences
+2106,BLUE,FINAL,Blue,,Descriptions and preferences
+2107,BROWN,FINAL,Brown,,Descriptions and preferences
+2108,FIX,FINAL,Fix,,Descriptions and preferences
+2109,OUTSIDE,FINAL,Outside,,Descriptions and preferences
+2110,HIGH UP,FINAL,High up,,Descriptions and preferences
+2111,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2112,BLUE,FINAL,Blue,,Descriptions and preferences
+2113,FIX,FINAL,Fix,,Descriptions and preferences
+2114,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2115,BLUE,FINAL,Blue,,Descriptions and preferences
+2116,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2117,FIX,FINAL,Fix,,Descriptions and preferences
+2118,BROWN,FINAL,Brown,,Descriptions and preferences
+2119,BLUE,FINAL,Blue,,Descriptions and preferences
+2120,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2121,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2122,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2123,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2124,FIX,FINAL,Fix,,Descriptions and preferences
+2125,BROWN,FINAL,Brown,,Descriptions and preferences
+2126,BROWN,FINAL,Brown,,Descriptions and preferences
+2127,WHITE,FINAL,White,,Descriptions and preferences
+2128,MOM,FINAL,Mom,,Descriptions and preferences
+2129,MOM,FINAL,Mom,,Descriptions and preferences
+2130,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2131,MOM,FINAL,Mom,,Descriptions and preferences
+2132,FIX,FINAL,Fix,,Descriptions and preferences
+2133,BROKEN,FINAL,Broken,,Descriptions and preferences
+2134,BLUE,FINAL,Blue,,Descriptions and preferences
+2135,BLUE,FINAL,Blue,,Descriptions and preferences
+2136,OUTSIDE,FINAL,Outside,,Descriptions and preferences
+2137,WHITE,FINAL,White,,Descriptions and preferences
+2138,BLUE,FINAL,Blue ,,Descriptions and preferences
+2139,FIX,FINAL,Fix,,Descriptions and preferences
+2140,FIX,FINAL,Fix,,Descriptions and preferences
+2141,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2142,FIX,FINAL,Fix,,Descriptions and preferences
+2143,WHITE,FINAL,White,,Descriptions and preferences
+2144,BLUE,FINAL,Blue,,Descriptions and preferences
+2145,BROKEN,FINAL,Broken,,Descriptions and preferences
+2146,FIX,FINAL,Fix,,Descriptions and preferences
+2147,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2148,INSIDE,FINAL,Inside,,Descriptions and preferences
+2149,OUTSIDE,FINAL,Outside,,Descriptions and preferences
+2150,FIX,FINAL,Fix,,Descriptions and preferences
+2151,BROKEN,FINAL,Broken,,Descriptions and preferences
+2152,FIX,FINAL,Fix,,Descriptions and preferences
+2153,FIX,FINAL,Fix,,Descriptions and preferences
+2154,FIX,FINAL,Fix,,Descriptions and preferences
+2155,WHITE,FINAL,White,,Descriptions and preferences
+2156,WHITE,FINAL,White,,Descriptions and preferences
+2157,FIX,FINAL,Fix,,Descriptions and preferences
+2158,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2159,OUTSIDE,FINAL,Outside,,Descriptions and preferences
+2160,INSIDE,FINAL,Inside,,Descriptions and preferences
+2161,OUTSIDE,FINAL,Outside,,Descriptions and preferences
+2162,INSIDE,FINAL,Inside,,Descriptions and preferences
+2163,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2164,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2165,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2166,BLUE,FINAL,Blue,,Descriptions and preferences
+2167,FIX,FINAL,Fix,,Descriptions and preferences
+2168,BROWN,FINAL,Brown,,Descriptions and preferences
+2169,BROWN,FINAL,Brown,,Descriptions and preferences
+2170,BROKEN,FINAL,Broken,,Descriptions and preferences
+2171,BLUE,FINAL,Blue,,Descriptions and preferences
+2172,BROWN,FINAL,Brown,,Descriptions and preferences
+2173,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2174,FIX,FINAL,Fix,,Descriptions and preferences
+2175,BLUE,FINAL,Blue,,Descriptions and preferences
+2176,TABLET,FINAL,Tablet,,Descriptions and preferences
+2177,OUTSIDE,FINAL,Outside,,Descriptions and preferences
+2178,FIX,FINAL,Fix,,Descriptions and preferences
+2179,BROKEN,FINAL,Broken,,Descriptions and preferences
+2180,FIX,FINAL,Fix,,Descriptions and preferences
+2181,BROWN,FINAL,Brown,,Descriptions and preferences
+2182,DOWN LOW,FINAL,Down low,,Descriptions and preferences
+2183,BROKEN,FINAL,Broken,,Descriptions and preferences
+2184,OUTSIDE,FINAL,outside,,Descriptions and preferences
+2185,OUTSIDE,FINAL,Outside,,Descriptions and preferences
+2186,BROKEN,FINAL,Broken,,Descriptions and preferences
+2187,BROKEN,FINAL,Broken,,Descriptions and preferences
+2188,OUTSIDE,FINAL,outside,,Descriptions and preferences
+2189,BLUE,FINAL,blue,,Descriptions and preferences
+2190,DOWN LOW,FINAL,down low,,Descriptions and preferences
+2191,OUTSIDE,FINAL,outside,,Descriptions and preferences
+2192,OUTSIDE,FINAL,outside,,Descriptions and preferences
+2193,INSIDE,FINAL,inside,,Descriptions and preferences
+2194,FIX,FINAL,fix,,Descriptions and preferences
+2195,MOM,FINAL,Mom,Experience,Experience
+2196,MOM,FINAL,Mom,,Experience
+2197,MOM,FINAL,Mom,,Experience
+2198,TOUCH,FINAL,Touch,,Experience
+2199,TOUCH,FINAL,Touch,,Experience
+2200,TOUCH,FINAL,Touch,,Experience
+2201,MOM,FINAL,Mom,,Experience
+2202,MOM,FINAL,Mom,,Experience
+2203,TOUCH,FINAL,Touch,,Experience
+2204,MOM,FINAL,Mom,,Experience
+2205,TOUCH,FINAL,Touch,,Experience
+2206,MOM,FINAL,Mom,,Experience
+2207,TOUCH,FINAL,Touch,,Experience
+2208,TOUCH,FINAL,Touch,,Experience
+2209,SEE,FINAL,See,,Experience
+2210,TOUCH,FINAL,Touch,,Experience
+2211,TOUCH,FINAL,Touch,,Experience
+2212,SEE,FINAL,See,,Experience
+2213,MOM,FINAL,Mom,,Experience
+2214,MOM,FINAL,Mom,,Experience
+2215,MOM,FINAL,Mom,,Experience
+2216,SNUGGLE,FINAL,Snuggle,,Experience
+2217,TRACING AND WRITING,FINAL,Tracing and writing,,Experience
+2218,TYPING,FINAL,Typing,,Experience
+2219,MEMORY & TIME,MENU,,Memory & time,Memory & time
+2220,TIME,MENU,,Time,Time
+2221,YESTERDAY,FINAL,Yesterday,,Time
+2222,YESTERDAY,FINAL,Yesterday,,Time
+2223,YESTERDAY,FINAL,Yesterday,,Time
+2224,PAST,FINAL,Past,,Time
+2225,PAST,FINAL,Past,,Time
+2226,YESTERDAY,FINAL,Yesterday,,Time
+2227,YESTERDAY,FINAL,Yesterday,,Time
+2228,YESTERDAY,FINAL,Yesterday,,Time
+2229,YESTERDAY,FINAL,Yesterday,,Time
+2230,YESTERDAY,FINAL,Yesterday,,Time
+2231,PAST,FINAL,Past,,Time
+2232,YESTERDAY,FINAL,Yesterday,,Time
+2233,YESTERDAY,FINAL,Yesterday,,Time
+2234,YESTERDAY,FINAL,Yesterday,,Time
+2235,PAST,FINAL,Past,,Time
+2236,HAPPY,FINAL,Happy,,Time
+2237,FUTURE,FINAL,Future,,Time
+2238,LOOK AT PICTURES,FINAL,Look at pictures,,Time
+2239,BODY,FINAL,Body,,Time
+2240,LIKE,FINAL,Like,,Time
+2241,TOMORROW,FINAL,Tomorrow,,Time
+2242,TOMORROW,FINAL,Tomorrow,,Time
+2243,LIKE,FINAL,Like,,Time
+2244,YESTERDAY,FINAL,Yesterday,,Time
+2245,FUTURE,FINAL,Future,,Time
+2246,YESTERDAY,FINAL,Yesterday,,Time
+2247,TOMORROW,FINAL,Tomorrow,,Time
+2248,TODAY,FINAL,Today,,Time
+2249,TODAY,FINAL,Today,,Time
+2250,TODAY,FINAL,Today,,Time
+2251,YESTERDAY,FINAL,Yesterday,,Time
+2252,ABOUT ME,MENU,,About me,About me
+2253,BODY,MENU,,Body,Body
+2254,I FEEL GOOD,FINAL,I feel good,,Body
+2255,I FEEL GOOD,FINAL,I feel good,,Body
+2256,BACK,FINAL,Back,,Body
+2257,OUCH,FINAL,Ouch,,Body
+2258,I FEEL GOOD,FINAL,I feel good,,Body
+2259,I FEEL GOOD,FINAL,I feel good,,Body
+2260,I FEEL GOOD,FINAL,I feel good,,Body
+2261,TODAY,FINAL,Today,,Body
+2262,I FEEL GOOD,FINAL,I feel good,,Body
+2263,I FEEL GOOD,FINAL,I feel good,,Body
+2264,OUCH,FINAL,Ouch,,Body
+2265,I FEEL GOOD,FINAL,I feel good,,Body
+2266,TODAY,FINAL,Today,,Body
+2267,TODAY,FINAL,Today,,Body
+2268,I FEEL GOOD,FINAL,I feel good,,Body
+2269,I FEEL GOOD,FINAL,I feel good,,Body
+2270,OUCH,FINAL,Ouch,,Body
+2271,I FEEL GOOD,FINAL,I feel good,,Body
+2272,I FEEL GOOD,FINAL,I feel good,,Body
+2273,OUCH,FINAL,Ouch,,Body
+2274,OUCH,FINAL,Ouch,,Body
+2275,I FEEL GOOD,FINAL,I feel good,,Body
+2276,I FEEL GOOD,FINAL,I feel good,,Body
+2277,OUCH,FINAL,Ouch,,Body
+2278,OUCH,FINAL,Ouch,,Body
+2279,OUCH,FINAL,Ouch,,Body
+2280,I FEEL GOOD,FINAL,I feel good,,Body
+2281,OUCH,FINAL,Ouch,,Body
+2282,OUCH,FINAL,Ouch,,Body
+2283,I FEEL GOOD,FINAL,I feel good,,Body
+2284,OUCH,FINAL,Ouch,,Body
+2285,TODAY,FINAL,Today,,Body
+2286,I FEEL GOOD,FINAL,I feel good,,Body
+2287,I FEEL GOOD,FINAL,I feel good,,Body
+2288,ABOUT ME,MENU,,About me,About me
+2289,BODY,MENU,,Body,Body
+2290,OUCH,FINAL,Ouch,,Body
+2291,I FEEL GOOD,FINAL,I feel good,,Body
+2292,I FEEL GOOD,FINAL,I feel good,,Body
+2293,PAST,FINAL,Past,,Body
+2294,TODAY,FINAL,Today,,Body
+2295,I FEEL GOOD,FINAL,I feel good,,Body
+2296,I FEEL GOOD,FINAL,I feel good,,Body
+2297,OUCH,FINAL,Ouch,,Body
+2298,I FEEL GOOD,FINAL,I feel good,,Body
+2299,I FEEL GOOD,FINAL,I feel good,,Body
+2300,OUCH,FINAL,Ouch,,Body
+2301,OUCH,FINAL,Ouch,,Body
+2302,OUCH,FINAL,Ouch,,Body
+2303,TODAY,FINAL,Today ,,Body
+2304,TODAY,FINAL,Today,,Body
+2305,I FEEL GOOD,FINAL,I feel good,,Body
+2306,I FEEL GOOD,FINAL,I feel good,,Body
+2307,I FEEL GOOD,FINAL,I feel good,,Body
+2308,YES AND NO,FINAL,Yes and no,,Body
+2309,NO,FINAL,No,,Body
+2310,YES,FINAL,Yes,,Body
+2311,YES,FINAL,Yes,,Body
+2312,BACK,FINAL,Back,,Body
+2313,ABOUT ME,MENU,,About me,About me
+2314,TEMPERATURE,MENU,,Temperature,Temperature
+2315,WARM,FINAL,Warm,,Temperature
+2316,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Temperature
+2317,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Temperature
+2318,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Temperature
+2319,WARM INSIDE,FINAL,Warm inside,,Temperature
+2320,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Temperature
+2321,WARM OUTSIDE,FINAL,Warm outside,,Temperature
+2322,RAIN,FINAL,Rain,,Temperature
+2323,RAIN,FINAL,Rain,,Temperature
+2324,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences
+2325,OPPOSITES,MENU,,Opposites,Opposites
+2326,BROKEN,FINAL,Broken,,Opposites
+2327,BROKEN,FINAL,broken,,Opposites
+2328,FIX,FINAL,Fix,,Opposites
+2329,WHITE,FINAL,White,,Opposites
+2330,DOWN LOW,FINAL,Down Low,,Opposites
+2331,INSIDE,FINAL,Inside,,Opposites
+2332,FIX,FINAL,Fix,,Opposites
+2333,I HELP,FINAL,I help,,Opposites
+2334,I HELP,FINAL,I help,,Opposites
+2335,CLEAN,FINAL,Clean,,Opposites
+2336,LIKE,FINAL,Like,,Opposites
+2337,LIKE,FINAL,Like,,Opposites
+2338,LIKE,FINAL,Like,,Opposites
+2339,TILLIE,FINAL,Tillie,,Opposites
+2340,LIKE,FINAL,Like,,Opposites
+2341,NO LIKE,FINAL,No like,,Opposites
+2342,LIKE,FINAL,Like,,Opposites
+2343,I HELP,FINAL,I help,,Opposites
+2344,TILLIE,FINAL,Tillie,,Opposites
+2345,I HELP,FINAL,I help,,Opposites
+2346,TILIE,FINAL,Tilie,,Opposites
+2347,LIKE,FINAL,Like,,Opposites
+2348,LIKE,FINAL,Like,,Opposites
+2349,LIKE,FINAL,Like,,Opposites
+2350,NO LIKE,FINAL,No like,,Opposites
+2351,TILLIE,FINAL,Tillie,,Opposites
+2352,LIKE,FINAL,Like,,Opposites
+2353,LIKE,FINAL,Like,,Opposites
+2354,LIKE,FINAL,Like,,Opposites
+2355,I HELP,FINAL,I help,,Opposites
+2356,NO LIKE,FINAL,No like,,Opposites
+2357,NO LIKE,FINAL,No like,,Opposites
+2358,NO LIKE,FINAL,No like,,Opposites
+2359,I HELP,FINAL,I help,,Opposites
+2360,TILLIE,FINAL,Tillie,,Opposites
+2361,MOM,FINAL,Mom,,Opposites
+2362,I HELP,FINAL,I help,,Opposites
+2363,MOM,FINAL,Mom,,Opposites
+2364,MOM,FINAL,Mom,,Opposites
+2365,I HELP,FINAL,I help,,Opposites
+2366,I HELP,FINAL,I help,,Opposites
+2367,LIKE,FINAL,Like,,Opposites
+2368,LIKE,FINAL,Like,,Opposites
+2369,LIKE,FINAL,Like,,Opposites
+2370,LIKE,FINAL,Like,,Opposites
+2371,NO LIKE,FINAL,No like,,Opposites
+2372,LIKE,FINAL,Like,,Opposites
+2373,LIKE,FINAL,Like,,Opposites
+2374,LIKE,FINAL,Like ,,Opposites
+2375,LIKE,FINAL,Like,,Opposites
+2376,LIKE,FINAL,Like,,Opposites
+2377,LIKE,FINAL,Like,,Opposites
+2378,LIKE,FINAL,Like,,Opposites
+2379,MOM,FINAL,Mom,,Opposites
+2380,ISABELLE,FINAL,Isabelle,,Opposites
+2381,MOM,FINAL,Mom,,Opposites
+2382,LIKE,FINAL,Like,,Opposites
+2383,LIKE,FINAL,Like,,Opposites
+2384,MOM,FINAL,Mom,,Opposites
+2385,MOM,FINAL,Mom,,Opposites
+2386,FIX,FINAL,Fix,,Opposites
+2387,ELLIE,FINAL,Ellie,,Opposites
+2388,LIKE,FINAL,Like,,Opposites
+2389,LIKE,FINAL,Like,,Opposites
+2390,LIKE,FINAL,Like,,Opposites
+2391,LIKE,FINAL,Like,,Opposites
+2392,LIKE,FINAL,Like,,Opposites
+2393,LIKE,FINAL,Like,,Opposites
+2394,LIKE,FINAL,Like,,Opposites
+2395,MOM,FINAL,Mom,,Opposites
+2396,ISABELLE,FINAL,Isabelle,,Opposites
+2397,FIX,FINAL,Fix,,Opposites
+2398,LIKE,FINAL,Like,,Opposites
+2399,LIKE,FINAL,Like,,Opposites
+2400,MOM,FINAL,Mom,,Opposites
+2401,FIX,FINAL,Fix,,Opposites
+2402,I HELP,FINAL,I help,,Opposites
+2403,MOM,FINAL,Mom,,Opposites
+2404,LIKE,FINAL,Like,,Opposites
+2405,FAST,FINAL,Fast,,Opposites
+2406,MOM,FINAL,Mom,,Opposites
+2407,FIX,FINAL,Fix,,Opposites
+2408,SLOW,FINAL,Slow,,Opposites
+2409,FAST,FINAL,Fast,,Opposites
+2410,MOM,FINAL,Mom,,Opposites
+2411,LIKE,FINAL,Like,,Opposites
+2412,LIKE,FINAL,Like,,Opposites
+2413,LIKE,FINAL,Like,,Opposites
+2414,LIKE,FINAL,Like,,Opposites
+2415,LIKE,FINAL,Like,,Opposites
+2416,MOM,FINAL,Mom,,Opposites
+2417,MOM,FINAL,Mom,,Opposites
+2418,FIX,FINAL,fix,,Opposites
+2419,LIKE,FINAL,Like,,Opposites
+2420,SLOW,FINAL,Slow,,Opposites
+2421,LIKE,FINAL,Like,,Opposites
+2422,SLOW,FINAL,Slow,,Opposites
+2423,LIKE,FINAL,Like,,Opposites
+2424,MOM,FINAL,Mom,,Opposites
+2425,MOM,FINAL,Mom,,Opposites
+2426,FIX,FINAL,Fix,,Opposites
+2427,I HELP,FINAL,I help,,Opposites
+2428,ELLIE,FINAL,Ellie,,Opposites
+2429,ELLIE,FINAL,Ellie,,Opposites
+2430,ISABELLE,FINAL,Isabelle,,Opposites
+2431,LIKE,FINAL,Like,,Opposites
+2432,LIKE,FINAL,Like,,Opposites
+2433,LIKE,FINAL,Like,,Opposites
+2434,MOM,FINAL,Mom,,Opposites
+2435,LIKE,FINAL,Like,,Opposites
+2436,LIKE,FINAL,Like,,Opposites
+2437,SLOW,FINAL,Slow,,Opposites
+2438,FAST,FINAL,Fast,,Opposites
+2439,MOM,FINAL,Mom,,Opposites
+2440,MOM,FINAL,Mom,,Opposites
+2441,TILLIE,FINAL,Tillie,,Opposites
+2442,LIKE,FINAL,Like,,Opposites
+2443,LIKE,FINAL,Like,,Opposites
+2444,LIKE,FINAL,Like,,Opposites
+2445,NO LIKE,FINAL,No like,,Opposites
+2446,OUTSIDE,FINAL,Outside,,Opposites
+2447,SLOW,FINAL,Slow,,Opposites
+2448,NO LIKE,FINAL,No like,,Opposites
+2449,NO LIKE,FINAL,No like,,Opposites
+2450,I FEEL GOOD,FINAL,I feel good,,Opposites
+2451,I FEEL GOOD,FINAL,I feel good,,Opposites
+2452,NO LIKE,FINAL,No like,,Opposites
+2453,NO LIKE,FINAL,No like,,Opposites
+2454,I FEEL GOOD,FINAL,I feel good,,Opposites
+2455,I FEEL GOOD,FINAL,I feel good,,Opposites
+2456,TODAY,FINAL,Today,,Opposites
+2457,NO LIKE,FINAL,No like,,Opposites
+2458,TODAY,FINAL,Today,,Opposites
+2459,NO LIKE,FINAL,No like,,Opposites
+2460,NO LIKE,FINAL,No like,,Opposites
+2461,NO LIKE,FINAL,No like,,Opposites
+2462,NO LIKE,FINAL,No like,,Opposites
+2463,OUCH,FINAL,Ouch,,Opposites
+2464,I FEEL GOOD,FINAL,I feel good,,Opposites
+2465,I FEEL GOOD,FINAL,I feel good,,Opposites
+2466,I FEEL GOOD,FINAL,I feel good,,Opposites
+2467,NO LIKE,FINAL,No like,,Opposites
+2468,LIKE,FINAL,Like,,Opposites
+2469,NO LIKE,FINAL,No like,,Opposites
+2470,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+2471,FIX PLEASE,MENU,,Fix Please,Fix Please
+2472,BLUE,FINAL,Blue,,Fix Please
+2473,ELLIE,FINAL,Ellie,,Fix Please
+2474,ELLIE,FINAL,Ellie,,Fix Please
+2475,LIKE,FINAL,Like,,Fix Please
+2476,BROWN,FINAL,Brown,,Fix Please
+2477,BROWN,FINAL,Brown,,Fix Please
+2478,MOM,FINAL,Mom,,Fix Please
+2479,MOM,FINAL,Mom,,Fix Please
+2480,BROKEN,FINAL,Broken,,Fix Please
+2481,MOM,FINAL,Mom,,Fix Please
+2482,WHITE,FINAL,White,,Fix Please
+2483,WHITE,FINAL,White,,Fix Please
+2484,BLUE,FINAL,Blue ,,Fix Please
+2485,ABOUT ME,MENU,,About me,About me
+2486,TEMPERATURE,MENU,,Temperature,Temperature
+2487,HOT,FINAL,Hot,,Temperature
+2488,HOT OUTSIDE,FINAL,Hot outside,,Temperature
+2489,HOT OUTSIDE,FINAL,Hot outside,,Temperature
+2490,ABOUT ME,MENU,,About me,About me
+2491,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+2492,CLEAN,MENU,,Clean,Clean
+2493,FIX PLEASE,MENU,,Fix Please,Fix Please
+2494,BLUE,FINAL,Blue,,Fix Please
+2495,BLUE,FINAL,Blue,,Fix Please
+2496,MOM,FINAL,Mom,,Fix Please
+2497,ELLIE,FINAL,Ellie,,Fix Please
+2498,FIX,FINAL,Fix,,Fix Please
+2499,BLUE,FINAL,Blue,,Fix Please
+2500,FIX,FINAL,Fix,,Fix Please
+2501,ISABELLE,FINAL,Isabelle,,Fix Please
+2502,BLUE,FINAL,Blue,,Fix Please
+2503,LIKE,FINAL,Like,,Fix Please
+2504,LIKE,FINAL,Like,,Fix Please
+2505,MOM,FINAL,Mom,,Fix Please
+2506,MOM,FINAL,Mom,,Fix Please
+2507,ELLIE,FINAL,Ellie,,Fix Please
+2508,LIKE,FINAL,Like,,Fix Please
+2509,ABOUT ME,MENU,,About me,About me
+2510,TEMPERATURE,MENU,,Temperature,Temperature
+2511,HOT,MENU,,Hot,Hot
+2512,HOT OUTSIDE,FINAL,Hot outside,,Hot
+2513,WIND,FINAL,Wind,,Hot
+2514,WIND,FINAL,Wind,,Hot
+2515,WIND,FINAL,Wind,,Hot
+2516,HOT,MENU,,Hot,Hot
+2517,I WILL FEEL COLD,FINAL,I will feel cold,,Hot
+2518,COLD OUTSIDE,FINAL,Cold outside,,Hot
+2519,TALK ABOUT,FINAL,Talk about,,Hot
+2520,COLD OUTSIDE,FINAL,Cold outside,,Hot
+2521,COLD OUTSIDE,FINAL,Cold outside,,Hot
+2522,I WILL FEEL COLD,FINAL,I will feel cold,,Hot
+2523,ABOUT ME,MENU,,About me,About me
+2524,TEMPERATURE,MENU,,Temperature,Temperature
+2525,WIND,FINAL,Wind,,Temperature
+2526,ABOUT ME,MENU,,About me,About me
+2527,TEMPERATURE,MENU,,Temperature,Temperature
+2528,HOT,MENU,,Hot,Hot
+2529,ABOUT ME,MENU,,About me,About me
+2530,FEELINGS,MENU,,Feelings,Feelings
+2531,HAPPY,MENU,,Happy,Happy
+2532,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+2533,ENTERTAINMENT,MENU,,Entertainment,Entertainment
+2534,ALEXA,MENU,,Alexa,Alexa
+2535,ABOUT ME,MENU,,About me,About me
+2536,FEELINGS,MENU,,Feelings,Feelings
+2537,MAD,MENU,,Mad,Mad
+2538,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+2539,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+2540,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+2541,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+2542,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+2543,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+2544,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+2545,ROMANTIC ERA,MENU,,Romantic Era,Romantic Era
+2546,SAINT SAENS,FINAL,Saint Saens,,Romantic Era
+2547,TCHAIKOVSKY,FINAL,Tchaikovsky,,Romantic Era
+2548,TCHAIKOVSKY,FINAL,Tchaikovsky,,Romantic Era
+2549,ENTERTAINMENT,MENU,,Entertainment,Entertainment
+2550,MUSIC,MENU,,Music,Music
+2551,BAROQUE,MENU,,Baroque,Baroque
+2552,BACH,FINAL,Bach,,Baroque
+2553,VIVALDI,FINAL,Vivaldi,,Baroque
+2554,PLACES,MENU,,Places,Places
+2555,BASKET,FINAL,Basket,,Places
+2556,BASKET,FINAL,Basket,,Places
+2557,BASKET,FINAL,Basket,,Places
+2558,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places
+2559,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places
+2560,BASKET,FINAL,Basket,,Places
+2561,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places
+2562,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places
+2563,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places
+2564,TILLIE'S HOUSE,FINAL,Tillie's house,,Places
+2565,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places
+2566,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places
+2567,BASKET,FINAL,Basket,,Places
+2568,BASKET,FINAL,Basket,,Places
+2569,TILLIE'S HOUSE,FINAL,Tillie's house,,Places
+2570,TILLIE'S HOUSE,FINAL,Tillie's house,,Places
+2571,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places
+2572,BASKET,FINAL,Basket,,Places
+2573,BASKET,FINAL,Basket,,Places
+2574,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places
+2575,OUTSIDE WALK,FINAL,Outside walk,,Places
+2576,TILLIE'S HOUSE,FINAL,Tillie's house,,Places
+2577,PLAYSTAND,FINAL,Playstand,,Places
+2578,PLAYSTAND,FINAL,Playstand,,Places
+2579,TILLIE'S HOUSE,FINAL,Tillie's house,,Places
+2580,BASKET,FINAL,Basket,,Places
+2581,TILLIE'S HOUSE,FINAL,Tillie's house,,Places
+2582,OUTSIDE WALK,FINAL,Outside walk,,Places
+2583,BASKET,FINAL,Basket,,Places
+2584,BASKET,FINAL,Basket,,Places
+2585,BASKET,FINAL,Basket,,Places
+2586,BASKET,FINAL,Basket,,Places
+2587,OUTSIDE WALK,FINAL,Outside walk,,Places
+2588,OUTSIDE WALK,FINAL,Outside walk,,Places
+2589,BASKET,FINAL,Basket,,Places
+2590,OUTSIDE WALK,FINAL,Outside walk,,Places
+2591,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places
+2592,HAPPY,MENU,,Happy,Happy
+2593,YES,FINAL,Yes,,Happy
+2594,NO,FINAL,No,,Happy
+2595,YES,FINAL,Yes,,Happy
+2596,NO,FINAL,No,,Happy
+2597,NO,FINAL,No,,Happy
+2598,YES,FINAL,Yes,,Happy
+2599,NO,FINAL,No,,Happy
+2600,NO,FINAL,No,,Happy
+2601,YES,FINAL,Yes,,Happy
+2602,YES,FINAL,Yes,,Happy
+2603,NO,FINAL,No,,Happy
+2604,YES,FINAL,Yes,,Happy
+2605,YES,FINAL,Yes,,Happy
+2606,TEMPERATURE,MENU,,Temperature,Temperature
+2607,HOT,MENU,,Hot,Hot
+2608,I FEEL HOT,FINAL,I feel hot,,Hot
+2609,I FEEL HOT,FINAL,I feel hot,,Hot
+2610,I FEEL HOT,FINAL,I feel hot,,Hot
+2611,I FEEL HOT,FINAL,I feel hot,,Hot
+2612,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Hot
+2613,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Hot
+2614,I WILL FEEL HOT,FINAL,I will feel hot,,Hot
+2615,I FEEL HOT,FINAL,I feel hot,,Hot
+2616,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Hot
+2617,I FEEL HOT,FINAL,I feel hot,,Hot
+2618,I FEEL HOT,FINAL,I feel hot,,Hot
+2619,LIKE,FINAL,Like,,Hot
+2620,TO PLAY,MENU,,To play,To play
+2621,TRACING AND WRITING,FINAL,Tracing and writing,,To play
+2622,TRACING,FINAL,Tracing ,,To play
+2623,FREE WRITING PRACTICE,FINAL,Free writing practice,,To play
+2624,LETTER PRACTICE,FINAL,Letter practice,,To play
+2625,MEMORY AND TIME,MENU,,Memory and Time,Memory and Time
+2626,REMEMBER,MENU,,Remember,Remember
+2627,CHRIS,FINAL,Chris,,Remember
+2628,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Remember
+2629,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Remember
+2630,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Remember
+2631,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Remember
+2632,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Remember
+2633,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Remember
+2634,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Remember
+2635,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Remember
+2636,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Remember
+2637,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Remember
+2638,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Remember
+2639,TALK ABOUT,FINAL,Talk about ,,Remember
+2640,MOONLIGHT,FINAL,Moonlight,,Remember
+2641,HAPPY,MENU,,Happy,Happy
+2642,I FEEL HAPPY,FINAL,I feel happy,,Happy
+2643,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+2644,I WILL FEEL HAPPY,FINAL,I will feel happy,,Happy
+2645,I FELT HAPPY,FINAL,I felt happy,,Happy
+2646,I FELT HAPPY,FINAL,I felt happy,,Happy
+2647,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+2648,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+2649,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+2650,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+2651,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+2652,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+2653,I FEEL HAPPY,FINAL,I feel happy,,Happy
+2654,I FEEL HAPPY,FINAL,I feel happy,,Happy
+2655,ABOUT ME,MENU,,About me,About me
+2656,BODY,MENU,,Body,Body
+2657,I FEEL GOOD,FINAL,I feel good,,Body
+2658,I FEEL GOOD,FINAL,I feel good,,Body
+2659,I FEEL GOOD,FINAL,I feel good,,Body
+2660,I FEEL GOOD,FINAL,I feel good,,Body
+2661,I FEEL GOOD,FINAL,I feel good,,Body
+2662,NO LIKE,FINAL,No like,,Body
+2663,I FEEL GOOD,FINAL,I feel good,,Body
+2664,OUCH,FINAL,Ouch,,Body
+2665,NO LIKE,FINAL,No like,,Body
+2666,OUCH,FINAL,Ouch,,Body
+2667,I FEEL GOOD,FINAL,I feel good,,Body
+2668,I FEEL GOOD,FINAL,I feel good,,Body
+2669,I FEEL GOOD,FINAL,I feel good,,Body
+2670,I FEEL GOOD,FINAL,I feel good,,Body
+2671,I FEEL GOOD,FINAL,I feel good,,Body
+2672,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences
+2673,MOVEMENT,MENU,,Movement,Movement
+2674,JUMP,FINAL,Jump,,Movement
+2675,RUN,FINAL,Run,,Movement
+2676,JUMP,FINAL,Jump,,Movement
+2677,SLOW,FINAL,Slow,,Movement
+2678,SLOW,FINAL,Slow,,Movement
+2679,SLOW,FINAL,Slow,,Movement
+2680,LIKE,FINAL,Like ,,Movement
+2681,FAST,FINAL,Fast,,Movement
+2682,JUMP,FINAL,Jump,,Movement
+2683,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+2684,FIX PLEASE,MENU,,Fix please,Fix please
+2685,DOWN LOW,FINAL,Down low,,Fix please
+2686,OUTSIDE,FINAL,Outside,,Fix please
+2687,BLUE,FINAL,Blue,,Fix please
+2688,TABLET,FINAL,Tablet,,Fix please
+2689,DOWN LOW,FINAL,Down low,,Fix please
+2690,DOWN LOW,FINAL,Down low,,Fix please
+2691,BROKEN,FINAL,Broken,,Fix please
+2692,OUTSIDE,FINAL,Outside,,Fix please
+2693,TABLET,FINAL,Tablet,,Fix please
+2694,TABLET,FINAL,Tablet,,Fix please
+2695,TABLET,FINAL,Tablet,,Fix please
+2696,TABLET,FINAL,Tablet,,Fix please
+2697,TABLET,FINAL,Tablet,,Fix please
+2698,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+2699,FIX PLEASE,MENU,,Fix please,Fix please
+2700,BLUE,FINAL,Blue,,Fix please
+2701,FIX,FINAL,Fix,,Fix please
+2702,WHITE,FINAL,White,,Fix please
+2703,BLUE,FINAL,Blue,,Fix please
+2704,BLUE,FINAL,Blue,,Fix please
+2705,WHITE,FINAL,White,,Fix please
+2706,BLUE,FINAL,Blue,,Fix please
+2707,DOWN LOW,FINAL,Down low,,Fix please
+2708,BLUE,FINAL,Blue,,Fix please
+2709,BROWN,FINAL,Brown,,Fix please
+2710,BLUE,FINAL,Blue,,Fix please
+2711,BLUE,FINAL,Blue,,Fix please
+2712,DOWN LOW,FINAL,Down low,,Fix please
+2713,DOWN LOW,FINAL,Down low,,Fix please
+2714,DOWN LOW,FINAL,Down low,,Fix please
+2715,DOWN LOW,FINAL,Down low,,Fix please
+2716,OUTSIDE,FINAL,Outside,,Fix please
+2717,TABLET,FINAL,Tablet,,Fix please
+2718,BOOK,FINAL,Book,,Fix please
+2719,TALK ABOUT,FINAL,Talk about,,Fix please
+2720,TALK ABOUT,FINAL,Talk about,,Fix please
+2721,LOOK AT ART,FINAL,Look at art,,Fix please
+2722,TALK ABOUT,FINAL,Talk about,,Fix please
+2723,LOOK AT ART,FINAL,Look at art,,Fix please
+2724,GAMES,FINAL,Games,,Fix please
+2725,TALK ABOUT,FINAL,Talk about,,Fix please
+2726,TALK ABOUT,FINAL,Talk about,,Fix please
+2727,BOOK,FINAL,Book,,Fix please
+2728,SQUIRRELS,FINAL,Squirrels,,Fix please
+2729,RACOONS,FINAL,Racoons,,Fix please
+2730,BOOK,FINAL,Book,,Fix please
+2731,IGUANA,FINAL,Iguana,,Fix please
+2732,RABBIT,FINAL,Rabbit,,Fix please
+2733,RABBIT,FINAL,Rabbit,,Fix please
+2734,LIKE,FINAL,Like,,Fix please
+2735,TALK ABOUT,FINAL,Talk about,,Fix please
+2736,LOOK AT ART,FINAL,Look at art,,Fix please
+2737,SNUGGLE,FINAL,Snuggle,,Fix please
+2738,TRACING AND WRITING,MENU,,Tracing and writing,Tracing and writing
+2739,FREE WRITING PRACTICE,FINAL,Free writing practice,,Tracing and writing
+2740,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences
+2741,FIX PLEASE,MENU,,Fix please,Fix please
+2742,BLUE,FINAL,Blue,,Fix please
+2743,FIX,FINAL,Fix,,Fix please
+2744,BLUE,FINAL,Blue,,Fix please
+2745,TABLET,FINAL,Tablet,,Fix please
+2746,TABLET,FINAL,Tablet,,Fix please
+2747,ELLIE,FINAL,Ellie,,Fix please
+2748,BLUE,FINAL,Blue,,Fix please
+2749,BROWN,FINAL,Brown,,Fix please
+2750,BROWN,FINAL,Brown,,Fix please
+2751,BLUE,FINAL,Blue,,Fix please
+2752,WHITE,FINAL,White,,Fix please
+2753,HIGH UP,FINAL,High up,,Fix please
+2754,ENTERTAINMENT,MENU,,Entertainment,Entertainment
+2755,BODY,MENU,,Body,Body
+2756,ISABELLE,FINAL,Isabelle,,Body
+2757,TILLIE,FINAL,Tillie,,Body
+2758,ISABELLE,FINAL,Isabelle,,Body
+2759,TILLIE,FINAL,Tillie,,Body
+2760,ISABELLE,FINAL,Isabelle,,Body
+2761,ELLIE,FINAL,Ellie,,Body
+2762,LIKE,FINAL,Like,,Body
+2763,NO LIKE,FINAL,No like,,Body
+2764,NO LIKE,FINAL,No like,,Body
+2765,NO LIKE,FINAL,No like,,Body
+2766,ELLIE,FINAL,Ellie,,Body
+2767,TILLIE,FINAL,Tillie,,Body
+2768,NO LIKE,FINAL,No like,,Body
+2769,NO LIKE,FINAL,No like,,Body
+2770,OUCH,FINAL,Ouch,,Body
+2771,LIKE,FINAL,Like,,Body
+2772,LIKE,FINAL,Like,,Body
+2773,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+2774,MOVEMENT,MENU,,Movement,Movement
+2775,JUMP,FINAL,Jump,,Movement
+2776,ELLIE,FINAL,Ellie,,Movement
+2777,LIKE,FINAL,Like,,Movement
+2778,LIKE,FINAL,Like,,Movement
+2779,LIKE,FINAL,Like,,Movement
+2780,NO LIKE,FINAL,No like,,Movement
+2781,NO LIKE,FINAL,No like,,Movement
+2782,MOM,FINAL,Mom,,Movement
+2783,SLOW,FINAL,Slow,,Movement
+2784,FAST,FINAL,Fast,,Movement
+2785,SWIM,FINAL,Swim,,Movement
+2786,MOM,FINAL,Mom,,Movement
+2787,RUN,FINAL,Run,,Movement
+2788,SLOW,FINAL,Slow,,Movement
+2789,LIKE,FINAL,Like,,Movement
+2790,SLOW,FINAL,Slow,,Movement
+2791,RUN,FINAL,Run,,Movement
+2792,JUMP,FINAL,Jump ,,Movement
+2793,SLOW,FINAL,Slow,,Movement
+2794,JUMP,FINAL,Jump,,Movement
+2795,SLOW,FINAL,Slow,,Movement
+2796,SLOW,FINAL,Slow,,Movement
+2797,MOM,FINAL,Mom,,Movement
+2798,RUN,FINAL,Run,,Movement
+2799,LIKE,FINAL,Like,,Movement
+2800,LIKE,FINAL,Like,,Movement
+2801,LIKE,FINAL,Like,,Movement
+2802,SLOW,FINAL,Slow,,Movement
+2803,ISABELLE,FINAL,Isabelle,,Movement
+2804,ELLIE,FINAL,Ellie,,Movement
+2805,TILLIE,FINAL,Tillie,,Movement
+2806,SWIM,FINAL,Swim,,Movement
+2807,SWIM,FINAL,Swim,,Movement
+2808,TILLIE,FINAL,Tillie,,Movement
+2809,MOM,FINAL,Mom,,Movement
+2810,MOM,FINAL,Mom,,Movement
+2811,ENTERTAINMENT,MENU,,Entertainment,Entertainment
+2812,ALEXA PLAY GEORGE WINSTON,FINAL,Alexa play George Winston,,Entertainment
+2813,ALEXA PLAY GEORGE WINSTON,FINAL,Alexa play George Winston,,Entertainment
+2814,ALEXA PLAY VIVALDI ON PANDORA,FINAL,Alexa play Vivaldi on Pandora,,Entertainment
+2815,ALEXA PLAY VIVALDI ON PANDORA,FINAL,Alexa play Vivaldi on Pandora,,Entertainment
+2816,ALEXA PLAY GEORGE WINSTON,FINAL,Alexa play George Winston,,Entertainment
+2817,ALEXA PLAY GEORGE WINSTON,FINAL,Alexa play George Winston,,Entertainment
+2818,ALEXA PLAY GEORGE WINSTON,FINAL,Alexa play George Winston,,Entertainment
+2819,ALEXA PLAY GEORGE WINSTON,FINAL,Alexa play George Winston,,Entertainment
+2820,ABOUT ME,MENU,,About me,About me
+2821,TEMPERATURE,FINAL,Temperature,,About me
+2822,WARM,FINAL,Warm,,About me
+2823,I WANT TO FEEL WARM,FINAL,I want to feel warm,,About me
+2824,LIKE,FINAL,Like,,About me
+2825,TALK ABOUT,FINAL,Talk about,,About me
+2826,TALK ABOUT,FINAL,Talk about,,About me
+2827,LIKE,FINAL,Like,,About me
+2828,ABOUT ME,MENU,,About me,About me
+2829,BODY,MENU,,Body,Body
+2830,TODAY,FINAL,Today,,Body
+2831,I FEEL GOOD,FINAL,I feel good,,Body
+2832,I FEEL GOOD,FINAL,I feel good,,Body
+2833,LIKE,FINAL,Like,,Body
+2834,TODAY,FINAL,Today,,Body
+2835,I FEEL GOOD,FINAL,I feel good,,Body
+2836,OUCH,FINAL,Ouch,,Body
+2837,TYPES OF OUCH,MENU,,Types of ouch,Types of ouch
+2838,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+2839,I FELT OUCH,FINAL,I felt ouch,,Types of ouch
+2840,OUTSIDE OUCH,FINAL,Outside ouch,,Types of ouch
+2841,OUTSIDE OUCH,FINAL,Outside ouch,,Types of ouch
+2842,ABOUT ME,MENU,,About me,About me
+2843,BODY,FINAL,Body,,About me
+2844,OUCH,FINAL,Ouch,,About me
+2845,I FEEL GOOD,FINAL,I feel good,,About me
+2846,NO LIKE,FINAL,No like,,About me
+2847,LIKE,FINAL,Like,,About me
+2848,I FEEL GOOD,FINAL,I feel good,,About me
+2849,OUCH,FINAL,Ouch,,About me
+2850,I FEEL GOOD,FINAL,I feel good,,About me
+2851,I FEEL GOOD,FINAL,I feel good,,About me
+2852,LIKE,FINAL,Like,,About me
+2853,NO LIKE,FINAL,No like,,About me
+2854,NO LIKE,FINAL,No like,,About me
+2855,TODAY,FINAL,Today,,About me
+2856,NO LIKE,FINAL,No like,,About me
+2857,NO LIKE,FINAL,No like,,About me
+2858,OUCH,FINAL,Ouch,,About me
+2859,OUCH,FINAL,Ouch,,About me
+2860,TODAY,FINAL,Today,,About me
+2861,TODAY,FINAL,Today,,About me
+2862,LIKE,FINAL,Like,,About me
+2863,LIKE,FINAL,Like,,About me
+2864,NO,FINAL,No ,,About me
+2865,NO,FINAL,No,,About me
+2866,NO LIKE,FINAL,No like,,About me
+2867,ABOUT ME,MENU,,About me,About me
+2868,FEELINGS,MENU,,Feelings,Feelings
+2869,MAD,MENU,,Mad,Mad
+2870,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+2871,SAY HELLO TO,MENU,,Say hello to,Say hello to
+2872,CAR RIDE,FINAL,Car ride,,Say hello to
+2873,CAR RIDE,FINAL,Car ride,,Say hello to
+2874,CORI,FINAL,Cori,,Say hello to
+2875,CORI,FINAL,Cori,,Say hello to
+2876,SIERRA,FINAL,Sierra,,Say hello to
+2877,CASSIE,FINAL,Cassie,,Say hello to
+2878,CASSIE,FINAL,Cassie,,Say hello to
+2879,ABOUT ME,MENU,,About me,About me
+2880,GOLF CART RIDE,MENU,,Golf cart ride,Golf cart ride
+2881,GOLF CART RIDE,MENU,,Golf cart ride,Golf cart ride
+2882,LIKE,MENU,,Like,Like
+2883,LIKE,MENU,,Like,Like
+2884,GOLF CART RIDE,MENU,,Golf cart ride,Golf cart ride
+2885,GOLF CART RIDE,MENU,,Golf cart ride,Golf cart ride
+2886,GOLF CART RIDE,MENU,,Golf cart ride,Golf cart ride
+2887,ABOUT ME,MENU,,About me,About me
+2888,BODY,MENU,,Body,Body
+2889,TODAY,FINAL,Today,,Body
+2890,NO LIKE,FINAL,No like,,Body
+2891,NO LIKE,FINAL,No like,,Body
+2892,ELLIE,FINAL,Ellie,,Body
+2893,I FEEL GOOD,FINAL,I feel good,,Body
+2894,NO LIKE,FINAL,No like,,Body
+2895,ELLIE,FINAL,Ellie,,Body
+2896,OUCH,FINAL,Ouch,,Body
+2897,OUCH,FINAL,Ouch,,Body
+2898,I FEEL GOOD,FINAL,I feel good,,Body
+2899,ABOUT ME,MENU,,About me,About me
+2900,FEELINGS,MENU,,Feelings,Feelings
+2901,GAMES,FINAL,Games,,Feelings
+2902,GAMES,FINAL,Games,,Feelings
+2903,CRAFTS,FINAL,Crafts,,Feelings
+2904,COLORING,FINAL,Coloring,,Feelings
+2905,BABY UNICORN,FINAL,Baby Unicorn,,Feelings
+2906,COLORING,FINAL,Coloring,,Feelings
+2907,ABOUT ME,MENU,,About me,About me
+2908,TEMPERATURE,MENU,,Temperature,Temperature
+2909,COOL,MENU,,Cool,Cool
+2910,LIKE,FINAL,like,,Cool
+2911,LIKE,FINAL,like,,Cool
+2912,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Cool
+2913,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Cool
+2914,TALK ABOUT,FINAL,Talk about,,Cool
+2915,I FEEL COOL,FINAL,I feel cool,,Cool
+2916,ABOUT ME,MENU,,About me,About me
+2917,FEELINGS,MENU,,Feelings,Feelings
+2918,HAPPY,MENU,,Happy,Happy
+2919,I FEEL HAPPY,FINAL,I feel happy,,Happy
+2920,I FELT HAPPY,FINAL,I felt happy,,Happy
+2921,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+2922,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+2923,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+2924,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+2925,I FEEL HAPPY,FINAL,I feel happy,,Happy
+2926,I FEEL HAPPY,FINAL,I feel happy,,Happy
+2927,PRESENT,FINAL,Present,,Happy
+2928,SANTA,FINAL,Santa,,Happy
+2929,SANTA,FINAL,Santa,,Happy
+2930,GAMES,FINAL,Games,,Happy
+2931,BOOK,FINAL,Book,,Happy
+2932,CHRISTMAS MUSIC,FINAL,Christmas Music,,Happy
+2933,CHRISTMAS CARTOONS,FINAL,Christmas Cartoons,,Happy
+2934,ALEXA PLAY VIVALDI,FINAL,Alexa play Vivaldi,,Happy
+2935,ALEXA PLAY YIRUMA,FINAL,Alexa play Yiruma,,Happy
+2936,ALEXA PLAY YIRUMA,FINAL,Alexa play Yiruma,,Happy
+2937,ALEXA PLAY HOOKED ON A FEELING ON PANDORA,FINAL,Alexa play Hooked on a Feeling on Pandora,,Happy
+2938,ALEXA CALL JEN,FINAL,Alexa call Jen,,Happy
+2939,ALEXA PLAY BEETHOVEN ON SPOTIFY,FINAL,Alexa play Beethoven on spotify,,Happy
+2940,ALEXA PLAY BEETHOVEN ON SPOTIFY,FINAL,Alexa play Beethoven on spotify,,Happy
+2941,ALEXA PLAY BEETHOVEN ON SPOTIFY,FINAL,Alexa play Beethoven on spotify,,Happy
+2942,ALEXA PLAY BEETHOVEN ON SPOTIFY,FINAL,Alexa play Beethoven on spotify,,Happy
+2943,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will Ackerman,,Happy
+2944,ALEXA PLAY VIVALDI,FINAL,Alexa play Vivaldi,,Happy
+2945,ALEXA PLAY MEDITATION MUSIC,FINAL,Alexa play meditation music,,Happy
+2946,ALEXA PLAY BEETHOVEN ON SPOTIFY,FINAL,Alexa play Beethoven on spotify,,Happy
+2947,ALEXA PLAY MEDITATION MUSIC,FINAL,Alexa play meditation music,,Happy
+2948,ALEXA PLAY VIVALDI,FINAL,Alexa play Vivaldi,,Happy
+2949,ALEXA PLAY VIVALDI,FINAL,Alexa play Vivaldi,,Happy
+2950,ALEXA PLAY MEDITATION MUSIC,FINAL,Alexa play meditation music,,Happy
+2951,ALEXA PLAY MEDITATION MUSIC,FINAL,Alexa play meditation music,,Happy
+2952,ALEXA PLAY MEDITATION MUSIC,FINAL,Alexa play meditation music,,Happy
+2953,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will Ackerman,,Happy
+2954,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will Ackerman,,Happy
+2955,ALEXA PLAY YIRUMA,FINAL,Alexa play Yiruma,,Happy
+2956,ALEXA PLAY HOOKED ON A FEELING ON PANDORA,FINAL,Alexa play Hooked on a Feeling on Pandora,,Happy
+2957,ALEXA PLAY MEDITATION MUSIC,FINAL,Alexa play meditation music,,Happy
+2958,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will Ackerman,,Happy
+2959,ALEXA PLAY VIVALDI,FINAL,Alexa play Vivaldi,,Happy
+2960,ALEXA PLAY YIRUMA,FINAL,Alexa play Yiruma,,Happy
+2961,ALEXA PLAY VIVALDI,FINAL,Alexa play Vivaldi,,Happy
+2962,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will Ackerman,,Happy
+2963,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will Ackerman,,Happy
+2964,ALEXA PLAY YIRUMA,FINAL,Alexa play Yiruma,,Happy
+2965,ALEXA PLAY YIRUMA,FINAL,Alexa play Yiruma,,Happy
+2966,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will Ackerman,,Happy
+2967,ALEXA PLAY BEETHOVEN ON SPOTIFY,FINAL,Alexa play Beethoven on spotify,,Happy
+2968,ABOUT ME,MENU,,About me,About me
+2969,BODY,MENU,,Body,Body
+2970,I FEEL GOOD,FINAL,I feel good,,Body
+2971,MEMORY AND TIME,MENU,,Memory and Time,Memory and Time
+2972,REMEMBER,MENU,,Remember,Remember
+2973,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Remember
+2974,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Remember
+2975,TALK ABOUT FEELINGS,FINAL,Talk about feelings,,Remember
+2976,TALK ABOUT,FINAL,Talk about,,Remember
+2977,BODY,MENU,,Body,Body
+2978,TUMMY,FINAL,Tummy,,Body
+2979,I FEEL GOOD,FINAL,I feel good,,Body
+2980,OUCH,FINAL,Ouch,,Body
+2981,I FEEL GOOD,FINAL,I feel good,,Body
+2982,I FEEL GOOD,FINAL,I feel good,,Body
+2983,MEDICINE,MENU,,Medicine,Medicine
+2984,TREAT SYRINGE,FINAL,Treat syringe,,Medicine
+2985,TREAT SYRINGE,FINAL,Treat syringe,,Medicine
+2986,SICK OUCH ANTIBIOTICS,FINAL,Sick ouch antibiotics,,Medicine
+2987,TREAT SYRINGE,FINAL,Treat syringe,,Medicine
+2988,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+2989,PLEASE FIX,MENU,,Please fix,Please fix
+2990,ABOUT ME,MENU,,About me,About me
+2991,ALEXA THUMBS UP,FINAL,Alexa thumbs up,,About me
+2992,ALEXA PLAY YIRUMA,FINAL,Alexa play yiruma,,About me
+2993,ALEXA PLAY HOOKED ON A FEELING ON PANDORA,FINAL,Alexa play hooked on a feeling on pandora,,About me
+2994,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will Ackerman,,About me
+2995,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will ackerman,,About me
+2996,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will ackerman,,About me
+2997,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will ackerman,,About me
+2998,ALEXA PLAY HANDEL,FINAL,Alexa play Handel,,About me
+2999,ALEXA PLAY YIRUMA,FINAL,Alexa play Yiruma,,About me
+3000,ALEXA PLAY YIRUMA,FINAL,Alexa play Yiruma,,About me
+3001,ABOUT ME,MENU,,About me,About me
+3002,TEMPERATURE,MENU,,Temperature,Temperature
+3003,HOT,MENU,,Hot,Hot
+3004,I WILL FEEL HOT,FINAL,I will feel hot,,Hot
+3005,I FEEL HOT,FINAL,I feel hot,,Hot
+3006,I FEEL HOT,FINAL,I feel hot,,Hot
+3007,I FEEL HOT,FINAL,I feel hot,,Hot
+3008,I FEEL HOT,FINAL,I feel hot,,Hot
+3009,EXPERIENCE,MENU,,Experience,Experience
+3010,READ,FINAL,Read,,Experience
+3011,TOUCH,FINAL,Touch,,Experience
+3012,ISABELLE,FINAL,Isabelle,,Experience
+3013,ISABELLE,FINAL,Isabelle,,Experience
+3014,TOUCH,FINAL,Touch,,Experience
+3015,READ,FINAL,Read,,Experience
+3016,TOUCH,FINAL,Touch,,Experience
+3017,ABOUT ME,MENU,,About me,About me
+3018,BODY,MENU,,Body,Body
+3019,I FEEL GOOD,FINAL,I feel good,,Body
+3020,OUCH,FINAL,Ouch,,Body
+3021,I FEEL GOOD,FINAL,I feel good,,Body
+3022,TODAY,FINAL,Today,,Body
+3023,OUCH,FINAL,Ouch,,Body
+3024,I FEEL GOOD,FINAL,I feel good,,Body
+3025,I FEEL GOOD,FINAL,I feel good,,Body
+3026,OUCH,FINAL,Ouch,,Body
+3027,I FEEL GOOD,FINAL,I feel good,,Body
+3028,OUCH,FINAL,Ouch,,Body
+3029,I FEEL GOOD,FINAL,I feel good,,Body
+3030,I FEEL GOOD,FINAL,I feel good,,Body
+3031,OUCH,FINAL,Ouch,,Body
+3032,I FEEL GOOD,FINAL,I feel good,,Body
+3033,TO PLAY,MENU,,To play,To play
+3034,CRAFTS,FINAL,Crafts,,To play
+3035,LEAF WRESTLE,FINAL,Leaf wrestle,,To play
+3036,TYPING,MENU,,Typing,Typing
+3037,D,FINAL,D,,Typing
+3038,B,FINAL,B,,Typing
+3039,E,FINAL,E,,Typing
+3040,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences
+3041,CLEAN,MENU,,Clean,Clean
+3042,MOM,FINAL,Mom,,Clean
+3043,MOM,FINAL,Mom,,Clean
+3044,ELLIE,FINAL,Ellie,,Clean
+3045,MOM,FINAL,Mom,,Clean
+3046,ELLIE,FINAL,Ellie,,Clean
+3047,I HELP,FINAL,I help,,Clean
+3048,MOM,FINAL,Mom,,Clean
+3049,MOM,FINAL,Mom,,Clean
+3050,MOM,FINAL,Mom,,Clean
+3051,ABOUT ME,MENU,,About me,About me
+3052,FEELINGS,MENU,,Feelings,Feelings
+3053,HAPPY,MENU,,Happy,Happy
+3054,I FEEL HAPPY,FINAL,I feel happy,,Happy
+3055,NO LIKE,FINAL,No like,,Happy
+3056,SAY HELLO TO,MENU,,Say hello to,Say hello to
+3057,OUTSIDE WALK,FINAL,Outside walk,,Say hello to
+3058,OUTSIDE WALK,FINAL,Outside walk,,Say hello to
+3059,ABOUT ME,MENU,,About me,About me
+3060,TEMPERATURE,MENU,,Temperature,Temperature
+3061,CLOUD,FINAL,Cloud,,Temperature
+3062,HOT,MENU,,Hot,Hot
+3063,I FEEL HOT,FINAL,I feel hot,,Hot
+3064,I FEEL HOT,FINAL,I feel hot,,Hot
+3065,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Hot
+3066,I FEEL HOT,FINAL,I feel hot,,Hot
+3067,I FEEL HOT,FINAL,I feel hot,,Hot
+3068,NIGHT STAR,FINAL,Night star,,Hot
+3069,I FEEL WARM,FINAL,I feel warm,Warm,Warm
+3070,WARM INSIDE,FINAL,Warm inside,,Warm
+3071,WARM OUTSIDE,FINAL,Warm outside,,Warm
+3072,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm
+3073,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm
+3074,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm
+3075,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm
+3076,I WILL FEEL HOT,FINAL,I will feel hot,,Warm
+3077,I WILL FEEL HOT,FINAL,I will feel hot,,Warm
+3078,I FEEL HOT,FINAL,I feel hot,,Warm
+3079,I WILL FEEL HOT,FINAL,I will feel hot,,Warm
+3080,HOT OUTSIDE,FINAL,Hot outside,,Warm
+3081,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Warm
+3082,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Warm
+3083,ABOUT ME,MENU,,About me,About me
+3084,TEMPERATURE,MENU,,Temperature,Temperature
+3085,RAIN,FINAL,Rain,,Temperature
+3086,WIND,FINAL,Wind,,Temperature
+3087,CLOUD,FINAL,Cloud,,Temperature
+3088,WARM OUTSIDE,FINAL,Warm outside,,Temperature
+3089,PLACES,MENU,,Places,Places
+3090,TILLIE'S HOUSE,FINAL,Tillie's house,,Places
+3091,ABOUT ME,MENU,,About me,About me
+3092,BODY,MENU,,Body,Body
+3093,TODAY,FINAL,Today,,Body
+3094,I FEEL GOOD,FINAL,I feel good,,Body
+3095,TUMMY,FINAL,Tummy,,Body
+3096,I FEEL GOOD,FINAL,I feel good,,Body
+3097,I FEEL GOOD,FINAL,I feel good,,Body
+3098,TUMMY,FINAL,Tummy,,Body
+3099,TUMMY,FINAL,Tummy,,Body
+3100,I FEEL GOOD,FINAL,I feel good,,Body
+3101,TUMMY,FINAL,Tummy,,Body
+3102,I FEEL GOOD,FINAL,I feel good,,Body
+3103,TREAT SYRINGE,FINAL,Treat syringe,,Body
+3104,OUTSIDE OUCH MEDICINE,FINAL,Outside ouch medicine,,Body
+3105,OUTSIDE OUCH MEDICINE,FINAL,Outside ouch medicine,,Body
+3106,OUTSIDE OUCH MEDICINE,FINAL,Outside ouch medicine,,Body
+3107,INSIDE OUCH ANTIBIOTICS,FINAL,Inside ouch antibiotics,,Body
+3108,OUTSIDE OUCH MEDICINE,FINAL,Outside ouch medicine,,Body
+3109,OUTSIDE OUCH MEDICINE,FINAL,Outside ouch medicine,,Body
+3110,OUTSIDE OUCH MEDICINE,FINAL,Outside ouch medicine,,Body
+3111,OUTSIDE OUCH MEDICINE,FINAL,Outside ouch medicine,,Body
+3112,BACK,FINAL,Back,,Body
+3113,TALK ABOUT,MENU,,Talk about,Talk about
+3114,ANIMALS,MENU,,Animals,Animals
+3115,UNDERWATER ANIMALS,MENU,,Underwater animals,Underwater animals
+3116,DOLPHIN,FINAL,Dolphin,,Underwater animals
+3117,CRAB,FINAL,Crab,,Underwater animals
+3118,FISH,FINAL,Fish,,Underwater animals
+3119,BACK,FINAL,Back,,Underwater animals
+3120,ABOUT ME,MENU,,About me,About me
+3121,FEELINGS,MENU,,Feelings,Feelings
+3122,AFRAID,FINAL,Afraid,,Feelings
+3123,I WILL FEEL AFRAID,FINAL,I will feel afraid,,Feelings
+3124,I WILL FEEL AFRAID,FINAL,I will feel afraid,,Feelings
+3125,I WILL FEEL AFRAID,FINAL,I will feel afraid,,Feelings
+3126,ABOUT ME,MENU,,About me,About me
+3127,BODY,MENU,,Body,Body
+3128,I FEEL GOOD,FINAL,I feel good,,Body
+3129,ELLIE,FINAL,Ellie,,Body
+3130,NO LIKE,FINAL,No like,,Body
+3131,NO LIKE,FINAL,No like,,Body
+3132,I FEEL GOOD,FINAL,I feel good,,Body
+3133,OUCH,FINAL,Ouch,,Body
+3134,I FEEL GOOD,FINAL,I feel good,,Body
+3135,I FEEL GOOD,FINAL,I feel good,,Body
+3136,ELLIE,FINAL,Ellie,,Body
+3137,NO LIKE,FINAL,No like,,Body
+3138,NO LIKE,FINAL,No like,,Body
+3139,NO LIKE,FINAL,No like,,Body
+3140,ISABELLE,FINAL,Isabelle,,Body
+3141,ELLIE,FINAL,Ellie,,Body
+3142,NO LIKE,FINAL,No like,,Body
+3143,NO LIKE,FINAL,No like,,Body
+3144,ABOUT ME,MENU,,About me,About me
+3145,BODY,MENU,,Body,Body
+3146,TUMMY,FINAL,Tummy,,Body
+3147,TUMMY,FINAL,Tummy,,Body
+3148,I FEEL GOOD,FINAL,I feel good,,Body
+3149,ISABELLE,FINAL,Isabelle,,Body
+3150,NO LIKE,FINAL,No like,,Body
+3151,ELLIE,FINAL,Ellie,,Body
+3152,NO LIKE,FINAL,No like,,Body
+3153,TODAY,FINAL,Today,,Body
+3154,TODAY,FINAL,Today,,Body
+3155,I FEEL GOOD,FINAL,I feel good,,Body
+3156,I FEEL GOOD,FINAL,I feel good,,Body
+3157,ISABELLE,FINAL,Isabelle,,Body
+3158,ELLIE,FINAL,Ellie,,Body
+3159,TODAY,FINAL,Today,,Body
+3160,PAST,FINAL,Past,,Body
+3161,I FEEL GOOD,FINAL,I feel good,,Body
+3162,TODAY,FINAL,Today,,Body
+3163,TODAY,FINAL,Today,,Body
+3164,I FEEL GOOD,FINAL,I feel good,,Body
+3165,TODAY,FINAL,Today,,Body
+3166,TODAY,FINAL,Today,,Body
+3167,I FEEL GOOD,FINAL,I feel good,,Body
+3168,TODAY,FINAL,Today,,Body
+3169,TODAY,FINAL,Today,,Body
+3170,I FEEL GOOD,FINAL,I feel good,,Body
+3171,TODAY,FINAL,Today,,Body
+3172,I FEEL GOOD,FINAL,I feel good,,Body
+3173,OUCH,FINAL,Ouch,,Body
+3174,I FEEL GOOD,FINAL,I feel good,,Body
+3175,PAST,FINAL,Past,,Body
+3176,I FEEL GOOD,FINAL,I feel good,,Body
+3177,PAST,FINAL,Past,,Body
+3178,I FEEL GOOD,FINAL,I feel good,,Body
+3179,I FEEL GOOD,FINAL,I feel good,,Body
+3180,OUCH,FINAL,Ouch,,Body
+3181,TODAY,FINAL,Today,,Body
+3182,OUCH,FINAL,Ouch,,Body
+3183,I FEEL GOOD,FINAL,I feel good,,Body
+3184,OUCH,FINAL,Ouch,,Body
+3185,OUCH,FINAL,Ouch,,Body
+3186,I FEEL GOOD,FINAL,I feel good,,Body
+3187,NO LIKE,FINAL,No like,,Body
+3188,NO LIKE,FINAL,No like,,Body
+3189,I FEEL GOOD,FINAL,I feel good,,Body
+3190,TODAY,FINAL,Today,,Body
+3191,NO LIKE,FINAL,No like,,Body
+3192,MEMORY AND TIME,MENU,,Memory and time,Memory and time
+3193,TIME,MENU,,Time,Time
+3194,HAPPY,FINAL,Happy,,Time
+3195,HAPPY,FINAL,Happy,,Time
+3196,HAPPY,FINAL,Happy,,Time
+3197,SAD,FINAL,Sad,,Time
+3198,HAPPY,FINAL,Happy,,Time
+3199,YESTERDAY,FINAL,Yesterday,,Time
+3200,HAPPY,FINAL,Happy,,Time
+3201,YESTERDAY,FINAL,Yesterday,,Time
+3202,YESTERDAY,FINAL,Yesterday,,Time
+3203,HAPPY,FINAL,Happy,,Time
+3204,SAD,FINAL,Sad,,Time
+3205,YESTERDAY,FINAL,Yesterday,,Time
+3206,FUTURE,FINAL,Future,,Time
+3207,HAPPY,FINAL,Happy,,Time
+3208,HAPPY,FINAL,Happy,,Time
+3209,YESTERDAY,FINAL,Yesterday,,Time
+3210,EXCITED,FINAL,Excited,,Time
+3211,LOOK AT PICTURES,FINAL,Look at pictures,,Time
+3212,FUTURE,FINAL,Future,,Time
+3213,YESTERDAY,FINAL,Yesterday,,Time
+3214,TO PLAY,MENU,,To play,To play
+3215,LEAF WRESTLE,FINAL,Leaf wrestle,,To play
+3216,TO PLAY,MENU,,To play,To play
+3217,SNUGGLE,FINAL,Snuggle,,To play
+3218,SNUGGLE,FINAL,Snuggle,,To play
+3219,SNUGGLE,FINAL,Snuggle,,To play
+3220,TRACING AND WRITING,FINAL,Tracing and writing,,To play
+3221,LEAF WRESTLE,FINAL,Leaf wrestle,,To play
+3222,SNUGGLE,FINAL,Snuggle,,To play
+3223,SNUGGLE,FINAL,Snuggle,,To play
+3224,TYPING,MENU,,Typing,Typing
+3225,F,FINAL,F,,Typing
+3226,BACK,FINAL,Back,,Typing
+3227,ABOUT ME,MENU,,About me,About me
+3228,BODY,MENU,,Body,Body
+3229,HEAD,FINAL,Head,,Body
+3230,TUMMY,FINAL,Tummy,,Body
+3231,TUMMY,FINAL,Tummy,,Body
+3232,PAST,FINAL,Past,,Body
+3233,TUMMY,FINAL,Tummy,,Body
+3234,I FEEL GOOD,FINAL,I feel good,,Body
+3235,HEAD,FINAL,Head,,Body
+3236,HEAD,FINAL,Head,,Body
+3237,TUMMY,FINAL,Tummy,,Body
+3238,I FEEL GOOD,FINAL,I feel good,,Body
+3239,TUMMY,FINAL,Tummy,,Body
+3240,I FEEL GOOD,FINAL,I feel good,,Body
+3241,TYPES OF OUCH,MENU,,Types of ouch,Types of ouch
+3242,SICK OUCH,FINAL,Sick ouch,,Types of ouch
+3243,ABOUT ME,MENU,,About me,About me
+3244,FEELINGS,MENU,,Feelings,Feelings
+3245,MAD,MENU,,Mad,Mad
+3246,I WILL FEEL MAD,FINAL,I will feel mad,,Mad
+3247,I FEEL MAD,FINAL,I feel mad,,Mad
+3248,I FEEL MAD,FINAL,I feel mad,,Mad
+3249,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+3250,I FELT MAD,FINAL,I felt mad,,Mad
+3251,I FELT MAD,FINAL,I felt mad,,Mad
+3252,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+3253,I FEEL MAD,FINAL,I feel mad,,Mad
+3254,ABOUT ME,MENU,,About me,About me
+3255,FEELINGS,MENU,,Feelings,Feelings
+3256,MAD,MENU,,Mad,Mad
+3257,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+3258,I FEEL MAD,FINAL,I feel mad,,Mad
+3259,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+3260,I FEEL MAD,FINAL,I feel mad,,Mad
+3261,I FEEL MAD,FINAL,I feel mad,,Mad
+3262,I FEEL MAD,FINAL,I feel mad,,Mad
+3263,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+3264,ABOUT ME,MENU,,About me,About me
+3265,FEELINGS,MENU,,Feelings,Feelings
+3266,MAD,MENU,,Mad,Mad
+3267,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+3268,DESCRIPTIONS AND PREFERECES,MENU,,Descriptions and prefereces,Descriptions and prefereces
+3269,OPPOSITES,MENU,,Opposites,Opposites
+3270,DARK,FINAL,Dark,,Opposites
+3271,FIX,FINAL,Fix,,Opposites
+3272,LIGHT,FINAL,Light,,Opposites
+3273,BROKEN,FINAL,Broken,,Opposites
+3274,LIGHT,FINAL,Light,,Opposites
+3275,LIKE,FINAL,Like,,Opposites
+3276,FIX,FINAL,Fix,,Opposites
+3277,LIGHT,FINAL,Light,,Opposites
+3278,FIX,FINAL,Fix,,Opposites
+3279,FIX,FINAL,Fix,,Opposites
+3280,FIX,FINAL,Fix,,Opposites
+3281,FIX,FINAL,Fix,,Opposites
+3282,FIX,FINAL,Fix,,Opposites
+3283,FIX,FINAL,Fix,,Opposites
+3284,WHITE,FINAL,White,,Opposites
+3285,FIX,FINAL,Fix,,Opposites
+3286,ELLIE,FINAL,Ellie,,Opposites
+3287,FIX,FINAL,Fix,,Opposites
+3288,WHITE,FINAL,White,,Opposites
+3289,FIX,FINAL,Fix,,Opposites
+3290,FIX,FINAL,Fix,,Opposites
+3291,BROKEN,FINAL,Broken,,Opposites
+3292,FIX,FINAL,Fix,,Opposites
+3293,WHITE,FINAL,White,,Opposites
+3294,WHITE,FINAL,White,,Opposites
+3295,OUTSIDE,FINAL,Outside,,Opposites
+3296,OUTSIDE,FINAL,Outside,,Opposites
+3297,BROWN,FINAL,Brown,,Opposites
+3298,BLUE,FINAL,Blue,,Opposites
+3299,FIX,FINAL,Fix,,Opposites
+3300,WHITE,FINAL,White,,Opposites
+3301,FIX,FINAL,Fix,,Opposites
+3302,YES,FINAL,Yes,,Opposites
+3303,YES,FINAL,Yes,,Opposites
+3304,LIKE,FINAL,Like,,Opposites
+3305,YES,FINAL,Yes,,Opposites
+3306,YES,FINAL,Yes,,Opposites
+3307,ABOUT ME,MENU,,About me,About me
+3308,BODY,MENU,,Body,Body
+3309,I FEEL GOOD,FINAL,I feel good,,Body
+3310,NO LIKE,FINAL,No like,,Body
+3311,LIKE,FINAL,Like,,Body
+3312,NO LIKE,FINAL,No like,,Body
+3313,LIKE,FINAL,Like,,Body
+3314,YES,FINAL,Yes,,Body
+3315,NO,FINAL,No ,,Body
+3316,YES,FINAL,Yes,,Body
+3317,NO,FINAL,No ,,Body
+3318,YES,FINAL,Yes,,Body
+3319,NO,FINAL,No ,,Body
+3320,YES,FINAL,Yes,,Body
+3321,FIX PLEASE,MENU,,Fix please,Fix please
+3322,WHITE,FINAL,White,,Fix please
+3323,MOM,FINAL,mom,,Fix please
+3324,BROKEN,FINAL,Broken,,Fix please
+3325,WHITE,FINAL,White,,Fix please
+3326,FIX,FINAL,Fix,,Fix please
+3327,MOM,FINAL,Mom,,Fix please
+3328,ISABELLE,FINAL,Isabelle,,Fix please
+3329,WHITE,FINAL,White,,Fix please
+3330,FIX,FINAL,Fix,,Fix please
+3331,BLUE,FINAL,Blue,,Fix please
+3332,OUTSIDE WALK,FINAL,Outside walk,,Fix please
+3333,OUTSIDE AVIARY,FINAL,Outside aviary,,Fix please
+3334,TALK ABOUT,FINAL,Talk about,,Fix please
+3335,LOOK AT ART,FINAL,Look at art,,Fix please
+3336,RACOON,FINAL,Racoon,,Fix please
+3337,BOOK,FINAL,Book,,Fix please
+3338,DEER,FINAL,Deer,,Fix please
+3339,ABOUT ME,MENU,,About me,About me
+3340,BODY,MENU,,Body,Body
+3341,I FEEL GOOD,FINAL,I feel good,,Body
+3342,LIKE,FINAL,Like,,Body
+3343,I FEEL GOOD,FINAL,I feel good,,Body
+3344,NO LIKE,FINAL,No like,,Body
+3345,LIKE,FINAL,Like,,Body
+3346,MEMORY AND TIME,MENU,,Memory and time,Memory and time
+3347,TIME,MENU,,Time,Time
+3348,YESTERDAY,FINAL,Yesterday,,Time
+3349,TODAY,FINAL,Today,,Time
+3350,AFRAID,FINAL,Afraid,,Time
+3351,AFRAID,FINAL,Afraid,,Time
+3352,AFRAID,FINAL,Afraid,,Time
+3353,FUTURE,FINAL,Future,,Time
+3354,FUTURE,FINAL,Future,,Time
+3355,TODAY,FINAL,Today,,Time
+3356,YESTERDAY,FINAL,Yesterday,,Time
+3357,TODAY,FINAL,Today,,Time
+3358,PAST,FINAL,Past,,Time
+3359,YESTERDAY,FINAL,Yesterday,,Time
+3360,FUTURE,FINAL,Future,,Time
+3361,TOMORROW,FINAL,Tomorrow,,Time
+3362,TODAY,FINAL,Today,,Time
+3363,LOOK AT PICTURES,FINAL,Look at pictures,,Time
+3364,HAPPY,FINAL,Happy,,Time
+3365,HAPPY,FINAL,Happy,,Time
+3366,HAPPY,FINAL,Happy,,Time
+3367,BODY,FINAL,Body,,Time
+3368,BODY,FINAL,Body,,Time
+3369,YESTERDAY,FINAL,Yesterday,,Time
+3370,TOMORROW,FINAL,Tomorrow,,Time
+3371,YESTERDAY,FINAL,Yesterday,,Time
+3372,HAPPY,FINAL,Happy,,Time
+3373,HAPPY,FINAL,Happy,,Time
+3374,TIME,MENU,,Time,Time
+3375,YESTERDAY,FINAL,Yesterday,,Time
+3376,TODAY,FINAL,Today,,Time
+3377,TODAY,FINAL,Today,,Time
+3378,YESTERDAY,FINAL,Yesterday,,Time
+3379,YESTERDAY,FINAL,Yesterday,,Time
+3380,YESTERDAY,FINAL,Yesterday,,Time
+3381,MAD,FINAL,Mad,,Time
+3382,YES,FINAL,Yes ,,Time
+3383,YES,FINAL,Yes,,Time
+3384,YES,FINAL,Yes,,Time
+3385,YES,FINAL,Yes,,Time
+3386,YES,FINAL,Yes,,Time
+3387,YES,FINAL,Yes,,Time
+3388,NO,FINAL,No,,Time
+3389,NO LIKE,FINAL,No like,,Time
+3390,TRACING AND WRITING,FINAL,Tracing and writing,,Time
+3391,TRACING,FINAL,Tracing ,,Time
+3392,ABOUT ME,MENU,,About me,About me
+3393,FEELINGS,MENU,,Feelings,Feelings
+3394,MAD,MENU,,Mad,Mad
+3395,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+3396,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+3397,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+3398,I WANT TO FEEL MAD,FINAL,I want to feel mad,,Mad
+3399,ABOUT ME,MENU,,About me,About me
+3400,TEMPERATURE,MENU,,Temperature,Temperature
+3401,NIGHT STAR,FINAL,Night star,,Temperature
+3402,WARM,MENU,,Warm,Warm
+3403,LIKE,FINAL,Like,,Warm
+3404,LIKE,FINAL,Like,,Warm
+3405,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm
+3406,WARM,MENU,,Warm,Warm
+3407,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm
+3408,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm
+3409,LIKE,FINAL,Like,,Warm
+3410,ABOUT ME,MENU,,About me,About me
+3411,FEELINGS,MENU,,Feelings,Feelings
+3412,EXCITED,MENU,,Excited,Excited
+3413,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+3414,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+3415,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,Excited
+3416,TALK ABOUT,MENU,,Talk about,Talk about
+3417,ABOUT ME,MENU,,About me,About me
+3418,FEELINGS,MENU,,Feelings,Feelings
+3419,HAPPY,MENU,,Happy,Happy
+3420,I FEEL HAPPY,FINAL,I feel happy,,Happy
+3421,I FEEL HAPPY,FINAL,I feel happy,,Happy
+3422,I FEEL HAPPY,FINAL,I feel happy,,Happy
+3423,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+3424,I FEEL HAPPY,FINAL,I feel happy,,Happy
+3425,I FEEL HAPPY,FINAL,I feel happy,,Happy
+3426,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+3427,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+3428,I FEEL HAPPY,FINAL,I feel happy,,Happy
+3429,I FEEL HAPPY,FINAL,I feel happy,,Happy
+3430,I FEEL HAPPY,FINAL,I feel happy,,Happy
+3431,I FEEL HAPPY,FINAL,I feel happy,,Happy
+3432,I FEEL HAPPY,FINAL,I feel happy,,Happy
+3433,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+3434,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+3435,I FEEL HAPPY,FINAL,I feel happy,,Happy
+3436,ABOUT ME,MENU,,About me,About me
+3437,FEELINGS,MENU,,Feelings,Feelings
+3438,HAPPY,MENU,,Happy,Happy
+3439,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,Happy
+3440,I FEEL HAPPY,FINAL,I feel happy,,Happy
+3441,EXPERIENCE,MENU,,Experience,Experience
+3442,MOM,FINAL,Mom,,Experience
+3443,READ,FINAL,Read,,Experience
+3444,ISABELLE,FINAL,Isabelle,,Experience
+3445,TILLIE,FINAL,Tillie,,Experience
+3446,TASTE,FINAL,Taste,,Experience
+3447,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+3448,BACK,FINAL,Back,,Descriptions and preferences
+3449,ABOUT ME,MENU,,About me,About me
+3450,TEMPERATURE,MENU,,Temperature,Temperature
+3451,WIND AND RAIN,FINAL,Wind and rain,,Temperature
+3452,WIND,FINAL,Wind,,Temperature
+3453,WIND,FINAL,Wind,,Temperature
+3454,WIND,FINAL,Wind,,Temperature
+3455,DARK,FINAL,Dark,,Temperature
+3456,ABOUT ME,MENU,,About me,About me
+3457,BODY,MENU,,Body,Body
+3458,OUCH,FINAL,Ouch,,Body
+3459,OUCH,FINAL,Ouch,,Body
+3460,MEDICINE,MENU,,Medicine,Medicine
+3461,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+3462,MOVEMENT,MENU,,Movement,Movement
+3463,MOM,FINAL,Mom,,Movement
+3464,ELLIE,FINAL,Ellie,,Movement
+3465,SLOW,FINAL,Slow,,Movement
+3466,ISABELLE,FINAL,Isabelle,,Movement
+3467,SLOW,FINAL,Slow,,Movement
+3468,ELLIE,FINAL,Ellie,,Movement
+3469,SLOW,FINAL,Slow,,Movement
+3470,TILLIE,FINAL,Tillie,,Movement
+3471,SLOW,FINAL,Slow,,Movement
+3472,TILLIE,FINAL,Tillie,,Movement
+3473,LIKE,FINAL,Like,,Movement
+3474,SLOW,FINAL,Slow,,Movement
+3475,TILLIE,FINAL,Tillie,,Movement
+3476,ISABELLE,FINAL,Isabelle,,Movement
+3477,FAST,FINAL,Fast,,Movement
+3478,TILLIE,FINAL,Tillie,,Movement
+3479,SLOW,FINAL,Slow,,Movement
+3480,ELLIE,FINAL,Ellie,,Movement
+3481,FAST,FINAL,Fast,,Movement
+3482,TILLIE,FINAL,Tillie,,Movement
+3483,SLOW,FINAL,Slow,,Movement
+3484,NO,FINAL,No,,Movement
+3485,YES,FINAL,Yes,,Movement
+3486,YES,FINAL,Yes,,Movement
+3487,NO,FINAL,No,,Movement
+3488,YES,FINAL,Yes,,Movement
+3489,NO,FINAL,No,,Movement
+3490,NO,FINAL,No,,Movement
+3491,NO,FINAL,No,,Movement
+3492,YES,FINAL,Yes,,Movement
+3493,NO,FINAL,No,,Movement
+3494,NO,FINAL,No,,Movement
+3495,YES,FINAL,Yes,,Movement
+3496,YES,FINAL,Yes,,Movement
+3497,YES,FINAL,Yes,,Movement
+3498,YES,FINAL,Yes,,Movement
+3499,NO,FINAL,No,,Movement
+3500,LIKE,FINAL,Like,,Movement
+3501,NO,FINAL,No,,Movement
+3502,YES,FINAL,Yes,,Movement
+3503,NO,FINAL,No,,Movement
+3504,NO,FINAL,No,,Movement
+3505,NO,FINAL,No,,Movement
+3506,YES,FINAL,Yes,,Movement
+3507,NO,FINAL,No,,Movement
+3508,NO LIKE,FINAL,No like,,Movement
+3509,NO LIKE,FINAL,No like,,Movement
+3510,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences
+3511,MOVEMENT,MENU,,Movement,Movement
+3512,SLOW,FINAL,Slow,,Movement
+3513,SLOW,FINAL,Slow,,Movement
+3514,SLOW,FINAL,Slow,,Movement
+3515,LIKE,FINAL,Like,,Movement
+3516,SLOW,FINAL,Slow,,Movement
+3517,ISABELLE,FINAL,Isabelle,,Movement
+3518,ELLIE,FINAL,Ellie,,Movement
+3519,ISABELLE,FINAL,Isabelle,,Movement
+3520,LIKE,FINAL,Like,,Movement
+3521,LIKE,FINAL,Like,,Movement
+3522,TILLIE,FINAL,Tillie,,Movement
+3523,ELLIE,FINAL,Ellie,,Movement
+3524,FAST,FINAL,Fast,,Movement
+3525,SLOW,FINAL,Slow,,Movement
+3526,SLOW,FINAL,Slow,,Movement
+3527,SLOW,FINAL,Slow,,Movement
+3528,LIKE,FINAL,Like,,Movement
+3529,ELLIE,FINAL,Ellie,,Movement
+3530,SLOW,FINAL,Slow,,Movement
+3531,LIKE,FINAL,Like,,Movement
+3532,SLOW,FINAL,Slow,,Movement
+3533,ELLIE,FINAL,Ellie,,Movement
+3534,LIKE,FINAL,Like,,Movement
+3535,ELLIE,FINAL,Ellie,,Movement
+3536,ELLIE,FINAL,Ellie,,Movement
+3537,ELLIE,FINAL,Ellie,,Movement
+3538,ISABELLE,FINAL,Isabelle,,Movement
+3539,FAST,FINAL,Fast,,Movement
+3540,ELLIE,FINAL,Ellie,,Movement
+3541,TILLIE,FINAL,Tillie,,Movement
+3542,MOM,FINAL,Mom,,Movement
+3543,LIKE,FINAL,Like,,Movement
+3544,LIKE,FINAL,Like,,Movement
+3545,ELLIE,FINAL,Ellie,,Movement
+3546,ABOUT ME,MENU,,About me,About me
+3547,TEMPERATURE,MENU,,Temperature,Temperature
+3548,CLOUD,FINAL,Cloud,,Temperature
+3549,NO LIKE,FINAL,No like,,Temperature
+3550,NO LIKE,FINAL,No like,,Temperature
+3551,NO LIKE,FINAL,No like,,Temperature
+3552,RAIN,FINAL,Rain,,Temperature
+3553,SUN,FINAL,Sun,,Temperature
+3554,CLOUD,FINAL,Cloud,,Temperature
+3555,TALK ABOUT,MENU,,Talk about,Talk about
+3556,TELL A STORY,FINAL,Tell a story,,Talk about
+3557,TYPE,FINAL,Type,,Talk about

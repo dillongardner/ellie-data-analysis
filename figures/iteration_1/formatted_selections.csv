@@ -1,0 +1,107 @@
+row_number,selection,source,word,menu,menu_ff
+0,SAY HELLO TO,MENU,,Say hello to,Say hello to
+1,NEIGHBOR,FINAL,Neighbor,,Say hello to
+2,YES,FINAL,Yes,,Say hello to
+3,NO,FINAL,No,,Say hello to
+4,YES,FINAL,Yes,,Say hello to
+5,PLAY,MENU,,Play,Play
+6,OUTSIDE,FINAL,Outside,,Play
+7,NO,FINAL,No,,Play
+8,NO,FINAL,No,,Play
+9,YES,FINAL,Yes,,Play
+10,NO,FINAL,No,,Play
+11,YES,FINAL,Yes,,Play
+12,WANT,FINAL,Want,,Play
+13,TREAT,FINAL,Treat,,Play
+14,WANT,FINAL,Want,,Play
+15,TREAT,FINAL,Treat,,Play
+16,TOM & JERRY,FINAL,Tom & Jerry,,Play
+17,TOM & JERRY,FINAL,Tom & Jerry,,Play
+18,NO,FINAL,No,,Play
+19,YES,FINAL,Yes,,Play
+20,NO,FINAL,No,,Play
+21,NO,FINAL,No,,Play
+22,YES,FINAL,Yes,,Play
+23,TREAT,FINAL,Treat,,Play
+24,TO DRINK,MENU,,To drink,To drink
+25,TEA,FINAL,Tea,,To drink
+26,YES,FINAL,Yes,,To drink
+27,TO PLAY,MENU,,To play,To play
+28,TO PLAY,MENU,,To play,To play
+29,TRACING,FINAL,Tracing,,To play
+30,TRACING,FINAL,Tracing,,To play
+31,NO,FINAL,No,,To play
+32,YES,FINAL,Yes,,To play
+33,YES,FINAL,Yes,,To play
+34,YES,FINAL,Yes,,To play
+35,YES,FINAL,Yes,,To play
+36,YES,FINAL,Yes,,To play
+37,YES,FINAL,Yes,,To play
+38,NO,FINAL,No,,To play
+39,SEED BALL,FINAL,Seed ball,,To play
+40,YES,FINAL,Yes,,To play
+41,SEED BALL YES,FINAL,Seed ball YES,,To play
+42,YES,FINAL,Yes,,To play
+43,TO SAY HELLO TO,MENU,,To say hello to,To say hello to
+44,NEIGHBOR,FINAL,Neighbor,,To say hello to
+45,TO PLAY,MENU,,To play,To play
+46,TRACING,FINAL,Tracing,,To play
+47,YES,FINAL,Yes,,To play
+48,NO,FINAL,No,,To play
+49,NO,FINAL,No,,To play
+50,TO SAY HELLO TO,MENU,,To say hello to,To say hello to
+51,NEIGHBOR,FINAL,Neighbor,,To say hello to
+52,NO,FINAL,No,,To say hello to
+53,YES,FINAL,Yes,,To say hello to
+54,NO,FINAL,No,,To say hello to
+55,NO,FINAL,No,,To say hello to
+56,YES,FINAL,Yes,,To say hello to
+57,NUT,FINAL,Nut,,To say hello to
+58,YES,FINAL,Yes,,To say hello to
+59,NO,FINAL,No,,To say hello to
+60,TO DRINK,MENU,,To drink,To drink
+61,HOT TEA,FINAL,Hot tea,,To drink
+62,NO,FINAL,No,,To drink
+63,TO PLAY,MENU,,To Play,To Play
+64,TRACING,FINAL,Tracing,,To Play
+65,YES,FINAL,Yes,,To Play
+66,NO,FINAL,No,,To Play
+67,NO,FINAL,No,,To Play
+68,YES,FINAL,Yes,,To Play
+69,YES,FINAL,Yes,,To Play
+70,NUT,FINAL,Nut,,To Play
+71,YES,FINAL,Yes,,To Play
+72,EXPERIENCE,MENU,,Experience,Experience
+73,TOUCH,FINAL,Touch,,Experience
+74,YES,FINAL,Yes,,Experience
+75,YES,FINAL,Yes,,Experience
+76,YES,FINAL,Yes,,Experience
+77,NO,FINAL,No,,Experience
+78,YES,FINAL,Yes,,Experience
+79,NO,FINAL,No,,Experience
+80,YES,FINAL,Yes,,Experience
+81,YES,FINAL,Yes,,Experience
+82,NO,FINAL,No,,Experience
+83,NUT,FINAL,Nut,,Experience
+84,TO PLAY,MENU,,To play,To play
+85,TRACING,FINAL,Tracing,,To play
+86,YES,FINAL,Yes,,To play
+87,YES,FINAL,Yes,,To play
+88,NO,FINAL,No,,To play
+89,YES,FINAL,Yes,,To play
+90,YES,FINAL,Yes,,To play
+91,EXPERIENCE,MENU,,Experience,Experience
+92,AND,FINAL,And,,Experience
+93,MOM,FINAL,Mom,,Experience
+94,AND,FINAL,And,,Experience
+95,ELLIE,FINAL,Ellie,,Experience
+96,LOOK,FINAL,Look,,Experience
+97,YES,FINAL,Yes,,Experience
+98,EXPERIENCE,MENU,,Experience,Experience
+99,HEAR,FINAL,Hear,,Experience
+100,LOOK,FINAL,Look,,Experience
+101,LOOK,FINAL,Look,,Experience
+102,TOUCH,FINAL,Touch,,Experience
+103,LOOK,FINAL,Look,,Experience
+104,TOUCH,FINAL,Touch,,Experience
+105,LOOK,FINAL,Look,,Experience

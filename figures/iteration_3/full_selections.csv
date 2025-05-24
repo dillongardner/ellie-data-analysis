@@ -1,0 +1,2151 @@
+row_number,selection,source,word,menu,menu_ff,full_pattern,menu_pattern,button,selection_right,menu_title,is_menu,duplicity,high_confidence,low_confidence
+0,ABOUT ME,MENU,,About Me,About Me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+2,TYPES OF OUCH,MENU,,Types of ouch,Types of ouch,JDR,JD,R,TYPES OF OUCH,BODY,true,1,true,false
+3,CANCER,FINAL,Cancer,,Types of ouch,JDRG,JDR,G,CANCER,TYPES OF OUCH,false,1,true,true
+4,CANCER,FINAL,Cancer,,Types of ouch,JDRG,JDR,G,CANCER,TYPES OF OUCH,false,1,true,true
+5,INSIDE OUCH,FINAL,Inside Ouch,,Types of ouch,JDRB,JDR,B,INSIDE OUCH,TYPES OF OUCH,false,1,true,true
+6,INSIDE OUCH,FINAL,Inside Ouch,,Types of ouch,JDRB,JDR,B,INSIDE OUCH,TYPES OF OUCH,false,1,true,true
+7,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+8,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+13,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+15,DARK,FINAL,dark,,Preferences,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+15,DARK,FINAL,dark,,Preferences,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+16,DARK,FINAL,dark,,Preferences,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+16,DARK,FINAL,dark,,Preferences,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+17,DARK,FINAL,dark,,Preferences,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+17,DARK,FINAL,dark,,Preferences,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+18,DARK,FINAL,dark,,Preferences,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+18,DARK,FINAL,dark,,Preferences,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+19,OUTSIDE,FINAL,outside,,Preferences,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+19,OUTSIDE,FINAL,outside,,Preferences,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+20,DARK,FINAL,dark,,Preferences,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+20,DARK,FINAL,dark,,Preferences,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+21,DARK,FINAL,dark,,Preferences,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+21,DARK,FINAL,dark,,Preferences,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+23,LIGHT,FINAL,light ,,Preferences,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+23,LIGHT,FINAL,light ,,Preferences,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+24,DARK,FINAL,dark,,Preferences,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+24,DARK,FINAL,dark,,Preferences,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+25,DARK,FINAL,dark,,Preferences,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+25,DARK,FINAL,dark,,Preferences,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+27,DARK,FINAL,dark,,Preferences,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+27,DARK,FINAL,dark,,Preferences,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+28,DARK,FINAL,dark,,Preferences,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+28,DARK,FINAL,dark,,Preferences,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+29,DARK,FINAL,dark,,Preferences,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+29,DARK,FINAL,dark,,Preferences,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+30,LIGHT,FINAL,light ,,Preferences,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+30,LIGHT,FINAL,light ,,Preferences,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+31,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+32,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+37,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+38,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+39,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+40,SICK OUCH,FINAL,sick ouch,,Body,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+42,SICK OUCH,FINAL,sick ouch,,Body,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+43,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+44,I WILL FEEL OUCH,FINAL,I will feel ouch,,Body,JDRI,JDR,I,I WILL FEEL OUCH,TYPES OF OUCH,false,1,true,true
+46,BONE OUCH,FINAL,Bone ouch,,Body,JDRD,JDR,D,BONE OUCH,TYPES OF OUCH,false,1,true,true
+48,SICK OUCH,FINAL,Sick ouch,,Body,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+49,I WILL FEEL OUCH,FINAL,I will feel ouch,,Body,JDRI,JDR,I,I WILL FEEL OUCH,TYPES OF OUCH,false,1,true,true
+53,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+54,CANCER,FINAL,Cancer,,Body,JDRG,JDR,G,CANCER,TYPES OF OUCH,false,1,true,true
+56,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+58,SICK OUCH,FINAL,Sick ouch,,Body,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+60,SICK OUCH,FINAL,Sick ouch,,Body,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+61,BONE OUCH,FINAL,Bone ouch,,Body,JDRD,JDR,D,BONE OUCH,TYPES OF OUCH,false,1,true,true
+62,BONE OUCH,FINAL,Bone ouch,,Body,JDRD,JDR,D,BONE OUCH,TYPES OF OUCH,false,1,true,true
+63,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+64,BONE OUCH,FINAL,Bone ouch,,Body,JDRD,JDR,D,BONE OUCH,TYPES OF OUCH,false,1,true,true
+65,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+66,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+67,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+68,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+69,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+70,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+72,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+73,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+76,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+77,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+78,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+79,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+81,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+82,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+85,MEDICINE,FINAL,Medicine,,Body,GDF,GD,F,MEDICINE,TREATS,false,1,true,true
+85,MEDICINE,FINAL,Medicine,,Body,JDL,JD,L,MEDICINE,BODY,true,1,true,true
+86,TYPES OF OUCH,FINAL,Types of ouch,,Body,JDR,JD,R,TYPES OF OUCH,BODY,true,1,true,true
+87,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+88,I WILL FEEL OUCH,FINAL,I will feel ouch,,Body,JDRI,JDR,I,I WILL FEEL OUCH,TYPES OF OUCH,false,1,true,true
+91,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+92,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+93,I FEEL OUCH,FINAL,I feel ouch,,Body,JDRJ,JDR,J,I FEEL OUCH,TYPES OF OUCH,false,1,true,true
+94,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+95,CANCER,FINAL,Cancer,,Body,JDRG,JDR,G,CANCER,TYPES OF OUCH,false,1,true,true
+96,OUTSIDE OUCH,FINAL,Outside ouch,,Body,JDRC,JDR,C,OUTSIDE OUCH,TYPES OF OUCH,false,1,true,true
+97,BONE OUCH,FINAL,Bone ouch,,Body,JDRD,JDR,D,BONE OUCH,TYPES OF OUCH,false,1,true,true
+98,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+101,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+102,OUTSIDE OUCH,FINAL,Outside ouch,,Body,JDRC,JDR,C,OUTSIDE OUCH,TYPES OF OUCH,false,1,true,true
+103,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+104,I FEEL OUCH,FINAL,I feel ouch,,Body,JDRJ,JDR,J,I FEEL OUCH,TYPES OF OUCH,false,1,true,true
+106,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+108,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+109,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+110,BONE OUCH,FINAL,Bone ouch,,Body,JDRD,JDR,D,BONE OUCH,TYPES OF OUCH,false,1,true,true
+111,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+112,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+113,SICK OUCH,FINAL,Sick ouch,,Body,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+114,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+115,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+116,I FELT OUCH,FINAL,I felt ouch,,Body,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+117,CANCER,FINAL,Cancer,,Body,JDRG,JDR,G,CANCER,TYPES OF OUCH,false,1,true,true
+119,I FEEL OUCH,FINAL,I feel ouch,,Body,JDRJ,JDR,J,I FEEL OUCH,TYPES OF OUCH,false,1,true,true
+120,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+123,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+124,TYPES OF OUCH,MENU,,Types of ouch,Types of ouch,JDR,JD,R,TYPES OF OUCH,BODY,true,1,true,false
+125,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+126,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+127,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+128,I FEEL OUCH,FINAL,I feel ouch,,Types of ouch,JDRJ,JDR,J,I FEEL OUCH,TYPES OF OUCH,false,1,true,true
+129,CANCER,FINAL,Cancer,,Types of ouch,JDRG,JDR,G,CANCER,TYPES OF OUCH,false,1,true,true
+130,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+131,SICK OUCH,FINAL,Sick ouch,,Types of ouch,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+132,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+133,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+134,BONE OUCH,FINAL,Bone ouch,,Types of ouch,JDRD,JDR,D,BONE OUCH,TYPES OF OUCH,false,1,true,true
+135,CANCER,FINAL,Cancer,,Types of ouch,JDRG,JDR,G,CANCER,TYPES OF OUCH,false,1,true,true
+137,CANCER,FINAL,Cancer,,Types of ouch,JDRG,JDR,G,CANCER,TYPES OF OUCH,false,1,true,true
+139,I WILL FEEL OUCH,FINAL,I will feel ouch,,Types of ouch,JDRI,JDR,I,I WILL FEEL OUCH,TYPES OF OUCH,false,1,true,true
+140,OUTSIDE OUCH,FINAL,Outside ouch,,Types of ouch,JDRC,JDR,C,OUTSIDE OUCH,TYPES OF OUCH,false,1,true,true
+141,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+142,CANCER,FINAL,Cancer,,Types of ouch,JDRG,JDR,G,CANCER,TYPES OF OUCH,false,1,true,true
+143,OUTSIDE OUCH,FINAL,Outside ouch,,Types of ouch,JDRC,JDR,C,OUTSIDE OUCH,TYPES OF OUCH,false,1,true,true
+144,SICK OUCH,FINAL,Sick ouch,,Types of ouch,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+145,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+146,OPPOSITES,MENU,,Opposites,Opposites,IB,I,B,OPPOSITES,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+151,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+151,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+156,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+156,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+161,ABOUT ME,MENU,,About Me,About Me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+162,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+164,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+167,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+168,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+169,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+172,ABOUT ME,MENU,,About Me,About Me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+173,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+174,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+175,MEDICINE,FINAL,Medicine,,Body,GDF,GD,F,MEDICINE,TREATS,false,1,true,true
+175,MEDICINE,FINAL,Medicine,,Body,JDL,JD,L,MEDICINE,BODY,true,1,true,true
+178,ABOUT ME,MENU,,About Me,About Me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+179,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+180,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+182,EXPERIENCE,MENU,,Experience,Experience,C,"",C,EXPERIENCE,MAIN MENU,true,1,true,false
+186,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+189,SEE,FINAL,See,,Experience,CE,C,E,SEE,EXPERIENCE,false,1,true,true
+192,TASTE,FINAL,Taste,,Experience,CK,C,K,TASTE,EXPERIENCE,false,1,true,true
+193,READ,FINAL,Read ,,Experience,CJ,C,J,READ,EXPERIENCE,false,1,true,true
+194,READING BOOK,FINAL,Reading book,,Experience,DED,DE,D,READING BOOK,BOOK,true,1,true,true
+199,ENTERTAINMENT,MENU,,Entertainment,Entertainment,F,"",F,ENTERTAINMENT,MAIN MENU,true,1,true,false
+200,ALEXA,MENU,,Alexa,Alexa,FD,F,D,ALEXA,ENTERTAINMENT,true,1,true,false
+201,ALEXA PLAY BEETHOVEN ON SPOTIFY,FINAL,Alexa play Beethoven on Spotify,,Alexa,FDF,FD,F,ALEXA PLAY BEETHOVEN ON SPOTIFY,ALEXA,false,1,true,true
+202,ALEXA PLAY VIVALDI,FINAL,Alexa play Vivaldi,,Alexa,FDE,FD,E,ALEXA PLAY VIVALDI,ALEXA,false,1,true,true
+203,ALEXA PLAY HANDEL,FINAL,Alexa play Handel,,Alexa,FDQ,FD,Q,ALEXA PLAY HANDEL,ALEXA,false,1,true,true
+204,ALEXA PLAY PEPPA PIG CARTOONS,FINAL,Alexa play Peppa Pig Cartoons,,Alexa,FDL,FD,L,ALEXA PLAY PEPPA PIG CARTOONS,ALEXA,false,1,true,true
+205,ALEXA PLAY BEETHOVEN ON SPOTIFY,FINAL,Alexa play Beethoven on Spotify,,Alexa,FDF,FD,F,ALEXA PLAY BEETHOVEN ON SPOTIFY,ALEXA,false,1,true,true
+206,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+207,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+208,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+209,BOOK,FINAL,Book,,To play,DE,D,E,BOOK,TO PLAY,true,1,true,true
+210,TOUCH AND FEEL,FINAL,Touch and Feel,,To play,DEB,DE,B,TOUCH AND FEEL,BOOK,false,1,true,true
+211,TOUCH AND FEEL,FINAL,Touch and Feel,,To play,DEB,DE,B,TOUCH AND FEEL,BOOK,false,1,true,true
+212,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+213,MOVEMENT,FINAL,movement,,Descriptions and Preferences,IC,I,C,MOVEMENT,DESCRIPTIONS AND PREFERENCES,true,1,true,true
+214,RUN,FINAL,run,,Descriptions and Preferences,ICB,IC,B,RUN,MOVEMENT,false,1,true,true
+218,SIT,FINAL,sit,,Descriptions and Preferences,ICG,IC,G,SIT,MOVEMENT,false,1,true,true
+220,WALK,FINAL,walk,,Descriptions and Preferences,ICH,IC,H,WALK,MOVEMENT,false,1,true,true
+222,JUMP,FINAL,jump,,Descriptions and Preferences,ICD,IC,D,JUMP,MOVEMENT,false,1,true,true
+223,JUMP,FINAL,jump,,Descriptions and Preferences,ICD,IC,D,JUMP,MOVEMENT,false,1,true,true
+228,SWIM,FINAL,Swim,,Descriptions and Preferences,ICE,IC,E,SWIM,MOVEMENT,false,1,true,true
+229,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+235,REMEMBER,MENU,,Remember,Remember,HC,H,C,REMEMBER,MEMORY AND TIME,true,1,true,false
+236,TALK ABOUT,MENU,,Talk About,Talk About,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,false
+239,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+243,PLACES,MENU,,Places,Places,B,"",B,PLACES,MAIN MENU,true,1,true,false
+245,OUTSIDE WALK,FINAL,outside walk,,Places,BC,B,C,OUTSIDE WALK,PLACES,false,2,false,true
+245,OUTSIDE WALK,FINAL,outside walk,,Places,EI,E,I,OUTSIDE WALK,TO SAY HELLO TO,false,2,false,true
+246,CURTAIN,FINAL,curtain ,,Places,BH,B,H,CURTAIN,PLACES,false,1,true,true
+247,CURTAIN,FINAL,curtain ,,Places,BH,B,H,CURTAIN,PLACES,false,1,true,true
+248,ISABELLE'S HOUSE,FINAL,Isabelle's House,,Places,BD,B,D,ISABELLE'S HOUSE,PLACES,false,1,true,true
+249,PLAYSTAND,FINAL,Playstand,,Places,BG,B,G,PLAYSTAND,PLACES,false,1,true,true
+250,ABOUT ME,MENU,,About Me,About Me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+251,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+254,MOVEMENT,MENU,,Movement,Movement,IC,I,C,MOVEMENT,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+255,WALK,FINAL,walk,,Movement,ICH,IC,H,WALK,MOVEMENT,false,1,true,true
+262,ABOUT ME,MENU,,About Me,About Me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+263,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+269,OUCH,FINAL,ouch ,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+270,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+271,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+272,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+276,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+286,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+287,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+288,RAIN,FINAL,rain,,Temperature,AHI,AH,I,RAIN,TEMP AND WEATHER,false,2,false,true
+288,RAIN,FINAL,rain,,Temperature,JCJ,JC,J,RAIN,TEMPERATURE,false,2,false,true
+289,CLOUD,FINAL,cloud,,Temperature,JCI,JC,I,CLOUD,TEMPERATURE,false,1,true,true
+290,RAIN,FINAL,rain,,Temperature,AHI,AH,I,RAIN,TEMP AND WEATHER,false,2,false,true
+290,RAIN,FINAL,rain,,Temperature,JCJ,JC,J,RAIN,TEMPERATURE,false,2,false,true
+291,WARM,FINAL,warm,,Temperature,AHC,AH,C,WARM,TEMP AND WEATHER,true,2,false,true
+291,WARM,FINAL,warm,,Temperature,JCD,JC,D,WARM,TEMPERATURE,true,2,false,true
+292,WARM OUTSIDE,FINAL,warm outside,,Temperature,AHCB,AHC,B,WARM OUTSIDE,WARM,false,2,false,true
+292,WARM OUTSIDE,FINAL,warm outside,,Temperature,JCDI,JCD,I,WARM OUTSIDE,WARM,false,2,false,true
+293,WARM OUTSIDE,FINAL,warm outside,,Temperature,AHCB,AHC,B,WARM OUTSIDE,WARM,false,2,false,true
+293,WARM OUTSIDE,FINAL,warm outside,,Temperature,JCDI,JCD,I,WARM OUTSIDE,WARM,false,2,false,true
+294,TALK ABOUT,FINAL,talk about,,Temperature,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+295,WARM INSIDE,FINAL,Warm inside,,Temperature,AHCD,AHC,D,WARM INSIDE,WARM,false,2,false,true
+295,WARM INSIDE,FINAL,Warm inside,,Temperature,JCDJ,JCD,J,WARM INSIDE,WARM,false,2,false,true
+296,TALK ABOUT,FINAL,talk about,,Temperature,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+297,WARM INSIDE,FINAL,warm inside,,Temperature,AHCD,AHC,D,WARM INSIDE,WARM,false,2,false,true
+297,WARM INSIDE,FINAL,warm inside,,Temperature,JCDJ,JCD,J,WARM INSIDE,WARM,false,2,false,true
+298,CORI,FINAL,Cori,,Temperature,ED,E,D,CORI,TO SAY HELLO TO,false,2,false,true
+298,CORI,FINAL,Cori,,Temperature,FEIB,FEI,B,CORI,CALL A FRIEND,false,2,false,true
+301,BIRD FRIENDS,FINAL,Bird friends,,Temperature,EH,E,H,BIRD FRIENDS,TO SAY HELLO TO,false,1,true,true
+302,CAR RIDE,FINAL,Car Ride,,Temperature,EG,E,G,CAR RIDE,TO SAY HELLO TO,false,1,true,true
+303,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+304,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+305,WING,FINAL,Wing,,Body,JDE,JD,E,WING,BODY,false,1,true,true
+306,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+307,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+311,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+314,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+315,CORI,FINAL,Cori,,Body,ED,E,D,CORI,TO SAY HELLO TO,false,2,false,true
+315,CORI,FINAL,Cori,,Body,FEIB,FEI,B,CORI,CALL A FRIEND,false,2,false,true
+316,CORI,FINAL,Cori,,Body,ED,E,D,CORI,TO SAY HELLO TO,false,2,false,true
+316,CORI,FINAL,Cori,,Body,FEIB,FEI,B,CORI,CALL A FRIEND,false,2,false,true
+317,BIRD FRIENDS,FINAL,Bird friends,,Body,EH,E,H,BIRD FRIENDS,TO SAY HELLO TO,false,1,true,true
+318,TALK ABOUT,MENU,,Talk about,Talk about,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,false
+319,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+320,TRACING AND WRITING,FINAL,Tracing and writing,,To play,DC,D,C,TRACING AND WRITING,TO PLAY,true,1,true,true
+321,BOOK,FINAL,Book,,To play,DE,D,E,BOOK,TO PLAY,true,1,true,true
+323,TOUCH AND FEEL,FINAL,Touch and feel,,To play,DEB,DE,B,TOUCH AND FEEL,BOOK,false,1,true,true
+327,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+333,ABOUT ME,MENU,,About Me,About Me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+334,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+335,HEAD,FINAL,head,,Body,JDB,JD,B,HEAD,BODY,false,1,true,true
+336,HEAD,FINAL,head,,Body,JDB,JD,B,HEAD,BODY,false,1,true,true
+337,HEAD,FINAL,head,,Body,JDB,JD,B,HEAD,BODY,false,1,true,true
+340,HEAD,FINAL,head,,Body,JDB,JD,B,HEAD,BODY,false,1,true,true
+341,HEAD,FINAL,head,,Body,JDB,JD,B,HEAD,BODY,false,1,true,true
+343,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+346,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+347,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+349,HEAD,FINAL,head,,Body,JDB,JD,B,HEAD,BODY,false,1,true,true
+350,TUMMY,FINAL,tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+351,HEAD,FINAL,head,,Body,JDB,JD,B,HEAD,BODY,false,1,true,true
+352,TUMMY,FINAL,tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+353,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+357,HEAD,FINAL,head,,Body,JDB,JD,B,HEAD,BODY,false,1,true,true
+358,TO PLAY,MENU,,To Play,To Play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+359,TRACING AND WRITING,FINAL,Tracing and writing,,To Play,DC,D,C,TRACING AND WRITING,TO PLAY,true,1,true,true
+360,ABOUT ME,MENU,,About Me,About Me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+361,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+363,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+364,I FEEL WARM,FINAL,I feel warm,,Warm,JCDB,JCD,B,I FEEL WARM,WARM,false,1,true,true
+365,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+366,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+367,MOVEMENT,FINAL,Movement,,Descriptions and preferences,IC,I,C,MOVEMENT,DESCRIPTIONS AND PREFERENCES,true,1,true,true
+368,JUMP,FINAL,Jump,,Descriptions and preferences,ICD,IC,D,JUMP,MOVEMENT,false,1,true,true
+369,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+370,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+371,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+372,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+373,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+375,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+383,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+384,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+385,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+386,COOL,MENU,,Cool,Cool,JCE,JC,E,COOL,TEMPERATURE,true,1,true,false
+388,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Cool,JCEC,JCE,C,I WANT TO FEEL COOL,COOL,false,1,true,true
+389,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+392,JUMP,FINAL,jump,,Descriptions and preferences,ICD,IC,D,JUMP,MOVEMENT,false,1,true,true
+393,WALK,FINAL,walk,,Descriptions and preferences,ICH,IC,H,WALK,MOVEMENT,false,1,true,true
+397,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+399,TALK ABOUT,MENU,,Talk about,Talk about,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,false
+400,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+402,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+403,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+404,CLOUD,FINAL,Cloud,,Temperature,JCI,JC,I,CLOUD,TEMPERATURE,false,1,true,true
+405,CLOUD,FINAL,Cloud,,Temperature,JCI,JC,I,CLOUD,TEMPERATURE,false,1,true,true
+406,WIND,FINAL,Wind,,Temperature,AHK,AH,K,WIND,TEMP AND WEATHER,false,2,false,true
+406,WIND,FINAL,Wind,,Temperature,JCH,JC,H,WIND,TEMPERATURE,false,2,false,true
+407,CLOUD,FINAL,Cloud,,Temperature,JCI,JC,I,CLOUD,TEMPERATURE,false,1,true,true
+408,WIND,FINAL,Wind,,Temperature,AHK,AH,K,WIND,TEMP AND WEATHER,false,2,false,true
+408,WIND,FINAL,Wind,,Temperature,JCH,JC,H,WIND,TEMPERATURE,false,2,false,true
+409,WIND,FINAL,Wind,,Temperature,AHK,AH,K,WIND,TEMP AND WEATHER,false,2,false,true
+409,WIND,FINAL,Wind,,Temperature,JCH,JC,H,WIND,TEMPERATURE,false,2,false,true
+410,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+418,TO SAY HELLO TO,MENU,,To say hello to,To say hello to,E,"",E,TO SAY HELLO TO,MAIN MENU,true,1,true,false
+423,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+425,TO SAY HELLO TO,MENU,,To say hello to,To say hello to,E,"",E,TO SAY HELLO TO,MAIN MENU,true,1,true,false
+427,TRACING AND WRITING,FINAL,Tracing and writing,,To say hello to,DC,D,C,TRACING AND WRITING,TO PLAY,true,1,true,true
+428,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+429,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+431,HOT OUTSIDE,FINAL,Hot outside,,Hot,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+431,HOT OUTSIDE,FINAL,Hot outside,,Hot,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+432,HOT OUTSIDE,FINAL,Hot outside,,Hot,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+432,HOT OUTSIDE,FINAL,Hot outside,,Hot,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+433,HOT OUTSIDE,FINAL,Hot outside,,Hot,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+433,HOT OUTSIDE,FINAL,Hot outside,,Hot,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+434,HOT OUTSIDE,FINAL,Hot outside,,Hot,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+434,HOT OUTSIDE,FINAL,Hot outside,,Hot,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+435,HOT OUTSIDE,FINAL,Hot outside,,Hot,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+435,HOT OUTSIDE,FINAL,Hot outside,,Hot,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+436,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+437,HOT OUTSIDE,FINAL,Hot outside,,Hot,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+437,HOT OUTSIDE,FINAL,Hot outside,,Hot,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+438,HOT OUTSIDE,FINAL,Hot outside,,Hot,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+438,HOT OUTSIDE,FINAL,Hot outside,,Hot,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+439,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+440,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+441,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+442,HOT OUTSIDE,FINAL,Hot outside,,Hot,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+442,HOT OUTSIDE,FINAL,Hot outside,,Hot,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+443,HOT OUTSIDE,FINAL,Hot outside,,Hot,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+443,HOT OUTSIDE,FINAL,Hot outside,,Hot,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+444,HOT OUTSIDE,FINAL,Hot outside,,Hot,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+444,HOT OUTSIDE,FINAL,Hot outside,,Hot,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+445,HOT OUTSIDE,FINAL,Hot outside,,Hot,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+445,HOT OUTSIDE,FINAL,Hot outside,,Hot,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+446,HOT OUTSIDE,FINAL,Hot outside,,Hot,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+446,HOT OUTSIDE,FINAL,Hot outside,,Hot,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+447,HOT OUTSIDE,FINAL,Hot outside,,Hot,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+447,HOT OUTSIDE,FINAL,Hot outside,,Hot,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+448,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+449,HOT OUTSIDE,FINAL,Hot outside,,Hot,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+449,HOT OUTSIDE,FINAL,Hot outside,,Hot,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+450,HOT OUTSIDE,FINAL,Hot outside,,Hot,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+450,HOT OUTSIDE,FINAL,Hot outside,,Hot,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+451,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Hot,JCBD,JCB,D,I WANT TO FEEL HOT,HOT,false,1,true,true
+452,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Hot,JCBD,JCB,D,I WANT TO FEEL HOT,HOT,false,1,true,true
+453,MEMORY AND TIME,MENU,,Memory and time,Memory and time,H,"",H,MEMORY AND TIME,MAIN MENU,true,1,true,false
+454,REMEMBER,FINAL,Remember,,Memory and time,HC,H,C,REMEMBER,MEMORY AND TIME,true,1,true,true
+456,CHRIS,FINAL,Chris,,Memory and time,HCK,HC,K,CHRIS,REMEMBER,false,1,true,true
+457,CHRIS,FINAL,Chris,,Memory and time,HCK,HC,K,CHRIS,REMEMBER,false,1,true,true
+470,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+471,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+472,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+474,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+479,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+480,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+482,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+484,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+485,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+492,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+494,OUCH,FINAL,ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+495,NO,FINAL,no,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+496,YES,FINAL,yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+497,YES,FINAL,yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+498,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+499,SNUGGLE,FINAL,snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+500,SNUGGLE,FINAL,snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+501,CARDS,FINAL,cards,,To play,DJ,D,J,CARDS,TO PLAY,false,1,true,true
+502,SNUGGLE,FINAL,snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+503,TRACING AND WRITING,FINAL,tracing and writing,,To play,DC,D,C,TRACING AND WRITING,TO PLAY,true,1,true,true
+504,SNUGGLE,FINAL,snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+505,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+506,SNUGGLE,FINAL,snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+507,TYPING,FINAL,typing,,To play,DG,D,G,TYPING,TO PLAY,false,1,true,true
+516,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+518,MOVEMENT,FINAL,movement,,Preferences,IC,I,C,MOVEMENT,DESCRIPTIONS AND PREFERENCES,true,1,true,true
+523,WALK,FINAL,walk,,Preferences,ICH,IC,H,WALK,MOVEMENT,false,1,true,true
+524,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+525,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+526,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+527,LEAF WRESTLE,FINAL,Leaf wrestle,,To play,DH,D,H,LEAF WRESTLE,TO PLAY,false,1,true,true
+528,MEMORY AND TIME,FINAL,Memory and time,,To play,H,"",H,MEMORY AND TIME,MAIN MENU,true,1,true,true
+529,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+534,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+535,TRACING AND WRITING,FINAL,Tracing and writing,,To play,DC,D,C,TRACING AND WRITING,TO PLAY,true,1,true,true
+536,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+537,TRACING AND WRITING,FINAL,Tracing and writing,,To play,DC,D,C,TRACING AND WRITING,TO PLAY,true,1,true,true
+538,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+539,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+540,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+541,CLOUD,FINAL,Cloud,,Temperature,JCI,JC,I,CLOUD,TEMPERATURE,false,1,true,true
+542,WIND,FINAL,Wind,,Temperature,AHK,AH,K,WIND,TEMP AND WEATHER,false,2,false,true
+542,WIND,FINAL,Wind,,Temperature,JCH,JC,H,WIND,TEMPERATURE,false,2,false,true
+543,HOT,FINAL,Hot,,Temperature,AHB,AH,B,HOT,TEMP AND WEATHER,true,2,false,true
+543,HOT,FINAL,Hot,,Temperature,JCB,JC,B,HOT,TEMPERATURE,true,2,false,true
+544,COOL OUTSIDE,FINAL,Cool outside,,Temperature,JCEI,JCE,I,COOL OUTSIDE,COOL,false,1,true,true
+545,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+546,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+547,RAIN,FINAL,Rain ,,Temperature,AHI,AH,I,RAIN,TEMP AND WEATHER,false,2,false,true
+547,RAIN,FINAL,Rain ,,Temperature,JCJ,JC,J,RAIN,TEMPERATURE,false,2,false,true
+548,HOT,FINAL,Hot,,Temperature,AHB,AH,B,HOT,TEMP AND WEATHER,true,2,false,true
+548,HOT,FINAL,Hot,,Temperature,JCB,JC,B,HOT,TEMPERATURE,true,2,false,true
+549,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+553,OUCH,FINAL,Ouch,,Feelings,JDJ,JD,J,OUCH,BODY,false,1,true,true
+554,OUCH,FINAL,Ouch,,Feelings,JDJ,JD,J,OUCH,BODY,false,1,true,true
+555,OUCH,FINAL,Ouch,,Feelings,JDJ,JD,J,OUCH,BODY,false,1,true,true
+560,OUTSIDE OUCH,FINAL,Outside ouch,,Feelings,JDRC,JDR,C,OUTSIDE OUCH,TYPES OF OUCH,false,1,true,true
+561,INSIDE OUCH,FINAL,Inside ouch,,Feelings,JDRB,JDR,B,INSIDE OUCH,TYPES OF OUCH,false,1,true,true
+562,BONE OUCH,FINAL,Bone ouch,,Feelings,JDRD,JDR,D,BONE OUCH,TYPES OF OUCH,false,1,true,true
+563,BONE OUCH,FINAL,Bone ouch,,Feelings,JDRD,JDR,D,BONE OUCH,TYPES OF OUCH,false,1,true,true
+564,BONE OUCH,FINAL,Bone ouch,,Feelings,JDRD,JDR,D,BONE OUCH,TYPES OF OUCH,false,1,true,true
+565,BONE OUCH,FINAL,Bone ouch,,Feelings,JDRD,JDR,D,BONE OUCH,TYPES OF OUCH,false,1,true,true
+566,SICK OUCH,FINAL,Sick ouch,,Feelings,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+567,OUTSIDE OUCH,FINAL,Outside ouch,,Feelings,JDRC,JDR,C,OUTSIDE OUCH,TYPES OF OUCH,false,1,true,true
+568,BONE OUCH,FINAL,Bone ouch,,Feelings,JDRD,JDR,D,BONE OUCH,TYPES OF OUCH,false,1,true,true
+569,OUTSIDE OUCH,FINAL,Outside ouch,,Feelings,JDRC,JDR,C,OUTSIDE OUCH,TYPES OF OUCH,false,1,true,true
+570,BONE OUCH,FINAL,Bone ouch,,Feelings,JDRD,JDR,D,BONE OUCH,TYPES OF OUCH,false,1,true,true
+571,INSIDE OUCH,FINAL,Inside ouch,,Feelings,JDRB,JDR,B,INSIDE OUCH,TYPES OF OUCH,false,1,true,true
+572,BONE OUCH,FINAL,Bone ouch,,Feelings,JDRD,JDR,D,BONE OUCH,TYPES OF OUCH,false,1,true,true
+573,SICK OUCH,FINAL,Sick ouch,,Feelings,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+575,INSIDE OUCH,FINAL,Inside ouch,,Feelings,JDRB,JDR,B,INSIDE OUCH,TYPES OF OUCH,false,1,true,true
+576,OUTSIDE OUCH,FINAL,Outside ouch,,Feelings,JDRC,JDR,C,OUTSIDE OUCH,TYPES OF OUCH,false,1,true,true
+577,INSIDE OUCH,FINAL,Inside ouch,,Feelings,JDRB,JDR,B,INSIDE OUCH,TYPES OF OUCH,false,1,true,true
+578,SICK OUCH,FINAL,Sick ouch,,Feelings,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+579,BONE OUCH,FINAL,Bone ouch,,Feelings,JDRD,JDR,D,BONE OUCH,TYPES OF OUCH,false,1,true,true
+580,OUTSIDE OUCH,FINAL,Outside ouch,,Feelings,JDRC,JDR,C,OUTSIDE OUCH,TYPES OF OUCH,false,1,true,true
+581,YES,FINAL,Yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+582,YES,FINAL,Yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+583,YES,FINAL,Yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+584,YES,FINAL,Yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+585,NO,FINAL,No,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+586,YES,FINAL,Yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+587,NO,FINAL,No,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+588,NO,FINAL,No,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+589,YES,FINAL,Yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+590,NO,FINAL,No,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+591,NO,FINAL,No,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+592,YES,FINAL,Yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+593,YES,FINAL,Yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+595,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+596,TRACING AND WRITING,FINAL,Tracing and writing,,To play,DC,D,C,TRACING AND WRITING,TO PLAY,true,1,true,true
+597,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+598,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+599,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+600,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+602,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+603,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+605,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+608,MEDICINE,FINAL,Medicine,,Body,GDF,GD,F,MEDICINE,TREATS,false,1,true,true
+608,MEDICINE,FINAL,Medicine,,Body,JDL,JD,L,MEDICINE,BODY,true,1,true,true
+610,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+614,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+628,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+629,OPPOSITES,MENU,,Opposites,Opposites,IB,I,B,OPPOSITES,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+631,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+631,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+632,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+632,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+633,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+633,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+634,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+634,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+635,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+635,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+638,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+638,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+639,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+639,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+640,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+640,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+642,EMPTY,FINAL,Empty,,Opposites,IBM,IB,M,EMPTY,OPPOSITES,false,1,true,true
+644,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+644,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+645,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+645,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+646,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+646,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+649,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+649,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+651,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+651,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+653,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+653,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+654,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+654,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+655,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+655,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+657,EASY,FINAL,Easy,,Opposites,IBQ,IB,Q,EASY,OPPOSITES,false,1,true,true
+659,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+659,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+660,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+660,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+661,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+661,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+664,YES,FINAL,Yes,,Opposites,AGB,AG,B,YES,YES AND NO,false,1,true,true
+666,TASTE,FINAL,Taste,,Opposites,CK,C,K,TASTE,EXPERIENCE,false,1,true,true
+667,TOUCH,FINAL,Touch,,Opposites,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+668,TOUCH,FINAL,Touch,,Opposites,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+669,TASTE,FINAL,Taste,,Opposites,CK,C,K,TASTE,EXPERIENCE,false,1,true,true
+680,TOUCH,FINAL,Touch,,Opposites,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+682,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+683,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+685,CLOUD,FINAL,Cloud,,Temperature,JCI,JC,I,CLOUD,TEMPERATURE,false,1,true,true
+686,COOL,FINAL,Cool,,Temperature,AHD,AH,D,COOL,TEMP AND WEATHER,false,1,true,true
+686,COOL,FINAL,Cool,,Temperature,JCE,JC,E,COOL,TEMPERATURE,true,1,true,true
+687,COOL,FINAL,Cool,,Temperature,AHD,AH,D,COOL,TEMP AND WEATHER,false,1,true,true
+687,COOL,FINAL,Cool,,Temperature,JCE,JC,E,COOL,TEMPERATURE,true,1,true,true
+688,COOL,FINAL,Cool,,Temperature,AHD,AH,D,COOL,TEMP AND WEATHER,false,1,true,true
+688,COOL,FINAL,Cool,,Temperature,JCE,JC,E,COOL,TEMPERATURE,true,1,true,true
+689,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Temperature,JCEC,JCE,C,I WANT TO FEEL COOL,COOL,false,1,true,true
+690,I FELT COOL,FINAL,I felt cool,,Temperature,JCEG,JCE,G,I FELT COOL,COOL,false,1,true,true
+691,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Temperature,JCEC,JCE,C,I WANT TO FEEL COOL,COOL,false,1,true,true
+692,TALK ABOUT,FINAL,Talk about,,Temperature,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+694,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Temperature,JCEC,JCE,C,I WANT TO FEEL COOL,COOL,false,1,true,true
+696,EXPERIENCE,MENU,,Experience,Experience,C,"",C,EXPERIENCE,MAIN MENU,true,1,true,false
+698,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+699,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+700,SMELL,FINAL,Smell,,Experience,CL,C,L,SMELL,EXPERIENCE,false,1,true,true
+701,SEE,FINAL,See,,Experience,CE,C,E,SEE,EXPERIENCE,false,1,true,true
+707,READ,FINAL,Read,,Experience,CJ,C,J,READ,EXPERIENCE,false,1,true,true
+708,TASTE,FINAL,Taste,,Experience,CK,C,K,TASTE,EXPERIENCE,false,1,true,true
+709,SEE,FINAL,See,,Experience,CE,C,E,SEE,EXPERIENCE,false,1,true,true
+710,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+713,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+714,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+730,EXPERIENCE,MENU,,Experience,Experience,C,"",C,EXPERIENCE,MAIN MENU,true,1,true,false
+732,SEE,FINAL,See,,Experience,CE,C,E,SEE,EXPERIENCE,false,1,true,true
+738,TASTE,FINAL,Taste,,Experience,CK,C,K,TASTE,EXPERIENCE,false,1,true,true
+740,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+741,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+742,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+743,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+745,SEE,FINAL,See,,Experience,CE,C,E,SEE,EXPERIENCE,false,1,true,true
+746,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+753,TASTE,FINAL,Taste,,Experience,CK,C,K,TASTE,EXPERIENCE,false,1,true,true
+754,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+755,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+756,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+762,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+763,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+764,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+766,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+768,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+784,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+789,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+790,MY OPINION,MENU,,My opinion,My opinion,JF,J,F,MY OPINION,ABOUT ME,true,1,true,false
+791,SCARY,FINAL,scary,,My opinion,JFM,JF,M,SCARY,MY OPINION,false,1,true,true
+792,GOOD IDEA,FINAL,good idea,,My opinion,JFG,JF,G,GOOD IDEA,MY OPINION,false,1,true,true
+793,INTERESTING,FINAL,interesting,,My opinion,JEN,JE,N,INTERESTING,FEELING,false,2,false,true
+793,INTERESTING,FINAL,interesting,,My opinion,JFD,JF,D,INTERESTING,MY OPINION,false,2,false,true
+794,BAD IDEA,FINAL,bad idea,,My opinion,JFH,JF,H,BAD IDEA,MY OPINION,false,1,true,true
+795,INTERESTING,FINAL,interesting,,My opinion,JEN,JE,N,INTERESTING,FEELING,false,2,false,true
+795,INTERESTING,FINAL,interesting,,My opinion,JFD,JF,D,INTERESTING,MY OPINION,false,2,false,true
+796,GOOD IDEA,FINAL,good idea,,My opinion,JFG,JF,G,GOOD IDEA,MY OPINION,false,1,true,true
+797,BORING,FINAL,boring,,My opinion,JEO,JE,O,BORING,FEELING,false,2,false,true
+797,BORING,FINAL,boring,,My opinion,JFC,JF,C,BORING,MY OPINION,false,2,false,true
+798,BORING,FINAL,boring,,My opinion,JEO,JE,O,BORING,FEELING,false,2,false,true
+798,BORING,FINAL,boring,,My opinion,JFC,JF,C,BORING,MY OPINION,false,2,false,true
+799,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+800,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+801,MEDICINE,MENU,,Medicine,Medicine,JDL,JD,L,MEDICINE,BODY,true,1,true,false
+802,TYPES OF OUCH,MENU,,Types of ouch,Types of ouch,JDR,JD,R,TYPES OF OUCH,BODY,true,1,true,false
+804,SICK OUCH,FINAL,Sick ouch,,Types of ouch,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+805,OUTSIDE OUCH,FINAL,Outside ouch,,Types of ouch,JDRC,JDR,C,OUTSIDE OUCH,TYPES OF OUCH,false,1,true,true
+807,SICK OUCH,FINAL,Sick ouch,,Types of ouch,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+808,INSIDE OUCH,FINAL,Inside ouch,,Types of ouch,JDRB,JDR,B,INSIDE OUCH,TYPES OF OUCH,false,1,true,true
+809,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+810,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+811,SICK OUCH,FINAL,Sick ouch,,Types of ouch,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+812,SICK OUCH,FINAL,Sick ouch,,Types of ouch,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+813,SICK OUCH,FINAL,Sick ouch,,Types of ouch,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+814,SICK OUCH,FINAL,Sick ouch,,Types of ouch,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+815,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+816,EXPERIENCE,MENU,,Experience,Experience,C,"",C,EXPERIENCE,MAIN MENU,true,1,true,false
+817,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+820,SMELL,FINAL,Smell,,Experience,CL,C,L,SMELL,EXPERIENCE,false,1,true,true
+824,HEAR,FINAL,Hear,,Experience,CF,C,F,HEAR,EXPERIENCE,false,1,true,true
+828,HEAR,FINAL,Hear,,Experience,CF,C,F,HEAR,EXPERIENCE,false,1,true,true
+829,SMELL,FINAL,Smell,,Experience,CL,C,L,SMELL,EXPERIENCE,false,1,true,true
+830,SEE,FINAL,See ,,Experience,CE,C,E,SEE,EXPERIENCE,false,1,true,true
+833,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+834,PLACES,MENU,,Places,Places,B,"",B,PLACES,MAIN MENU,true,1,true,false
+835,MOVEMENT,MENU,,Movement,Movement,IC,I,C,MOVEMENT,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+838,WALK,FINAL,Walk,,Movement,ICH,IC,H,WALK,MOVEMENT,false,1,true,true
+839,SIT,FINAL,Sit,,Movement,ICG,IC,G,SIT,MOVEMENT,false,1,true,true
+843,SIT,FINAL,Sit,,Movement,ICG,IC,G,SIT,MOVEMENT,false,1,true,true
+844,RUN,FINAL,Run,,Movement,ICB,IC,B,RUN,MOVEMENT,false,1,true,true
+845,MEMORY AND TIME,MENU,,Memory and time,Memory and time,H,"",H,MEMORY AND TIME,MAIN MENU,true,1,true,false
+849,YESTERDAY,FINAL,Yesterday,,Memory and time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+852,LOOK AT PICTURES,FINAL,Look at pictures,,Memory and time,HBI,HB,I,LOOK AT PICTURES,TIME,false,2,false,true
+852,LOOK AT PICTURES,FINAL,Look at pictures,,Memory and time,HCH,HC,H,LOOK AT PICTURES,REMEMBER,false,2,false,true
+853,TOMORROW,FINAL,Tomorrow,,Memory and time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+856,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+860,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+865,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+868,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+869,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+870,WING,FINAL,Wing,,Body,JDE,JD,E,WING,BODY,false,1,true,true
+871,BODY,FINAL,Body,,Body,HBR,HB,R,BODY,TIME,false,2,false,true
+871,BODY,FINAL,Body,,Body,JD,J,D,BODY,ABOUT ME,true,1,true,true
+871,BODY,FINAL,Body,,Body,JEH,JE,H,BODY,FEELING,false,2,false,true
+876,TO PLAY,MENU,,To Play,To Play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+877,SNUGGLE,FINAL,Snuggle,,To Play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+878,SNUGGLE,FINAL,Snuggle,,To Play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+879,TRACING AND WRITING,FINAL,Tracing and Writing,,To Play,DC,D,C,TRACING AND WRITING,TO PLAY,true,1,true,true
+883,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+893,TALK ABOUT,MENU,,Talk about,Talk about,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,false
+902,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+915,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+917,OUCH,FINAL,Ouch,,About me,JDJ,JD,J,OUCH,BODY,false,1,true,true
+919,OUCH,FINAL,Ouch,,About me,JDJ,JD,J,OUCH,BODY,false,1,true,true
+920,OUCH,FINAL,Ouch,,About me,JDJ,JD,J,OUCH,BODY,false,1,true,true
+922,TYPES OF OUCH,MENU,,Types of ouch,Types of ouch,JDR,JD,R,TYPES OF OUCH,BODY,true,1,true,false
+923,I FEEL OUCH,FINAL,I feel ouch,,Types of ouch,JDRJ,JDR,J,I FEEL OUCH,TYPES OF OUCH,false,1,true,true
+924,SICK OUCH,FINAL,Sick ouch,,Types of ouch,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+926,SICK OUCH,FINAL,Sick ouch,,Types of ouch,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+927,SICK OUCH,FINAL,Sick ouch,,Types of ouch,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+928,SICK OUCH,FINAL,Sick ouch,,Types of ouch,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+930,I FEEL OUCH,FINAL,I feel ouch,,Types of ouch,JDRJ,JDR,J,I FEEL OUCH,TYPES OF OUCH,false,1,true,true
+931,I WILL FEEL OUCH,FINAL,I will feel ouch,,Types of ouch,JDRI,JDR,I,I WILL FEEL OUCH,TYPES OF OUCH,false,1,true,true
+932,I WILL FEEL OUCH,FINAL,I will feel ouch,,Types of ouch,JDRI,JDR,I,I WILL FEEL OUCH,TYPES OF OUCH,false,1,true,true
+938,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+939,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+941,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+942,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+943,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+944,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+948,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+949,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+950,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+951,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+952,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+953,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+954,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+955,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+956,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+957,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+958,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+959,I'M NOT SURE,FINAL,I'm not sure,,Body,AGD,AG,D,I'M NOT SURE,YES AND NO,false,1,true,true
+960,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+961,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+962,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+963,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+964,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+965,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+966,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+967,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+968,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+969,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+970,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+971,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+972,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+973,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+974,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+975,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+976,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+977,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+978,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+979,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+980,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+981,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+982,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+983,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+984,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+985,SOMETHING ELSE,FINAL,Something else,,Body,AGE,AG,E,SOMETHING ELSE,YES AND NO,false,1,true,true
+986,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+987,TUMMY,FINAL,Tummy,,About me,JDC,JD,C,TUMMY,BODY,false,1,true,true
+992,MEDICINE,FINAL,Medicine,,About me,GDF,GD,F,MEDICINE,TREATS,false,1,true,true
+992,MEDICINE,FINAL,Medicine,,About me,JDL,JD,L,MEDICINE,BODY,true,1,true,true
+995,TREAT SYRINGE,FINAL,Treat syringe,,About me,JDLB,JDL,B,TREAT SYRINGE,MEDICINE,false,1,true,true
+996,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+997,LEAF WRESTLE,FINAL,Leaf wrestle,,To play,DH,D,H,LEAF WRESTLE,TO PLAY,false,1,true,true
+998,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+999,BOOK,FINAL,Book,,To play,DE,D,E,BOOK,TO PLAY,true,1,true,true
+1002,CARTOONS,FINAL,Cartoons,,Seasonal,FC,F,C,CARTOONS,ENTERTAINMENT,true,1,true,true
+1002,CARTOONS,FINAL,Cartoons,,Seasonal,FEC,FE,C,CARTOONS,MOM WORK,false,1,true,true
+1003,CARTOONS,FINAL,Cartoons,,Seasonal,FC,F,C,CARTOONS,ENTERTAINMENT,true,1,true,true
+1003,CARTOONS,FINAL,Cartoons,,Seasonal,FEC,FE,C,CARTOONS,MOM WORK,false,1,true,true
+1004,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1005,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1006,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1007,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+1008,WING,FINAL,Wing,,Body,JDE,JD,E,WING,BODY,false,1,true,true
+1009,WING,FINAL,Wing,,Body,JDE,JD,E,WING,BODY,false,1,true,true
+1010,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1011,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1012,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1019,TUMMY,FINAL,Tummy ,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+1020,TUMMY,FINAL,Tummy ,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+1021,TUMMY,FINAL,Tummy ,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+1022,TUMMY,FINAL,Tummy ,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+1023,TUMMY,FINAL,Tummy ,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+1024,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1025,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1026,FOOT,FINAL,Foot,,Body,JDF,JD,F,FOOT,BODY,false,1,true,true
+1027,FOOT,FINAL,Foot,,Body,JDF,JD,F,FOOT,BODY,false,1,true,true
+1028,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+1029,WALK,FINAL,Walk,,Descriptions and preferences,ICH,IC,H,WALK,MOVEMENT,false,1,true,true
+1031,RUN,FINAL,Run,,Descriptions and preferences,ICB,IC,B,RUN,MOVEMENT,false,1,true,true
+1032,RUN,FINAL,Run,,Descriptions and preferences,ICB,IC,B,RUN,MOVEMENT,false,1,true,true
+1033,TO PLAY,MENU,,To Play,To Play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+1034,SNUGGLE,FINAL,Snuggle,,To Play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+1035,TYPING,FINAL,Typing,,To Play,DG,D,G,TYPING,TO PLAY,false,1,true,true
+1043,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1051,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+1052,OPPOSITES,MENU,,Opposites,Opposites,IB,I,B,OPPOSITES,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+1060,BIG,FINAL,Big,,Opposites,IBE,IB,E,BIG,OPPOSITES,false,1,true,true
+1061,BIG,FINAL,Big,,Opposites,IBE,IB,E,BIG,OPPOSITES,false,1,true,true
+1062,EASY,FINAL,Easy,,Opposites,IBQ,IB,Q,EASY,OPPOSITES,false,1,true,true
+1063,BIG,FINAL,Big,,Opposites,IBE,IB,E,BIG,OPPOSITES,false,1,true,true
+1064,LITTLE,FINAL,Little,,Opposites,IBF,IB,F,LITTLE,OPPOSITES,false,1,true,true
+1065,BIG,FINAL,Big,,Opposites,IBE,IB,E,BIG,OPPOSITES,false,1,true,true
+1066,OUT,FINAL,Out,,Opposites,IBL,IB,L,OUT,OPPOSITES,false,1,true,true
+1069,OUT,FINAL,Out,,Opposites,IBL,IB,L,OUT,OPPOSITES,false,1,true,true
+1070,BIG,FINAL,Big,,Opposites,IBE,IB,E,BIG,OPPOSITES,false,1,true,true
+1074,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1074,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1075,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1075,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1076,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+1076,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+1079,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1079,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1080,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+1080,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+1081,MEMORY AND TIME,MENU,,Memory and time,Memory and time,H,"",H,MEMORY AND TIME,MAIN MENU,true,1,true,false
+1082,TIME,FINAL,Time,,Memory and time,HB,H,B,TIME,MEMORY AND TIME,true,1,true,true
+1083,YESTERDAY,FINAL,Yesterday,,Memory and time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1085,YESTERDAY,FINAL,Yesterday,,Memory and time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1086,YESTERDAY,FINAL,Yesterday,,Memory and time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1087,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+1094,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1095,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1096,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1102,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1103,TOMORROW,FINAL,Tomorrow,,Body,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1104,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1105,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1106,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1108,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1109,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1110,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1111,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1112,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1114,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1115,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1116,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1117,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1119,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1120,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1121,LOOK AT PICTURES,FINAL,Look at pictures,,Body,HBI,HB,I,LOOK AT PICTURES,TIME,false,2,false,true
+1121,LOOK AT PICTURES,FINAL,Look at pictures,,Body,HCH,HC,H,LOOK AT PICTURES,REMEMBER,false,2,false,true
+1122,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1123,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1124,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+1126,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+1127,WARM OUTSIDE,FINAL,Warm outside,,Warm,AHCB,AHC,B,WARM OUTSIDE,WARM,false,2,false,true
+1127,WARM OUTSIDE,FINAL,Warm outside,,Warm,JCDI,JCD,I,WARM OUTSIDE,WARM,false,2,false,true
+1128,TALK ABOUT,FINAL,Talk about,,Warm,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+1129,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+1130,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+1131,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+1132,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+1133,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+1134,I FEEL WARM,FINAL,I feel warm,,Warm,JCDB,JCD,B,I FEEL WARM,WARM,false,1,true,true
+1135,TALK ABOUT,FINAL,Talk about,,Warm,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+1136,YES,FINAL,Yes,,Warm,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1137,YES,FINAL,Yes,,Warm,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1138,YES,FINAL,Yes,,Warm,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1139,YES,FINAL,Yes,,Warm,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1140,NO,FINAL,No,,Warm,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1141,YES,FINAL,Yes,,Warm,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1142,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1143,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+1144,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1145,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+1146,WING,FINAL,Wing,,Body,JDE,JD,E,WING,BODY,false,1,true,true
+1148,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1151,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1152,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1153,EXPERIENCE,MENU,,Experience,Experience,C,"",C,EXPERIENCE,MAIN MENU,true,1,true,false
+1157,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+1160,TASTE,FINAL,Taste,,Experience,CK,C,K,TASTE,EXPERIENCE,false,1,true,true
+1161,SMELL,FINAL,Smell,,Experience,CL,C,L,SMELL,EXPERIENCE,false,1,true,true
+1163,READ,FINAL,Read,,Experience,CJ,C,J,READ,EXPERIENCE,false,1,true,true
+1166,TASTE,FINAL,Taste,,Experience,CK,C,K,TASTE,EXPERIENCE,false,1,true,true
+1167,TASTE,FINAL,Taste,,Experience,CK,C,K,TASTE,EXPERIENCE,false,1,true,true
+1168,ENTERTAINMENT,MENU,,Entertainment,Entertainment,F,"",F,ENTERTAINMENT,MAIN MENU,true,1,true,false
+1169,ALEXA,MENU,,Alexa,Alexa,FD,F,D,ALEXA,ENTERTAINMENT,true,1,true,false
+1170,ALEXA VOLUME 5,FINAL,Alexa volume 5,,Alexa,FDO,FD,O,ALEXA VOLUME 5,ALEXA,false,1,true,true
+1171,ALEXA VOLUME 5,FINAL,Alexa volume 5,,Alexa,FDO,FD,O,ALEXA VOLUME 5,ALEXA,false,1,true,true
+1172,ALEXA PLAY HOOKED ON A FEELING ON PANDORA,FINAL,Alexa play hooked on a feeling on pandora,,Alexa,FDJ,FD,J,ALEXA PLAY HOOKED ON A FEELING ON PANDORA,ALEXA,false,1,true,true
+1173,ALEXA PLAY HANDEL,FINAL,Alexa play handel,,Alexa,FDQ,FD,Q,ALEXA PLAY HANDEL,ALEXA,false,1,true,true
+1174,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1175,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+1176,WING,FINAL,Wing,,Body,JDE,JD,E,WING,BODY,false,1,true,true
+1178,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1179,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1180,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1182,WING,FINAL,Wing,,Body,JDE,JD,E,WING,BODY,false,1,true,true
+1183,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1184,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1185,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1186,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1191,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1192,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1196,TOMORROW,FINAL,Tomorrow,,Body,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1198,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1199,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1200,YESTERDAY,FINAL,Yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1201,TOMORROW,FINAL,Tomorrow,,Body,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1202,TOMORROW,FINAL,Tomorrow,,Body,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1207,YESTERDAY,FINAL,yesterday,,Body,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1208,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1219,I'M NOT SURE,FINAL,I'm not sure,,Feelings,AGD,AG,D,I'M NOT SURE,YES AND NO,false,1,true,true
+1220,YES,FINAL,Yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1221,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1239,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1244,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1245,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+1246,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+1248,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1249,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1250,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1253,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1254,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1257,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1260,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1261,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1264,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1265,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1270,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1271,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1274,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1276,HEAD,FINAL,Head,,Body,JDB,JD,B,HEAD,BODY,false,1,true,true
+1277,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1278,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+1285,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1289,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+1290,OPPOSITES,MENU,,Opposites,Opposites,IB,I,B,OPPOSITES,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+1291,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1291,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1292,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1292,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1295,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1295,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1296,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1296,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1298,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+1298,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+1300,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1300,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1301,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1301,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1303,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+1303,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+1305,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1305,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1306,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+1306,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+1307,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,BI,B,I,OUTSIDE AVIARY,PLACES,false,2,false,true
+1307,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,IEL,IE,L,OUTSIDE AVIARY,CLEAN,false,2,false,true
+1308,GOLF CART RIDE,FINAL,Golf Cart Ride,,Opposites,BJ,B,J,GOLF CART RIDE,PLACES,false,2,false,true
+1308,GOLF CART RIDE,FINAL,Golf Cart Ride,,Opposites,EJ,E,J,GOLF CART RIDE,TO SAY HELLO TO,false,2,false,true
+1310,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,BI,B,I,OUTSIDE AVIARY,PLACES,false,2,false,true
+1310,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,IEL,IE,L,OUTSIDE AVIARY,CLEAN,false,2,false,true
+1311,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,BI,B,I,OUTSIDE AVIARY,PLACES,false,2,false,true
+1311,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,IEL,IE,L,OUTSIDE AVIARY,CLEAN,false,2,false,true
+1312,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,BI,B,I,OUTSIDE AVIARY,PLACES,false,2,false,true
+1312,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,IEL,IE,L,OUTSIDE AVIARY,CLEAN,false,2,false,true
+1313,GOLF CART RIDE,FINAL,Golf Cart Ride,,Opposites,BJ,B,J,GOLF CART RIDE,PLACES,false,2,false,true
+1313,GOLF CART RIDE,FINAL,Golf Cart Ride,,Opposites,EJ,E,J,GOLF CART RIDE,TO SAY HELLO TO,false,2,false,true
+1314,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,BI,B,I,OUTSIDE AVIARY,PLACES,false,2,false,true
+1314,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,IEL,IE,L,OUTSIDE AVIARY,CLEAN,false,2,false,true
+1316,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,BI,B,I,OUTSIDE AVIARY,PLACES,false,2,false,true
+1316,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,IEL,IE,L,OUTSIDE AVIARY,CLEAN,false,2,false,true
+1317,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,BI,B,I,OUTSIDE AVIARY,PLACES,false,2,false,true
+1317,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,IEL,IE,L,OUTSIDE AVIARY,CLEAN,false,2,false,true
+1318,RIVER AVIARY,FINAL,River aviary,,Opposites,BK,B,K,RIVER AVIARY,PLACES,false,1,true,true
+1319,GOLF CART RIDE,FINAL,Golf Cart Ride,,Opposites,BJ,B,J,GOLF CART RIDE,PLACES,false,2,false,true
+1319,GOLF CART RIDE,FINAL,Golf Cart Ride,,Opposites,EJ,E,J,GOLF CART RIDE,TO SAY HELLO TO,false,2,false,true
+1320,GOLF CART RIDE,FINAL,Golf Cart Ride,,Opposites,BJ,B,J,GOLF CART RIDE,PLACES,false,2,false,true
+1320,GOLF CART RIDE,FINAL,Golf Cart Ride,,Opposites,EJ,E,J,GOLF CART RIDE,TO SAY HELLO TO,false,2,false,true
+1321,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,BI,B,I,OUTSIDE AVIARY,PLACES,false,2,false,true
+1321,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,IEL,IE,L,OUTSIDE AVIARY,CLEAN,false,2,false,true
+1322,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,BI,B,I,OUTSIDE AVIARY,PLACES,false,2,false,true
+1322,OUTSIDE AVIARY,FINAL,Outside aviary,,Opposites,IEL,IE,L,OUTSIDE AVIARY,CLEAN,false,2,false,true
+1323,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1324,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+1325,HOT,FINAL,Hot,,Temperature,AHB,AH,B,HOT,TEMP AND WEATHER,true,2,false,true
+1325,HOT,FINAL,Hot,,Temperature,JCB,JC,B,HOT,TEMPERATURE,true,2,false,true
+1326,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Temperature,JCBD,JCB,D,I WANT TO FEEL HOT,HOT,false,1,true,true
+1327,COOL,FINAL,Cool,,Temperature,AHD,AH,D,COOL,TEMP AND WEATHER,false,1,true,true
+1327,COOL,FINAL,Cool,,Temperature,JCE,JC,E,COOL,TEMPERATURE,true,1,true,true
+1329,I FELT COOL,FINAL,I felt cool,,Temperature,JCEG,JCE,G,I FELT COOL,COOL,false,1,true,true
+1330,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Temperature,JCEC,JCE,C,I WANT TO FEEL COOL,COOL,false,1,true,true
+1331,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Temperature,JCEC,JCE,C,I WANT TO FEEL COOL,COOL,false,1,true,true
+1332,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1333,MEMORY AND TIME,MENU,,Memory and time,Memory and time,H,"",H,MEMORY AND TIME,MAIN MENU,true,1,true,false
+1334,TIME,MENU,,Time,Time,HB,H,B,TIME,MEMORY AND TIME,true,1,true,false
+1335,TIME,FINAL,Time,,Time,HB,H,B,TIME,MEMORY AND TIME,true,1,true,true
+1336,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1338,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1339,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1341,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1344,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1345,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1346,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1347,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1349,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1350,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1351,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1352,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1353,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1354,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1356,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1361,TALK ABOUT,FINAL,Talk About,,Time,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+1362,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1363,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1364,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1365,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1366,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1368,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1369,EXPERIENCE,MENU,,Experience,Experience,C,"",C,EXPERIENCE,MAIN MENU,true,1,true,false
+1370,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+1372,TASTE,FINAL,Taste,,Experience,CK,C,K,TASTE,EXPERIENCE,false,1,true,true
+1373,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+1375,SEE,FINAL,See,,Experience,CE,C,E,SEE,EXPERIENCE,false,1,true,true
+1377,OUCH,FINAL,Ouch,,Experience,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1378,OUCH,FINAL,ouch,,Experience,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1380,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1381,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+1383,HOT,FINAL,Hot,,Temperature,AHB,AH,B,HOT,TEMP AND WEATHER,true,2,false,true
+1383,HOT,FINAL,Hot,,Temperature,JCB,JC,B,HOT,TEMPERATURE,true,2,false,true
+1384,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Temperature,JCBD,JCB,D,I WANT TO FEEL HOT,HOT,false,1,true,true
+1385,I FEEL HOT,FINAL,I feel hot,,Temperature,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+1386,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+1390,OPPOSITES,MENU,,Opposites,Opposites,IB,I,B,OPPOSITES,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+1391,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+1391,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+1392,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+1392,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+1402,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1402,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1403,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1403,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1404,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1404,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1406,MEMORY AND TIME,MENU,,Memory and Time,Memory and Time,H,"",H,MEMORY AND TIME,MAIN MENU,true,1,true,false
+1407,REMEMBER,MENU,,Remember,Remember,HC,H,C,REMEMBER,MEMORY AND TIME,true,1,true,false
+1408,TALK ABOUT,FINAL,Talk about,,Remember,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+1409,TALK ABOUT,FINAL,Talk about,,Remember,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+1410,LOOK AT PICTURES,FINAL,Look at pictures,,Remember,HBI,HB,I,LOOK AT PICTURES,TIME,false,2,false,true
+1410,LOOK AT PICTURES,FINAL,Look at pictures,,Remember,HCH,HC,H,LOOK AT PICTURES,REMEMBER,false,2,false,true
+1411,TALK ABOUT,FINAL,Talk about,,Remember,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+1412,MOONLIGHT,FINAL,Moonlight,,Remember,HCB,HC,B,MOONLIGHT,REMEMBER,false,1,true,true
+1418,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1419,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+1423,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1424,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1425,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1429,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1437,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1438,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+1442,WARM OUTSIDE,FINAL,Warm Outside,,Warm,AHCB,AHC,B,WARM OUTSIDE,WARM,false,2,false,true
+1442,WARM OUTSIDE,FINAL,Warm Outside,,Warm,JCDI,JCD,I,WARM OUTSIDE,WARM,false,2,false,true
+1443,MEMORY AND TIME,MENU,,Memory and time,Memory and time,H,"",H,MEMORY AND TIME,MAIN MENU,true,1,true,false
+1444,TIME,MENU,,Time,Time,HB,H,B,TIME,MEMORY AND TIME,true,1,true,false
+1445,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1446,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1452,TALK ABOUT,FINAL,Talk about,,Time,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+1457,YES,FINAL,Yes ,,Time,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1458,YES,FINAL,Yes,,Time,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1464,WRITING,FINAL,Writing,,Time,FEG,FE,G,WRITING,MOM WORK,false,1,true,true
+1465,TRACING,FINAL,Tracing,,Time,DCB,DC,B,TRACING,TRACING AND WRITING,false,1,true,true
+1466,TRACING,FINAL,Tracing,,Time,DCB,DC,B,TRACING,TRACING AND WRITING,false,1,true,true
+1467,WRITE WORDS,FINAL,Write words,,Time,DCH,DC,H,WRITE WORDS,TRACING AND WRITING,false,1,true,true
+1468,WRITE WORDS,FINAL,Write words,,Time,DCH,DC,H,WRITE WORDS,TRACING AND WRITING,false,1,true,true
+1469,TRACING,FINAL,Tracing,,Time,DCB,DC,B,TRACING,TRACING AND WRITING,false,1,true,true
+1470,FREE WRITING PRACTICE,FINAL,Free writing practice,,Time,DCD,DC,D,FREE WRITING PRACTICE,TRACING AND WRITING,false,1,true,true
+1471,LETTER PRACTICE,FINAL,Letter practice,,Time,DCE,DC,E,LETTER PRACTICE,TRACING AND WRITING,false,1,true,true
+1472,TRACING,FINAL,Tracing,,Time,DCB,DC,B,TRACING,TRACING AND WRITING,false,1,true,true
+1473,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1496,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+1497,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+1498,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+1499,TRACING AND WRITING,FINAL,Tracing and writing,,To play,DC,D,C,TRACING AND WRITING,TO PLAY,true,1,true,true
+1500,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+1501,OUCH,FINAL,Ouch,,To play,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1504,OUCH,FINAL,Ouch,,To play,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1505,OUCH,FINAL,Ouch,,To play,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1525,YES,FINAL,Yes,,To play,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1526,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+1527,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+1528,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+1529,ENTERTAINMENT,MENU,,Entertainment,Entertainment,F,"",F,ENTERTAINMENT,MAIN MENU,true,1,true,false
+1530,MUSIC,FINAL,Music,,Entertainment,FB,F,B,MUSIC,ENTERTAINMENT,true,1,true,true
+1530,MUSIC,FINAL,Music,,Entertainment,FEB,FE,B,MUSIC,MOM WORK,false,2,false,true
+1530,MUSIC,FINAL,Music,,Entertainment,FEH,FE,H,MUSIC,MOM WORK,false,2,false,true
+1531,LEARN SOMETHING NEW,FINAL,Learn something new,,Entertainment,AF,A,F,LEARN SOMETHING NEW,TALK ABOUT,false,2,false,true
+1531,LEARN SOMETHING NEW,FINAL,Learn something new,,Entertainment,FBH,FB,H,LEARN SOMETHING NEW,MUSIC,false,2,false,true
+1532,I PLAY,FINAL,I play,,Entertainment,FBI,FB,I,I PLAY,MUSIC,false,1,true,true
+1533,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1538,TYPING,FINAL,Typing,,Mad,DG,D,G,TYPING,TO PLAY,false,1,true,true
+1539,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1540,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+1541,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1542,WING,FINAL,Wing,,Body,JDE,JD,E,WING,BODY,false,1,true,true
+1544,TYPES OF OUCH,MENU,,Types of ouch,Types of ouch,JDR,JD,R,TYPES OF OUCH,BODY,true,1,true,false
+1545,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1547,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1548,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1549,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1550,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1551,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1552,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1553,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1554,I WILL FEEL OUCH,FINAL,I will feel ouch,,Types of ouch,JDRI,JDR,I,I WILL FEEL OUCH,TYPES OF OUCH,false,1,true,true
+1556,INSIDE OUCH,FINAL,Inside ouch,,Types of ouch,JDRB,JDR,B,INSIDE OUCH,TYPES OF OUCH,false,1,true,true
+1557,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1558,INSIDE OUCH,FINAL,Inside ouch,,Types of ouch,JDRB,JDR,B,INSIDE OUCH,TYPES OF OUCH,false,1,true,true
+1559,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1560,CANCER,FINAL,Cancer,,Types of ouch,JDRG,JDR,G,CANCER,TYPES OF OUCH,false,1,true,true
+1561,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1562,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1563,BONE OUCH,FINAL,Bone ouch,,Types of ouch,JDRD,JDR,D,BONE OUCH,TYPES OF OUCH,false,1,true,true
+1564,INSIDE OUCH,FINAL,Inside ouch,,Types of ouch,JDRB,JDR,B,INSIDE OUCH,TYPES OF OUCH,false,1,true,true
+1565,CANCER,FINAL,Cancer,,Types of ouch,JDRG,JDR,G,CANCER,TYPES OF OUCH,false,1,true,true
+1566,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1567,SICK OUCH,FINAL,Sick ouch,,Types of ouch,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+1568,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1569,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1573,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1580,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+1583,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1584,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+1585,COOL,MENU,,Cool,Cool,JCE,JC,E,COOL,TEMPERATURE,true,1,true,false
+1586,COOL INSIDE,FINAL,Cool inside,,Cool,JCEJ,JCE,J,COOL INSIDE,COOL,false,1,true,true
+1587,I FEEL COOL,FINAL,I feel cool,,Cool,JCEB,JCE,B,I FEEL COOL,COOL,false,1,true,true
+1588,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Cool,JCEC,JCE,C,I WANT TO FEEL COOL,COOL,false,1,true,true
+1590,HOT,FINAL,Hot,,Cool,AHB,AH,B,HOT,TEMP AND WEATHER,true,2,false,true
+1590,HOT,FINAL,Hot,,Cool,JCB,JC,B,HOT,TEMPERATURE,true,2,false,true
+1591,I FEEL HOT,FINAL,I feel hot,,Cool,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+1592,I FEEL HOT,FINAL,I feel hot,,Cool,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+1593,I FEEL HOT,FINAL,I feel hot,,Cool,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+1594,I FEEL HOT,FINAL,I feel hot,,Cool,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+1596,RAIN,FINAL,Rain,,Cool,AHI,AH,I,RAIN,TEMP AND WEATHER,false,2,false,true
+1596,RAIN,FINAL,Rain,,Cool,JCJ,JC,J,RAIN,TEMPERATURE,false,2,false,true
+1597,MOON,FINAL,Moon,,Cool,JCL,JC,L,MOON,TEMPERATURE,false,1,true,true
+1598,HOT,FINAL,Hot,,Cool,AHB,AH,B,HOT,TEMP AND WEATHER,true,2,false,true
+1598,HOT,FINAL,Hot,,Cool,JCB,JC,B,HOT,TEMPERATURE,true,2,false,true
+1599,TALK ABOUT,FINAL,Talk about,,Cool,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+1600,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Cool,JCBD,JCB,D,I WANT TO FEEL HOT,HOT,false,1,true,true
+1601,YES,FINAL,Yes,,Cool,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1602,NO,FINAL,No,,Cool,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1603,NO,FINAL,No,,Cool,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1604,YES,FINAL,Yes,,Cool,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1605,NO,FINAL,No,,Cool,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1606,NO,FINAL,No,,Cool,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1607,NO,FINAL,No,,Cool,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1608,NO,FINAL,No,,Cool,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1609,YES,FINAL,Yes,,Cool,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1610,NO,FINAL,No,,Cool,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1611,NO,FINAL,No,,Cool,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1612,YES,FINAL,Yes,,Cool,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1613,SOMETHING ELSE,FINAL,Something else,,Cool,AGE,AG,E,SOMETHING ELSE,YES AND NO,false,1,true,true
+1614,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1623,TO SAY HELLO TO,MENU,,To say hello to,To say hello to,E,"",E,TO SAY HELLO TO,MAIN MENU,true,1,true,false
+1627,CORI,FINAL,Cori,,To say hello to,ED,E,D,CORI,TO SAY HELLO TO,false,2,false,true
+1627,CORI,FINAL,Cori,,To say hello to,FEIB,FEI,B,CORI,CALL A FRIEND,false,2,false,true
+1628,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1636,MEMORY AND TIME,MENU,,Memory and time,Memory and time,H,"",H,MEMORY AND TIME,MAIN MENU,true,1,true,false
+1637,MEMORY AND TIME,MENU,,Memory and Time,Memory and Time,H,"",H,MEMORY AND TIME,MAIN MENU,true,1,true,false
+1638,TIME,MENU,,Time,Time,HB,H,B,TIME,MEMORY AND TIME,true,1,true,false
+1639,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1640,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1641,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1644,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1646,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1649,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1650,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1651,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1652,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1654,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1655,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1656,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1657,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1661,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1663,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1664,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1666,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1668,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1669,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1670,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1671,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1672,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1673,LOOK AT PICTURES,FINAL,Look at pictures,,Time,HBI,HB,I,LOOK AT PICTURES,TIME,false,2,false,true
+1673,LOOK AT PICTURES,FINAL,Look at pictures,,Time,HCH,HC,H,LOOK AT PICTURES,REMEMBER,false,2,false,true
+1674,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1675,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1676,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1677,BODY,FINAL,Body,,Time,HBR,HB,R,BODY,TIME,false,2,false,true
+1677,BODY,FINAL,Body,,Time,JD,J,D,BODY,ABOUT ME,true,1,true,true
+1677,BODY,FINAL,Body,,Time,JEH,JE,H,BODY,FEELING,false,2,false,true
+1678,BODY,FINAL,Body,,Time,HBR,HB,R,BODY,TIME,false,2,false,true
+1678,BODY,FINAL,Body,,Time,JD,J,D,BODY,ABOUT ME,true,1,true,true
+1678,BODY,FINAL,Body,,Time,JEH,JE,H,BODY,FEELING,false,2,false,true
+1679,BODY,FINAL,Body,,Time,HBR,HB,R,BODY,TIME,false,2,false,true
+1679,BODY,FINAL,Body,,Time,JD,J,D,BODY,ABOUT ME,true,1,true,true
+1679,BODY,FINAL,Body,,Time,JEH,JE,H,BODY,FEELING,false,2,false,true
+1681,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1684,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1686,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+1690,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1692,LOOK AT PICTURES,FINAL,Look at pictures,,Time,HBI,HB,I,LOOK AT PICTURES,TIME,false,2,false,true
+1692,LOOK AT PICTURES,FINAL,Look at pictures,,Time,HCH,HC,H,LOOK AT PICTURES,REMEMBER,false,2,false,true
+1693,NO,FINAL,No,,Time,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1694,NO,FINAL,No,,Time,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1695,YES,FINAL,Yes ,,Time,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1696,YES,FINAL,Yes,,Time,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1697,YES,FINAL,Yes,,Time,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1698,NO,FINAL,No,,Time,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1699,NO,FINAL,No,,Time,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1700,YES,FINAL,Yes,,Time,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1701,NO,FINAL,No,,Time,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1702,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+1707,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1708,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1710,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1711,SOMETHING ELSE,FINAL,Something else,,Body,AGE,AG,E,SOMETHING ELSE,YES AND NO,false,1,true,true
+1712,SOMETHING ELSE,FINAL,Something else,,Body,AGE,AG,E,SOMETHING ELSE,YES AND NO,false,1,true,true
+1713,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1714,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1715,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1716,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1717,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1718,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1719,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1720,I'M NOT SURE,FINAL,I'm not sure,,Body,AGD,AG,D,I'M NOT SURE,YES AND NO,false,1,true,true
+1721,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1722,SOMETHING ELSE,FINAL,Something else,,Body,AGE,AG,E,SOMETHING ELSE,YES AND NO,false,1,true,true
+1723,I'M NOT SURE,FINAL,I'm not sure,,Body,AGD,AG,D,I'M NOT SURE,YES AND NO,false,1,true,true
+1724,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1727,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1728,SOMETHING ELSE,FINAL,something else,,Body,AGE,AG,E,SOMETHING ELSE,YES AND NO,false,1,true,true
+1729,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1733,YES,FINAL,Yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1734,YES,FINAL,Yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1735,NO,FINAL,No,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1736,YES,FINAL,Yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1737,NO,FINAL,No,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1738,YES,FINAL,Yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1739,NO,FINAL,no,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1740,NO,FINAL,no,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1741,NO,FINAL,no,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1742,NO,FINAL,no,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1743,NO,FINAL,no,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1744,NO,FINAL,no ,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1745,NO,FINAL,no,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1746,SOMETHING ELSE,FINAL,something else,,Feelings,AGE,AG,E,SOMETHING ELSE,YES AND NO,false,1,true,true
+1747,NO,FINAL,no,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1748,SOMETHING ELSE,FINAL,something else,,Feelings,AGE,AG,E,SOMETHING ELSE,YES AND NO,false,1,true,true
+1749,YES,FINAL,yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1750,YES,FINAL,yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1751,NO,FINAL,no,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1752,YES,FINAL,yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1753,I'M NOT SURE,FINAL,I'm not sure,,Feelings,AGD,AG,D,I'M NOT SURE,YES AND NO,false,1,true,true
+1754,NO,FINAL,No,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1755,YES,FINAL,yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1756,NO,FINAL,No,,Feelings,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1757,YES,FINAL,yes,,Feelings,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1758,MEMORY AND TIME,MENU,,Memory and time,Memory and time,H,"",H,MEMORY AND TIME,MAIN MENU,true,1,true,false
+1759,TIME,MENU,,Time,Time,HB,H,B,TIME,MEMORY AND TIME,true,1,true,false
+1762,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1763,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+1764,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+1765,HEAD,FINAL,Head,,Body,JDB,JD,B,HEAD,BODY,false,1,true,true
+1775,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1778,MEMORY AND TIME,MENU,,Memory and time,Memory and time,H,"",H,MEMORY AND TIME,MAIN MENU,true,1,true,false
+1779,TIME,MENU,,Time,Time,HB,H,B,TIME,MEMORY AND TIME,true,1,true,false
+1792,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+1794,LOOK AT PICTURES,FINAL,Look at pictures,,Time,HBI,HB,I,LOOK AT PICTURES,TIME,false,2,false,true
+1794,LOOK AT PICTURES,FINAL,Look at pictures,,Time,HCH,HC,H,LOOK AT PICTURES,REMEMBER,false,2,false,true
+1798,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1799,PLACES,MENU,,Places,Places,B,"",B,PLACES,MAIN MENU,true,1,true,false
+1800,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places,BD,B,D,ISABELLE'S HOUSE,PLACES,false,1,true,true
+1801,OUTSIDE WALK,FINAL,Outside walk,,Places,BC,B,C,OUTSIDE WALK,PLACES,false,2,false,true
+1801,OUTSIDE WALK,FINAL,Outside walk,,Places,EI,E,I,OUTSIDE WALK,TO SAY HELLO TO,false,2,false,true
+1803,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1804,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+1807,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+1808,TALK ABOUT,FINAL,Talk about,,Hot,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+1809,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Hot,JCBD,JCB,D,I WANT TO FEEL HOT,HOT,false,1,true,true
+1810,RAIN,FINAL,Rain,,Hot,AHI,AH,I,RAIN,TEMP AND WEATHER,false,2,false,true
+1810,RAIN,FINAL,Rain,,Hot,JCJ,JC,J,RAIN,TEMPERATURE,false,2,false,true
+1811,WIND,FINAL,Wind,,Hot,AHK,AH,K,WIND,TEMP AND WEATHER,false,2,false,true
+1811,WIND,FINAL,Wind,,Hot,JCH,JC,H,WIND,TEMPERATURE,false,2,false,true
+1812,WARM,FINAL,Warm,,Hot,AHC,AH,C,WARM,TEMP AND WEATHER,true,2,false,true
+1812,WARM,FINAL,Warm,,Hot,JCD,JC,D,WARM,TEMPERATURE,true,2,false,true
+1814,WARM OUTSIDE,FINAL,Warm outside,,Hot,AHCB,AHC,B,WARM OUTSIDE,WARM,false,2,false,true
+1814,WARM OUTSIDE,FINAL,Warm outside,,Hot,JCDI,JCD,I,WARM OUTSIDE,WARM,false,2,false,true
+1815,TALK ABOUT,FINAL,Talk about,,Hot,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+1816,WARM INSIDE,FINAL,Warm inside,,Hot,AHCD,AHC,D,WARM INSIDE,WARM,false,2,false,true
+1816,WARM INSIDE,FINAL,Warm inside,,Hot,JCDJ,JCD,J,WARM INSIDE,WARM,false,2,false,true
+1818,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Hot,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+1819,WARM,FINAL,Warm,,Hot,AHC,AH,C,WARM,TEMP AND WEATHER,true,2,false,true
+1819,WARM,FINAL,Warm,,Hot,JCD,JC,D,WARM,TEMPERATURE,true,2,false,true
+1821,WARM OUTSIDE,FINAL,Warm outside,,Hot,AHCB,AHC,B,WARM OUTSIDE,WARM,false,2,false,true
+1821,WARM OUTSIDE,FINAL,Warm outside,,Hot,JCDI,JCD,I,WARM OUTSIDE,WARM,false,2,false,true
+1822,WARM INSIDE,FINAL,Warm inside,,Hot,AHCD,AHC,D,WARM INSIDE,WARM,false,2,false,true
+1822,WARM INSIDE,FINAL,Warm inside,,Hot,JCDJ,JCD,J,WARM INSIDE,WARM,false,2,false,true
+1823,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1824,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+1828,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1829,TYPES OF OUCH,MENU,,Types of ouch,Types of ouch,JDR,JD,R,TYPES OF OUCH,BODY,true,1,true,false
+1830,I WILL FEEL OUCH,FINAL,I will feel ouch,,Types of ouch,JDRI,JDR,I,I WILL FEEL OUCH,TYPES OF OUCH,false,1,true,true
+1832,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1833,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1834,CANCER,FINAL,Cancer,,Types of ouch,JDRG,JDR,G,CANCER,TYPES OF OUCH,false,1,true,true
+1835,I WILL FEEL OUCH,FINAL,I will feel ouch,,Types of ouch,JDRI,JDR,I,I WILL FEEL OUCH,TYPES OF OUCH,false,1,true,true
+1836,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1837,SICK OUCH,FINAL,Sick ouch,,Types of ouch,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+1838,CANCER,FINAL,Cancer,,Types of ouch,JDRG,JDR,G,CANCER,TYPES OF OUCH,false,1,true,true
+1839,I FEEL OUCH,FINAL,I feel ouch,,Types of ouch,JDRJ,JDR,J,I FEEL OUCH,TYPES OF OUCH,false,1,true,true
+1840,I FEEL OUCH,FINAL,I feel ouch,,Types of ouch,JDRJ,JDR,J,I FEEL OUCH,TYPES OF OUCH,false,1,true,true
+1845,I WILL FEEL OUCH,FINAL,I will feel ouch,,Types of ouch,JDRI,JDR,I,I WILL FEEL OUCH,TYPES OF OUCH,false,1,true,true
+1849,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1850,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1851,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+1852,I WILL FEEL OUCH,FINAL,I will feel ouch,,Types of ouch,JDRI,JDR,I,I WILL FEEL OUCH,TYPES OF OUCH,false,1,true,true
+1854,CANCER,FINAL,Cancer,,Types of ouch,JDRG,JDR,G,CANCER,TYPES OF OUCH,false,1,true,true
+1859,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1870,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1871,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+1873,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+1874,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+1875,HOT,FINAL,Hot,,Warm,AHB,AH,B,HOT,TEMP AND WEATHER,true,2,false,true
+1875,HOT,FINAL,Hot,,Warm,JCB,JC,B,HOT,TEMPERATURE,true,2,false,true
+1876,I FEEL HOT,FINAL,I feel hot,,Warm,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+1877,HOT,FINAL,Hot,,Warm,AHB,AH,B,HOT,TEMP AND WEATHER,true,2,false,true
+1877,HOT,FINAL,Hot,,Warm,JCB,JC,B,HOT,TEMPERATURE,true,2,false,true
+1878,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1879,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+1880,MEDICINE,MENU,,Medicine,Medicine,JDL,JD,L,MEDICINE,BODY,true,1,true,false
+1884,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1889,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1899,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1900,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+1905,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1914,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+1915,MEDICINE,MENU,,Medicine,Medicine,JDL,JD,L,MEDICINE,BODY,true,1,true,false
+1917,NO,FINAL,No,,Medicine,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1918,YES,FINAL,Yes,,Medicine,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1919,YES,FINAL,Yes,,Medicine,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1920,YES,FINAL,Yes,,Medicine,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1921,EXPERIENCE,MENU,,Experience,Experience,C,"",C,EXPERIENCE,MAIN MENU,true,1,true,false
+1923,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+1932,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+1934,SMELL,FINAL,Smell,,Experience,CL,C,L,SMELL,EXPERIENCE,false,1,true,true
+1935,TASTE,FINAL,Taste,,Experience,CK,C,K,TASTE,EXPERIENCE,false,1,true,true
+1936,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+1939,SEE,FINAL,See,,Experience,CE,C,E,SEE,EXPERIENCE,false,1,true,true
+1941,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+1945,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+1946,OPPOSITES,MENU,,Opposites,Opposites,IB,I,B,OPPOSITES,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+1948,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+1948,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+1949,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+1949,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+1952,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+1952,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+1954,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1954,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1955,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1955,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1956,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1956,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1957,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+1957,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+1958,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1958,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1961,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+1961,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+1963,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+1963,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+1967,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+1967,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+1972,BIG,FINAL,Big,,Opposites,IBE,IB,E,BIG,OPPOSITES,false,1,true,true
+1975,YES,FINAL,Yes,,Opposites,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1976,YES,FINAL,Yes,,Opposites,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1977,YES,FINAL,Yes,,Opposites,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1978,NO,FINAL,No,,Opposites,AGC,AG,C,NO,YES AND NO,false,1,true,true
+1979,YES,FINAL,Yes,,Opposites,AGB,AG,B,YES,YES AND NO,false,1,true,true
+1981,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+1982,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+1983,CLOUD,FINAL,Cloud,,Temperature,JCI,JC,I,CLOUD,TEMPERATURE,false,1,true,true
+1984,HOT,FINAL,Hot,,Temperature,AHB,AH,B,HOT,TEMP AND WEATHER,true,2,false,true
+1984,HOT,FINAL,Hot,,Temperature,JCB,JC,B,HOT,TEMPERATURE,true,2,false,true
+1986,HOT,FINAL,Hot,,Temperature,AHB,AH,B,HOT,TEMP AND WEATHER,true,2,false,true
+1986,HOT,FINAL,Hot,,Temperature,JCB,JC,B,HOT,TEMPERATURE,true,2,false,true
+1987,I FEEL HOT,FINAL,I feel hot,,Temperature,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+1988,I FEEL HOT,FINAL,I feel hot,,Temperature,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+1989,I FEEL HOT,FINAL,I feel hot,,Temperature,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+1990,I FEEL HOT,FINAL,I feel hot,,Temperature,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+1991,I FEEL HOT,FINAL,I feel hot,,Temperature,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+1992,I FEEL HOT,FINAL,I feel hot,,Temperature,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+1994,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Temperature,JCBD,JCB,D,I WANT TO FEEL HOT,HOT,false,1,true,true
+1995,I FEEL HOT,FINAL,I feel hot,,Temperature,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+1996,I FEEL HOT,FINAL,I feel hot,,Temperature,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+1997,I FEEL HOT,FINAL,I feel hot,,Temperature,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+1998,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Temperature,JCBD,JCB,D,I WANT TO FEEL HOT,HOT,false,1,true,true
+2001,I FEEL HOT,FINAL,I feel hot,,Temperature,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+2002,I FEEL HOT,FINAL,I feel hot,,Temperature,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+2003,I FEEL HOT,FINAL,I feel hot,,Temperature,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+2004,I FEEL HOT,FINAL,I feel hot,,Temperature,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+2005,EXPERIENCE,MENU,,Experience,Experience,C,"",C,EXPERIENCE,MAIN MENU,true,1,true,false
+2006,READ,FINAL,Read,,Experience,CJ,C,J,READ,EXPERIENCE,false,1,true,true
+2007,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+2008,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+2012,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+2014,EXPERIENCE,MENU,,Experience,Experience,C,"",C,EXPERIENCE,MAIN MENU,true,1,true,false
+2015,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+2016,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+2018,SMELL,FINAL,Smell,,Experience,CL,C,L,SMELL,EXPERIENCE,false,1,true,true
+2020,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+2021,READING BOOK,FINAL,Reading book,,Experience,DED,DE,D,READING BOOK,BOOK,true,1,true,true
+2024,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2025,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+2028,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2030,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2033,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2034,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2038,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2039,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+2041,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2044,MEMORY AND TIME,MENU,,Memory and time,Memory and time,H,"",H,MEMORY AND TIME,MAIN MENU,true,1,true,false
+2045,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2046,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+2047,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+2050,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2053,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2055,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2059,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2060,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2061,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2063,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2065,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2066,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+2067,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+2071,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2072,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2073,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2074,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2075,TREATS,FINAL,Treats,,About me,GD,G,D,TREATS,FOOD AND DRINKS,true,1,true,true
+2077,SUNFLOWER SEEDS,FINAL,Sunflower seeds,,About me,GDB,GD,B,SUNFLOWER SEEDS,TREATS,false,1,true,true
+2078,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+2081,INSIDE,FINAL,Inside,,Descriptions and preferences,IDB,ID,B,INSIDE,FIX PLEASE,false,2,false,true
+2081,INSIDE,FINAL,Inside,,Descriptions and preferences,IGL,IG,L,INSIDE,QUESTIONS,false,2,false,true
+2082,TABLET,FINAL,Tablet,,Descriptions and preferences,IDL,ID,L,TABLET,FIX PLEASE,false,2,false,true
+2082,TABLET,FINAL,Tablet,,Descriptions and preferences,IHI,IH,I,TABLET,SQUIRRELS,false,2,false,true
+2086,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2086,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2088,INSIDE,FINAL,Inside,,Descriptions and preferences,IDB,ID,B,INSIDE,FIX PLEASE,false,2,false,true
+2088,INSIDE,FINAL,Inside,,Descriptions and preferences,IGL,IG,L,INSIDE,QUESTIONS,false,2,false,true
+2090,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2090,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2091,TABLET,FINAL,Tablet,,Descriptions and preferences,IDL,ID,L,TABLET,FIX PLEASE,false,2,false,true
+2091,TABLET,FINAL,Tablet,,Descriptions and preferences,IHI,IH,I,TABLET,SQUIRRELS,false,2,false,true
+2095,TABLET,FINAL,Tablet,,Descriptions and preferences,IDL,ID,L,TABLET,FIX PLEASE,false,2,false,true
+2095,TABLET,FINAL,Tablet,,Descriptions and preferences,IHI,IH,I,TABLET,SQUIRRELS,false,2,false,true
+2100,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2100,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2106,BLUE,FINAL,Blue,,Descriptions and preferences,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2106,BLUE,FINAL,Blue,,Descriptions and preferences,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2107,BROWN,FINAL,Brown,,Descriptions and preferences,IDK,ID,K,BROWN,FIX PLEASE,false,1,true,true
+2109,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2109,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2112,BLUE,FINAL,Blue,,Descriptions and preferences,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2112,BLUE,FINAL,Blue,,Descriptions and preferences,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2115,BLUE,FINAL,Blue,,Descriptions and preferences,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2115,BLUE,FINAL,Blue,,Descriptions and preferences,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2118,BROWN,FINAL,Brown,,Descriptions and preferences,IDK,ID,K,BROWN,FIX PLEASE,false,1,true,true
+2119,BLUE,FINAL,Blue,,Descriptions and preferences,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2119,BLUE,FINAL,Blue,,Descriptions and preferences,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2125,BROWN,FINAL,Brown,,Descriptions and preferences,IDK,ID,K,BROWN,FIX PLEASE,false,1,true,true
+2126,BROWN,FINAL,Brown,,Descriptions and preferences,IDK,ID,K,BROWN,FIX PLEASE,false,1,true,true
+2127,WHITE,FINAL,White,,Descriptions and preferences,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+2134,BLUE,FINAL,Blue,,Descriptions and preferences,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2134,BLUE,FINAL,Blue,,Descriptions and preferences,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2135,BLUE,FINAL,Blue,,Descriptions and preferences,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2135,BLUE,FINAL,Blue,,Descriptions and preferences,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2136,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2136,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2137,WHITE,FINAL,White,,Descriptions and preferences,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+2138,BLUE,FINAL,Blue ,,Descriptions and preferences,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2138,BLUE,FINAL,Blue ,,Descriptions and preferences,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2143,WHITE,FINAL,White,,Descriptions and preferences,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+2144,BLUE,FINAL,Blue,,Descriptions and preferences,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2144,BLUE,FINAL,Blue,,Descriptions and preferences,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2148,INSIDE,FINAL,Inside,,Descriptions and preferences,IDB,ID,B,INSIDE,FIX PLEASE,false,2,false,true
+2148,INSIDE,FINAL,Inside,,Descriptions and preferences,IGL,IG,L,INSIDE,QUESTIONS,false,2,false,true
+2149,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2149,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2155,WHITE,FINAL,White,,Descriptions and preferences,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+2156,WHITE,FINAL,White,,Descriptions and preferences,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+2159,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2159,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2160,INSIDE,FINAL,Inside,,Descriptions and preferences,IDB,ID,B,INSIDE,FIX PLEASE,false,2,false,true
+2160,INSIDE,FINAL,Inside,,Descriptions and preferences,IGL,IG,L,INSIDE,QUESTIONS,false,2,false,true
+2161,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2161,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2162,INSIDE,FINAL,Inside,,Descriptions and preferences,IDB,ID,B,INSIDE,FIX PLEASE,false,2,false,true
+2162,INSIDE,FINAL,Inside,,Descriptions and preferences,IGL,IG,L,INSIDE,QUESTIONS,false,2,false,true
+2166,BLUE,FINAL,Blue,,Descriptions and preferences,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2166,BLUE,FINAL,Blue,,Descriptions and preferences,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2168,BROWN,FINAL,Brown,,Descriptions and preferences,IDK,ID,K,BROWN,FIX PLEASE,false,1,true,true
+2169,BROWN,FINAL,Brown,,Descriptions and preferences,IDK,ID,K,BROWN,FIX PLEASE,false,1,true,true
+2171,BLUE,FINAL,Blue,,Descriptions and preferences,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2171,BLUE,FINAL,Blue,,Descriptions and preferences,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2172,BROWN,FINAL,Brown,,Descriptions and preferences,IDK,ID,K,BROWN,FIX PLEASE,false,1,true,true
+2175,BLUE,FINAL,Blue,,Descriptions and preferences,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2175,BLUE,FINAL,Blue,,Descriptions and preferences,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2176,TABLET,FINAL,Tablet,,Descriptions and preferences,IDL,ID,L,TABLET,FIX PLEASE,false,2,false,true
+2176,TABLET,FINAL,Tablet,,Descriptions and preferences,IHI,IH,I,TABLET,SQUIRRELS,false,2,false,true
+2177,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2177,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2181,BROWN,FINAL,Brown,,Descriptions and preferences,IDK,ID,K,BROWN,FIX PLEASE,false,1,true,true
+2184,OUTSIDE,FINAL,outside,,Descriptions and preferences,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2184,OUTSIDE,FINAL,outside,,Descriptions and preferences,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2185,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2185,OUTSIDE,FINAL,Outside,,Descriptions and preferences,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2188,OUTSIDE,FINAL,outside,,Descriptions and preferences,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2188,OUTSIDE,FINAL,outside,,Descriptions and preferences,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2189,BLUE,FINAL,blue,,Descriptions and preferences,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2189,BLUE,FINAL,blue,,Descriptions and preferences,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2191,OUTSIDE,FINAL,outside,,Descriptions and preferences,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2191,OUTSIDE,FINAL,outside,,Descriptions and preferences,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2192,OUTSIDE,FINAL,outside,,Descriptions and preferences,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2192,OUTSIDE,FINAL,outside,,Descriptions and preferences,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2193,INSIDE,FINAL,inside,,Descriptions and preferences,IDB,ID,B,INSIDE,FIX PLEASE,false,2,false,true
+2193,INSIDE,FINAL,inside,,Descriptions and preferences,IGL,IG,L,INSIDE,QUESTIONS,false,2,false,true
+2198,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+2199,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+2200,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+2203,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+2205,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+2207,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+2208,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+2209,SEE,FINAL,See,,Experience,CE,C,E,SEE,EXPERIENCE,false,1,true,true
+2210,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+2211,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+2212,SEE,FINAL,See,,Experience,CE,C,E,SEE,EXPERIENCE,false,1,true,true
+2216,SNUGGLE,FINAL,Snuggle,,Experience,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+2217,TRACING AND WRITING,FINAL,Tracing and writing,,Experience,DC,D,C,TRACING AND WRITING,TO PLAY,true,1,true,true
+2218,TYPING,FINAL,Typing,,Experience,DG,D,G,TYPING,TO PLAY,false,1,true,true
+2220,TIME,MENU,,Time,Time,HB,H,B,TIME,MEMORY AND TIME,true,1,true,false
+2221,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+2222,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+2223,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+2226,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+2227,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+2228,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+2229,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+2230,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+2232,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+2233,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+2234,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+2238,LOOK AT PICTURES,FINAL,Look at pictures,,Time,HBI,HB,I,LOOK AT PICTURES,TIME,false,2,false,true
+2238,LOOK AT PICTURES,FINAL,Look at pictures,,Time,HCH,HC,H,LOOK AT PICTURES,REMEMBER,false,2,false,true
+2239,BODY,FINAL,Body,,Time,HBR,HB,R,BODY,TIME,false,2,false,true
+2239,BODY,FINAL,Body,,Time,JD,J,D,BODY,ABOUT ME,true,1,true,true
+2239,BODY,FINAL,Body,,Time,JEH,JE,H,BODY,FEELING,false,2,false,true
+2241,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+2242,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+2244,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+2246,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+2247,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+2251,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+2252,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2253,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+2257,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2264,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2270,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2273,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2274,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2277,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2278,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2279,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2281,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2282,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2284,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2288,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2289,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+2290,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2297,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2300,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2301,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2302,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2308,YES AND NO,FINAL,Yes and no,,Body,AG,A,G,YES AND NO,TALK ABOUT,true,1,true,true
+2309,NO,FINAL,No,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+2310,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+2311,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+2313,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2314,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+2315,WARM,FINAL,Warm,,Temperature,AHC,AH,C,WARM,TEMP AND WEATHER,true,2,false,true
+2315,WARM,FINAL,Warm,,Temperature,JCD,JC,D,WARM,TEMPERATURE,true,2,false,true
+2316,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Temperature,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+2317,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Temperature,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+2318,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Temperature,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+2319,WARM INSIDE,FINAL,Warm inside,,Temperature,AHCD,AHC,D,WARM INSIDE,WARM,false,2,false,true
+2319,WARM INSIDE,FINAL,Warm inside,,Temperature,JCDJ,JCD,J,WARM INSIDE,WARM,false,2,false,true
+2320,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Temperature,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+2321,WARM OUTSIDE,FINAL,Warm outside,,Temperature,AHCB,AHC,B,WARM OUTSIDE,WARM,false,2,false,true
+2321,WARM OUTSIDE,FINAL,Warm outside,,Temperature,JCDI,JCD,I,WARM OUTSIDE,WARM,false,2,false,true
+2322,RAIN,FINAL,Rain,,Temperature,AHI,AH,I,RAIN,TEMP AND WEATHER,false,2,false,true
+2322,RAIN,FINAL,Rain,,Temperature,JCJ,JC,J,RAIN,TEMPERATURE,false,2,false,true
+2323,RAIN,FINAL,Rain,,Temperature,AHI,AH,I,RAIN,TEMP AND WEATHER,false,2,false,true
+2323,RAIN,FINAL,Rain,,Temperature,JCJ,JC,J,RAIN,TEMPERATURE,false,2,false,true
+2324,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+2325,OPPOSITES,MENU,,Opposites,Opposites,IB,I,B,OPPOSITES,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+2329,WHITE,FINAL,White,,Opposites,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+2331,INSIDE,FINAL,Inside,,Opposites,IDB,ID,B,INSIDE,FIX PLEASE,false,2,false,true
+2331,INSIDE,FINAL,Inside,,Opposites,IGL,IG,L,INSIDE,QUESTIONS,false,2,false,true
+2333,I HELP,FINAL,I help,,Opposites,IEM,IE,M,I HELP,CLEAN,false,1,true,true
+2334,I HELP,FINAL,I help,,Opposites,IEM,IE,M,I HELP,CLEAN,false,1,true,true
+2335,CLEAN,FINAL,Clean,,Opposites,IE,I,E,CLEAN,DESCRIPTIONS AND PREFERENCES,true,1,true,true
+2343,I HELP,FINAL,I help,,Opposites,IEM,IE,M,I HELP,CLEAN,false,1,true,true
+2345,I HELP,FINAL,I help,,Opposites,IEM,IE,M,I HELP,CLEAN,false,1,true,true
+2355,I HELP,FINAL,I help,,Opposites,IEM,IE,M,I HELP,CLEAN,false,1,true,true
+2359,I HELP,FINAL,I help,,Opposites,IEM,IE,M,I HELP,CLEAN,false,1,true,true
+2362,I HELP,FINAL,I help,,Opposites,IEM,IE,M,I HELP,CLEAN,false,1,true,true
+2365,I HELP,FINAL,I help,,Opposites,IEM,IE,M,I HELP,CLEAN,false,1,true,true
+2366,I HELP,FINAL,I help,,Opposites,IEM,IE,M,I HELP,CLEAN,false,1,true,true
+2402,I HELP,FINAL,I help,,Opposites,IEM,IE,M,I HELP,CLEAN,false,1,true,true
+2427,I HELP,FINAL,I help,,Opposites,IEM,IE,M,I HELP,CLEAN,false,1,true,true
+2446,OUTSIDE,FINAL,Outside,,Opposites,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2446,OUTSIDE,FINAL,Outside,,Opposites,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2463,OUCH,FINAL,Ouch,,Opposites,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2470,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+2471,FIX PLEASE,MENU,,Fix Please,Fix Please,ID,I,D,FIX PLEASE,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+2472,BLUE,FINAL,Blue,,Fix Please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2472,BLUE,FINAL,Blue,,Fix Please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2476,BROWN,FINAL,Brown,,Fix Please,IDK,ID,K,BROWN,FIX PLEASE,false,1,true,true
+2477,BROWN,FINAL,Brown,,Fix Please,IDK,ID,K,BROWN,FIX PLEASE,false,1,true,true
+2482,WHITE,FINAL,White,,Fix Please,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+2483,WHITE,FINAL,White,,Fix Please,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+2484,BLUE,FINAL,Blue ,,Fix Please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2484,BLUE,FINAL,Blue ,,Fix Please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2485,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2486,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+2487,HOT,FINAL,Hot,,Temperature,AHB,AH,B,HOT,TEMP AND WEATHER,true,2,false,true
+2487,HOT,FINAL,Hot,,Temperature,JCB,JC,B,HOT,TEMPERATURE,true,2,false,true
+2488,HOT OUTSIDE,FINAL,Hot outside,,Temperature,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+2488,HOT OUTSIDE,FINAL,Hot outside,,Temperature,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+2489,HOT OUTSIDE,FINAL,Hot outside,,Temperature,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+2489,HOT OUTSIDE,FINAL,Hot outside,,Temperature,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+2490,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2491,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+2492,CLEAN,MENU,,Clean,Clean,IE,I,E,CLEAN,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+2493,FIX PLEASE,MENU,,Fix Please,Fix Please,ID,I,D,FIX PLEASE,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+2494,BLUE,FINAL,Blue,,Fix Please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2494,BLUE,FINAL,Blue,,Fix Please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2495,BLUE,FINAL,Blue,,Fix Please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2495,BLUE,FINAL,Blue,,Fix Please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2499,BLUE,FINAL,Blue,,Fix Please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2499,BLUE,FINAL,Blue,,Fix Please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2502,BLUE,FINAL,Blue,,Fix Please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2502,BLUE,FINAL,Blue,,Fix Please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2509,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2510,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+2512,HOT OUTSIDE,FINAL,Hot outside,,Hot,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+2512,HOT OUTSIDE,FINAL,Hot outside,,Hot,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+2513,WIND,FINAL,Wind,,Hot,AHK,AH,K,WIND,TEMP AND WEATHER,false,2,false,true
+2513,WIND,FINAL,Wind,,Hot,JCH,JC,H,WIND,TEMPERATURE,false,2,false,true
+2514,WIND,FINAL,Wind,,Hot,AHK,AH,K,WIND,TEMP AND WEATHER,false,2,false,true
+2514,WIND,FINAL,Wind,,Hot,JCH,JC,H,WIND,TEMPERATURE,false,2,false,true
+2515,WIND,FINAL,Wind,,Hot,AHK,AH,K,WIND,TEMP AND WEATHER,false,2,false,true
+2515,WIND,FINAL,Wind,,Hot,JCH,JC,H,WIND,TEMPERATURE,false,2,false,true
+2517,I WILL FEEL COLD,FINAL,I will feel cold,,Hot,JCFH,JCF,H,I WILL FEEL COLD,COLD,false,1,true,true
+2518,COLD OUTSIDE,FINAL,Cold outside,,Hot,JCFI,JCF,I,COLD OUTSIDE,COLD,false,1,true,true
+2519,TALK ABOUT,FINAL,Talk about,,Hot,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+2520,COLD OUTSIDE,FINAL,Cold outside,,Hot,JCFI,JCF,I,COLD OUTSIDE,COLD,false,1,true,true
+2521,COLD OUTSIDE,FINAL,Cold outside,,Hot,JCFI,JCF,I,COLD OUTSIDE,COLD,false,1,true,true
+2522,I WILL FEEL COLD,FINAL,I will feel cold,,Hot,JCFH,JCF,H,I WILL FEEL COLD,COLD,false,1,true,true
+2523,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2524,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+2525,WIND,FINAL,Wind,,Temperature,AHK,AH,K,WIND,TEMP AND WEATHER,false,2,false,true
+2525,WIND,FINAL,Wind,,Temperature,JCH,JC,H,WIND,TEMPERATURE,false,2,false,true
+2526,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2527,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+2529,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2533,ENTERTAINMENT,MENU,,Entertainment,Entertainment,F,"",F,ENTERTAINMENT,MAIN MENU,true,1,true,false
+2534,ALEXA,MENU,,Alexa,Alexa,FD,F,D,ALEXA,ENTERTAINMENT,true,1,true,false
+2535,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2545,ROMANTIC ERA,MENU,,Romantic Era,Romantic Era,FBD,FB,D,ROMANTIC ERA,MUSIC,true,1,true,false
+2547,TCHAIKOVSKY,FINAL,Tchaikovsky,,Romantic Era,FBDE,FBD,E,TCHAIKOVSKY,ROMANTIC ERA,false,1,true,true
+2548,TCHAIKOVSKY,FINAL,Tchaikovsky,,Romantic Era,FBDE,FBD,E,TCHAIKOVSKY,ROMANTIC ERA,false,1,true,true
+2549,ENTERTAINMENT,MENU,,Entertainment,Entertainment,F,"",F,ENTERTAINMENT,MAIN MENU,true,1,true,false
+2550,MUSIC,MENU,,Music,Music,FB,F,B,MUSIC,ENTERTAINMENT,true,1,true,false
+2551,BAROQUE,MENU,,Baroque,Baroque,FBC,FB,C,BAROQUE,MUSIC,true,1,true,false
+2552,BACH,FINAL,Bach,,Baroque,FBCB,FBC,B,BACH,BAROQUE,false,1,true,true
+2553,VIVALDI,FINAL,Vivaldi,,Baroque,FBCE,FBC,E,VIVALDI,BAROQUE,false,1,true,true
+2554,PLACES,MENU,,Places,Places,B,"",B,PLACES,MAIN MENU,true,1,true,false
+2555,BASKET,FINAL,Basket,,Places,BF,B,F,BASKET,PLACES,false,1,true,true
+2556,BASKET,FINAL,Basket,,Places,BF,B,F,BASKET,PLACES,false,1,true,true
+2557,BASKET,FINAL,Basket,,Places,BF,B,F,BASKET,PLACES,false,1,true,true
+2558,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places,BD,B,D,ISABELLE'S HOUSE,PLACES,false,1,true,true
+2559,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places,BD,B,D,ISABELLE'S HOUSE,PLACES,false,1,true,true
+2560,BASKET,FINAL,Basket,,Places,BF,B,F,BASKET,PLACES,false,1,true,true
+2561,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places,BD,B,D,ISABELLE'S HOUSE,PLACES,false,1,true,true
+2562,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places,BD,B,D,ISABELLE'S HOUSE,PLACES,false,1,true,true
+2563,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places,BD,B,D,ISABELLE'S HOUSE,PLACES,false,1,true,true
+2564,TILLIE'S HOUSE,FINAL,Tillie's house,,Places,BE,B,E,TILLIE'S HOUSE,PLACES,false,1,true,true
+2565,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places,BD,B,D,ISABELLE'S HOUSE,PLACES,false,1,true,true
+2566,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places,BD,B,D,ISABELLE'S HOUSE,PLACES,false,1,true,true
+2567,BASKET,FINAL,Basket,,Places,BF,B,F,BASKET,PLACES,false,1,true,true
+2568,BASKET,FINAL,Basket,,Places,BF,B,F,BASKET,PLACES,false,1,true,true
+2569,TILLIE'S HOUSE,FINAL,Tillie's house,,Places,BE,B,E,TILLIE'S HOUSE,PLACES,false,1,true,true
+2570,TILLIE'S HOUSE,FINAL,Tillie's house,,Places,BE,B,E,TILLIE'S HOUSE,PLACES,false,1,true,true
+2571,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places,BD,B,D,ISABELLE'S HOUSE,PLACES,false,1,true,true
+2572,BASKET,FINAL,Basket,,Places,BF,B,F,BASKET,PLACES,false,1,true,true
+2573,BASKET,FINAL,Basket,,Places,BF,B,F,BASKET,PLACES,false,1,true,true
+2574,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places,BD,B,D,ISABELLE'S HOUSE,PLACES,false,1,true,true
+2575,OUTSIDE WALK,FINAL,Outside walk,,Places,BC,B,C,OUTSIDE WALK,PLACES,false,2,false,true
+2575,OUTSIDE WALK,FINAL,Outside walk,,Places,EI,E,I,OUTSIDE WALK,TO SAY HELLO TO,false,2,false,true
+2576,TILLIE'S HOUSE,FINAL,Tillie's house,,Places,BE,B,E,TILLIE'S HOUSE,PLACES,false,1,true,true
+2577,PLAYSTAND,FINAL,Playstand,,Places,BG,B,G,PLAYSTAND,PLACES,false,1,true,true
+2578,PLAYSTAND,FINAL,Playstand,,Places,BG,B,G,PLAYSTAND,PLACES,false,1,true,true
+2579,TILLIE'S HOUSE,FINAL,Tillie's house,,Places,BE,B,E,TILLIE'S HOUSE,PLACES,false,1,true,true
+2580,BASKET,FINAL,Basket,,Places,BF,B,F,BASKET,PLACES,false,1,true,true
+2581,TILLIE'S HOUSE,FINAL,Tillie's house,,Places,BE,B,E,TILLIE'S HOUSE,PLACES,false,1,true,true
+2582,OUTSIDE WALK,FINAL,Outside walk,,Places,BC,B,C,OUTSIDE WALK,PLACES,false,2,false,true
+2582,OUTSIDE WALK,FINAL,Outside walk,,Places,EI,E,I,OUTSIDE WALK,TO SAY HELLO TO,false,2,false,true
+2583,BASKET,FINAL,Basket,,Places,BF,B,F,BASKET,PLACES,false,1,true,true
+2584,BASKET,FINAL,Basket,,Places,BF,B,F,BASKET,PLACES,false,1,true,true
+2585,BASKET,FINAL,Basket,,Places,BF,B,F,BASKET,PLACES,false,1,true,true
+2586,BASKET,FINAL,Basket,,Places,BF,B,F,BASKET,PLACES,false,1,true,true
+2587,OUTSIDE WALK,FINAL,Outside walk,,Places,BC,B,C,OUTSIDE WALK,PLACES,false,2,false,true
+2587,OUTSIDE WALK,FINAL,Outside walk,,Places,EI,E,I,OUTSIDE WALK,TO SAY HELLO TO,false,2,false,true
+2588,OUTSIDE WALK,FINAL,Outside walk,,Places,BC,B,C,OUTSIDE WALK,PLACES,false,2,false,true
+2588,OUTSIDE WALK,FINAL,Outside walk,,Places,EI,E,I,OUTSIDE WALK,TO SAY HELLO TO,false,2,false,true
+2589,BASKET,FINAL,Basket,,Places,BF,B,F,BASKET,PLACES,false,1,true,true
+2590,OUTSIDE WALK,FINAL,Outside walk,,Places,BC,B,C,OUTSIDE WALK,PLACES,false,2,false,true
+2590,OUTSIDE WALK,FINAL,Outside walk,,Places,EI,E,I,OUTSIDE WALK,TO SAY HELLO TO,false,2,false,true
+2591,ISABELLE'S HOUSE,FINAL,Isabelle's house,,Places,BD,B,D,ISABELLE'S HOUSE,PLACES,false,1,true,true
+2593,YES,FINAL,Yes,,Happy,AGB,AG,B,YES,YES AND NO,false,1,true,true
+2594,NO,FINAL,No,,Happy,AGC,AG,C,NO,YES AND NO,false,1,true,true
+2595,YES,FINAL,Yes,,Happy,AGB,AG,B,YES,YES AND NO,false,1,true,true
+2596,NO,FINAL,No,,Happy,AGC,AG,C,NO,YES AND NO,false,1,true,true
+2597,NO,FINAL,No,,Happy,AGC,AG,C,NO,YES AND NO,false,1,true,true
+2598,YES,FINAL,Yes,,Happy,AGB,AG,B,YES,YES AND NO,false,1,true,true
+2599,NO,FINAL,No,,Happy,AGC,AG,C,NO,YES AND NO,false,1,true,true
+2600,NO,FINAL,No,,Happy,AGC,AG,C,NO,YES AND NO,false,1,true,true
+2601,YES,FINAL,Yes,,Happy,AGB,AG,B,YES,YES AND NO,false,1,true,true
+2602,YES,FINAL,Yes,,Happy,AGB,AG,B,YES,YES AND NO,false,1,true,true
+2603,NO,FINAL,No,,Happy,AGC,AG,C,NO,YES AND NO,false,1,true,true
+2604,YES,FINAL,Yes,,Happy,AGB,AG,B,YES,YES AND NO,false,1,true,true
+2605,YES,FINAL,Yes,,Happy,AGB,AG,B,YES,YES AND NO,false,1,true,true
+2606,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+2608,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+2609,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+2610,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+2611,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+2612,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Hot,JCBD,JCB,D,I WANT TO FEEL HOT,HOT,false,1,true,true
+2613,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Hot,JCBD,JCB,D,I WANT TO FEEL HOT,HOT,false,1,true,true
+2614,I WILL FEEL HOT,FINAL,I will feel hot,,Hot,JCBH,JCB,H,I WILL FEEL HOT,HOT,false,1,true,true
+2615,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+2616,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Hot,JCBD,JCB,D,I WANT TO FEEL HOT,HOT,false,1,true,true
+2617,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+2618,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+2620,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+2621,TRACING AND WRITING,FINAL,Tracing and writing,,To play,DC,D,C,TRACING AND WRITING,TO PLAY,true,1,true,true
+2622,TRACING,FINAL,Tracing ,,To play,DCB,DC,B,TRACING,TRACING AND WRITING,false,1,true,true
+2623,FREE WRITING PRACTICE,FINAL,Free writing practice,,To play,DCD,DC,D,FREE WRITING PRACTICE,TRACING AND WRITING,false,1,true,true
+2624,LETTER PRACTICE,FINAL,Letter practice,,To play,DCE,DC,E,LETTER PRACTICE,TRACING AND WRITING,false,1,true,true
+2625,MEMORY AND TIME,MENU,,Memory and Time,Memory and Time,H,"",H,MEMORY AND TIME,MAIN MENU,true,1,true,false
+2626,REMEMBER,MENU,,Remember,Remember,HC,H,C,REMEMBER,MEMORY AND TIME,true,1,true,false
+2627,CHRIS,FINAL,Chris,,Remember,HCK,HC,K,CHRIS,REMEMBER,false,1,true,true
+2639,TALK ABOUT,FINAL,Talk about ,,Remember,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+2640,MOONLIGHT,FINAL,Moonlight,,Remember,HCB,HC,B,MOONLIGHT,REMEMBER,false,1,true,true
+2655,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2656,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+2664,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2666,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2672,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+2673,MOVEMENT,MENU,,Movement,Movement,IC,I,C,MOVEMENT,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+2674,JUMP,FINAL,Jump,,Movement,ICD,IC,D,JUMP,MOVEMENT,false,1,true,true
+2675,RUN,FINAL,Run,,Movement,ICB,IC,B,RUN,MOVEMENT,false,1,true,true
+2676,JUMP,FINAL,Jump,,Movement,ICD,IC,D,JUMP,MOVEMENT,false,1,true,true
+2682,JUMP,FINAL,Jump,,Movement,ICD,IC,D,JUMP,MOVEMENT,false,1,true,true
+2683,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+2684,FIX PLEASE,MENU,,Fix please,Fix please,ID,I,D,FIX PLEASE,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+2686,OUTSIDE,FINAL,Outside,,Fix please,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2686,OUTSIDE,FINAL,Outside,,Fix please,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2687,BLUE,FINAL,Blue,,Fix please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2687,BLUE,FINAL,Blue,,Fix please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2688,TABLET,FINAL,Tablet,,Fix please,IDL,ID,L,TABLET,FIX PLEASE,false,2,false,true
+2688,TABLET,FINAL,Tablet,,Fix please,IHI,IH,I,TABLET,SQUIRRELS,false,2,false,true
+2692,OUTSIDE,FINAL,Outside,,Fix please,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2692,OUTSIDE,FINAL,Outside,,Fix please,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2693,TABLET,FINAL,Tablet,,Fix please,IDL,ID,L,TABLET,FIX PLEASE,false,2,false,true
+2693,TABLET,FINAL,Tablet,,Fix please,IHI,IH,I,TABLET,SQUIRRELS,false,2,false,true
+2694,TABLET,FINAL,Tablet,,Fix please,IDL,ID,L,TABLET,FIX PLEASE,false,2,false,true
+2694,TABLET,FINAL,Tablet,,Fix please,IHI,IH,I,TABLET,SQUIRRELS,false,2,false,true
+2695,TABLET,FINAL,Tablet,,Fix please,IDL,ID,L,TABLET,FIX PLEASE,false,2,false,true
+2695,TABLET,FINAL,Tablet,,Fix please,IHI,IH,I,TABLET,SQUIRRELS,false,2,false,true
+2696,TABLET,FINAL,Tablet,,Fix please,IDL,ID,L,TABLET,FIX PLEASE,false,2,false,true
+2696,TABLET,FINAL,Tablet,,Fix please,IHI,IH,I,TABLET,SQUIRRELS,false,2,false,true
+2697,TABLET,FINAL,Tablet,,Fix please,IDL,ID,L,TABLET,FIX PLEASE,false,2,false,true
+2697,TABLET,FINAL,Tablet,,Fix please,IHI,IH,I,TABLET,SQUIRRELS,false,2,false,true
+2698,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+2699,FIX PLEASE,MENU,,Fix please,Fix please,ID,I,D,FIX PLEASE,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+2700,BLUE,FINAL,Blue,,Fix please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2700,BLUE,FINAL,Blue,,Fix please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2702,WHITE,FINAL,White,,Fix please,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+2703,BLUE,FINAL,Blue,,Fix please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2703,BLUE,FINAL,Blue,,Fix please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2704,BLUE,FINAL,Blue,,Fix please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2704,BLUE,FINAL,Blue,,Fix please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2705,WHITE,FINAL,White,,Fix please,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+2706,BLUE,FINAL,Blue,,Fix please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2706,BLUE,FINAL,Blue,,Fix please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2708,BLUE,FINAL,Blue,,Fix please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2708,BLUE,FINAL,Blue,,Fix please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2709,BROWN,FINAL,Brown,,Fix please,IDK,ID,K,BROWN,FIX PLEASE,false,1,true,true
+2710,BLUE,FINAL,Blue,,Fix please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2710,BLUE,FINAL,Blue,,Fix please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2711,BLUE,FINAL,Blue,,Fix please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2711,BLUE,FINAL,Blue,,Fix please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2716,OUTSIDE,FINAL,Outside,,Fix please,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+2716,OUTSIDE,FINAL,Outside,,Fix please,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+2717,TABLET,FINAL,Tablet,,Fix please,IDL,ID,L,TABLET,FIX PLEASE,false,2,false,true
+2717,TABLET,FINAL,Tablet,,Fix please,IHI,IH,I,TABLET,SQUIRRELS,false,2,false,true
+2718,BOOK,FINAL,Book,,Fix please,DE,D,E,BOOK,TO PLAY,true,1,true,true
+2719,TALK ABOUT,FINAL,Talk about,,Fix please,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+2720,TALK ABOUT,FINAL,Talk about,,Fix please,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+2722,TALK ABOUT,FINAL,Talk about,,Fix please,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+2725,TALK ABOUT,FINAL,Talk about,,Fix please,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+2726,TALK ABOUT,FINAL,Talk about,,Fix please,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+2727,BOOK,FINAL,Book,,Fix please,DE,D,E,BOOK,TO PLAY,true,1,true,true
+2728,SQUIRRELS,FINAL,Squirrels,,Fix please,IH,I,H,SQUIRRELS,DESCRIPTIONS AND PREFERENCES,true,1,true,true
+2730,BOOK,FINAL,Book,,Fix please,DE,D,E,BOOK,TO PLAY,true,1,true,true
+2731,IGUANA,FINAL,Iguana,,Fix please,ABFD,ABF,D,IGUANA,BACKYARD ANIMALS,false,1,true,true
+2732,RABBIT,FINAL,Rabbit,,Fix please,ABFC,ABF,C,RABBIT,BACKYARD ANIMALS,false,1,true,true
+2733,RABBIT,FINAL,Rabbit,,Fix please,ABFC,ABF,C,RABBIT,BACKYARD ANIMALS,false,1,true,true
+2735,TALK ABOUT,FINAL,Talk about,,Fix please,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+2737,SNUGGLE,FINAL,Snuggle,,Fix please,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+2738,TRACING AND WRITING,MENU,,Tracing and writing,Tracing and writing,DC,D,C,TRACING AND WRITING,TO PLAY,true,1,true,false
+2739,FREE WRITING PRACTICE,FINAL,Free writing practice,,Tracing and writing,DCD,DC,D,FREE WRITING PRACTICE,TRACING AND WRITING,false,1,true,true
+2740,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+2741,FIX PLEASE,MENU,,Fix please,Fix please,ID,I,D,FIX PLEASE,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+2742,BLUE,FINAL,Blue,,Fix please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2742,BLUE,FINAL,Blue,,Fix please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2744,BLUE,FINAL,Blue,,Fix please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2744,BLUE,FINAL,Blue,,Fix please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2745,TABLET,FINAL,Tablet,,Fix please,IDL,ID,L,TABLET,FIX PLEASE,false,2,false,true
+2745,TABLET,FINAL,Tablet,,Fix please,IHI,IH,I,TABLET,SQUIRRELS,false,2,false,true
+2746,TABLET,FINAL,Tablet,,Fix please,IDL,ID,L,TABLET,FIX PLEASE,false,2,false,true
+2746,TABLET,FINAL,Tablet,,Fix please,IHI,IH,I,TABLET,SQUIRRELS,false,2,false,true
+2748,BLUE,FINAL,Blue,,Fix please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2748,BLUE,FINAL,Blue,,Fix please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2749,BROWN,FINAL,Brown,,Fix please,IDK,ID,K,BROWN,FIX PLEASE,false,1,true,true
+2750,BROWN,FINAL,Brown,,Fix please,IDK,ID,K,BROWN,FIX PLEASE,false,1,true,true
+2751,BLUE,FINAL,Blue,,Fix please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+2751,BLUE,FINAL,Blue,,Fix please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+2752,WHITE,FINAL,White,,Fix please,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+2754,ENTERTAINMENT,MENU,,Entertainment,Entertainment,F,"",F,ENTERTAINMENT,MAIN MENU,true,1,true,false
+2755,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+2770,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2773,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+2774,MOVEMENT,MENU,,Movement,Movement,IC,I,C,MOVEMENT,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+2775,JUMP,FINAL,Jump,,Movement,ICD,IC,D,JUMP,MOVEMENT,false,1,true,true
+2785,SWIM,FINAL,Swim,,Movement,ICE,IC,E,SWIM,MOVEMENT,false,1,true,true
+2787,RUN,FINAL,Run,,Movement,ICB,IC,B,RUN,MOVEMENT,false,1,true,true
+2791,RUN,FINAL,Run,,Movement,ICB,IC,B,RUN,MOVEMENT,false,1,true,true
+2792,JUMP,FINAL,Jump ,,Movement,ICD,IC,D,JUMP,MOVEMENT,false,1,true,true
+2794,JUMP,FINAL,Jump,,Movement,ICD,IC,D,JUMP,MOVEMENT,false,1,true,true
+2798,RUN,FINAL,Run,,Movement,ICB,IC,B,RUN,MOVEMENT,false,1,true,true
+2806,SWIM,FINAL,Swim,,Movement,ICE,IC,E,SWIM,MOVEMENT,false,1,true,true
+2807,SWIM,FINAL,Swim,,Movement,ICE,IC,E,SWIM,MOVEMENT,false,1,true,true
+2811,ENTERTAINMENT,MENU,,Entertainment,Entertainment,F,"",F,ENTERTAINMENT,MAIN MENU,true,1,true,false
+2820,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2821,TEMPERATURE,FINAL,Temperature,,About me,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,true
+2822,WARM,FINAL,Warm,,About me,AHC,AH,C,WARM,TEMP AND WEATHER,true,2,false,true
+2822,WARM,FINAL,Warm,,About me,JCD,JC,D,WARM,TEMPERATURE,true,2,false,true
+2823,I WANT TO FEEL WARM,FINAL,I want to feel warm,,About me,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+2825,TALK ABOUT,FINAL,Talk about,,About me,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+2826,TALK ABOUT,FINAL,Talk about,,About me,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+2828,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2829,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+2836,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2837,TYPES OF OUCH,MENU,,Types of ouch,Types of ouch,JDR,JD,R,TYPES OF OUCH,BODY,true,1,true,false
+2838,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+2839,I FELT OUCH,FINAL,I felt ouch,,Types of ouch,JDRH,JDR,H,I FELT OUCH,TYPES OF OUCH,false,1,true,true
+2840,OUTSIDE OUCH,FINAL,Outside ouch,,Types of ouch,JDRC,JDR,C,OUTSIDE OUCH,TYPES OF OUCH,false,1,true,true
+2841,OUTSIDE OUCH,FINAL,Outside ouch,,Types of ouch,JDRC,JDR,C,OUTSIDE OUCH,TYPES OF OUCH,false,1,true,true
+2842,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2843,BODY,FINAL,Body,,About me,HBR,HB,R,BODY,TIME,false,2,false,true
+2843,BODY,FINAL,Body,,About me,JD,J,D,BODY,ABOUT ME,true,1,true,true
+2843,BODY,FINAL,Body,,About me,JEH,JE,H,BODY,FEELING,false,2,false,true
+2844,OUCH,FINAL,Ouch,,About me,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2849,OUCH,FINAL,Ouch,,About me,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2858,OUCH,FINAL,Ouch,,About me,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2859,OUCH,FINAL,Ouch,,About me,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2864,NO,FINAL,No ,,About me,AGC,AG,C,NO,YES AND NO,false,1,true,true
+2865,NO,FINAL,No,,About me,AGC,AG,C,NO,YES AND NO,false,1,true,true
+2867,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2872,CAR RIDE,FINAL,Car ride,,Say hello to,EG,E,G,CAR RIDE,TO SAY HELLO TO,false,1,true,true
+2873,CAR RIDE,FINAL,Car ride,,Say hello to,EG,E,G,CAR RIDE,TO SAY HELLO TO,false,1,true,true
+2874,CORI,FINAL,Cori,,Say hello to,ED,E,D,CORI,TO SAY HELLO TO,false,2,false,true
+2874,CORI,FINAL,Cori,,Say hello to,FEIB,FEI,B,CORI,CALL A FRIEND,false,2,false,true
+2875,CORI,FINAL,Cori,,Say hello to,ED,E,D,CORI,TO SAY HELLO TO,false,2,false,true
+2875,CORI,FINAL,Cori,,Say hello to,FEIB,FEI,B,CORI,CALL A FRIEND,false,2,false,true
+2876,SIERRA,FINAL,Sierra,,Say hello to,EF,E,F,SIERRA,TO SAY HELLO TO,false,1,true,true
+2879,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2887,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2888,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+2896,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2897,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2899,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2903,CRAFTS,FINAL,Crafts,,Feelings,DF,D,F,CRAFTS,TO PLAY,false,1,true,true
+2904,COLORING,FINAL,Coloring,,Feelings,DIH,DI,H,COLORING,TABLET GAMES,false,2,false,true
+2904,COLORING,FINAL,Coloring,,Feelings,FEF,FE,F,COLORING,MOM WORK,false,2,false,true
+2905,BABY UNICORN,FINAL,Baby Unicorn,,Feelings,DIJ,DI,J,BABY UNICORN,TABLET GAMES,false,1,true,true
+2906,COLORING,FINAL,Coloring,,Feelings,DIH,DI,H,COLORING,TABLET GAMES,false,2,false,true
+2906,COLORING,FINAL,Coloring,,Feelings,FEF,FE,F,COLORING,MOM WORK,false,2,false,true
+2907,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2908,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+2909,COOL,MENU,,Cool,Cool,JCE,JC,E,COOL,TEMPERATURE,true,1,true,false
+2912,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Cool,JCEC,JCE,C,I WANT TO FEEL COOL,COOL,false,1,true,true
+2913,I WANT TO FEEL COOL,FINAL,I want to feel cool,,Cool,JCEC,JCE,C,I WANT TO FEEL COOL,COOL,false,1,true,true
+2914,TALK ABOUT,FINAL,Talk about,,Cool,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+2915,I FEEL COOL,FINAL,I feel cool,,Cool,JCEB,JCE,B,I FEEL COOL,COOL,false,1,true,true
+2916,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2931,BOOK,FINAL,Book,,Happy,DE,D,E,BOOK,TO PLAY,true,1,true,true
+2934,ALEXA PLAY VIVALDI,FINAL,Alexa play Vivaldi,,Happy,FDE,FD,E,ALEXA PLAY VIVALDI,ALEXA,false,1,true,true
+2935,ALEXA PLAY YIRUMA,FINAL,Alexa play Yiruma,,Happy,FDH,FD,H,ALEXA PLAY YIRUMA,ALEXA,false,1,true,true
+2936,ALEXA PLAY YIRUMA,FINAL,Alexa play Yiruma,,Happy,FDH,FD,H,ALEXA PLAY YIRUMA,ALEXA,false,1,true,true
+2937,ALEXA PLAY HOOKED ON A FEELING ON PANDORA,FINAL,Alexa play Hooked on a Feeling on Pandora,,Happy,FDJ,FD,J,ALEXA PLAY HOOKED ON A FEELING ON PANDORA,ALEXA,false,1,true,true
+2939,ALEXA PLAY BEETHOVEN ON SPOTIFY,FINAL,Alexa play Beethoven on spotify,,Happy,FDF,FD,F,ALEXA PLAY BEETHOVEN ON SPOTIFY,ALEXA,false,1,true,true
+2940,ALEXA PLAY BEETHOVEN ON SPOTIFY,FINAL,Alexa play Beethoven on spotify,,Happy,FDF,FD,F,ALEXA PLAY BEETHOVEN ON SPOTIFY,ALEXA,false,1,true,true
+2941,ALEXA PLAY BEETHOVEN ON SPOTIFY,FINAL,Alexa play Beethoven on spotify,,Happy,FDF,FD,F,ALEXA PLAY BEETHOVEN ON SPOTIFY,ALEXA,false,1,true,true
+2942,ALEXA PLAY BEETHOVEN ON SPOTIFY,FINAL,Alexa play Beethoven on spotify,,Happy,FDF,FD,F,ALEXA PLAY BEETHOVEN ON SPOTIFY,ALEXA,false,1,true,true
+2943,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will Ackerman,,Happy,FDI,FD,I,ALEXA PLAY WILL ACKERMAN,ALEXA,false,1,true,true
+2944,ALEXA PLAY VIVALDI,FINAL,Alexa play Vivaldi,,Happy,FDE,FD,E,ALEXA PLAY VIVALDI,ALEXA,false,1,true,true
+2945,ALEXA PLAY MEDITATION MUSIC,FINAL,Alexa play meditation music,,Happy,FDC,FD,C,ALEXA PLAY MEDITATION MUSIC,ALEXA,false,1,true,true
+2946,ALEXA PLAY BEETHOVEN ON SPOTIFY,FINAL,Alexa play Beethoven on spotify,,Happy,FDF,FD,F,ALEXA PLAY BEETHOVEN ON SPOTIFY,ALEXA,false,1,true,true
+2947,ALEXA PLAY MEDITATION MUSIC,FINAL,Alexa play meditation music,,Happy,FDC,FD,C,ALEXA PLAY MEDITATION MUSIC,ALEXA,false,1,true,true
+2948,ALEXA PLAY VIVALDI,FINAL,Alexa play Vivaldi,,Happy,FDE,FD,E,ALEXA PLAY VIVALDI,ALEXA,false,1,true,true
+2949,ALEXA PLAY VIVALDI,FINAL,Alexa play Vivaldi,,Happy,FDE,FD,E,ALEXA PLAY VIVALDI,ALEXA,false,1,true,true
+2950,ALEXA PLAY MEDITATION MUSIC,FINAL,Alexa play meditation music,,Happy,FDC,FD,C,ALEXA PLAY MEDITATION MUSIC,ALEXA,false,1,true,true
+2951,ALEXA PLAY MEDITATION MUSIC,FINAL,Alexa play meditation music,,Happy,FDC,FD,C,ALEXA PLAY MEDITATION MUSIC,ALEXA,false,1,true,true
+2952,ALEXA PLAY MEDITATION MUSIC,FINAL,Alexa play meditation music,,Happy,FDC,FD,C,ALEXA PLAY MEDITATION MUSIC,ALEXA,false,1,true,true
+2953,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will Ackerman,,Happy,FDI,FD,I,ALEXA PLAY WILL ACKERMAN,ALEXA,false,1,true,true
+2954,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will Ackerman,,Happy,FDI,FD,I,ALEXA PLAY WILL ACKERMAN,ALEXA,false,1,true,true
+2955,ALEXA PLAY YIRUMA,FINAL,Alexa play Yiruma,,Happy,FDH,FD,H,ALEXA PLAY YIRUMA,ALEXA,false,1,true,true
+2956,ALEXA PLAY HOOKED ON A FEELING ON PANDORA,FINAL,Alexa play Hooked on a Feeling on Pandora,,Happy,FDJ,FD,J,ALEXA PLAY HOOKED ON A FEELING ON PANDORA,ALEXA,false,1,true,true
+2957,ALEXA PLAY MEDITATION MUSIC,FINAL,Alexa play meditation music,,Happy,FDC,FD,C,ALEXA PLAY MEDITATION MUSIC,ALEXA,false,1,true,true
+2958,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will Ackerman,,Happy,FDI,FD,I,ALEXA PLAY WILL ACKERMAN,ALEXA,false,1,true,true
+2959,ALEXA PLAY VIVALDI,FINAL,Alexa play Vivaldi,,Happy,FDE,FD,E,ALEXA PLAY VIVALDI,ALEXA,false,1,true,true
+2960,ALEXA PLAY YIRUMA,FINAL,Alexa play Yiruma,,Happy,FDH,FD,H,ALEXA PLAY YIRUMA,ALEXA,false,1,true,true
+2961,ALEXA PLAY VIVALDI,FINAL,Alexa play Vivaldi,,Happy,FDE,FD,E,ALEXA PLAY VIVALDI,ALEXA,false,1,true,true
+2962,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will Ackerman,,Happy,FDI,FD,I,ALEXA PLAY WILL ACKERMAN,ALEXA,false,1,true,true
+2963,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will Ackerman,,Happy,FDI,FD,I,ALEXA PLAY WILL ACKERMAN,ALEXA,false,1,true,true
+2964,ALEXA PLAY YIRUMA,FINAL,Alexa play Yiruma,,Happy,FDH,FD,H,ALEXA PLAY YIRUMA,ALEXA,false,1,true,true
+2965,ALEXA PLAY YIRUMA,FINAL,Alexa play Yiruma,,Happy,FDH,FD,H,ALEXA PLAY YIRUMA,ALEXA,false,1,true,true
+2966,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will Ackerman,,Happy,FDI,FD,I,ALEXA PLAY WILL ACKERMAN,ALEXA,false,1,true,true
+2967,ALEXA PLAY BEETHOVEN ON SPOTIFY,FINAL,Alexa play Beethoven on spotify,,Happy,FDF,FD,F,ALEXA PLAY BEETHOVEN ON SPOTIFY,ALEXA,false,1,true,true
+2968,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2969,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+2971,MEMORY AND TIME,MENU,,Memory and Time,Memory and Time,H,"",H,MEMORY AND TIME,MAIN MENU,true,1,true,false
+2972,REMEMBER,MENU,,Remember,Remember,HC,H,C,REMEMBER,MEMORY AND TIME,true,1,true,false
+2976,TALK ABOUT,FINAL,Talk about,,Remember,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+2977,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+2978,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+2980,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+2983,MEDICINE,MENU,,Medicine,Medicine,JDL,JD,L,MEDICINE,BODY,true,1,true,false
+2984,TREAT SYRINGE,FINAL,Treat syringe,,Medicine,JDLB,JDL,B,TREAT SYRINGE,MEDICINE,false,1,true,true
+2985,TREAT SYRINGE,FINAL,Treat syringe,,Medicine,JDLB,JDL,B,TREAT SYRINGE,MEDICINE,false,1,true,true
+2987,TREAT SYRINGE,FINAL,Treat syringe,,Medicine,JDLB,JDL,B,TREAT SYRINGE,MEDICINE,false,1,true,true
+2988,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+2990,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+2991,ALEXA THUMBS UP,FINAL,Alexa thumbs up,,About me,FDM,FD,M,ALEXA THUMBS UP,ALEXA,false,1,true,true
+2992,ALEXA PLAY YIRUMA,FINAL,Alexa play yiruma,,About me,FDH,FD,H,ALEXA PLAY YIRUMA,ALEXA,false,1,true,true
+2993,ALEXA PLAY HOOKED ON A FEELING ON PANDORA,FINAL,Alexa play hooked on a feeling on pandora,,About me,FDJ,FD,J,ALEXA PLAY HOOKED ON A FEELING ON PANDORA,ALEXA,false,1,true,true
+2994,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will Ackerman,,About me,FDI,FD,I,ALEXA PLAY WILL ACKERMAN,ALEXA,false,1,true,true
+2995,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will ackerman,,About me,FDI,FD,I,ALEXA PLAY WILL ACKERMAN,ALEXA,false,1,true,true
+2996,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will ackerman,,About me,FDI,FD,I,ALEXA PLAY WILL ACKERMAN,ALEXA,false,1,true,true
+2997,ALEXA PLAY WILL ACKERMAN,FINAL,Alexa play Will ackerman,,About me,FDI,FD,I,ALEXA PLAY WILL ACKERMAN,ALEXA,false,1,true,true
+2998,ALEXA PLAY HANDEL,FINAL,Alexa play Handel,,About me,FDQ,FD,Q,ALEXA PLAY HANDEL,ALEXA,false,1,true,true
+2999,ALEXA PLAY YIRUMA,FINAL,Alexa play Yiruma,,About me,FDH,FD,H,ALEXA PLAY YIRUMA,ALEXA,false,1,true,true
+3000,ALEXA PLAY YIRUMA,FINAL,Alexa play Yiruma,,About me,FDH,FD,H,ALEXA PLAY YIRUMA,ALEXA,false,1,true,true
+3001,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3002,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+3004,I WILL FEEL HOT,FINAL,I will feel hot,,Hot,JCBH,JCB,H,I WILL FEEL HOT,HOT,false,1,true,true
+3005,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+3006,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+3007,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+3008,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+3009,EXPERIENCE,MENU,,Experience,Experience,C,"",C,EXPERIENCE,MAIN MENU,true,1,true,false
+3010,READ,FINAL,Read,,Experience,CJ,C,J,READ,EXPERIENCE,false,1,true,true
+3011,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+3014,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+3015,READ,FINAL,Read,,Experience,CJ,C,J,READ,EXPERIENCE,false,1,true,true
+3016,TOUCH,FINAL,Touch,,Experience,CD,C,D,TOUCH,EXPERIENCE,false,1,true,true
+3017,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3018,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+3020,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+3023,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+3026,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+3028,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+3031,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+3033,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+3034,CRAFTS,FINAL,Crafts,,To play,DF,D,F,CRAFTS,TO PLAY,false,1,true,true
+3035,LEAF WRESTLE,FINAL,Leaf wrestle,,To play,DH,D,H,LEAF WRESTLE,TO PLAY,false,1,true,true
+3040,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and Preferences,Descriptions and Preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+3041,CLEAN,MENU,,Clean,Clean,IE,I,E,CLEAN,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+3047,I HELP,FINAL,I help,,Clean,IEM,IE,M,I HELP,CLEAN,false,1,true,true
+3051,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3057,OUTSIDE WALK,FINAL,Outside walk,,Say hello to,BC,B,C,OUTSIDE WALK,PLACES,false,2,false,true
+3057,OUTSIDE WALK,FINAL,Outside walk,,Say hello to,EI,E,I,OUTSIDE WALK,TO SAY HELLO TO,false,2,false,true
+3058,OUTSIDE WALK,FINAL,Outside walk,,Say hello to,BC,B,C,OUTSIDE WALK,PLACES,false,2,false,true
+3058,OUTSIDE WALK,FINAL,Outside walk,,Say hello to,EI,E,I,OUTSIDE WALK,TO SAY HELLO TO,false,2,false,true
+3059,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3060,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+3061,CLOUD,FINAL,Cloud,,Temperature,JCI,JC,I,CLOUD,TEMPERATURE,false,1,true,true
+3063,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+3064,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+3065,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Hot,JCBD,JCB,D,I WANT TO FEEL HOT,HOT,false,1,true,true
+3066,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+3067,I FEEL HOT,FINAL,I feel hot,,Hot,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+3069,I FEEL WARM,FINAL,I feel warm,Warm,Warm,JCDB,JCD,B,I FEEL WARM,WARM,false,1,true,true
+3070,WARM INSIDE,FINAL,Warm inside,,Warm,AHCD,AHC,D,WARM INSIDE,WARM,false,2,false,true
+3070,WARM INSIDE,FINAL,Warm inside,,Warm,JCDJ,JCD,J,WARM INSIDE,WARM,false,2,false,true
+3071,WARM OUTSIDE,FINAL,Warm outside,,Warm,AHCB,AHC,B,WARM OUTSIDE,WARM,false,2,false,true
+3071,WARM OUTSIDE,FINAL,Warm outside,,Warm,JCDI,JCD,I,WARM OUTSIDE,WARM,false,2,false,true
+3072,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+3073,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+3074,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+3075,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+3076,I WILL FEEL HOT,FINAL,I will feel hot,,Warm,JCBH,JCB,H,I WILL FEEL HOT,HOT,false,1,true,true
+3077,I WILL FEEL HOT,FINAL,I will feel hot,,Warm,JCBH,JCB,H,I WILL FEEL HOT,HOT,false,1,true,true
+3078,I FEEL HOT,FINAL,I feel hot,,Warm,JCBC,JCB,C,I FEEL HOT,HOT,false,1,true,true
+3079,I WILL FEEL HOT,FINAL,I will feel hot,,Warm,JCBH,JCB,H,I WILL FEEL HOT,HOT,false,1,true,true
+3080,HOT OUTSIDE,FINAL,Hot outside,,Warm,AHBC,AHB,C,HOT OUTSIDE,HOT,false,2,false,true
+3080,HOT OUTSIDE,FINAL,Hot outside,,Warm,JCBI,JCB,I,HOT OUTSIDE,HOT,false,2,false,true
+3081,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Warm,JCBD,JCB,D,I WANT TO FEEL HOT,HOT,false,1,true,true
+3082,I WANT TO FEEL HOT,FINAL,I want to feel hot,,Warm,JCBD,JCB,D,I WANT TO FEEL HOT,HOT,false,1,true,true
+3083,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3084,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+3085,RAIN,FINAL,Rain,,Temperature,AHI,AH,I,RAIN,TEMP AND WEATHER,false,2,false,true
+3085,RAIN,FINAL,Rain,,Temperature,JCJ,JC,J,RAIN,TEMPERATURE,false,2,false,true
+3086,WIND,FINAL,Wind,,Temperature,AHK,AH,K,WIND,TEMP AND WEATHER,false,2,false,true
+3086,WIND,FINAL,Wind,,Temperature,JCH,JC,H,WIND,TEMPERATURE,false,2,false,true
+3087,CLOUD,FINAL,Cloud,,Temperature,JCI,JC,I,CLOUD,TEMPERATURE,false,1,true,true
+3088,WARM OUTSIDE,FINAL,Warm outside,,Temperature,AHCB,AHC,B,WARM OUTSIDE,WARM,false,2,false,true
+3088,WARM OUTSIDE,FINAL,Warm outside,,Temperature,JCDI,JCD,I,WARM OUTSIDE,WARM,false,2,false,true
+3089,PLACES,MENU,,Places,Places,B,"",B,PLACES,MAIN MENU,true,1,true,false
+3090,TILLIE'S HOUSE,FINAL,Tillie's house,,Places,BE,B,E,TILLIE'S HOUSE,PLACES,false,1,true,true
+3091,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3092,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+3095,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+3098,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+3099,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+3101,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+3103,TREAT SYRINGE,FINAL,Treat syringe,,Body,JDLB,JDL,B,TREAT SYRINGE,MEDICINE,false,1,true,true
+3113,TALK ABOUT,MENU,,Talk about,Talk about,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,false
+3115,UNDERWATER ANIMALS,MENU,,Underwater animals,Underwater animals,ABC,AB,C,UNDERWATER ANIMALS,ANIMALS,true,1,true,false
+3116,DOLPHIN,FINAL,Dolphin,,Underwater animals,ABCG,ABC,G,DOLPHIN,UNDERWATER ANIMALS,false,1,true,true
+3117,CRAB,FINAL,Crab,,Underwater animals,ABCH,ABC,H,CRAB,UNDERWATER ANIMALS,false,1,true,true
+3118,FISH,FINAL,Fish,,Underwater animals,ABCB,ABC,B,FISH,UNDERWATER ANIMALS,false,1,true,true
+3120,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3126,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3127,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+3133,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+3144,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3145,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+3146,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+3147,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+3173,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+3180,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+3182,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+3184,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+3185,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+3192,MEMORY AND TIME,MENU,,Memory and time,Memory and time,H,"",H,MEMORY AND TIME,MAIN MENU,true,1,true,false
+3193,TIME,MENU,,Time,Time,HB,H,B,TIME,MEMORY AND TIME,true,1,true,false
+3199,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+3201,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+3202,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+3205,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+3209,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+3211,LOOK AT PICTURES,FINAL,Look at pictures,,Time,HBI,HB,I,LOOK AT PICTURES,TIME,false,2,false,true
+3211,LOOK AT PICTURES,FINAL,Look at pictures,,Time,HCH,HC,H,LOOK AT PICTURES,REMEMBER,false,2,false,true
+3213,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+3214,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+3215,LEAF WRESTLE,FINAL,Leaf wrestle,,To play,DH,D,H,LEAF WRESTLE,TO PLAY,false,1,true,true
+3216,TO PLAY,MENU,,To play,To play,D,"",D,TO PLAY,MAIN MENU,true,1,true,false
+3217,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+3218,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+3219,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+3220,TRACING AND WRITING,FINAL,Tracing and writing,,To play,DC,D,C,TRACING AND WRITING,TO PLAY,true,1,true,true
+3221,LEAF WRESTLE,FINAL,Leaf wrestle,,To play,DH,D,H,LEAF WRESTLE,TO PLAY,false,1,true,true
+3222,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+3223,SNUGGLE,FINAL,Snuggle,,To play,DB,D,B,SNUGGLE,TO PLAY,false,1,true,true
+3227,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3228,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+3229,HEAD,FINAL,Head,,Body,JDB,JD,B,HEAD,BODY,false,1,true,true
+3230,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+3231,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+3233,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+3235,HEAD,FINAL,Head,,Body,JDB,JD,B,HEAD,BODY,false,1,true,true
+3236,HEAD,FINAL,Head,,Body,JDB,JD,B,HEAD,BODY,false,1,true,true
+3237,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+3239,TUMMY,FINAL,Tummy,,Body,JDC,JD,C,TUMMY,BODY,false,1,true,true
+3241,TYPES OF OUCH,MENU,,Types of ouch,Types of ouch,JDR,JD,R,TYPES OF OUCH,BODY,true,1,true,false
+3242,SICK OUCH,FINAL,Sick ouch,,Types of ouch,JDRE,JDR,E,SICK OUCH,TYPES OF OUCH,false,1,true,true
+3243,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3254,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3264,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3269,OPPOSITES,MENU,,Opposites,Opposites,IB,I,B,OPPOSITES,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+3270,DARK,FINAL,Dark,,Opposites,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+3270,DARK,FINAL,Dark,,Opposites,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+3272,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+3272,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+3274,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+3274,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+3277,LIGHT,FINAL,Light,,Opposites,ABGK,ABG,K,LIGHT,BUGS,false,2,false,true
+3277,LIGHT,FINAL,Light,,Opposites,IBI,IB,I,LIGHT,OPPOSITES,false,2,false,true
+3284,WHITE,FINAL,White,,Opposites,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+3288,WHITE,FINAL,White,,Opposites,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+3293,WHITE,FINAL,White,,Opposites,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+3294,WHITE,FINAL,White,,Opposites,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+3295,OUTSIDE,FINAL,Outside,,Opposites,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+3295,OUTSIDE,FINAL,Outside,,Opposites,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+3296,OUTSIDE,FINAL,Outside,,Opposites,IDC,ID,C,OUTSIDE,FIX PLEASE,false,2,false,true
+3296,OUTSIDE,FINAL,Outside,,Opposites,IGM,IG,M,OUTSIDE,QUESTIONS,false,2,false,true
+3297,BROWN,FINAL,Brown,,Opposites,IDK,ID,K,BROWN,FIX PLEASE,false,1,true,true
+3298,BLUE,FINAL,Blue,,Opposites,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+3298,BLUE,FINAL,Blue,,Opposites,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+3300,WHITE,FINAL,White,,Opposites,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+3302,YES,FINAL,Yes,,Opposites,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3303,YES,FINAL,Yes,,Opposites,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3305,YES,FINAL,Yes,,Opposites,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3306,YES,FINAL,Yes,,Opposites,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3307,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3308,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+3314,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3315,NO,FINAL,No ,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3316,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3317,NO,FINAL,No ,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3318,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3319,NO,FINAL,No ,,Body,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3320,YES,FINAL,Yes,,Body,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3321,FIX PLEASE,MENU,,Fix please,Fix please,ID,I,D,FIX PLEASE,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+3322,WHITE,FINAL,White,,Fix please,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+3325,WHITE,FINAL,White,,Fix please,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+3329,WHITE,FINAL,White,,Fix please,IDI,ID,I,WHITE,FIX PLEASE,false,1,true,true
+3331,BLUE,FINAL,Blue,,Fix please,IDJ,ID,J,BLUE,FIX PLEASE,false,2,false,true
+3331,BLUE,FINAL,Blue,,Fix please,IHP,IH,P,BLUE,SQUIRRELS,false,2,false,true
+3332,OUTSIDE WALK,FINAL,Outside walk,,Fix please,BC,B,C,OUTSIDE WALK,PLACES,false,2,false,true
+3332,OUTSIDE WALK,FINAL,Outside walk,,Fix please,EI,E,I,OUTSIDE WALK,TO SAY HELLO TO,false,2,false,true
+3333,OUTSIDE AVIARY,FINAL,Outside aviary,,Fix please,BI,B,I,OUTSIDE AVIARY,PLACES,false,2,false,true
+3333,OUTSIDE AVIARY,FINAL,Outside aviary,,Fix please,IEL,IE,L,OUTSIDE AVIARY,CLEAN,false,2,false,true
+3334,TALK ABOUT,FINAL,Talk about,,Fix please,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,true
+3337,BOOK,FINAL,Book,,Fix please,DE,D,E,BOOK,TO PLAY,true,1,true,true
+3338,DEER,FINAL,Deer,,Fix please,ABFG,ABF,G,DEER,BACKYARD ANIMALS,false,1,true,true
+3339,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3340,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+3346,MEMORY AND TIME,MENU,,Memory and time,Memory and time,H,"",H,MEMORY AND TIME,MAIN MENU,true,1,true,false
+3347,TIME,MENU,,Time,Time,HB,H,B,TIME,MEMORY AND TIME,true,1,true,false
+3348,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+3356,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+3359,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+3361,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+3363,LOOK AT PICTURES,FINAL,Look at pictures,,Time,HBI,HB,I,LOOK AT PICTURES,TIME,false,2,false,true
+3363,LOOK AT PICTURES,FINAL,Look at pictures,,Time,HCH,HC,H,LOOK AT PICTURES,REMEMBER,false,2,false,true
+3367,BODY,FINAL,Body,,Time,HBR,HB,R,BODY,TIME,false,2,false,true
+3367,BODY,FINAL,Body,,Time,JD,J,D,BODY,ABOUT ME,true,1,true,true
+3367,BODY,FINAL,Body,,Time,JEH,JE,H,BODY,FEELING,false,2,false,true
+3368,BODY,FINAL,Body,,Time,HBR,HB,R,BODY,TIME,false,2,false,true
+3368,BODY,FINAL,Body,,Time,JD,J,D,BODY,ABOUT ME,true,1,true,true
+3368,BODY,FINAL,Body,,Time,JEH,JE,H,BODY,FEELING,false,2,false,true
+3369,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+3370,TOMORROW,FINAL,Tomorrow,,Time,HBE,HB,E,TOMORROW,TIME,false,1,true,true
+3371,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+3374,TIME,MENU,,Time,Time,HB,H,B,TIME,MEMORY AND TIME,true,1,true,false
+3375,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+3378,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+3379,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+3380,YESTERDAY,FINAL,Yesterday,,Time,HBC,HB,C,YESTERDAY,TIME,false,1,true,true
+3382,YES,FINAL,Yes ,,Time,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3383,YES,FINAL,Yes,,Time,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3384,YES,FINAL,Yes,,Time,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3385,YES,FINAL,Yes,,Time,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3386,YES,FINAL,Yes,,Time,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3387,YES,FINAL,Yes,,Time,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3388,NO,FINAL,No,,Time,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3390,TRACING AND WRITING,FINAL,Tracing and writing,,Time,DC,D,C,TRACING AND WRITING,TO PLAY,true,1,true,true
+3391,TRACING,FINAL,Tracing ,,Time,DCB,DC,B,TRACING,TRACING AND WRITING,false,1,true,true
+3392,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3399,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3400,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+3405,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+3407,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+3408,I WANT TO FEEL WARM,FINAL,I want to feel warm,,Warm,JCDC,JCD,C,I WANT TO FEEL WARM,WARM,false,1,true,true
+3410,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3416,TALK ABOUT,MENU,,Talk about,Talk about,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,false
+3417,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3436,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3441,EXPERIENCE,MENU,,Experience,Experience,C,"",C,EXPERIENCE,MAIN MENU,true,1,true,false
+3443,READ,FINAL,Read,,Experience,CJ,C,J,READ,EXPERIENCE,false,1,true,true
+3446,TASTE,FINAL,Taste,,Experience,CK,C,K,TASTE,EXPERIENCE,false,1,true,true
+3447,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+3449,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3450,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+3452,WIND,FINAL,Wind,,Temperature,AHK,AH,K,WIND,TEMP AND WEATHER,false,2,false,true
+3452,WIND,FINAL,Wind,,Temperature,JCH,JC,H,WIND,TEMPERATURE,false,2,false,true
+3453,WIND,FINAL,Wind,,Temperature,AHK,AH,K,WIND,TEMP AND WEATHER,false,2,false,true
+3453,WIND,FINAL,Wind,,Temperature,JCH,JC,H,WIND,TEMPERATURE,false,2,false,true
+3454,WIND,FINAL,Wind,,Temperature,AHK,AH,K,WIND,TEMP AND WEATHER,false,2,false,true
+3454,WIND,FINAL,Wind,,Temperature,JCH,JC,H,WIND,TEMPERATURE,false,2,false,true
+3455,DARK,FINAL,Dark,,Temperature,ABGJ,ABG,J,DARK,BUGS,false,2,false,true
+3455,DARK,FINAL,Dark,,Temperature,IBJ,IB,J,DARK,OPPOSITES,false,2,false,true
+3456,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3457,BODY,MENU,,Body,Body,JD,J,D,BODY,ABOUT ME,true,1,true,false
+3458,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+3459,OUCH,FINAL,Ouch,,Body,JDJ,JD,J,OUCH,BODY,false,1,true,true
+3460,MEDICINE,MENU,,Medicine,Medicine,JDL,JD,L,MEDICINE,BODY,true,1,true,false
+3461,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+3462,MOVEMENT,MENU,,Movement,Movement,IC,I,C,MOVEMENT,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+3484,NO,FINAL,No,,Movement,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3485,YES,FINAL,Yes,,Movement,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3486,YES,FINAL,Yes,,Movement,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3487,NO,FINAL,No,,Movement,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3488,YES,FINAL,Yes,,Movement,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3489,NO,FINAL,No,,Movement,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3490,NO,FINAL,No,,Movement,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3491,NO,FINAL,No,,Movement,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3492,YES,FINAL,Yes,,Movement,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3493,NO,FINAL,No,,Movement,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3494,NO,FINAL,No,,Movement,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3495,YES,FINAL,Yes,,Movement,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3496,YES,FINAL,Yes,,Movement,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3497,YES,FINAL,Yes,,Movement,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3498,YES,FINAL,Yes,,Movement,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3499,NO,FINAL,No,,Movement,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3501,NO,FINAL,No,,Movement,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3502,YES,FINAL,Yes,,Movement,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3503,NO,FINAL,No,,Movement,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3504,NO,FINAL,No,,Movement,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3505,NO,FINAL,No,,Movement,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3506,YES,FINAL,Yes,,Movement,AGB,AG,B,YES,YES AND NO,false,1,true,true
+3507,NO,FINAL,No,,Movement,AGC,AG,C,NO,YES AND NO,false,1,true,true
+3510,DESCRIPTIONS AND PREFERENCES,MENU,,Descriptions and preferences,Descriptions and preferences,I,"",I,DESCRIPTIONS AND PREFERENCES,MAIN MENU,true,1,true,false
+3511,MOVEMENT,MENU,,Movement,Movement,IC,I,C,MOVEMENT,DESCRIPTIONS AND PREFERENCES,true,1,true,false
+3546,ABOUT ME,MENU,,About me,About me,J,"",J,ABOUT ME,MAIN MENU,true,1,true,false
+3547,TEMPERATURE,MENU,,Temperature,Temperature,JC,J,C,TEMPERATURE,ABOUT ME,true,1,true,false
+3548,CLOUD,FINAL,Cloud,,Temperature,JCI,JC,I,CLOUD,TEMPERATURE,false,1,true,true
+3552,RAIN,FINAL,Rain,,Temperature,AHI,AH,I,RAIN,TEMP AND WEATHER,false,2,false,true
+3552,RAIN,FINAL,Rain,,Temperature,JCJ,JC,J,RAIN,TEMPERATURE,false,2,false,true
+3553,SUN,FINAL,Sun,,Temperature,JCG,JC,G,SUN,TEMPERATURE,false,1,true,true
+3554,CLOUD,FINAL,Cloud,,Temperature,JCI,JC,I,CLOUD,TEMPERATURE,false,1,true,true
+3555,TALK ABOUT,MENU,,Talk about,Talk about,A,"",A,TALK ABOUT,MAIN MENU,true,1,true,false
+3556,TELL A STORY,FINAL,Tell a story,,Talk about,AJ,A,J,TELL A STORY,TALK ABOUT,false,1,true,true
+3557,TYPE,FINAL,Type,,Talk about,AK,A,K,TYPE,TALK ABOUT,true,1,true,true
