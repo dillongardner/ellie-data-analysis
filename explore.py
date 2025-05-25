@@ -1,51 +1,26 @@
-# %%
+#%%
+
 import polars as pl
+import format
+import constants
 
-# %%
 
+board1 = pl.read_csv("./figures/iteration_1/formatted_board.csv")
 board2 = pl.read_csv("./figures/iteration_2/formatted_board.csv")
-board3 = pl.read_csv("./figures/iteration_2/formatted_board.csv")
+board3 = pl.read_csv("./figures/iteration_3/formatted_board.csv")
+selections1 = pl.read_csv("./figures/iteration_1/formatted_selections.csv")
 selections2 = pl.read_csv("./figures/iteration_2/formatted_selections.csv")
+selections3 = pl.read_csv("./figures/iteration_3/formatted_selections.csv")
 
-# %%
-formatted_board: pl.LazyFrame = board2.lazy()
-formatted_selections: pl.LazyFrame = selections2.lazy()
 
-high_confidence = ((
-                           (pl.col("source") == pl.lit("MENU"))
-                           & (pl.col("selection") == pl.col("selection_right"))
-                           & (pl.col("is_menu"))
-                           & (pl.col("duplicity") == 1)
-                   )
-                   | (
-                           (
-                                   (pl.col("source") == pl.lit("FINAL"))
-                                   & (pl.col("selection") == pl.col("selection_right")))
-                           & (
-                                   (pl.col("duplicity") == 1) |
-                                   (pl.col("menu_ff") == pl.col("menu_title"))
-                           )
-                   ))
 
-low_confidence = (
-        (pl.col("selection") == pl.col("selection_right"))
-        &
-        (pl.col("duplicity") <= 2)
-)
+df1 = format.combine(selections=selections1, board=board1)
+df2 = format.combine(selections=selections2, board=board2)
+df3 = format.combine(selections=selections3, board=board3)
 
-df: pl.LazyFrame = formatted_selections.join(
-    formatted_board, how="cross"
-).with_columns(
-    high_confidence.alias("high_confidence"),
-    low_confidence.alias("low_confidence"),
-)
+#%%
 
-# %%
-res = df.filter((pl.col("high_confidence")) | (pl.col("low_confidence"))
-                ).collect()
+if __name__ == "__main__":
+    "hello"
 
-# %%
 
-res.filter(
-    (pl.col("high_confidence")) & (pl.col("duplicity") > 1)
-)

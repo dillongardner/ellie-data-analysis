@@ -20,3 +20,30 @@ KEY_MAP = dict(
 )
 BOARD_ROWS = 3
 BOARD_COLS = 6
+
+FORMATTED_SELECTIONS_COL = [
+    "Line Number",
+    "Location path code",
+    "selection",
+    "source",
+    "word",
+    "menu",
+    "menu_ff",
+]
+FORMATTED_BOARD_COLS = [
+    "Line Number",
+    "full_pattern",
+    "menu_pattern",
+    "button",
+    "menu_title",
+    "is_menu",
+    "menu_multiplicity",
+    "multiplicity",
+]
+MATCHING_COLS = [
+    "is_match",
+    "match_type"
+]
+FULL_SELECTIONS_COLS = (FORMATTED_SELECTIONS_COL
+                        + [c for c in FORMATTED_BOARD_COLS if c not in FORMATTED_SELECTIONS_COL]
+                        + MATCHING_COLS)

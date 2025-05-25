@@ -1,35 +1,7 @@
 import re
 
 import polars as pl
-
-
-def format_selections(df: pl.DataFrame) -> pl.DataFrame:
-    """
-
-    :param df: requires column "Word/Phrase" and "Menu"
-    :return: dataframe with column "selection" and "row_number"
-    """
-    if "Destination Word" in df.columns:
-        # Column name for selection of board 1
-        df = df.rename({"Destination Word": "Word/Phrase"})
-    terminal_press = pl.coalesce(pl.col("Word/Phrase"), pl.col("Menu"))
-    source = pl.when(pl.col("Word/Phrase").is_not_null()).then(pl.lit("FINAL")).otherwise(pl.lit("MENU"))
-    result = df.with_columns(
-        terminal_press.str.to_uppercase().alias("selection"),
-        source.alias("source"),
-    ).filter(
-        pl.col("selection").is_not_null()
-    ).select(pl.arange(0, pl.count()).alias("row_number"),
-             (pl.col("selection").str.strip_chars()
-              .str.replace("  ", " ")
-              .str.replace("BEETHOVEN AND DVORAK", "BEETHOVEN & DVORAK")
-              .alias("selection")),
-             "source",
-             pl.col("Word/Phrase").alias("word"),
-             pl.col("Menu").alias("menu"),
-             pl.col("Menu").forward_fill().alias("menu_ff"),
-             )
-    return result
+import constants
 
 
 def format_boards(df: pl.DataFrame) -> pl.DataFrame:
@@ -53,15 +25,19 @@ def format_boards(df: pl.DataFrame) -> pl.DataFrame:
         pl.col("splits").struct.field("field_0").alias("full_pattern"),
         pl.col("splits").struct.field("field_1").str.strip_chars().str.to_uppercase().alias("selection"),
     ).select(
+        pl.col("Line Number"),
         "terminal_level",
         "full_pattern",
         pl.col("selection").str.replace("  ", " ").alias("selection"),
+    ).filter(
+        pl.col("full_pattern").is_not_null()
     ).with_columns(
         str_length=pl.col("full_pattern").str.len_chars()
     ).with_columns(
         menu_pattern=pl.col("full_pattern").str.slice(0, pl.col("str_length") - 1),
         button=pl.col("full_pattern").str.slice(-1)
     ).select(
+        "Line Number",
         "full_pattern",
         "menu_pattern",
         "button",
@@ -101,7 +77,8 @@ def _add_board_columns(df: pl.DataFrame) -> pl.DataFrame:
     is_menu
     """
     menus = df.select(
-        "full_pattern"
+        "full_pattern",
+        "selection"
     ).join(
         df.select("menu_pattern", pl.col("full_pattern").alias("TMP")),
         how="semi",
@@ -110,6 +87,7 @@ def _add_board_columns(df: pl.DataFrame) -> pl.DataFrame:
     ).select(
         "full_pattern",
         pl.lit(True).alias("is_menu"),
+        pl.col("full_pattern").len().over("selection").alias("menu_multiplicity")
     )
 
     result = (df.join(
@@ -127,7 +105,7 @@ def _add_board_columns(df: pl.DataFrame) -> pl.DataFrame:
     ).with_columns(
         pl.col("is_menu").fill_null(value=pl.lit(False)).alias("is_menu"),
     ).with_columns(
-        pl.col("full_pattern").len().over("selection", "is_menu").alias("duplicity")
+        pl.col("full_pattern").len().over("selection", "is_menu").alias("multiplicity")
     )
     )
     return result
@@ -146,8 +124,10 @@ def format_board_v1(df: pl.DataFrame) -> pl.DataFrame:
     """
     terminal_level = create_level_coalesce(df)
     df = df.select(
-        pl.col("Lookup code").alias("full_pattern"),
-        terminal_level.alias("selection")
+        pl.col("Location path code").alias("full_pattern"),
+        terminal_level.str.to_uppercase().alias("selection")
+    ).filter(
+        pl.col("full_pattern").is_not_null()
     ).with_columns(
         str_length=pl.col("full_pattern").str.len_chars()
     ).with_columns(
@@ -162,35 +142,94 @@ def format_board_v1(df: pl.DataFrame) -> pl.DataFrame:
     return _add_board_columns(df)
 
 
-def combine(selections: pl.DataFrame, board: pl.DataFrame) -> pl.DataFrame:
-    high_confidence = ((
-                               (pl.col("source") == pl.lit("MENU"))
-                               & (pl.col("selection") == pl.col("selection_right"))
-                               & (pl.col("is_menu"))
-                               & (pl.col("duplicity") == 1))
-                       | (
-                               (
-                                       (pl.col("source") == pl.lit("FINAL"))
-                                       & (pl.col("selection") == pl.col("selection_right")))
-                               & (
-                                       (pl.col("duplicity") == 1) |
-                                       (pl.col("menu_ff") == pl.col("menu_title"))
-                               )
-                       ))
+def format_selections(df: pl.DataFrame) -> pl.DataFrame:
+    """
 
-    low_confidence = (
+    :param df: requires column "Word/Phrase" and "Menu"
+    :return: dataframe with column "selection" and "row_number"
+    """
+    if "Destination Word" in df.columns:
+        # Column name for selection of board 1
+        df = df.rename({"Destination Word": "Word/Phrase"})
+    terminal_press = pl.coalesce(pl.col("Word/Phrase"), pl.col("Menu"))
+    source = pl.when(pl.col("Word/Phrase").is_not_null()).then(pl.lit("FINAL")).otherwise(pl.lit("MENU"))
+    result = df.with_columns(
+        terminal_press.str.to_uppercase().alias("selection"),
+        source.alias("source"),
+    ).filter(
+        pl.col("selection").is_not_null()
+    ).select(pl.col("Line Number"),
+             pl.col("Location path code"),
+             (pl.col("selection").str.strip_chars()
+              .str.replace("  ", " ")
+              .str.replace("BEETHOVEN AND DVORAK", "BEETHOVEN & DVORAK")
+              .alias("selection")),
+             "source",
+             pl.col("Word/Phrase").alias("word"),
+             pl.col("Menu").str.to_uppercase().alias("menu"),
+             pl.col("Menu").forward_fill().str.to_uppercase().alias("menu_ff"),
+             )
+    return result
+
+
+def combine(selections: pl.DataFrame, board: pl.DataFrame) -> pl.DataFrame:
+    """
+    Joins the selection to the board
+    This is done by
+    1. if there is a manual inputted pattern in "Location path code" - called CODE_MATCH
+    2. if selection type (meaning is a MENU or FINAL) has a multiplicity of 1 - called UNIQUE_MATCH
+    3. if selection type is final and last pressed menu by Ellie uniquely defines - called FORWARD_FILL
+    """
+    code_match = (
+            pl.col("Location path code") == pl.col("full_pattern")
+    )
+    unique_match = (
+            (pl.col("selection") == pl.col("selection_right"))
+            & (pl.col("multiplicity") == 1)
+            & (
+                    (
+                            (pl.col("source") == pl.lit("MENU")) & (pl.col("is_menu"))
+                    )
+                    | (
+                            (pl.col("source") == pl.lit("FINAL")) & (~pl.col("is_menu"))
+                    )
+            )
+    )
+    forward_fill = (
             (pl.col("source") == pl.lit("FINAL"))
+            & (~pl.col("is_menu"))
             & (pl.col("selection") == pl.col("selection_right"))
-            &
-            (pl.col("duplicity") <= 2)
+            & (pl.col("menu_ff") == pl.col("menu_title"))
+            & (pl.col("menu_multiplicity") == 1)
     )
 
     df: pl.LazyFrame = selections.lazy().join(
         board.lazy(), how="cross"
     ).with_columns(
-        high_confidence.alias("high_confidence"),
-        low_confidence.alias("low_confidence"),
+        (code_match | unique_match | forward_fill).alias("is_match"),
+        (pl.when(code_match).then(pl.lit("CODE_MATCH"))
+         .when(unique_match).then(pl.lit("UNIQUE_MATCH"))
+         .when(forward_fill).then(pl.lit("FORWARD_FILL"))
+         .otherwise(pl.lit("NONE")).alias("match_type")),
     )
-    res = df.filter((pl.col("high_confidence")) | (pl.col("low_confidence"))
-                    ).collect()
-    return res
+    matches = df.filter((pl.col("is_match"))
+                        ).collect().select(constants.FULL_SELECTIONS_COLS
+                                           )
+    unmatched = selections.join(
+        matches.select("Line Number"), how="anti", on="Line Number"
+    ).with_columns(
+        *[pl.lit(None).alias(c) for c in constants.FULL_SELECTIONS_COLS if c not in constants.FORMATTED_SELECTIONS_COL]
+    )
+    print(f"matched length is {len(matches)}")
+    print(f"unmatched length is {len(unmatched)}")
+    print(f"selection length is {len(selections)}")
+    result = matches.vstack(
+        unmatched
+    ).with_columns(
+        pl.col("is_match").fill_null(pl.lit(False)).alias("is_match"),
+    ).sort(
+        "Line Number"
+    )
+    if (len(result) != len(selections)) or (not (result["Line Number"] == selections["Line Number"]).all()):
+        print("WARNING: LINE NUMBERS DO NOT MATCH")
+    return result

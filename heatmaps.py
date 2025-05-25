@@ -24,9 +24,13 @@ def make_heatmap_arr(df, normalize: bool = True) -> np.ndarray:
 def make_labels(arr, menu: str, board: pl.DataFrame, normalized: bool = False, max_length: int = 15,
                 wrap: bool = True) -> List[List[str]]:
     board = board.filter(pl.col("menu_title") == menu)
-    phrase_indices = [(r[1], KEY_MAP.get(r[0], "")) for r in board.select("button", "selection").iter_rows()]
+    phrase_indices = [(r[1], KEY_MAP.get(r[0], ("", ""))) for r in board.select("button", "selection").iter_rows()]
     labels = [["" for _ in range(BOARD_COLS)] for _ in range(BOARD_ROWS)]
     for phrase, (i, j) in phrase_indices:
+        if i == "" or j == "":
+            print(f"Issue with menu {menu}")
+            print(f"Error with phrase: {phrase}. Likely cause that the button is above 'R'")
+            continue
         # Truncate long phrases
         if not phrase:
             phrase = ""

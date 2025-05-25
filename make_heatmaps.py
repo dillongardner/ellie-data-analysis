@@ -24,7 +24,10 @@ def main(board_file: str=BOARD_FILE,
         formatted_board = format_board_v1(board)
     else:
         formatted_board = format_boards(board)
+    formatted_board.write_csv(os.path.join(output_path, "formatted_board.csv"))
+
     formatted_selections = format_selections(selections)
+    formatted_selections.write_csv(os.path.join(output_path, "formatted_selections.csv"))
 
     bad_match_base: pl.DataFrame = formatted_selections.join(formatted_board,
                                                  how="left",
@@ -33,13 +36,11 @@ def main(board_file: str=BOARD_FILE,
     bad_matches.write_csv(os.path.join(output_path, "missing_selections.csv"))
 
     df = combine(selections=formatted_selections, board=formatted_board,)
-    df = df.filter(pl.col('full_pattern').is_not_null())
+
 
     df.write_csv(os.path.join(output_path, "full_selections.csv"))
-    formatted_board.write_csv(os.path.join(output_path, "formatted_board.csv"))
-    formatted_selections.write_csv(os.path.join(output_path, "formatted_selections.csv"))
 
-    plot_df = df.filter(pl.col("high_confidence"))
+    plot_df = df.filter(pl.col("is_match"))
 
 
     # Create figure with constrained layout to handle colorbar properly
@@ -69,14 +70,14 @@ def main(board_file: str=BOARD_FILE,
         plt.close(fig)
 
 if __name__ == "__main__":
-    main('./data/iteration_3_board.csv',
-         './data/iteration_3_selections.csv',
-         './figures/iteration_3')
     main('./data/iteration_2_board.csv',
          './data/iteration_2_selections.csv',
          './figures/iteration_2')
     main('./data/iteration_1_board.csv',
          './data/iteration_1_selections.csv',
          './figures/iteration_1', is_v1=True)
+    main('./data/iteration_3_board.csv',
+         './data/iteration_3_selections.csv',
+         './figures/iteration_3')
 
 

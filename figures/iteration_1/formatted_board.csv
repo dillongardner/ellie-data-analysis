@@ -1,63 +1,63 @@
-full_pattern,menu_pattern,button,selection,menu_title,is_menu,duplicity
-A,"",A,Want,MAIN MENU,false,2
-B,"",B,Treat,MAIN MENU,false,1
-C,"",C,Seed ball,MAIN MENU,false,1
-D,"",D,Yes,MAIN MENU,false,1
-E,"",E,No,MAIN MENU,false,1
-F,"",F,More,MAIN MENU,false,1
-G,"",G,To Drink,MAIN MENU,true,1
-GA,G,A,Back,To Drink,false,7
-GB,G,B,Water,To Drink,false,1
-GC,G,C,Tea,To Drink,false,1
-GD,G,D,Juice,To Drink,false,1
-H,"",H,To Eat,MAIN MENU,true,1
-HA,H,A,Back,To Eat,false,7
-HB,H,B,A Banana,To Eat,false,1
-HC,H,C,A Pancake,To Eat,false,1
-HD,H,D,Omelet,To Eat,false,1
-HE,H,E,A Toast,To Eat,false,1
-HF,H,F,Taco,To Eat,false,1
-HG,H,G,Cereal,To Eat,false,1
-HH,H,H,An Apple,To Eat,false,1
-I,"",I,To Play,MAIN MENU,true,1
-IA,I,A,Back,To Play,false,7
-IB,I,B,Book,To Play,false,1
-IC,I,C,Writing,To Play,false,1
-ID,I,D,Tracing,To Play,false,1
-IE,I,E,Coloring,To Play,false,1
-IF,I,F,Back,To Play,false,7
-IG,I,G,Snuggle,To Play,false,1
-IH,I,H,Shower,To Play,false,1
-II,I,I,Outside,To Play,false,1
-IJ,I,J,Board,To Play,false,1
-IK,I,K,Dance,To Play,false,1
-IL,I,L,Color game,To Play,false,1
-IM,I,M,Cards,To Play,false,1
-IN,I,N,Chase,To Play,false,1
-IO,I,O,Craft,To Play,false,1
-J,"",J,To Say Hello To,MAIN MENU,true,1
-JA,J,A,Back,To Say Hello To,false,7
-JB,J,B,Mom,To Say Hello To,false,2
-JC,J,C,Auntie Angie,To Say Hello To,false,1
-JD,J,D,Grandma,To Say Hello To,false,1
-JE,J,E,Neighbor,To Say Hello To,false,1
-K,"",K,To Watch,MAIN MENU,true,1
-KA,K,A,Back,To Watch,false,7
-KB,K,B,Peppa Pig,To Watch,false,1
-KC,K,C,Little Kingdom,To Watch,false,1
-KD,K,D,Tom and Jerry,To Watch,false,1
-KE,K,E,Katuri,To Watch,false,1
-KF,K,F,Bubble Guppies,To Watch,false,1
-KG,K,G,Music,To Watch,false,1
-L,"",L,Feeling,MAIN MENU,false,1
-M,"",M,Experience,MAIN MENU,true,1
-MA,M,A,Back,Experience,false,7
-MB,M,B,Mom,Experience,false,2
-MC,M,C,Ellie,Experience,false,1
-MD,M,D,Touch ,Experience,false,1
-ME,M,E,Look,Experience,false,1
-MF,M,F,Hear,Experience,false,1
-MG,M,G,Want,Experience,false,2
-MH,M,H,And,Experience,false,1
-MI,M,I,Isabelle,Experience,false,1
-N,"",N,Medicine,MAIN MENU,false,1
+full_pattern,menu_pattern,button,selection,menu_title,is_menu,menu_multiplicity,multiplicity
+A,"",A,WANT,MAIN MENU,false,,2
+B,"",B,TREAT,MAIN MENU,false,,1
+C,"",C,SEED BALL,MAIN MENU,false,,1
+D,"",D,YES,MAIN MENU,false,,1
+E,"",E,NO,MAIN MENU,false,,1
+F,"",F,MORE,MAIN MENU,false,,1
+G,"",G,TO DRINK,MAIN MENU,true,1,1
+GA,G,A,BACK,TO DRINK,false,,7
+GB,G,B,WATER,TO DRINK,false,,1
+GC,G,C,TEA,TO DRINK,false,,1
+GD,G,D,JUICE,TO DRINK,false,,1
+H,"",H,TO EAT,MAIN MENU,true,1,1
+HA,H,A,BACK,TO EAT,false,,7
+HB,H,B,A BANANA,TO EAT,false,,1
+HC,H,C,A PANCAKE,TO EAT,false,,1
+HD,H,D,OMELET,TO EAT,false,,1
+HE,H,E,A TOAST,TO EAT,false,,1
+HF,H,F,TACO,TO EAT,false,,1
+HG,H,G,CEREAL,TO EAT,false,,1
+HH,H,H,AN APPLE,TO EAT,false,,1
+I,"",I,TO PLAY,MAIN MENU,true,1,1
+IA,I,A,BACK,TO PLAY,false,,7
+IB,I,B,BOOK,TO PLAY,false,,1
+IC,I,C,WRITING,TO PLAY,false,,1
+ID,I,D,TRACING,TO PLAY,false,,1
+IE,I,E,COLORING,TO PLAY,false,,1
+IF,I,F,BACK,TO PLAY,false,,7
+IG,I,G,SNUGGLE,TO PLAY,false,,1
+IH,I,H,SHOWER,TO PLAY,false,,1
+II,I,I,OUTSIDE,TO PLAY,false,,1
+IJ,I,J,BOARD,TO PLAY,false,,1
+IK,I,K,DANCE,TO PLAY,false,,1
+IL,I,L,COLOR GAME,TO PLAY,false,,1
+IM,I,M,CARDS,TO PLAY,false,,1
+IN,I,N,CHASE,TO PLAY,false,,1
+IO,I,O,CRAFT,TO PLAY,false,,1
+J,"",J,TO SAY HELLO TO,MAIN MENU,true,1,1
+JA,J,A,BACK,TO SAY HELLO TO,false,,7
+JB,J,B,MOM,TO SAY HELLO TO,false,,2
+JC,J,C,AUNTIE ANGIE,TO SAY HELLO TO,false,,1
+JD,J,D,GRANDMA,TO SAY HELLO TO,false,,1
+JE,J,E,NEIGHBOR,TO SAY HELLO TO,false,,1
+K,"",K,TO WATCH,MAIN MENU,true,1,1
+KA,K,A,BACK,TO WATCH,false,,7
+KB,K,B,PEPPA PIG,TO WATCH,false,,1
+KC,K,C,LITTLE KINGDOM,TO WATCH,false,,1
+KD,K,D,TOM AND JERRY,TO WATCH,false,,1
+KE,K,E,KATURI,TO WATCH,false,,1
+KF,K,F,BUBBLE GUPPIES,TO WATCH,false,,1
+KG,K,G,MUSIC,TO WATCH,false,,1
+L,"",L,FEELING,MAIN MENU,false,,1
+M,"",M,EXPERIENCE,MAIN MENU,true,1,1
+MA,M,A,BACK,EXPERIENCE,false,,7
+MB,M,B,MOM,EXPERIENCE,false,,2
+MC,M,C,ELLIE,EXPERIENCE,false,,1
+MD,M,D,TOUCH ,EXPERIENCE,false,,1
+ME,M,E,LOOK,EXPERIENCE,false,,1
+MF,M,F,HEAR,EXPERIENCE,false,,1
+MG,M,G,WANT,EXPERIENCE,false,,2
+MH,M,H,AND,EXPERIENCE,false,,1
+MI,M,I,ISABELLE,EXPERIENCE,false,,1
+N,"",N,MEDICINE,MAIN MENU,false,,1
