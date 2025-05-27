@@ -15,9 +15,12 @@ SELECTIONS_FILE ="./data/iteration_2_selections.csv"
 def main(board_file: str=BOARD_FILE,
          selections_file: str=SELECTIONS_FILE,
          output_path: str=OUTPUT_PATH,
-         is_v1: bool=False,):
+         is_v1: bool=False,
+         max_board_ln: int=None,):
 
     board = pl.read_csv(board_file)
+    if max_board_ln:
+        board = board.filter(pl.col("Line Number") <= max_board_ln)
     selections = pl.read_csv(selections_file)
 
     if is_v1:
@@ -78,6 +81,7 @@ if __name__ == "__main__":
          './figures/iteration_1', is_v1=True)
     main('./data/iteration_3_board.csv',
          './data/iteration_3_selections.csv',
-         './figures/iteration_3')
+         './figures/iteration_3',
+         max_board_ln=947,)
 
 

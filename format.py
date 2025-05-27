@@ -29,6 +29,9 @@ def format_boards(df: pl.DataFrame) -> pl.DataFrame:
         "terminal_level",
         "full_pattern",
         pl.col("selection").str.replace("  ", " ").alias("selection"),
+        "Training/ Spontaneous",
+        "Utterance: Single word or phrase",
+        "Type of Sign"
     ).filter(
         pl.col("full_pattern").is_not_null()
     ).with_columns(
@@ -42,8 +45,14 @@ def format_boards(df: pl.DataFrame) -> pl.DataFrame:
         "menu_pattern",
         "button",
         "selection",
+        "Training/ Spontaneous",
+        "Utterance: Single word or phrase",
+        "Type of Sign"
     )
-    return _add_board_columns(df)
+    df = _add_board_columns(df)
+    if len(df) != df["Line Number"].n_unique():
+        print("WARNING: formatted board is not unique on Line Number")
+    return df
 
 
 def create_level_coalesce(df):
@@ -125,7 +134,10 @@ def format_board_v1(df: pl.DataFrame) -> pl.DataFrame:
     terminal_level = create_level_coalesce(df)
     df = df.select(
         pl.col("Location path code").alias("full_pattern"),
-        terminal_level.str.to_uppercase().alias("selection")
+        terminal_level.str.to_uppercase().alias("selection"),
+        "Training/ Spontaneous",
+        "Utterance: Single word or phrase",
+        "Type of Sign"
     ).filter(
         pl.col("full_pattern").is_not_null()
     ).with_columns(
@@ -138,6 +150,9 @@ def format_board_v1(df: pl.DataFrame) -> pl.DataFrame:
         "menu_pattern",
         "button",
         "selection",
+        "Training/ Spontaneous",
+        "Utterance: Single word or phrase",
+        "Type of Sign"
     )
     return _add_board_columns(df)
 
@@ -148,6 +163,11 @@ def format_selections(df: pl.DataFrame) -> pl.DataFrame:
     :param df: requires column "Word/Phrase" and "Menu"
     :return: dataframe with column "selection" and "row_number"
     """
+    if "EXCLUDE" in df.columns:
+        init_length = len(df)
+        df = df.filter(~(pl.col("EXCLUDE").fill_null(pl.lit(False))))
+        final_length = len(df)
+        print(f"Dropped {init_length - final_length} rows as excluded")
     if "Destination Word" in df.columns:
         # Column name for selection of board 1
         df = df.rename({"Destination Word": "Word/Phrase"})
@@ -211,10 +231,21 @@ def combine(selections: pl.DataFrame, board: pl.DataFrame) -> pl.DataFrame:
          .when(unique_match).then(pl.lit("UNIQUE_MATCH"))
          .when(forward_fill).then(pl.lit("FORWARD_FILL"))
          .otherwise(pl.lit("NONE")).alias("match_type")),
+        (pl.when(code_match).then(pl.lit(1))
+         .when(unique_match).then(pl.lit(2))
+         .when(forward_fill).then(pl.lit(3))
+         .otherwise(pl.lit("NONE")).alias("match_rank"))
     )
-    matches = df.filter((pl.col("is_match"))
-                        ).collect().select(constants.FULL_SELECTIONS_COLS
-                                           )
+    matches = df.filter(
+        (pl.col("is_match"))
+    ).group_by(
+        pl.col("Line Number")
+    ).map_groups(
+        lambda group: group.sort(pl.col("match_rank"), descending=False).head(1),
+        schema=None
+    ).select(
+        constants.FULL_SELECTIONS_COLS
+    ).collect()
     unmatched = selections.join(
         matches.select("Line Number"), how="anti", on="Line Number"
     ).with_columns(

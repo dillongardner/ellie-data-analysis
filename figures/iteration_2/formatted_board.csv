@@ -1,221 +1,221 @@
-Line Number,full_pattern,menu_pattern,button,selection,menu_title,is_menu,menu_multiplicity,multiplicity
-1,A,"",A,TALK ABOUT,MAIN MENU,true,2,2
-2,AA,A,A,BACK,TALK ABOUT,false,,30
-3,AB,A,B,TEMP AND WEATHER,TALK ABOUT,true,1,1
-4,ABA,AB,A,BACK,TEMP AND WEATHER,false,,30
-5,ABB,AB,B,"",TEMP AND WEATHER,false,,14
-6,ABC,AB,C,HOT,TEMP AND WEATHER,true,1,1
-7,ABCA,ABC,A,BACK,HOT,false,,30
-8,ABCB,ABC,B,I FEEL HOT,HOT,false,,1
-9,ABCC,ABC,C,"",HOT,false,,14
-10,ABCD,ABC,D,I WANT TO FEEL HOT,HOT,false,,1
-11,ABCE,ABC,E,HOT INSIDE,HOT,false,,1
-12,ABCF,ABC,F,HOT OUTSIDE,HOT,false,,1
-13,ABCG,ABC,G,HOT WIND BLOW DRYER,HOT,false,,1
-14,ABD,AB,D,WARM,TEMP AND WEATHER,true,1,1
-15,ABDA,ABD,A,BACK,WARM,false,,30
-16,ABDB,ABD,B,I FEEL WARM,WARM,false,,1
-17,ABDC,ABD,C,I WANT TO FEEL WARM,WARM,false,,1
-18,ABDD,ABD,D,"",WARM,false,,14
-19,ABDE,ABD,E,WARM INSIDE,WARM,false,,1
-20,ABDF,ABD,F,WARM OUTSIDE,WARM,false,,1
-21,ABE,AB,E,COOL,TEMP AND WEATHER,true,1,1
-22,ABEA,ABE,A,BACK,COOL,false,,30
-23,ABEB,ABE,B,I FEEL COOL,COOL,false,,1
-24,ABEC,ABE,C,I WANT TO FEEL COOL,COOL,false,,1
-25,ABED,ABE,D,COOL INSIDE,COOL,false,,1
-26,ABEE,ABE,E,"",COOL,false,,14
-27,ABEF,ABE,F,COOL OUTSIDE,COOL,false,,1
-28,ABF,AB,F,COLD,TEMP AND WEATHER,true,1,1
-29,ABFA,ABF,A,BACK,COLD,false,,30
-30,ABFB,ABF,B,I FEEL COLD,COLD,false,,1
-31,ABFC,ABF,C,I WANT TO FEEL COLD,COLD,false,,1
-32,ABFD,ABF,D,COLD INSIDE,COLD,false,,1
-33,ABFE,ABF,E,COLD OUTSIDE,COLD,false,,1
-34,ABFF,ABF,F,"",COLD,false,,14
-35,ABFG,ABF,G,COLD WIND AIR CONDITIONER,COLD,false,,1
-36,ABG,AB,G,,TEMP AND WEATHER,false,,1
-37,ABH,AB,H,CLOUD,TEMP AND WEATHER,false,,1
-38,ABI,AB,I,RAIN,TEMP AND WEATHER,false,,1
-39,ABJ,AB,J,WIND,TEMP AND WEATHER,false,,1
-40,ABK,AB,K,DAY / SUN,TEMP AND WEATHER,false,,1
-41,ABL,AB,L,NIGHT / MOON,TEMP AND WEATHER,false,,1
-42,AC,A,C,FANTASY,TALK ABOUT,true,2,2
-43,ACA,AC,A,BACK,FANTASY,false,,30
-44,ACB,AC,B,DRAGON,FANTASY,false,,1
-45,ACC,AC,C,"",FANTASY,false,,14
-46,ACD,AC,D,UNICORN,FANTASY,false,,1
-47,ACE,AC,E,FAIRY,FANTASY,false,,1
-48,AD,A,D,ANIMALS,TALK ABOUT,true,1,1
-49,ADA,AD,A,BACK,ANIMALS,false,,30
-50,ADB,AD,B,EASTER BABIES,ANIMALS,false,,1
-51,AE,A,E,HOLIDAYS,TALK ABOUT,false,,1
-52,AF,A,F,LEARN SOMETHING NEW,TALK ABOUT,false,,1
-53,AG,A,G,MATH,TALK ABOUT,false,,1
-54,AH,A,H,LETTERS AND PHONICS,TALK ABOUT,false,,1
-55,AI,A,I,TYPING,TALK ABOUT,false,,1
-56,AJ,A,J,YES AND NO,TALK ABOUT,true,1,1
-57,AJA,AJ,A,BACK,YES AND NO,false,,30
-58,AJB,AJ,B,YES,YES AND NO,false,,1
-59,AJC,AJ,C,NO,YES AND NO,false,,1
-60,AJD,AJ,D,I'M NOT SURE,YES AND NO,false,,1
-61,AJE,AJ,E,SOMETHING ELSE,YES AND NO,false,,1
-62,B,"",B,SAY HELLO TO,MAIN MENU,true,1,1
-63,BA,B,A,BACK,SAY HELLO TO,false,,30
-64,BB,B,B,"",SAY HELLO TO,false,,14
-65,BC,B,C,MOM,SAY HELLO TO,false,,2
-66,BD,B,D,GRANDMA,SAY HELLO TO,false,,1
-67,BE,B,E,CORI,SAY HELLO TO,false,,1
-68,BF,B,F,SIERRA,SAY HELLO TO,false,,1
-69,BG,B,G,CAR RIDE,SAY HELLO TO,false,,1
-70,BH,B,H,BIRD FRIENDS,SAY HELLO TO,true,1,1
-71,BHA,BH,A,BACK,BIRD FRIENDS,false,,30
-72,BHB,BH,B,COOKIE,BIRD FRIENDS,false,,1
-73,BHC,BH,C,LITTLE LOU,BIRD FRIENDS,false,,1
-74,BHD,BH,D,"SKITTLES, SQUEE AND YAYA",BIRD FRIENDS,false,,1
-75,BI,B,I,OUTSIDE WALK,SAY HELLO TO,false,,2
-76,BJ,B,J,SISTERS,SAY HELLO TO,true,1,1
-77,BJA,BJ,A,BACK,SISTERS,false,,30
-78,BJB,BJ,B,ELLIE,SISTERS,false,,2
-79,BJC,BJ,C,ISABELLE,SISTERS,false,,2
-80,BJD,BJ,D,TILLIE,SISTERS,false,,2
-81,BK,B,K,TALK ABOUT,SAY HELLO TO,true,2,2
-82,BKA,BK,A,BACK,TALK ABOUT,false,,30
-83,BKB,BK,B,FEELING,TALK ABOUT,false,,1
-84,BKC,BK,C,TEMP AND WEATHER,TALK ABOUT,false,,1
-85,BKD,BK,D,LEARNING,TALK ABOUT,false,,1
-86,C,"",C,EXPERIENCE,MAIN MENU,true,1,1
-87,CA,C,A,BACK,EXPERIENCE,false,,30
-88,CB,C,B,MOM,EXPERIENCE,false,,2
-89,CC,C,C,"",EXPERIENCE,false,,14
-90,CD,C,D,TOUCH,EXPERIENCE,false,,1
-91,CE,C,E,SEE,EXPERIENCE,false,,1
-92,CF,C,F,HEAR,EXPERIENCE,false,,1
-93,CG,C,G,ELLIE,EXPERIENCE,false,,2
-94,CH,C,H,TILLIE,EXPERIENCE,false,,2
-95,CI,C,I,ISABELLE,EXPERIENCE,false,,2
-96,CJ,C,J,READ,EXPERIENCE,false,,1
-97,CK,C,K,TASTE,EXPERIENCE,false,,1
-98,CL,C,L,SMELL,EXPERIENCE,false,,1
-99,D,"",D,TO PLAY,MAIN MENU,true,1,1
-100,DA,D,A,BACK,TO PLAY,false,,30
-101,DB,D,B,SNUGGLE,TO PLAY,false,,1
-102,DC,D,C,BOOK,TO PLAY,true,1,1
-103,DCA,DC,A,BACK,BOOK,false,,30
-104,DCB,DC,B,TOUCH AND FEEL,BOOK,false,,1
-105,DCC,DC,C,"",BOOK,false,,14
-106,DCD,DC,D,POP UP,BOOK,false,,1
-107,DCE,DC,E,READING BOOK,BOOK,true,1,1
-108,DCEA,DCE,A,BACK,READING BOOK,false,,30
-109,DCEB,DCE,B,ONE WORD,READING BOOK,false,,1
-110,DCEC,DCE,C,SENTENCE BOOK,READING BOOK,false,,1
-111,DCF,DC,F,SEASONAL,BOOK,true,2,2
-112,DCFA,DCF,A,BACK,SEASONAL,false,,30
-113,DCFB,DCF,B,CHRISTMAS,SEASONAL,false,,1
-114,DCFC,DCF,C,HALLOWEEN,SEASONAL,false,,1
-115,DCFD,DCF,D,EASTER,SEASONAL,false,,1
-116,DCG,DC,G,THEME,BOOK,true,1,1
-117,DCGA,DCG,A,BACK,THEME,false,,30
-118,DCGB,DCG,B,FANTASY,THEME,true,2,2
-119,DCGBA,DCGB,A,BACK,FANTASY,false,,30
-120,DCGBB,DCGB,B,UNICORNS,FANTASY,false,,1
-121,DCGBC,DCGB,C,DRAGONS,FANTASY,false,,1
-122,DCGBD,DCGB,D,FAIRIES,FANTASY,false,,1
-123,DCGC,DCG,C,ANIMALS,THEME,false,,1
-124,DD,D,D,"",TO PLAY,false,,14
-125,DE,D,E,WRITING,TO PLAY,false,,1
-126,DF,D,F,TRACING,TO PLAY,false,,2
-127,DG,D,G,PLAY OUTSIDE,TO PLAY,false,,1
-128,DH,D,H,OUTSIDE SHOWER,TO PLAY,false,,1
-129,DI,D,I,GAMES,TO PLAY,false,,1
-130,DJ,D,J,CARDS,TO PLAY,false,,1
-131,DK,D,K,CRAFTS,TO PLAY,false,,1
-132,DL,D,L,TOYS,TO PLAY,false,,1
-133,E,"",E,FEELING,MAIN MENU,true,1,1
-134,EA,E,A,BACK,FEELING,false,,30
-135,EB,E,B,HAPPY,FEELING,false,,1
-136,EC,E,C,EXCITED,FEELING,false,,1
-137,ED,E,D,YUM,FEELING,false,,1
-138,EE,E,E,"",FEELING,false,,14
-139,EF,E,F,MAD,FEELING,false,,1
-140,EG,E,G,"",FEELING,false,,14
-141,EH,E,H,LIKE,FEELING,false,,1
-142,EI,E,I,NO LIKE,FEELING,false,,1
-143,EJ,E,J,EWW,FEELING,false,,1
-144,EK,E,K,AFRAID,FEELING,false,,1
-145,EL,E,L,SAD,FEELING,false,,1
-146,F,"",F,GAMES,MAIN MENU,true,1,1
-147,FA,F,A,BACK,GAMES,false,,30
-148,FB,F,B,CONNECT THE DOTS,GAMES,false,,1
-149,FC,F,C,TRACING,GAMES,false,,2
-150,FD,F,D,BALLOON POP,GAMES,false,,1
-151,FE,F,E,"",GAMES,false,,14
-152,FF,F,F,MUSIC,GAMES,false,,2
-153,FG,F,G,NUMBER MATCH,GAMES,false,,1
-154,FH,F,H,MATCHING GAME,GAMES,false,,1
-155,FI,F,I,WHICH ONE?,GAMES,false,,1
-156,FJ,F,J,PUZZLE,GAMES,false,,1
-157,FK,F,K,COLORING,GAMES,false,,1
-158,FL,F,L,BABY UNICORN,GAMES,false,,1
-159,G,"",G,TO EAT,MAIN MENU,true,1,1
-160,GA,G,A,BACK,TO EAT,false,,30
-161,GB,G,B,A TOAST,TO EAT,false,,1
-162,GC,G,C,EGGS,TO EAT,false,,1
-163,GD,G,D,CHOP,TO EAT,false,,1
-164,GE,G,E,"",TO EAT,false,,14
-165,GF,G,F,AN APPLE,TO EAT,false,,1
-166,GG,G,G,COOK BREAKFAST,TO EAT,false,,1
-167,GH,G,H,MOM COOK DINNER,TO EAT,false,,1
-168,GI,G,I,A PANCAKE,TO EAT,false,,1
-169,GJ,G,J,SPAGHETTI,TO EAT,false,,1
-170,GK,G,K,A BANANA,TO EAT,false,,1
-171,GL,G,L,TOFU,TO EAT,false,,1
-172,H,"",H,TO DRINK,MAIN MENU,true,1,1
-173,HA,H,A,BACK,TO DRINK,false,,30
-174,HB,H,B,WATER,TO DRINK,false,,1
-175,HC,H,C,TEA,TO DRINK,false,,1
-176,HD,H,D,JUICE,TO DRINK,false,,1
-177,I,"",I,PLACES,MAIN MENU,true,1,1
-178,IA,I,A,BACK,PLACES,false,,30
-179,IB,I,B,ISABELLE’S HOUSE,PLACES,false,,1
-180,IC,I,C,SOFA BASKET,PLACES,false,,1
-181,ID,I,D,CAGE TABLET,PLACES,false,,1
-182,IE,I,E,OUTSIDE WALK,PLACES,false,,2
-183,IF,I,F,PLAY STAND,PLACES,false,,1
-184,J,"",J,MUSIC,MAIN MENU,true,1,1
-185,JA,J,A,BACK,MUSIC,false,,30
-186,JB,J,B,BACH & VIVALDI,MUSIC,false,,1
-187,JC,J,C,PIANO,MUSIC,false,,1
-188,JD,J,D,VIOLIN,MUSIC,false,,1
-189,JE,J,E,DANCE,MUSIC,false,,1
-190,JF,J,F,OLDIES,MUSIC,false,,1
-191,JG,J,G,BEETHOVEN & DVORAK,MUSIC,false,,1
-192,K,"",K,CARTOONS,MAIN MENU,true,1,1
-193,KA,K,A,BACK,CARTOONS,false,,30
-194,KB,K,B,PEPPA PIG,CARTOONS,false,,1
-195,KC,K,C,CLOUDBABIES,CARTOONS,false,,1
-196,KD,K,D,TOM AND JERRY,CARTOONS,false,,1
-197,KE,K,E,SEASONAL,CARTOONS,true,2,2
-198,KEA,KE,A,BACK,SEASONAL,false,,30
-199,KEB,KE,B,WINTER,SEASONAL,false,,1
-200,KEC,KE,C,FALL,SEASONAL,false,,1
-201,KED,KE,D,SPRING,SEASONAL,false,,1
-202,KEE,KE,E,SUMMER,SEASONAL,false,,1
-203,KF,K,F,THEMES,CARTOONS,true,1,1
-204,KFA,KF,A,BACK,THEMES,false,,30
-205,KFB,KF,B,FANTASY,THEMES,false,,1
-206,KFC,KF,C,PLANTS AND OUTSIDE,THEMES,false,,1
-207,KFD,KF,D,PATTERNS,THEMES,false,,1
-208,KFE,KF,E,LETTERS AND WORDS,THEMES,false,,1
-209,KFF,KF,F,MUSIC,THEMES,false,,2
-210,KG,K,G,BUBBLE GUPPIES,CARTOONS,false,,1
-211,KH,K,H,KATURI,CARTOONS,false,,1
-212,KI,K,I,LITTLE KINGDOM,CARTOONS,false,,1
-213,L,"",L,TREATS,MAIN MENU,true,1,1
-214,LA,L,A,BACK,TREATS,false,,30
-215,LB,L,B,SUNFLOWER SEEDS,TREATS,false,,1
-216,LC,L,C,NUTS,TREATS,false,,1
-217,LD,L,D,SEED BALL,TREATS,false,,1
-218,LE,L,E,MANGO,TREATS,false,,1
-219,LF,L,F,MEDICINE,TREATS,false,,1
-220,LG,L,G,ALMOND,TREATS,false,,1
+Line Number,full_pattern,menu_pattern,button,selection,Training/ Spontaneous,Utterance: Single word or phrase,Type of Sign,menu_title,is_menu,menu_multiplicity,multiplicity
+1,A,"",A,TALK ABOUT,Trained - Repeated,Phrase,Abstract Sign,MAIN MENU,true,2,2
+2,AA,A,A,BACK,Trained - Repeated,Single Word,Abstract Sign,TALK ABOUT,false,,30
+3,AB,A,B,TEMP AND WEATHER,Trained - Repeated,Phrase,Photo,TALK ABOUT,true,1,1
+4,ABA,AB,A,BACK,Trained - Repeated,Single Word,Abstract Sign,TEMP AND WEATHER,false,,30
+5,ABB,AB,B,"",,,,TEMP AND WEATHER,false,,14
+6,ABC,AB,C,HOT,Trained,Single Word,Abstract Sign,TEMP AND WEATHER,true,1,1
+7,ABCA,ABC,A,BACK,Trained - Repeated,Single Word,Abstract Sign,HOT,false,,30
+8,ABCB,ABC,B,I FEEL HOT,Trained,Phrase,Drawing,HOT,false,,1
+9,ABCC,ABC,C,"",,,,HOT,false,,14
+10,ABCD,ABC,D,I WANT TO FEEL HOT,Trained,Phrase,Drawing,HOT,false,,1
+11,ABCE,ABC,E,HOT INSIDE,Generalized,Phrase,Photo,HOT,false,,1
+12,ABCF,ABC,F,HOT OUTSIDE,Generalized,Phrase,Photo,HOT,false,,1
+13,ABCG,ABC,G,HOT WIND BLOW DRYER,Trained,Phrase,Photo,HOT,false,,1
+14,ABD,AB,D,WARM,Trained,Single Word,Abstract Sign,TEMP AND WEATHER,true,1,1
+15,ABDA,ABD,A,BACK,Trained - Repeated,Single Word,Abstract Sign,WARM,false,,30
+16,ABDB,ABD,B,I FEEL WARM,Trained,Phrase,Drawing,WARM,false,,1
+17,ABDC,ABD,C,I WANT TO FEEL WARM,Trained,Phrase,Drawing,WARM,false,,1
+18,ABDD,ABD,D,"",,,,WARM,false,,14
+19,ABDE,ABD,E,WARM INSIDE,Generalized,Phrase,Photo,WARM,false,,1
+20,ABDF,ABD,F,WARM OUTSIDE,Generalized,Phrase,Photo,WARM,false,,1
+21,ABE,AB,E,COOL,Trained,Single Word,Abstract Sign,TEMP AND WEATHER,true,1,1
+22,ABEA,ABE,A,BACK,Trained - Repeated,Single Word,Abstract Sign,COOL,false,,30
+23,ABEB,ABE,B,I FEEL COOL,Trained,Phrase,Drawing,COOL,false,,1
+24,ABEC,ABE,C,I WANT TO FEEL COOL,Trained,Phrase,Drawing,COOL,false,,1
+25,ABED,ABE,D,COOL INSIDE,Generalized,Phrase,Photo,COOL,false,,1
+26,ABEE,ABE,E,"",,,,COOL,false,,14
+27,ABEF,ABE,F,COOL OUTSIDE,Generalized,Phrase,Photo,COOL,false,,1
+28,ABF,AB,F,COLD,Trained,Single Word,Abstract Sign,TEMP AND WEATHER,true,1,1
+29,ABFA,ABF,A,BACK,Trained - Repeated,Single Word,Abstract Sign,COLD,false,,30
+30,ABFB,ABF,B,I FEEL COLD,Trained,Phrase,Drawing,COLD,false,,1
+31,ABFC,ABF,C,I WANT TO FEEL COLD,Trained,Phrase,Drawing,COLD,false,,1
+32,ABFD,ABF,D,COLD INSIDE,Generalized,Phrase,Photo,COLD,false,,1
+33,ABFE,ABF,E,COLD OUTSIDE,Generalized,Phrase,Photo,COLD,false,,1
+34,ABFF,ABF,F,"",,,,COLD,false,,14
+35,ABFG,ABF,G,COLD WIND AIR CONDITIONER,Trained,Phrase,Photo,COLD,false,,1
+36,ABG,AB,G,,,,,TEMP AND WEATHER,false,,1
+37,ABH,AB,H,CLOUD,Trained,Single Word,Photo,TEMP AND WEATHER,false,,1
+38,ABI,AB,I,RAIN,Trained,Single Word,Photo,TEMP AND WEATHER,false,,1
+39,ABJ,AB,J,WIND,Trained,Single Word,Photo,TEMP AND WEATHER,false,,1
+40,ABK,AB,K,DAY / SUN,Trained,Phrase,Photo,TEMP AND WEATHER,false,,1
+41,ABL,AB,L,NIGHT / MOON,Trained,Phrase,Photo,TEMP AND WEATHER,false,,1
+42,AC,A,C,FANTASY,Trained - Repeated,Single Word,Drawing,TALK ABOUT,true,2,2
+43,ACA,AC,A,BACK,Trained - Repeated,Single Word,Abstract Sign,FANTASY,false,,30
+44,ACB,AC,B,DRAGON,Trained - Repeated,Single Word,Drawing,FANTASY,false,,1
+45,ACC,AC,C,"",,,,FANTASY,false,,14
+46,ACD,AC,D,UNICORN,Trained - Repeated,Single Word,Drawing,FANTASY,false,,1
+47,ACE,AC,E,FAIRY,Trained - Repeated,Single Word,Drawing,FANTASY,false,,1
+48,AD,A,D,ANIMALS,Trained - Repeated,Single Word,Drawing,TALK ABOUT,true,1,1
+49,ADA,AD,A,BACK,Trained - Repeated,Single Word,Abstract Sign,ANIMALS,false,,30
+50,ADB,AD,B,EASTER BABIES,Trained,Phrase,Photo,ANIMALS,false,,1
+51,AE,A,E,HOLIDAYS,Trained,Single Word,Photo,TALK ABOUT,false,,1
+52,AF,A,F,LEARN SOMETHING NEW,Trained,Phrase,Abstract Sign,TALK ABOUT,false,,1
+53,AG,A,G,MATH,Trained,Single Word,Photo,TALK ABOUT,false,,1
+54,AH,A,H,LETTERS AND PHONICS,Trained,Phrase,Photo,TALK ABOUT,false,,1
+55,AI,A,I,TYPING,Trained,Single Word,Photo,TALK ABOUT,false,,1
+56,AJ,A,J,YES AND NO,Trained,Phrase,Drawing,TALK ABOUT,true,1,1
+57,AJA,AJ,A,BACK,Trained - Repeated,Single Word,Abstract Sign,YES AND NO,false,,30
+58,AJB,AJ,B,YES,Trained,Single Word,Abstract Sign,YES AND NO,false,,1
+59,AJC,AJ,C,NO,Trained,Single Word,Abstract Sign,YES AND NO,false,,1
+60,AJD,AJ,D,I'M NOT SURE,Trained,Phrase,Abstract Sign,YES AND NO,false,,1
+61,AJE,AJ,E,SOMETHING ELSE,Trained,Phrase,Abstract Sign,YES AND NO,false,,1
+62,B,"",B,SAY HELLO TO,Trained,Phrase,Drawing,MAIN MENU,true,1,1
+63,BA,B,A,BACK,Trained - Repeated,Single Word,Abstract Sign,SAY HELLO TO,false,,30
+64,BB,B,B,"",,,,SAY HELLO TO,false,,14
+65,BC,B,C,MOM,Trained - Repeated,Single Word,Photo,SAY HELLO TO,false,,2
+66,BD,B,D,GRANDMA,Trained,Single Word,Photo,SAY HELLO TO,false,,1
+67,BE,B,E,CORI,Trained,Single Word,Photo,SAY HELLO TO,false,,1
+68,BF,B,F,SIERRA,Trained,Single Word,Photo,SAY HELLO TO,false,,1
+69,BG,B,G,CAR RIDE,Trained,Phrase,Drawing,SAY HELLO TO,false,,1
+70,BH,B,H,BIRD FRIENDS,Trained,Phrase,Photo,SAY HELLO TO,true,1,1
+71,BHA,BH,A,BACK,Trained - Repeated,Single Word,Photo,BIRD FRIENDS,false,,30
+72,BHB,BH,B,COOKIE,Trained,Single Word,Photo,BIRD FRIENDS,false,,1
+73,BHC,BH,C,LITTLE LOU,Trained,Phrase,Photo,BIRD FRIENDS,false,,1
+74,BHD,BH,D,"SKITTLES, SQUEE AND YAYA",Trained,Phrase,Photo,BIRD FRIENDS,false,,1
+75,BI,B,I,OUTSIDE WALK,Trained - Repeated,Phrase,Photo,SAY HELLO TO,false,,2
+76,BJ,B,J,SISTERS,Trained,Single Word,Photo,SAY HELLO TO,true,1,1
+77,BJA,BJ,A,BACK,Trained - Repeated,Single Word,Abstract Sign,SISTERS,false,,30
+78,BJB,BJ,B,ELLIE,Trained - Repeated,Single Word,Photo,SISTERS,false,,2
+79,BJC,BJ,C,ISABELLE,Trained - Repeated,Single Word,Photo,SISTERS,false,,2
+80,BJD,BJ,D,TILLIE,Trained - Repeated,Single Word,Photo,SISTERS,false,,2
+81,BK,B,K,TALK ABOUT,Trained - Repeated,Phrase,Abstract Sign,SAY HELLO TO,true,2,2
+82,BKA,BK,A,BACK,Trained - Repeated,Single Word,Abstract Sign,TALK ABOUT,false,,30
+83,BKB,BK,B,FEELING,Trained - Repeated,Single Word,Drawing,TALK ABOUT,false,,1
+84,BKC,BK,C,TEMP AND WEATHER,Trained - Repeated,Phrase,Photo,TALK ABOUT,false,,1
+85,BKD,BK,D,LEARNING,Generalized,Single Word,Abstract Sign,TALK ABOUT,false,,1
+86,C,"",C,EXPERIENCE,Trained,Single Word,Drawing,MAIN MENU,true,1,1
+87,CA,C,A,BACK,Trained - Repeated,Single Word,Abstract Sign,EXPERIENCE,false,,30
+88,CB,C,B,MOM,Trained - Repeated,Single Word,Photo,EXPERIENCE,false,,2
+89,CC,C,C,"",,,,EXPERIENCE,false,,14
+90,CD,C,D,TOUCH,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
+91,CE,C,E,SEE,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
+92,CF,C,F,HEAR,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
+93,CG,C,G,ELLIE,Trained - Repeated,Single Word,Photo,EXPERIENCE,false,,2
+94,CH,C,H,TILLIE,Trained - Repeated,Single Word,Photo,EXPERIENCE,false,,2
+95,CI,C,I,ISABELLE,Trained - Repeated,Single Word,Photo,EXPERIENCE,false,,2
+96,CJ,C,J,READ,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
+97,CK,C,K,TASTE,Trained,Single Word,Drawing,EXPERIENCE,false,,1
+98,CL,C,L,SMELL,Trained,Single Word,Photo,EXPERIENCE,false,,1
+99,D,"",D,TO PLAY,Trained,Phrase,Drawing,MAIN MENU,true,1,1
+100,DA,D,A,BACK,Trained - Repeated,Single Word,Abstract Sign,TO PLAY,false,,30
+101,DB,D,B,SNUGGLE,Trained,Single Word,Drawing,TO PLAY,false,,1
+102,DC,D,C,BOOK,Trained,Single Word,Drawing,TO PLAY,true,1,1
+103,DCA,DC,A,BACK,Trained - Repeated,Single Word,Abstract Sign,BOOK,false,,30
+104,DCB,DC,B,TOUCH AND FEEL,Trained,Phrase,Photo,BOOK,false,,1
+105,DCC,DC,C,"",,,,BOOK,false,,14
+106,DCD,DC,D,POP UP,Trained,Phrase,Photo,BOOK,false,,1
+107,DCE,DC,E,READING BOOK,Trained,Phrase,Photo,BOOK,true,1,1
+108,DCEA,DCE,A,BACK,Trained - Repeated,Single Word,Abstract Sign,READING BOOK,false,,30
+109,DCEB,DCE,B,ONE WORD,Trained,Phrase,Abstract Sign,READING BOOK,false,,1
+110,DCEC,DCE,C,SENTENCE BOOK,Trained,Phrase,Abstract Sign,READING BOOK,false,,1
+111,DCF,DC,F,SEASONAL,Trained - Repeated,Single Word,Photo,BOOK,true,2,2
+112,DCFA,DCF,A,BACK,Trained - Repeated,Single Word,Abstract Sign,SEASONAL,false,,30
+113,DCFB,DCF,B,CHRISTMAS,Trained - Repeated,Single Word,Drawing,SEASONAL,false,,1
+114,DCFC,DCF,C,HALLOWEEN,Trained - Repeated,Single Word,Photo,SEASONAL,false,,1
+115,DCFD,DCF,D,EASTER,Trained - Repeated,Single Word,Photo,SEASONAL,false,,1
+116,DCG,DC,G,THEME,Generalized,Single Word,Drawing,BOOK,true,1,1
+117,DCGA,DCG,A,BACK,Trained - Repeated,Single Word,Abstract Sign,THEME,false,,30
+118,DCGB,DCG,B,FANTASY,Trained - Repeated,Single Word,Drawing,THEME,true,2,2
+119,DCGBA,DCGB,A,BACK,Trained - Repeated,Single Word,Abstract Sign,FANTASY,false,,30
+120,DCGBB,DCGB,B,UNICORNS,Trained - Repeated,Single Word,Drawing,FANTASY,false,,1
+121,DCGBC,DCGB,C,DRAGONS,Trained - Repeated,Single Word,Drawing,FANTASY,false,,1
+122,DCGBD,DCGB,D,FAIRIES,Trained - Repeated,Single Word,Drawing,FANTASY,false,,1
+123,DCGC,DCG,C,ANIMALS,Trained - Repeated,Single Word,Drawing,THEME,false,,1
+124,DD,D,D,"",,,,TO PLAY,false,,14
+125,DE,D,E,WRITING,Trained,Single Word,Photo,TO PLAY,false,,1
+126,DF,D,F,TRACING,Trained - Repeated,Single Word,Photo,TO PLAY,false,,2
+127,DG,D,G,PLAY OUTSIDE,Trained - Repeated,Phrase,Drawing,TO PLAY,false,,1
+128,DH,D,H,OUTSIDE SHOWER,Trained,Phrase,Drawing,TO PLAY,false,,1
+129,DI,D,I,GAMES,Trained - Repeated,Single Word,Drawing,TO PLAY,false,,1
+130,DJ,D,J,CARDS,Trained,Single Word,Drawing,TO PLAY,false,,1
+131,DK,D,K,CRAFTS,Trained,Single Word,Drawing,TO PLAY,false,,1
+132,DL,D,L,TOYS,Trained,Single Word,Photo,TO PLAY,false,,1
+133,E,"",E,FEELING,Trained - Repeated,Single Word,Abstract Sign,MAIN MENU,true,1,1
+134,EA,E,A,BACK,Trained - Repeated,Single Word,Abstract Sign,FEELING,false,,30
+135,EB,E,B,HAPPY,Trained,Single Word,Drawing,FEELING,false,,1
+136,EC,E,C,EXCITED,Trained,Single Word,Drawing,FEELING,false,,1
+137,ED,E,D,YUM,Trained,Single Word,Drawing,FEELING,false,,1
+138,EE,E,E,"",,,,FEELING,false,,14
+139,EF,E,F,MAD,Trained,Single Word,Abstract Sign,FEELING,false,,1
+140,EG,E,G,"",,,,FEELING,false,,14
+141,EH,E,H,LIKE,Trained,Single Word,Abstract Sign,FEELING,false,,1
+142,EI,E,I,NO LIKE,Trained,Phrase,Abstract Sign,FEELING,false,,1
+143,EJ,E,J,EWW,Trained,Single Word,Drawing,FEELING,false,,1
+144,EK,E,K,AFRAID,Trained,Single Word,Drawing,FEELING,false,,1
+145,EL,E,L,SAD,Trained,Single Word,Drawing,FEELING,false,,1
+146,F,"",F,GAMES,Trained - Repeated,Single Word,Drawing,MAIN MENU,true,1,1
+147,FA,F,A,BACK,Trained - Repeated,Single Word,Abstract Sign,GAMES,false,,30
+148,FB,F,B,CONNECT THE DOTS,Trained,Phrase,Photo,GAMES,false,,1
+149,FC,F,C,TRACING,Trained - Repeated,Single Word,Photo,GAMES,false,,2
+150,FD,F,D,BALLOON POP,Trained,Phrase,Photo,GAMES,false,,1
+151,FE,F,E,"",,,,GAMES,false,,14
+152,FF,F,F,MUSIC,Trained,Single Word,Photo,GAMES,false,,2
+153,FG,F,G,NUMBER MATCH,Trained,Phrase,Photo,GAMES,false,,1
+154,FH,F,H,MATCHING GAME,Trained,Phrase,Photo,GAMES,false,,1
+155,FI,F,I,WHICH ONE?,Trained,Phrase,Photo,GAMES,false,,1
+156,FJ,F,J,PUZZLE,Trained,Single Word,Photo,GAMES,false,,1
+157,FK,F,K,COLORING,Trained,Single Word,Photo,GAMES,false,,1
+158,FL,F,L,BABY UNICORN,Trained,Phrase,Photo,GAMES,false,,1
+159,G,"",G,TO EAT,Trained,Phrase,Drawing,MAIN MENU,true,1,1
+160,GA,G,A,BACK,Trained - Repeated,Single Word,Abstract Sign,TO EAT,false,,30
+161,GB,G,B,A TOAST,Trained,Phrase,Photo,TO EAT,false,,1
+162,GC,G,C,EGGS,Trained,Single Word,Photo,TO EAT,false,,1
+163,GD,G,D,CHOP,Trained,Single Word,Photo,TO EAT,false,,1
+164,GE,G,E,"",,,,TO EAT,false,,14
+165,GF,G,F,AN APPLE,Trained,Phrase,Photo,TO EAT,false,,1
+166,GG,G,G,COOK BREAKFAST,Untrained - Discovered,Phrase,Abstract Sign,TO EAT,false,,1
+167,GH,G,H,MOM COOK DINNER,Untrained - Discovered,Phrase,Abstract Sign,TO EAT,false,,1
+168,GI,G,I,A PANCAKE,Trained,Phrase,Photo,TO EAT,false,,1
+169,GJ,G,J,SPAGHETTI,Trained,Single Word,Photo,TO EAT,false,,1
+170,GK,G,K,A BANANA,Trained,Phrase,Photo,TO EAT,false,,1
+171,GL,G,L,TOFU,Trained,Single Word,Photo,TO EAT,false,,1
+172,H,"",H,TO DRINK,Trained,Phrase,Drawing,MAIN MENU,true,1,1
+173,HA,H,A,BACK,Trained - Repeated,Single Word,Abstract Sign,TO DRINK,false,,30
+174,HB,H,B,WATER,Trained,Single Word,Photo,TO DRINK,false,,1
+175,HC,H,C,TEA,Trained,Single Word,Photo,TO DRINK,false,,1
+176,HD,H,D,JUICE,Trained,Single Word,Photo,TO DRINK,false,,1
+177,I,"",I,PLACES,Trained,Single Word,Photo,MAIN MENU,true,1,1
+178,IA,I,A,BACK,Trained - Repeated,Single Word,Abstract Sign,PLACES,false,,30
+179,IB,I,B,ISABELLE’S HOUSE,Trained,Phrase,Photo,PLACES,false,,1
+180,IC,I,C,SOFA BASKET,Trained,Phrase,Photo,PLACES,false,,1
+181,ID,I,D,CAGE TABLET,Trained,Phrase,Photo,PLACES,false,,1
+182,IE,I,E,OUTSIDE WALK,Trained - Repeated,Phrase,Photo,PLACES,false,,2
+183,IF,I,F,PLAY STAND,Trained,Phrase,Photo,PLACES,false,,1
+184,J,"",J,MUSIC,Trained,Single Word,Drawing,MAIN MENU,true,1,1
+185,JA,J,A,BACK,Trained - Repeated,Single Word,Abstract Sign,MUSIC,false,,30
+186,JB,J,B,BACH & VIVALDI,Trained,Phrase,Drawing,MUSIC,false,,1
+187,JC,J,C,PIANO,Trained,Single Word,Drawing,MUSIC,false,,1
+188,JD,J,D,VIOLIN,Trained,Single Word,Drawing,MUSIC,false,,1
+189,JE,J,E,DANCE,Trained,Single Word,Photo,MUSIC,false,,1
+190,JF,J,F,OLDIES,Trained,Single Word,Photo,MUSIC,false,,1
+191,JG,J,G,BEETHOVEN & DVORAK,Trained,Phrase,Drawing,MUSIC,false,,1
+192,K,"",K,CARTOONS,Trained,Single Word,Photo,MAIN MENU,true,1,1
+193,KA,K,A,BACK,Trained - Repeated,Single Word,Abstract Sign,CARTOONS,false,,30
+194,KB,K,B,PEPPA PIG,Trained,Phrase,Photo,CARTOONS,false,,1
+195,KC,K,C,CLOUDBABIES,Trained,Single Word,Photo,CARTOONS,false,,1
+196,KD,K,D,TOM AND JERRY,Trained,Phrase,Photo,CARTOONS,false,,1
+197,KE,K,E,SEASONAL,Trained - Repeated,Single Word,Photo,CARTOONS,true,2,2
+198,KEA,KE,A,BACK,Trained - Repeated,Single Word,Abstract Sign,SEASONAL,false,,30
+199,KEB,KE,B,WINTER,Trained,Single Word,Photo,SEASONAL,false,,1
+200,KEC,KE,C,FALL,Trained,Single Word,Photo,SEASONAL,false,,1
+201,KED,KE,D,SPRING,Trained,Single Word,Photo,SEASONAL,false,,1
+202,KEE,KE,E,SUMMER,Trained,Single Word,Photo,SEASONAL,false,,1
+203,KF,K,F,THEMES,Generalized,Single Word,Drawing,CARTOONS,true,1,1
+204,KFA,KF,A,BACK,Trained - Repeated,Single Word,Abstract Sign,THEMES,false,,30
+205,KFB,KF,B,FANTASY,Trained - Repeated,Single Word,Drawing,THEMES,false,,1
+206,KFC,KF,C,PLANTS AND OUTSIDE,Untrained - Unused,Phrase,Photo,THEMES,false,,1
+207,KFD,KF,D,PATTERNS,Untrained - Unused,Single Word,Photo,THEMES,false,,1
+208,KFE,KF,E,LETTERS AND WORDS,Untrained - Unused,Phrase,Photo,THEMES,false,,1
+209,KFF,KF,F,MUSIC,Trained - Repeated,Single Word,Drawing,THEMES,false,,2
+210,KG,K,G,BUBBLE GUPPIES,Untrained - Unused,Phrase,Photo,CARTOONS,false,,1
+211,KH,K,H,KATURI,Trained,Single Word,Photo,CARTOONS,false,,1
+212,KI,K,I,LITTLE KINGDOM,Trained,Phrase,Photo,CARTOONS,false,,1
+213,L,"",L,TREATS,Trained,Single Word,Photo,MAIN MENU,true,1,1
+214,LA,L,A,BACK,Trained - Repeated,Single Word,Abstract Sign,TREATS,false,,30
+215,LB,L,B,SUNFLOWER SEEDS,Trained,Phrase,Photo,TREATS,false,,1
+216,LC,L,C,NUTS,Trained,Single Word,Photo,TREATS,false,,1
+217,LD,L,D,SEED BALL,Trained,Phrase,Photo,TREATS,false,,1
+218,LE,L,E,MANGO,Trained,Single Word,Photo,TREATS,false,,1
+219,LF,L,F,MEDICINE,Trained,Single Word,Abstract Sign,TREATS,false,,1
+220,LG,L,G,ALMOND,Trained,Single Word,Photo,TREATS,false,,1

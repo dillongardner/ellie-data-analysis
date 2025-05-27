@@ -13,6 +13,8 @@ def make_heatmap_arr(df, normalize: bool = True) -> np.ndarray:
     s = df["button"].value_counts()
     total = s["count"].sum()
     for r in s.iter_rows():
+        if r[0] not in KEY_MAP:
+            continue
         i, j = KEY_MAP[r[0]]
         if normalize:
             arr[i][j] = r[1] / total * 100.0
