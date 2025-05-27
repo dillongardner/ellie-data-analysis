@@ -1,6 +1,6 @@
 digraph "Speech Board Menu Tree" {
 	rankdir=LR
-	splines=ortho // Critical for the orthogonal lines
+	splines=polyline // Critical for the orthogonal lines
 	node [shape=rect, style="rounded,filled", fontname=Helvetica] // Default for visible nodes
 	edge [fontname=Helvetica, arrowhead=none] // Global for edges: no arrowheads
 
