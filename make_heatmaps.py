@@ -73,12 +73,12 @@ def main(board_file: str=BOARD_FILE,
         plt.close(fig)
 
 if __name__ == "__main__":
-    main('./data/iteration_2_board.csv',
-         './data/iteration_2_selections.csv',
-         './figures/iteration_2')
     main('./data/iteration_1_board.csv',
          './data/iteration_1_selections.csv',
          './figures/iteration_1', is_v1=True)
+    main('./data/iteration_2_board.csv',
+         './data/iteration_2_selections.csv',
+         './figures/iteration_2')
     main('./data/iteration_3_board.csv',
          './data/iteration_3_selections.csv',
          './figures/iteration_3',

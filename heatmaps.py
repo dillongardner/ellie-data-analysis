@@ -58,7 +58,10 @@ def make_labels(arr, menu: str, board: pl.DataFrame, normalized: bool = False, m
         else:
             display_phrase = phrase
 
-        if normalized:
+        if display_phrase == "":
+            # This is the case when the board has and empty slot
+            labels[i][j] = ""
+        elif normalized:
             labels[i][j] = f"{display_phrase}\n{arr[i, j]:.1f}%"
         else:
             labels[i][j] = f"{display_phrase}\n{int(arr[i, j])}"
