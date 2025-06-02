@@ -38,10 +38,11 @@ def main(board_file: str=BOARD_FILE,
     bad_matches = bad_match_base.filter(pl.col('full_pattern').is_null()).group_by("selection").len().sort("len", descending=True)
     bad_matches.write_csv(os.path.join(output_path, "missing_selections.csv"))
 
-    df = combine(selections=formatted_selections, board=formatted_board,)
+    df, unmatched = combine(selections=formatted_selections, board=formatted_board,)
 
 
     df.write_csv(os.path.join(output_path, "full_selections.csv"))
+    unmatched.write_csv(os.path.join(output_path, "unmatched_selections.csv"))
 
     plot_df = df.filter(pl.col("is_match"))
 

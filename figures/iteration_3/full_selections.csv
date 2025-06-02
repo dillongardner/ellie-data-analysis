@@ -39,21 +39,21 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 40,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 41,JDRI,I FELT OUCH,FINAL,I felt ouch,,BODY,JDRI,JDR,I,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 42,JDRE,SICK OUCH,FINAL,Sick ouch,,BODY,JDRE,JDR,E,TYPES OF OUCH,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
-43,JDRO,MOM,FINAL,Mom,,BODY,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+43,JDRO,MOM,FINAL,Mom,,BODY,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 44,JDRE,SICK OUCH,FINAL,Sick ouch,,BODY,JDRE,JDR,E,TYPES OF OUCH,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
 45,JDRH,I FELT OUCH,FINAL,I felt ouch,,BODY,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 46,JDRI,I WILL FEEL OUCH,FINAL,I will feel ouch,,BODY,JDRI,JDR,I,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
-47,JDRO,MOM,FINAL,Mom,,BODY,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+47,JDRO,MOM,FINAL,Mom,,BODY,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 48,JDRD,BONE OUCH,FINAL,Bone ouch,,BODY,JDRD,JDR,D,TYPES OF OUCH,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
-49,JDRO,MOM,FINAL,Mom,,BODY,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+49,JDRO,MOM,FINAL,Mom,,BODY,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 50,JDRH,I FELT OUCH,FINAL,I felt ouch,,BODY,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 51,JDRE,SICK OUCH,FINAL,Sick ouch,,BODY,JDRE,JDR,E,TYPES OF OUCH,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
 52,JDRI,I WILL FEEL OUCH,FINAL,I will feel ouch,,BODY,JDRI,JDR,I,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 53,JDRH,I FELT OUCH,FINAL,I felt ouch,,BODY,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 54,JDRH,I FELT OUCH,FINAL,I felt ouch,,BODY,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 55,JDRH,I FELT OUCH,FINAL,I felt ouch,,BODY,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
-56,JDRO,MOM,FINAL,Mom,,BODY,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-57,JDRO,MOM,FINAL,Mom,,BODY,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+56,JDRO,MOM,FINAL,Mom,,BODY,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+57,JDRO,MOM,FINAL,Mom,,BODY,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 58,JDRH,I FELT OUCH,FINAL,I felt ouch,,BODY,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 59,JDRG,CANCER,FINAL,Cancer,,BODY,JDRG,JDR,G,TYPES OF OUCH,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 60,JDRR,TILLIE,FINAL,Tillie,,BODY,JDRR,JDR,R,TYPES OF OUCH,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -92,7 +92,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 93,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 94,JDRI,I WILL FEEL OUCH,FINAL,I will feel ouch,,TYPES OF OUCH,JDRI,JDR,I,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 95,JDRF,WHAT TYPE OF OUCH?,FINAL,What type of ouch?,,TYPES OF OUCH,JDRF,JDR,F,TYPES OF OUCH,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
-96,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+96,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 97,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 98,HDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,UNIQUE_MATCH
 99,JDRJ,I FEEL OUCH,FINAL,I feel ouch,,TYPES OF OUCH,JDRJ,JDR,J,TYPES OF OUCH,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
@@ -101,16 +101,16 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 102,JDRC,OUTSIDE OUCH,FINAL,Outside ouch,,TYPES OF OUCH,JDRC,JDR,C,TYPES OF OUCH,false,,1,Trained,Phrase,Photo,true,CODE_MATCH
 103,JDRD,BONE OUCH,FINAL,Bone ouch,,TYPES OF OUCH,JDRD,JDR,D,TYPES OF OUCH,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
 104,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
-105,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-106,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+105,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+106,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 107,JDRF,WHAT KIND OF OUCH?,FINAL,What kind of ouch?,,TYPES OF OUCH,JDRF,JDR,F,TYPES OF OUCH,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
 108,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 109,JDRC,OUTSIDE OUCH,FINAL,Outside ouch,,TYPES OF OUCH,JDRC,JDR,C,TYPES OF OUCH,false,,1,Trained,Phrase,Photo,true,CODE_MATCH
 110,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 111,JDRJ,I FEEL OUCH,FINAL,I feel ouch,,TYPES OF OUCH,JDRJ,JDR,J,TYPES OF OUCH,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-112,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+112,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 113,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
-114,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+114,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 115,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 116,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 117,JDRD,BONE OUCH,FINAL,Bone ouch,,TYPES OF OUCH,JDRD,JDR,D,TYPES OF OUCH,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
@@ -121,11 +121,10 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 122,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 123,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 124,JDRG,CANCER,FINAL,Cancer,,TYPES OF OUCH,JDRG,JDR,G,TYPES OF OUCH,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-125,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+125,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 126,JDRJ,I FEEL OUCH,FINAL,I feel ouch,,TYPES OF OUCH,JDRJ,JDR,J,TYPES OF OUCH,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 127,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 128,,BODY,MENU,,BODY,BODY,JD,J,D,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Drawing,true,UNIQUE_MATCH
-129,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
 130,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 131,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 132,JDR,TYPES OF OUCH,MENU,,TYPES OF OUCH,TYPES OF OUCH,JDR,JD,R,BODY,true,1,1,Trained,Phrase,Abstract Sign,true,CODE_MATCH
@@ -140,9 +139,9 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 141,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 142,JDRD,BONE OUCH,FINAL,Bone ouch,,TYPES OF OUCH,JDRD,JDR,D,TYPES OF OUCH,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
 143,JDRG,CANCER,FINAL,Cancer,,TYPES OF OUCH,JDRG,JDR,G,TYPES OF OUCH,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-144,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+144,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 145,JDRG,CANCER,FINAL,Cancer,,TYPES OF OUCH,JDRG,JDR,G,TYPES OF OUCH,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-146,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+146,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 147,JDRI,I WILL FEEL OUCH,FINAL,I will feel ouch,,TYPES OF OUCH,JDRI,JDR,I,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 148,JDRC,OUTSIDE OUCH,FINAL,Outside ouch,,TYPES OF OUCH,JDRC,JDR,C,TYPES OF OUCH,false,,1,Trained,Phrase,Photo,true,CODE_MATCH
 149,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
@@ -187,11 +186,11 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 190,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 191,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 192,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
-193,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-194,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-195,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+193,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+194,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+195,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 196,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-197,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+197,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 198,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 199,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 200,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -214,11 +213,11 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 225,I,DESCRIPTIONS AND PREFERENCES,MENU,,DESCRIPTIONS AND PREFERENCES,DESCRIPTIONS AND PREFERENCES,I,"",I,MAIN MENU,true,1,1,Untrained - Discovered,Phrase,Drawing,true,CODE_MATCH
 226,IC,MOVEMENT,FINAL,movement,,DESCRIPTIONS AND PREFERENCES,IC,I,C,DESCRIPTIONS AND PREFERENCES,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
 227,ICB,RUN,FINAL,run,,DESCRIPTIONS AND PREFERENCES,ICB,IC,B,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-228,ICM,MOM,FINAL,mom,,DESCRIPTIONS AND PREFERENCES,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-229,ICM,MOM,FINAL,mom,,DESCRIPTIONS AND PREFERENCES,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-230,ICM,MOM,FINAL,mom,,DESCRIPTIONS AND PREFERENCES,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+228,ICM,MOM,FINAL,mom,,DESCRIPTIONS AND PREFERENCES,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+229,ICM,MOM,FINAL,mom,,DESCRIPTIONS AND PREFERENCES,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+230,ICM,MOM,FINAL,mom,,DESCRIPTIONS AND PREFERENCES,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 231,ICG,SIT,FINAL,sit,,DESCRIPTIONS AND PREFERENCES,ICG,IC,G,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-232,ICM,MOM,FINAL,mom,,DESCRIPTIONS AND PREFERENCES,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+232,ICM,MOM,FINAL,mom,,DESCRIPTIONS AND PREFERENCES,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 233,ICH,WALK,FINAL,walk,,DESCRIPTIONS AND PREFERENCES,ICH,IC,H,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 234,ICJ,SLOW,FINAL,slow,,DESCRIPTIONS AND PREFERENCES,ICJ,IC,J,MOVEMENT,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 235,ICD,JUMP,FINAL,jump,,DESCRIPTIONS AND PREFERENCES,ICD,IC,D,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -256,10 +255,10 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 269,IC,MOVEMENT,MENU,,MOVEMENT,MOVEMENT,IC,I,C,DESCRIPTIONS AND PREFERENCES,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
 270,ICH,WALK,FINAL,walk,,MOVEMENT,ICH,IC,H,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 271,ICI,FAST,FINAL,fast,,MOVEMENT,ICI,IC,I,MOVEMENT,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
-272,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+272,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 273,ICI,FAST,FINAL,fast,,MOVEMENT,ICI,IC,I,MOVEMENT,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 274,ICI,FAST,FINAL,fast,,MOVEMENT,ICI,IC,I,MOVEMENT,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
-275,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+275,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 276,ICN,TILLIE,FINAL,Tillie,,MOVEMENT,ICN,IC,N,MOVEMENT,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 277,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 278,JD,BODY,MENU,,BODY,BODY,JD,J,D,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
@@ -275,8 +274,6 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 288,JDJ,OUCH,FINAL,ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 289,JDJ,OUCH,FINAL,ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 290,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-291,T2DH,BACK,FINAL,back,,BODY,,,,,,,,,,,false,
-292,T2JDH,BACK,FINAL,back,,BODY,,,,,,,,,,,false,
 293,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 294,JE,FEELING,MENU,,FEELING,FEELING,JE,J,E,ABOUT ME,true,1,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 295,JEC,EXCITED,MENU,,EXCITED,EXCITED,JEC,JE,C,FEELING,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
@@ -300,7 +297,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 313,JCDK,TALK ABOUT,FINAL,talk about,,TEMPERATURE,JCDK,JCD,K,WARM,false,,11,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 314,JCDJ,WARM INSIDE,FINAL,warm inside,,TEMPERATURE,JCDJ,JCD,J,WARM,false,,2,Untrained - Discovered,Phrase,Abstract Sign,true,CODE_MATCH
 315,E,TO SAY HELLO TO,MENU,,TO SAY HELLO TO,TO SAY HELLO TO,E,"",E,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
-316,ED,CORI,FINAL,Cori,,TO SAY HELLO TO,ED,E,D,TO SAY HELLO TO,false,,2,Trained,Single Word,Photo,true,CODE_MATCH
+316,ED,CORI,FINAL,Cori,,TO SAY HELLO TO,ED,E,D,TO SAY HELLO TO,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 319,EH,BIRD FRIENDS,FINAL,Bird friends,,TO SAY HELLO TO,EH,E,H,TO SAY HELLO TO,false,,1,Trained,Phrase,Photo,true,CODE_MATCH
 320,EG,CAR RIDE,FINAL,Car Ride,,TO SAY HELLO TO,EG,E,G,TO SAY HELLO TO,false,,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 323,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
@@ -310,30 +307,29 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 329,JD,BODY,MENU,,BODY,BODY,JD,J,D,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 330,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 331,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-332,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
 333,JDJ,OUCH,FINAL,ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 334,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 335,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 336,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 337,E,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,E,"",E,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
-338,ED,CORI,FINAL,Cori,,SAY HELLO TO,ED,E,D,TO SAY HELLO TO,false,,2,Trained,Single Word,Photo,true,CODE_MATCH
-339,ED,CORI,FINAL,Cori,,SAY HELLO TO,ED,E,D,TO SAY HELLO TO,false,,2,Trained,Single Word,Photo,true,CODE_MATCH
+338,ED,CORI,FINAL,Cori,,SAY HELLO TO,ED,E,D,TO SAY HELLO TO,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
+339,ED,CORI,FINAL,Cori,,SAY HELLO TO,ED,E,D,TO SAY HELLO TO,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 340,EH,BIRD FRIENDS,FINAL,Bird friends,,SAY HELLO TO,EH,E,H,TO SAY HELLO TO,false,,1,Trained,Phrase,Photo,true,CODE_MATCH
 342,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,1,1,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 343,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 344,DC,TRACING AND WRITING,MENU,,TRACING AND WRITING,TRACING AND WRITING,DC,D,C,TO PLAY,true,1,1,Trained - Repeated,Phrase,Photo,true,CODE_MATCH
-345,DCA,BACK,MENU,,BACK,BACK,DCA,DC,A,TRACING AND WRITING,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+345,DCA,BACK,MENU,,BACK,BACK,DCA,DC,A,TRACING AND WRITING,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 346,DE,BOOK,MENU,,BOOK,BOOK,DE,D,E,TO PLAY,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 347,DEG,THEME,MENU,,THEME,THEME,DEG,DE,G,BOOK,false,,1,Generalized,Phrase,Photo,true,CODE_MATCH
 348,DEFD,SEASONAL,MENU,,SEASONAL,SEASONAL,DEFD,DEF,D,THEME,true,4,4,Trained,Single Word,Photo,true,CODE_MATCH
-349,DEFDA,BACK,MENU,,BACK,BACK,DEFDA,DEFD,A,SEASONAL,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+349,DEFDA,BACK,MENU,,BACK,BACK,DEFDA,DEFD,A,SEASONAL,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 350,DEB,TOUCH AND FEEL,FINAL,Touch and feel,,BACK,DEB,DE,B,BOOK,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 351,DEFD,SEASONAL,MENU,,SEASONAL,SEASONAL,DEFD,DEF,D,THEME,true,4,4,Trained,Single Word,Photo,true,CODE_MATCH
-352,DEFDA,BACK,MENU,,BACK,BACK,DEFDA,DEFD,A,SEASONAL,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+352,DEFDA,BACK,MENU,,BACK,BACK,DEFDA,DEFD,A,SEASONAL,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 353,DEC,POP UP,FINAL,Pop up,,BACK,DEC,DE,C,BOOK,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 354,DEFD,SEASONAL,FINAL,Seasonal,,BACK,DEFD,DEF,D,THEME,true,4,4,Trained,Single Word,Photo,true,CODE_MATCH
 359,I,DESCRIPTIONS AND PREFERENCES,MENU,,DESCRIPTIONS AND PREFERENCES,DESCRIPTIONS AND PREFERENCES,I,"",I,MAIN MENU,true,1,1,Untrained - Discovered,Phrase,Drawing,true,CODE_MATCH
-360,IA,BACK,MENU,,BACK,BACK,IA,I,A,DESCRIPTIONS AND PREFERENCES,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+360,IA,BACK,MENU,,BACK,BACK,IA,I,A,DESCRIPTIONS AND PREFERENCES,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 361,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 362,JE,FEELING,MENU,,FEELING,FEELING,JE,J,E,ABOUT ME,true,1,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 363,JEG,AFRAID,FINAL,Afraid,,FEELING,JEG,JE,G,FEELING,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
@@ -345,13 +341,10 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 372,JDB,HEAD,FINAL,head,,BODY,JDB,JD,B,BODY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 373,JDB,HEAD,FINAL,head,,BODY,JDB,JD,B,BODY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 374,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-375,T2JDH,BACK,FINAL,back,,BODY,,,,,,,,,,,false,
 376,JDB,HEAD,FINAL,head,,BODY,JDB,JD,B,BODY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 377,JDB,HEAD,FINAL,head,,BODY,JDB,JD,B,BODY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 378,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 379,JDJ,OUCH,FINAL,ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
-380,T2JDH,BACK,FINAL,back,,BODY,,,,,,,,,,,false,
-381,T2JDH,BACK,FINAL,back,,BODY,,,,,,,,,,,false,
 382,JDJ,OUCH,FINAL,ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 383,JDJ,OUCH,FINAL,ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 384,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
@@ -364,9 +357,9 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 391,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 392,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 393,JDB,HEAD,FINAL,head,,BODY,JDB,JD,B,BODY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-394,JDA,BACK,MENU,,BACK,BACK,JDA,JD,A,BODY,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+394,JDA,BACK,MENU,,BACK,BACK,JDA,JD,A,BODY,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 395,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
-396,,TRACING AND WRITING,FINAL,Tracing and writing,,TO PLAY,,,,,,,,,,,false,
+396,DC,TRACING AND WRITING,FINAL,Tracing and writing,,TO PLAY,DC,D,C,TO PLAY,true,1,1,Trained - Repeated,Phrase,Photo,true,CODE_MATCH
 399,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 400,JC,TEMPERATURE,MENU,,TEMPERATURE,TEMPERATURE,JC,J,C,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 401,JCD,WARM,MENU,,WARM,WARM,JCD,JC,D,TEMPERATURE,true,2,2,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -386,10 +379,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 417,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 418,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 419,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-420,T2JDH,BACK,FINAL,back,,BODY,,,,,,,,,,,false,
 421,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-422,T2JDH,BACK,FINAL,back,,BODY,,,,,,,,,,,false,
-423,T2JDH,BACK,FINAL,back,,BODY,,,,,,,,,,,false,
 424,JDJ,OUCH,FINAL,ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 425,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 426,JC,TEMPERATURE,MENU,,TEMPERATURE,TEMPERATURE,JC,J,C,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
@@ -400,14 +390,14 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 432,IC,MOVEMENT,MENU,,MOVEMENT,MOVEMENT,IC,I,C,DESCRIPTIONS AND PREFERENCES,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
 433,ICD,JUMP,FINAL,jump,,MOVEMENT,ICD,IC,D,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 434,ICH,WALK,FINAL,walk,,MOVEMENT,ICH,IC,H,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-435,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-436,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-437,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+435,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+436,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+437,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 441,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
-442,DA,BACK,MENU,,BACK,BACK,DA,D,A,TO PLAY,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+442,DA,BACK,MENU,,BACK,BACK,DA,D,A,TO PLAY,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 443,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,1,1,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 446,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
-447,JA,BACK,MENU,,BACK,BACK,JA,J,A,ABOUT ME,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+447,JA,BACK,MENU,,BACK,BACK,JA,J,A,ABOUT ME,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 448,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 449,JC,TEMPERATURE,MENU,,TEMPERATURE,TEMPERATURE,JC,J,C,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 450,JCI,CLOUD,FINAL,Cloud,,TEMPERATURE,JCI,JC,I,TEMPERATURE,false,,1,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -425,8 +415,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 462,JEDC,I WANT TO FEEL MAD,FINAL,I want to feel mad,,MAD,JEDC,JED,C,MAD,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 463,JEDC,I WANT TO FEEL MAD,FINAL,I want to feel mad,,MAD,JEDC,JED,C,MAD,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 464,E,TO SAY HELLO TO,MENU,,TO SAY HELLO TO,TO SAY HELLO TO,E,"",E,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
-467,EB,MOM,FINAL,Mom,,TO SAY HELLO TO,EB,E,B,TO SAY HELLO TO,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-468,EB,MOM,FINAL,Mom,,TO SAY HELLO TO,EB,E,B,TO SAY HELLO TO,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+467,EB,MOM,FINAL,Mom,,TO SAY HELLO TO,EB,E,B,TO SAY HELLO TO,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+468,EB,MOM,FINAL,Mom,,TO SAY HELLO TO,EB,E,B,TO SAY HELLO TO,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 469,I,DESCRIPTIONS AND PREFERENCES,MENU,,DESCRIPTIONS AND PREFERENCES,DESCRIPTIONS AND PREFERENCES,I,"",I,MAIN MENU,true,1,1,Untrained - Discovered,Phrase,Drawing,true,CODE_MATCH
 471,E,TO SAY HELLO TO,MENU,,TO SAY HELLO TO,TO SAY HELLO TO,E,"",E,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 473,DC,TRACING AND WRITING,FINAL,Tracing and writing,,TO SAY HELLO TO,DC,D,C,TO PLAY,true,1,1,Trained - Repeated,Phrase,Photo,true,CODE_MATCH
@@ -490,7 +480,6 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 532,JDJ,OUCH,FINAL,ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 533,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 534,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-535,T2JDH,BACK,FINAL,back,,BODY,,,,,,,,,,,false,
 536,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 537,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 538,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
@@ -506,9 +495,9 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 548,DJ,CARDS,FINAL,cards,,TO PLAY,DJ,D,J,TO PLAY,false,,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 549,DB,SNUGGLE,FINAL,snuggle,,TO PLAY,DB,D,B,TO PLAY,false,,2,Trained,Single Word,Drawing,true,CODE_MATCH
 550,DC,TRACING AND WRITING,FINAL,tracing and writing,,TO PLAY,DC,D,C,TO PLAY,true,1,1,Trained - Repeated,Phrase,Photo,true,CODE_MATCH
-551,DA,BACK,MENU,,BACK,BACK,DA,D,A,TO PLAY,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+551,DA,BACK,MENU,,BACK,BACK,DA,D,A,TO PLAY,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 553,DB,SNUGGLE,FINAL,snuggle,,BACK,DB,D,B,TO PLAY,false,,2,Trained,Single Word,Drawing,true,CODE_MATCH
-554,DA,BACK,MENU,,BACK,BACK,DA,D,A,TO PLAY,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+554,DA,BACK,MENU,,BACK,BACK,DA,D,A,TO PLAY,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 555,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 556,DB,SNUGGLE,FINAL,snuggle,,TO PLAY,DB,D,B,TO PLAY,false,,2,Trained,Single Word,Drawing,true,CODE_MATCH
 557,DG,TYPING,FINAL,typing,,TO PLAY,DG,D,G,TO PLAY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
@@ -552,7 +541,6 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 607,JDJ,OUCH,FINAL,Ouch,,FEELING,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 608,JDJ,OUCH,FINAL,Ouch,,FEELING,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 609,JDI,I FEEL GOOD,FINAL,I feel good,,FEELING,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-610,T2DH,BACK,FINAL,Back,,FEELING,,,,,,,,,,,false,
 611,JDI,I FEEL GOOD,FINAL,I feel good,,FEELING,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 612,JDI,I FEEL GOOD,FINAL,I feel good,,FEELING,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 614,JDRC,OUTSIDE OUCH,FINAL,Outside ouch,,FEELING,JDRC,JDR,C,TYPES OF OUCH,false,,1,Trained,Phrase,Photo,true,CODE_MATCH
@@ -589,7 +577,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 645,AGC,NO,FINAL,No,,FEELING,AGC,AG,C,YES AND NO,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 646,AGB,YES,FINAL,Yes,,FEELING,AGB,AG,B,YES AND NO,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 647,AGB,YES,FINAL,Yes,,FEELING,AGB,AG,B,YES AND NO,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-648,AGA,BACK,MENU,,BACK,BACK,AGA,AG,A,YES AND NO,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+648,AGA,BACK,MENU,,BACK,BACK,AGA,AG,A,YES AND NO,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 649,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 650,DC,TRACING AND WRITING,FINAL,Tracing and writing,,TO PLAY,DC,D,C,TO PLAY,true,1,1,Trained - Repeated,Phrase,Photo,true,CODE_MATCH
 651,DB,SNUGGLE,FINAL,Snuggle,,TO PLAY,DB,D,B,TO PLAY,false,,2,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -599,7 +587,6 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 656,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 657,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 658,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
-659,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
 660,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 661,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 662,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
@@ -671,7 +658,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 734,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 735,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 736,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-737,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+737,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 738,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 739,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 740,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -698,7 +685,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 762,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 763,CL,SMELL,FINAL,Smell,,EXPERIENCE,CL,C,L,EXPERIENCE,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 764,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-765,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+765,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 766,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 767,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 768,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -739,7 +726,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 805,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 806,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 807,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-808,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+808,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 809,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 810,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 811,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -787,7 +774,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 866,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 867,JD,BODY,MENU,,BODY,BODY,JD,J,D,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 868,JDL,MEDICINE,MENU,,MEDICINE,MEDICINE,JDL,JD,L,BODY,true,1,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-869,JDLA,BACK,MENU,,BACK,BACK,JDLA,JDL,A,MEDICINE,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+869,JDLA,BACK,MENU,,BACK,BACK,JDLA,JDL,A,MEDICINE,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 870,JDR,TYPES OF OUCH,MENU,,TYPES OF OUCH,TYPES OF OUCH,JDR,JD,R,BODY,true,1,1,Trained,Phrase,Abstract Sign,true,CODE_MATCH
 871,JDRF,WHAT TYPE OF OUCH,FINAL,What type of ouch,,TYPES OF OUCH,JDRF,JDR,F,TYPES OF OUCH,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
 872,JDRE,SICK OUCH,FINAL,Sick ouch,,TYPES OF OUCH,JDRE,JDR,E,TYPES OF OUCH,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
@@ -804,21 +791,21 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 883,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 884,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
 885,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-886,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+886,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 887,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 888,CL,SMELL,FINAL,Smell,,EXPERIENCE,CL,C,L,EXPERIENCE,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-889,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-890,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-891,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+889,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+890,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+891,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 892,CF,HEAR,FINAL,Hear,,EXPERIENCE,CF,C,F,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-893,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+893,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 896,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 897,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 898,CF,HEAR,FINAL,Hear,,EXPERIENCE,CF,C,F,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 899,CL,SMELL,FINAL,Smell,,EXPERIENCE,CL,C,L,EXPERIENCE,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 900,CE,SEE,FINAL,See ,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-901,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-902,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+901,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+902,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 903,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 905,I,DESCRIPTIONS AND PREFERENCES,MENU,,DESCRIPTIONS AND PREFERENCES,DESCRIPTIONS AND PREFERENCES,I,"",I,MAIN MENU,true,1,1,Untrained - Discovered,Phrase,Drawing,true,CODE_MATCH
 906,IC,MOVEMENT,MENU,,MOVEMENT,MOVEMENT,IC,I,C,DESCRIPTIONS AND PREFERENCES,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -826,9 +813,9 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 908,ICJ,SLOW,FINAL,Slow,,MOVEMENT,ICJ,IC,J,MOVEMENT,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 909,ICH,WALK,FINAL,Walk,,MOVEMENT,ICH,IC,H,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 910,ICG,SIT,FINAL,Sit,,MOVEMENT,ICG,IC,G,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-911,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-912,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-913,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+911,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+912,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+913,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 914,ICG,SIT,FINAL,Sit,,MOVEMENT,ICG,IC,G,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 915,ICB,RUN,FINAL,Run,,MOVEMENT,ICB,IC,B,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 917,H,MEMORY AND TIME,MENU,,MEMORY AND TIME,MEMORY AND TIME,H,"",H,MAIN MENU,true,1,1,Untrained - Discovered,Phrase,Drawing,true,CODE_MATCH
@@ -854,15 +841,9 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 941,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 942,JE,FEELING,MENU,,FEELING,FEELING,JE,J,E,ABOUT ME,true,1,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 943,JED,MAD,MENU,,MAD,MAD,JED,JE,D,FEELING,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
-944,JEA,BACK,MENU,,BACK,BACK,JEA,JE,A,FEELING,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+944,JEA,BACK,MENU,,BACK,BACK,JEA,JE,A,FEELING,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 945,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 946,JD,BODY,MENU,,BODY,BODY,JD,J,D,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
-947,T2JDD,WING,FINAL,Wing,,BODY,JDE,JD,E,BODY,false,,1,Trained,Single Word,Photo,true,UNIQUE_MATCH
-948,T2JDG,BODY,FINAL,Body,,BODY,,,,,,,,,,,false,
-949,T2JDI,I FEEL GOOD,FINAL,I feel good,,BODY,,,,,,,,,,,false,
-950,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
-951,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
-952,T2JDI,I FEEL GOOD,FINAL,I feel good,,BODY,,,,,,,,,,,false,
 953,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 954,DB,SNUGGLE,FINAL,Snuggle,,TO PLAY,DB,D,B,TO PLAY,false,,2,Trained,Single Word,Drawing,true,CODE_MATCH
 955,DB,SNUGGLE,FINAL,Snuggle,,TO PLAY,DB,D,B,TO PLAY,false,,2,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -904,7 +885,6 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 994,JEBD,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,FEELING,JEBD,JEB,D,HAPPY,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
 996,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 997,JD,BODY,MENU,,BODY,BODY,JD,J,D,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
-998,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
 999,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 1000,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1001,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
@@ -913,11 +893,11 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1004,JDR,TYPES OF OUCH,MENU,,TYPES OF OUCH,TYPES OF OUCH,JDR,JD,R,BODY,true,1,1,Trained,Phrase,Abstract Sign,true,CODE_MATCH
 1005,JDRJ,I FEEL OUCH,FINAL,I feel ouch,,TYPES OF OUCH,JDRJ,JDR,J,TYPES OF OUCH,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1006,JDRE,SICK OUCH,FINAL,Sick ouch,,TYPES OF OUCH,JDRE,JDR,E,TYPES OF OUCH,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
-1007,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1007,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1008,JDRE,SICK OUCH,FINAL,Sick ouch,,TYPES OF OUCH,JDRE,JDR,E,TYPES OF OUCH,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
 1009,JDRE,SICK OUCH,FINAL,Sick ouch,,TYPES OF OUCH,JDRE,JDR,E,TYPES OF OUCH,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
 1010,JDRE,SICK OUCH,FINAL,Sick ouch,,TYPES OF OUCH,JDRE,JDR,E,TYPES OF OUCH,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
-1011,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1011,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1012,JDRJ,I FEEL OUCH,FINAL,I feel ouch,,TYPES OF OUCH,JDRJ,JDR,J,TYPES OF OUCH,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1013,JDRI,I WILL FEEL OUCH,FINAL,I will feel ouch,,TYPES OF OUCH,JDRI,JDR,I,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 1014,JDRI,I WILL FEEL OUCH,FINAL,I will feel ouch,,TYPES OF OUCH,JDRI,JDR,I,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
@@ -977,7 +957,6 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1072,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 1073,JD,BODY,MENU,,BODY,BODY,JD,J,D,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 1074,JDC,TUMMY,FINAL,Tummy,,BODY,JDC,JD,C,BODY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-1075,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
 1076,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1077,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1078,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
@@ -985,7 +964,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1080,JDLD,SICK OUCH ANTIBIOTICS,FINAL,Sick ouch antibiotics,,BODY,JDLD,JDL,D,MEDICINE,false,,1,Trained,Phrase,Photo,true,CODE_MATCH
 1081,JDLD,SICK OUCH ANTIBIOTICS,FINAL,Sick ouch antibiotics,,BODY,JDLD,JDL,D,MEDICINE,false,,1,Trained,Phrase,Photo,true,CODE_MATCH
 1082,JDLB,TREAT SYRINGE,FINAL,Treat syringe,,BODY,JDLB,JDL,B,MEDICINE,false,,1,Trained,Phrase,Photo,true,CODE_MATCH
-1083,JDLA,BACK,MENU,,BACK,BACK,JDLA,JDL,A,MEDICINE,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+1083,JDLA,BACK,MENU,,BACK,BACK,JDLA,JDL,A,MEDICINE,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 1084,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 1085,DH,LEAF WRESTLE,FINAL,Leaf wrestle,,TO PLAY,DH,D,H,TO PLAY,false,,1,Trained,Phrase,Photo,true,CODE_MATCH
 1086,DB,SNUGGLE,FINAL,Snuggle,,TO PLAY,DB,D,B,TO PLAY,false,,2,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -1024,7 +1003,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1121,ICO,ELLIE,FINAL,Ellie,,MOVEMENT,ICO,IC,O,MOVEMENT,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1122,ICB,RUN,FINAL,Run,,MOVEMENT,ICB,IC,B,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 1123,ICB,RUN,FINAL,Run,,MOVEMENT,ICB,IC,B,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-1124,ICA,BACK,MENU,,BACK,BACK,ICA,IC,A,MOVEMENT,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+1124,ICA,BACK,MENU,,BACK,BACK,ICA,IC,A,MOVEMENT,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 1125,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 1126,DB,SNUGGLE,FINAL,Snuggle,,TO PLAY,DB,D,B,TO PLAY,false,,2,Trained,Single Word,Drawing,true,CODE_MATCH
 1127,DG,TYPING,FINAL,Typing,,TO PLAY,DG,D,G,TO PLAY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
@@ -1073,11 +1052,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1178,HBC,YESTERDAY,FINAL,Yesterday,,MEMORY AND TIME,HBC,HB,C,TIME,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1179,HBC,YESTERDAY,FINAL,Yesterday,,MEMORY AND TIME,HBC,HB,C,TIME,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1180,HBR,BODY,FINAL,Body,,MEMORY AND TIME,HBR,HB,R,TIME,false,,2,Trained,Single Word,Drawing,true,CODE_MATCH
-1181,T2JDH,BACK,FINAL,Back,,MEMORY AND TIME,,,,,,,,,,,false,
 1182,JDI,I FEEL GOOD,FINAL,I feel good,,MEMORY AND TIME,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1183,JDI,I FEEL GOOD,FINAL,I feel good,,MEMORY AND TIME,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-1184,T2JDH,BACK,FINAL,Back,,MEMORY AND TIME,,,,,,,,,,,false,
-1185,T2JDH,BACK,FINAL,Back,,MEMORY AND TIME,,,,,,,,,,,false,
 1186,JDI,I FEEL GOOD,FINAL,I feel good,,MEMORY AND TIME,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1187,HBC,YESTERDAY,FINAL,Yesterday,,MEMORY AND TIME,HBC,HB,C,TIME,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1188,HBC,YESTERDAY,FINAL,Yesterday,,MEMORY AND TIME,HBC,HB,C,TIME,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -1134,18 +1110,17 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1242,JDE,WING,FINAL,Wing,,BODY,JDE,JD,E,BODY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 1243,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1244,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
-1245,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
 1246,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1247,AGB,YES,FINAL,Yes,,BODY,AGB,AG,B,YES AND NO,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1248,AGB,YES,FINAL,Yes,,BODY,AGB,AG,B,YES AND NO,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1249,AGA,BACK,MENU,,BACK,BACK,AGA,AG,A,YES AND NO,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+1249,AGA,BACK,MENU,,BACK,BACK,AGA,AG,A,YES AND NO,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 1250,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
 1251,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1252,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1253,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1253,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1254,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1255,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1256,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1256,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1257,CK,TASTE,FINAL,Taste,,EXPERIENCE,CK,C,K,EXPERIENCE,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 1258,CL,SMELL,FINAL,Smell,,EXPERIENCE,CL,C,L,EXPERIENCE,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 1259,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -1243,14 +1218,10 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1354,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 1355,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 1356,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-1357,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
 1358,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 1359,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-1360,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
 1361,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 1362,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
-1363,T2JDH,PAST,FINAL,Past,,BODY,,,,,,,,,,,false,
-1364,T2JDH,PAST,FINAL,Past,,BODY,,,,,,,,,,,false,
 1365,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 1366,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 1367,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
@@ -1319,7 +1290,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1430,JCEG,I FELT COOL,FINAL,I felt cool,,TEMPERATURE,JCEG,JCE,G,COOL,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 1431,JCEC,I WANT TO FEEL COOL,FINAL,I want to feel cool,,TEMPERATURE,JCEC,JCE,C,COOL,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1432,JCED,I WANT TO FEEL COOL,FINAL,I want to feel cool,,TEMPERATURE,JCED,JCE,D,COOL,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
-1433,JCEA,BACK,MENU,,BACK,BACK,JCEA,JCE,A,COOL,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+1433,JCEA,BACK,MENU,,BACK,BACK,JCEA,JCE,A,COOL,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 1434,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 1435,H,MEMORY AND TIME,MENU,,MEMORY AND TIME,MEMORY AND TIME,H,"",H,MAIN MENU,true,1,1,Untrained - Discovered,Phrase,Drawing,true,CODE_MATCH
 1436,HB,TIME,MENU,,TIME,TIME,HB,H,B,MEMORY AND TIME,true,1,1,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
@@ -1361,7 +1332,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1473,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1474,CK,TASTE,FINAL,Taste,,EXPERIENCE,CK,C,K,EXPERIENCE,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 1475,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1476,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1476,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1477,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1478,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1480,JDJ,OUCH,FINAL,Ouch,,EXPERIENCE,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
@@ -1410,9 +1381,6 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1529,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 1530,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 1531,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
-1532,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
-1533,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
-1534,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
 1535,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 1536,JE,FEELING,MENU,,FEELING,FEELING,JE,J,E,ABOUT ME,true,1,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1537,JEG,AFRAID,FINAL,Afraid,,FEELING,JEG,JE,G,FEELING,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
@@ -1488,13 +1456,9 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1612,DB,SNUGGLE,FINAL,Snuggle,,TO PLAY,DB,D,B,TO PLAY,false,,2,Trained,Single Word,Drawing,true,CODE_MATCH
 1613,JDJ,OUCH,FINAL,Ouch,,TO PLAY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 1614,JDI,I FEEL GOOD,FINAL,I feel good,,TO PLAY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-1615,T2JDH,BACK,FINAL,Back,,TO PLAY,,,,,,,,,,,false,
 1616,JDJ,OUCH,FINAL,Ouch,,TO PLAY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 1617,JDJ,OUCH,FINAL,Ouch,,TO PLAY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
-1618,T2JDH,BACK,FINAL,Back,,TO PLAY,,,,,,,,,,,false,
-1619,T2JDH,BACK,FINAL,Back,,TO PLAY,,,,,,,,,,,false,
 1620,JDI,I FEEL GOOD,FINAL,I feel good,,TO PLAY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-1621,T2JDH,BACK,FINAL,Back,,TO PLAY,,,,,,,,,,,false,
 1622,JDI,I FEEL GOOD,FINAL,I feel good,,TO PLAY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1624,ADCEB,SANTA,FINAL,Santa,,TO PLAY,ADCEB,ADCE,B,CHRISTMAS,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 1625,ADCEC,FROSTY,FINAL,Frosty,,TO PLAY,ADCEC,ADCE,C,CHRISTMAS,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -1531,7 +1495,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1657,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1658,JDR,TYPES OF OUCH,MENU,,TYPES OF OUCH,TYPES OF OUCH,JDR,JD,R,BODY,true,1,1,Trained,Phrase,Abstract Sign,true,CODE_MATCH
 1659,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
-1660,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1660,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1661,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 1662,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 1663,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
@@ -1607,10 +1571,10 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1734,JEDC,I WANT TO FEEL MAD,FINAL,I want to feel mad,,MAD,JEDC,JED,C,MAD,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1735,JEDC,I WANT TO FEEL MAD,FINAL,I want to feel mad,,MAD,JEDC,JED,C,MAD,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1736,JEDC,I WANT TO FEEL MAD,FINAL,I want to feel mad,,MAD,JEDC,JED,C,MAD,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-1737,JEDA,BACK,MENU,,BACK,BACK,JEDA,JED,A,MAD,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+1737,JEDA,BACK,MENU,,BACK,BACK,JEDA,JED,A,MAD,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 1738,E,TO SAY HELLO TO,MENU,,TO SAY HELLO TO,TO SAY HELLO TO,E,"",E,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
-1740,EB,MOM,FINAL,Mom,,TO SAY HELLO TO,EB,E,B,TO SAY HELLO TO,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1742,ED,CORI,FINAL,Cori,,TO SAY HELLO TO,ED,E,D,TO SAY HELLO TO,false,,2,Trained,Single Word,Photo,true,CODE_MATCH
+1740,EB,MOM,FINAL,Mom,,TO SAY HELLO TO,EB,E,B,TO SAY HELLO TO,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1742,ED,CORI,FINAL,Cori,,TO SAY HELLO TO,ED,E,D,TO SAY HELLO TO,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 1743,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 1744,JE,FEELING,MENU,,FEELING,FEELING,JE,J,E,ABOUT ME,true,1,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1745,JEG,AFRAID,FINAL,Afraid,,FEELING,JEG,JE,G,FEELING,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
@@ -1618,7 +1582,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1747,JEGC,I WANT TO FEEL AFRAID,FINAL,I want to feel afraid,,FEELING,JEGC,JEG,C,AFRAID,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1748,JEGB,I FEEL AFRAID,FINAL,I feel afraid,,FEELING,JEGB,JEG,B,AFRAID,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1749,JEGB,I FEEL AFRAID,FINAL,I feel afraid,,FEELING,JEGB,JEG,B,AFRAID,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-1750,JEGA,BACK,MENU,,BACK,BACK,JEGA,JEG,A,AFRAID,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+1750,JEGA,BACK,MENU,,BACK,BACK,JEGA,JEG,A,AFRAID,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 1751,H,MEMORY AND TIME,MENU,,MEMORY AND TIME,MEMORY AND TIME,H,"",H,MAIN MENU,true,1,1,Untrained - Discovered,Phrase,Drawing,true,CODE_MATCH
 1753,H,MEMORY AND TIME,MENU,,MEMORY AND TIME,MEMORY AND TIME,H,"",H,MAIN MENU,true,1,1,Untrained - Discovered,Phrase,Drawing,true,CODE_MATCH
 1754,HB,TIME,MENU,,TIME,TIME,HB,H,B,MEMORY AND TIME,true,1,1,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
@@ -1636,7 +1600,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1766,HBC,YESTERDAY,FINAL,Yesterday,,TIME,HBC,HB,C,TIME,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1767,HBC,YESTERDAY,FINAL,Yesterday,,TIME,HBC,HB,C,TIME,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1768,HBC,YESTERDAY,FINAL,Yesterday,,TIME,HBC,HB,C,TIME,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1769,HBA,BACK,MENU,,BACK,BACK,HBA,HB,A,TIME,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+1769,HBA,BACK,MENU,,BACK,BACK,HBA,HB,A,TIME,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 1770,HBD,TODAY,FINAL,Today,,BACK,HBD,HB,D,TIME,false,,13,Trained,Single Word,Drawing,true,CODE_MATCH
 1771,HBC,YESTERDAY,FINAL,Yesterday,,BACK,HBC,HB,C,TIME,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1772,HBE,TOMORROW,FINAL,Tomorrow,,BACK,HBE,HB,E,TIME,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -1750,9 +1714,6 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1881,JD,BODY,MENU,,BODY,BODY,JD,J,D,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 1882,JDC,TUMMY,FINAL,Tummy,,BODY,JDC,JD,C,BODY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 1883,JDB,HEAD,FINAL,Head,,BODY,JDB,JD,B,BODY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-1884,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
-1885,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
-1886,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
 1887,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1888,JDH,TODAY,FINAL,Today,,BODY,JDH,JD,H,BODY,false,,13,Generalized,Single Word,Drawing,true,CODE_MATCH
 1889,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
@@ -1786,7 +1747,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1918,B,PLACES,MENU,,PLACES,PLACES,B,"",B,MAIN MENU,true,1,1,Trained,Single Word,Photo,true,CODE_MATCH
 1919,BD,ISABELLE'S HOUSE,FINAL,Isabelle's house,,PLACES,BD,B,D,PLACES,false,,1,Trained,Phrase,Photo,true,CODE_MATCH
 1920,BC,OUTSIDE WALK,FINAL,Outside walk,,PLACES,BC,B,C,PLACES,false,,3,Trained - Repeated,Phrase,Photo,true,CODE_MATCH
-1921,BA,BACK,MENU,,BACK,BACK,BA,B,A,PLACES,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+1921,BA,BACK,MENU,,BACK,BACK,BA,B,A,PLACES,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 1922,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 1923,JC,TEMPERATURE,MENU,,TEMPERATURE,TEMPERATURE,JC,J,C,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 1924,JCB,HOT,MENU,,HOT,HOT,JCB,JC,B,TEMPERATURE,true,2,2,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -1809,13 +1770,12 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1941,JCDJ,WARM INSIDE,FINAL,Warm inside,,HOT,JCDJ,JCD,J,WARM,false,,2,Untrained - Discovered,Phrase,Abstract Sign,true,CODE_MATCH
 1942,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 1943,JD,BODY,MENU,,BODY,BODY,JD,J,D,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
-1944,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
 1945,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1946,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1947,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 1948,JDR,TYPES OF OUCH,MENU,,TYPES OF OUCH,TYPES OF OUCH,JDR,JD,R,BODY,true,1,1,Trained,Phrase,Abstract Sign,true,CODE_MATCH
 1949,JDRI,I WILL FEEL OUCH,FINAL,I will feel ouch,,TYPES OF OUCH,JDRI,JDR,I,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
-1950,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1950,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1951,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 1952,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 1953,JDRG,CANCER,FINAL,Cancer,,TYPES OF OUCH,JDRG,JDR,G,TYPES OF OUCH,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -1825,23 +1785,23 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1957,JDRG,CANCER,FINAL,Cancer,,TYPES OF OUCH,JDRG,JDR,G,TYPES OF OUCH,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 1958,JDRJ,I FEEL OUCH,FINAL,I feel ouch,,TYPES OF OUCH,JDRJ,JDR,J,TYPES OF OUCH,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 1959,JDRJ,I FEEL OUCH,FINAL,I feel ouch,,TYPES OF OUCH,JDRJ,JDR,J,TYPES OF OUCH,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-1960,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1961,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1960,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1961,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1962,JDRR,TILLIE,FINAL,Tillie,,TYPES OF OUCH,JDRR,JDR,R,TYPES OF OUCH,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1963,JDRR,TILLIE,FINAL,Tillie,,TYPES OF OUCH,JDRR,JDR,R,TYPES OF OUCH,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1964,JDRI,I WILL FEEL OUCH,FINAL,I will feel ouch,,TYPES OF OUCH,JDRI,JDR,I,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 1965,JDRP,ELLIE,FINAL,Ellie,,TYPES OF OUCH,JDRP,JDR,P,TYPES OF OUCH,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1966,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1967,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1966,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1967,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1968,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 1969,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 1970,JDRH,I FELT OUCH,FINAL,I felt ouch,,TYPES OF OUCH,JDRH,JDR,H,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
 1971,JDRI,I WILL FEEL OUCH,FINAL,I will feel ouch,,TYPES OF OUCH,JDRI,JDR,I,TYPES OF OUCH,false,,1,Generalized,Phrase,Abstract Sign,true,CODE_MATCH
-1972,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1972,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1973,JDRG,CANCER,FINAL,Cancer,,TYPES OF OUCH,JDRG,JDR,G,TYPES OF OUCH,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-1974,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1975,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1976,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1974,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1975,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1976,JDRO,MOM,FINAL,Mom,,TYPES OF OUCH,JDRO,JDR,O,TYPES OF OUCH,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1977,JDRP,ELLIE,FINAL,Ellie,,TYPES OF OUCH,JDRP,JDR,P,TYPES OF OUCH,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1979,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 1980,JE,FEELING,MENU,,FEELING,FEELING,JE,J,E,ABOUT ME,true,1,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -1906,29 +1866,29 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2041,AGB,YES,FINAL,Yes,,MEDICINE,AGB,AG,B,YES AND NO,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2042,AGB,YES,FINAL,Yes,,MEDICINE,AGB,AG,B,YES AND NO,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2043,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
-2044,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2044,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2045,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2046,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2047,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2048,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2049,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2048,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2049,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2050,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2051,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2051,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2052,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2053,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2053,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2054,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2055,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2056,CL,SMELL,FINAL,Smell,,EXPERIENCE,CL,C,L,EXPERIENCE,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 2057,CK,TASTE,FINAL,Taste,,EXPERIENCE,CK,C,K,EXPERIENCE,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 2058,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2059,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2060,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2060,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2061,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2062,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2062,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2063,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2064,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2065,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2066,CA,BACK,MENU,,BACK,BACK,CA,C,A,EXPERIENCE,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+2064,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2065,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2066,CA,BACK,MENU,,BACK,BACK,CA,C,A,EXPERIENCE,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2067,I,DESCRIPTIONS AND PREFERENCES,MENU,,DESCRIPTIONS AND PREFERENCES,DESCRIPTIONS AND PREFERENCES,I,"",I,MAIN MENU,true,1,1,Untrained - Discovered,Phrase,Drawing,true,CODE_MATCH
 2068,IB,OPPOSITES,MENU,,OPPOSITES,OPPOSITES,IB,I,B,DESCRIPTIONS AND PREFERENCES,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
 2069,IBC,HIGH UP,FINAL,High up,,OPPOSITES,IBC,IB,C,OPPOSITES,false,,3,Untrained - Discovered,Phrase,Drawing,true,CODE_MATCH
@@ -1964,7 +1924,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2099,AGB,YES,FINAL,Yes,,OPPOSITES,AGB,AG,B,YES AND NO,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2100,AGC,NO,FINAL,No,,OPPOSITES,AGC,AG,C,YES AND NO,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2101,AGB,YES,FINAL,Yes,,OPPOSITES,AGB,AG,B,YES AND NO,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2103,AGA,BACK,MENU,,BACK,BACK,AGA,AG,A,YES AND NO,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+2103,AGA,BACK,MENU,,BACK,BACK,AGA,AG,A,YES AND NO,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2104,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 2105,JC,TEMPERATURE,MENU,,TEMPERATURE,TEMPERATURE,JC,J,C,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2106,JCI,CLOUD,FINAL,Cloud,,TEMPERATURE,JCI,JC,I,TEMPERATURE,false,,1,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -1994,20 +1954,18 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2130,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2131,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2132,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2133,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2134,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2133,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2134,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2135,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2136,CA,BACK,MENU,,BACK,BACK,CA,C,A,EXPERIENCE,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+2136,CA,BACK,MENU,,BACK,BACK,CA,C,A,EXPERIENCE,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2137,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
 2138,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2139,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2140,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2140,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2141,CL,SMELL,FINAL,Smell,,EXPERIENCE,CL,C,L,EXPERIENCE,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-2142,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2142,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2143,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2144,DED,READING BOOK,MENU,,READING BOOK,READING BOOK,DED,DE,D,BOOK,true,1,1,Trained,Phrase,Photo,true,CODE_MATCH
-2145,T2DEG,HOLIDAYS,FINAL,Holidays,,READING BOOK,,,,,,,,,,,false,
-2146,T2DEGC,HALLOWEEN,FINAL,Halloween,,READING BOOK,,,,,,,,,,,false,
 2147,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 2148,JD,BODY,MENU,,BODY,BODY,JD,J,D,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 2149,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
@@ -2108,10 +2066,10 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2251,IDK,BROWN,FINAL,Brown,,DESCRIPTIONS AND PREFERENCES,IDK,ID,K,FIX PLEASE,false,,1,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2252,IDK,BROWN,FINAL,Brown,,DESCRIPTIONS AND PREFERENCES,IDK,ID,K,FIX PLEASE,false,,1,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2253,IDI,WHITE,FINAL,White,,DESCRIPTIONS AND PREFERENCES,IDI,ID,I,FIX PLEASE,false,,1,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
-2254,IDM,MOM,FINAL,Mom,,DESCRIPTIONS AND PREFERENCES,IDM,ID,M,FIX PLEASE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2255,IDM,MOM,FINAL,Mom,,DESCRIPTIONS AND PREFERENCES,IDM,ID,M,FIX PLEASE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2254,IDM,MOM,FINAL,Mom,,DESCRIPTIONS AND PREFERENCES,IDM,ID,M,FIX PLEASE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2255,IDM,MOM,FINAL,Mom,,DESCRIPTIONS AND PREFERENCES,IDM,ID,M,FIX PLEASE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2256,IDE,DOWN LOW,FINAL,Down low,,DESCRIPTIONS AND PREFERENCES,IDE,ID,E,FIX PLEASE,false,,4,Untrained - Discovered,Phrase,Drawing,true,CODE_MATCH
-2257,IDM,MOM,FINAL,Mom,,DESCRIPTIONS AND PREFERENCES,IDM,ID,M,FIX PLEASE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2257,IDM,MOM,FINAL,Mom,,DESCRIPTIONS AND PREFERENCES,IDM,ID,M,FIX PLEASE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2258,IDH,FIX,FINAL,Fix,,DESCRIPTIONS AND PREFERENCES,IDH,ID,H,FIX PLEASE,false,,4,Untrained - Discovered,Single Word,Drawing,true,CODE_MATCH
 2259,IDG,BROKEN,FINAL,Broken,,DESCRIPTIONS AND PREFERENCES,IDG,ID,G,FIX PLEASE,false,,5,Untrained - Discovered,Single Word,Drawing,true,CODE_MATCH
 2260,IDJ,BLUE,FINAL,Blue,,DESCRIPTIONS AND PREFERENCES,IDJ,ID,J,FIX PLEASE,false,,2,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
@@ -2176,27 +2134,27 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2319,IDB,INSIDE,FINAL,inside,,DESCRIPTIONS AND PREFERENCES,IDB,ID,B,FIX PLEASE,false,,2,Generalized,Single Word,Photo,true,CODE_MATCH
 2320,IDH,FIX,FINAL,Fix,,DESCRIPTIONS AND PREFERENCES,IDH,ID,H,FIX PLEASE,false,,4,Untrained - Discovered,Single Word,Drawing,true,CODE_MATCH
 2321,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
-2322,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2323,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2324,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2322,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2323,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2324,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2325,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2326,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2327,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2328,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2329,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2328,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2329,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2330,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2331,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2331,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2332,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2333,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2333,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2334,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2335,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2336,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2337,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2338,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2339,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2340,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2341,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2342,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2340,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2341,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2342,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2343,DB,SNUGGLE,FINAL,Snuggle,,EXPERIENCE,DB,D,B,TO PLAY,false,,2,Trained,Single Word,Drawing,true,CODE_MATCH
 2344,DC,TRACING AND WRITING,FINAL,Tracing and writing,,EXPERIENCE,DC,D,C,TO PLAY,true,1,1,Trained - Repeated,Phrase,Photo,true,CODE_MATCH
 2345,DG,TYPING,FINAL,Typing,,EXPERIENCE,DG,D,G,TO PLAY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
@@ -2237,7 +2195,6 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2381,JD,BODY,MENU,,BODY,BODY,JD,J,D,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 2382,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 2383,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-2384,T2JDH,BACK,FINAL,Back,,BODY,,,,,,,,,,,false,
 2385,JDJ,OUCH,FINAL,Ouch,,BODY,JDJ,JD,J,BODY,false,,1,Generalized,Single Word,Drawing,true,CODE_MATCH
 2386,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 2387,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
@@ -2293,7 +2250,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2438,AGC,NO,FINAL,No,,BODY,AGC,AG,C,YES AND NO,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2439,AGB,YES,FINAL,Yes,,BODY,AGB,AG,B,YES AND NO,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2440,AGB,YES,FINAL,Yes,,BODY,AGB,AG,B,YES AND NO,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2441,AGA,BACK,MENU,,BACK,BACK,AGA,AG,A,YES AND NO,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+2441,AGA,BACK,MENU,,BACK,BACK,AGA,AG,A,YES AND NO,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2442,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 2443,JC,TEMPERATURE,MENU,,TEMPERATURE,TEMPERATURE,JC,J,C,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2444,JCD,WARM,FINAL,Warm,,TEMPERATURE,JCD,JC,D,TEMPERATURE,true,2,2,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -2342,10 +2299,10 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2488,IER,NO LIKE,FINAL,No like,,FIX PLEASE,IER,IE,R,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2489,IEM,I HELP,FINAL,I help,,FIX PLEASE,IEM,IE,M,CLEAN,false,,1,Untrained - Discovered,Phrase,Abstract Sign,true,CODE_MATCH
 2490,IEP,TILLIE,FINAL,Tillie,,FIX PLEASE,IEP,IE,P,CLEAN,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2492,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2492,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2493,IEM,I HELP,FINAL,I help,,FIX PLEASE,IEM,IE,M,CLEAN,false,,1,Untrained - Discovered,Phrase,Abstract Sign,true,CODE_MATCH
-2494,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2495,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2494,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2495,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2496,IEM,I HELP,FINAL,I help,,FIX PLEASE,IEM,IE,M,CLEAN,false,,1,Untrained - Discovered,Phrase,Abstract Sign,true,CODE_MATCH
 2497,IEM,I HELP,FINAL,I help,,FIX PLEASE,IEM,IE,M,CLEAN,false,,1,Untrained - Discovered,Phrase,Abstract Sign,true,CODE_MATCH
 2498,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
@@ -2360,13 +2317,13 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2507,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2508,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2509,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
-2510,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2510,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2511,IEO,ISABELLE,FINAL,Isabelle,,FIX PLEASE,IEO,IE,O,CLEAN,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2512,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2513,IEI,LIKE,FINAL,Like,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2512,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2513,IEI,LIKE,FINAL,Like,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2514,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2515,IEQ,MOM,FINAL,Mom,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
-2516,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2516,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2517,IDH,FIX,FINAL,Fix,,FIX PLEASE,IDH,ID,H,FIX PLEASE,false,,4,Untrained - Discovered,Single Word,Drawing,true,CODE_MATCH
 2518,IEN,ELLIE,FINAL,Ellie,,FIX PLEASE,IEN,IE,N,CLEAN,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2519,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
@@ -2376,37 +2333,37 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2523,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2524,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2525,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
-2526,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2526,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2527,IEO,ISABELLE,FINAL,Isabelle,,FIX PLEASE,IEO,IE,O,CLEAN,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2528,IDH,FIX,FINAL,Fix,,FIX PLEASE,IDH,ID,H,FIX PLEASE,false,,4,Untrained - Discovered,Single Word,Drawing,true,CODE_MATCH
 2529,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2530,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
-2531,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2531,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2532,IDH,FIX,FINAL,Fix,,FIX PLEASE,IDH,ID,H,FIX PLEASE,false,,4,Untrained - Discovered,Single Word,Drawing,true,CODE_MATCH
 2533,IEM,I HELP,FINAL,I help,,FIX PLEASE,IEM,IE,M,CLEAN,false,,1,Untrained - Discovered,Phrase,Abstract Sign,true,CODE_MATCH
-2534,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2534,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2535,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2536,IEJ,FAST,FINAL,Fast,,FIX PLEASE,IEJ,IE,J,CLEAN,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
-2537,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2537,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2538,IDH,FIX,FINAL,Fix,,FIX PLEASE,IDH,ID,H,FIX PLEASE,false,,4,Untrained - Discovered,Single Word,Drawing,true,CODE_MATCH
 2539,IEK,SLOW,FINAL,Slow,,FIX PLEASE,IEK,IE,K,CLEAN,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2540,IEJ,FAST,FINAL,Fast,,FIX PLEASE,IEJ,IE,J,CLEAN,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
-2541,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2541,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2542,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2543,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2544,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2545,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2546,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
-2547,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2548,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2547,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2548,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2549,IDH,FIX,FINAL,Fix,,FIX PLEASE,IDH,ID,H,FIX PLEASE,false,,4,Untrained - Discovered,Single Word,Drawing,true,CODE_MATCH
 2550,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2551,IEK,SLOW,FINAL,Slow,,FIX PLEASE,IEK,IE,K,CLEAN,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2552,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2553,IEK,SLOW,FINAL,Slow,,FIX PLEASE,IEK,IE,K,CLEAN,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2554,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
-2555,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2556,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2555,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2556,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2557,IDH,FIX,FINAL,Fix,,FIX PLEASE,IDH,ID,H,FIX PLEASE,false,,4,Untrained - Discovered,Single Word,Drawing,true,CODE_MATCH
 2558,IEM,I HELP,FINAL,I help,,FIX PLEASE,IEM,IE,M,CLEAN,false,,1,Untrained - Discovered,Phrase,Abstract Sign,true,CODE_MATCH
 2559,IEN,ELLIE,FINAL,Ellie,,FIX PLEASE,IEN,IE,N,CLEAN,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -2415,13 +2372,13 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2562,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2563,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2564,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
-2565,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2565,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2566,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2567,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2568,IEK,SLOW,FINAL,Slow,,FIX PLEASE,IEK,IE,K,CLEAN,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2569,IEJ,FAST,FINAL,Fast,,FIX PLEASE,IEJ,IE,J,CLEAN,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
-2570,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2571,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2570,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2571,IEI,MOM,FINAL,Mom,,FIX PLEASE,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2572,IEP,TILLIE,FINAL,Tillie,,FIX PLEASE,IEP,IE,P,CLEAN,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2573,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2574,IEQ,LIKE,FINAL,Like,,FIX PLEASE,IEQ,IE,Q,CLEAN,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
@@ -2459,8 +2416,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2606,IDQ,LIKE,FINAL,Like,,FIX PLEASE,IDQ,ID,Q,FIX PLEASE,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2607,IDK,BROWN,FINAL,Brown,,FIX PLEASE,IDK,ID,K,FIX PLEASE,false,,1,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2608,IDK,BROWN,FINAL,Brown,,FIX PLEASE,IDK,ID,K,FIX PLEASE,false,,1,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
-2609,IDM,MOM,FINAL,Mom,,FIX PLEASE,IDM,ID,M,FIX PLEASE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2610,IDM,MOM,FINAL,Mom,,FIX PLEASE,IDM,ID,M,FIX PLEASE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2609,IDM,MOM,FINAL,Mom,,FIX PLEASE,IDM,ID,M,FIX PLEASE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2610,IDM,MOM,FINAL,Mom,,FIX PLEASE,IDM,ID,M,FIX PLEASE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2611,IDG,BROKEN,FINAL,Broken,,FIX PLEASE,IDG,ID,G,FIX PLEASE,false,,5,Untrained - Discovered,Single Word,Drawing,true,CODE_MATCH
 2612,IGM,MOM,FINAL,Mom,,FIX PLEASE,IGM,IG,M,QUESTIONS,false,,2,Generalized,Single Word,Photo,true,CODE_MATCH
 2613,IDI,WHITE,FINAL,White,,FIX PLEASE,IDI,ID,I,FIX PLEASE,false,,1,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
@@ -2477,7 +2434,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2627,ID,FIX PLEASE,MENU,,FIX PLEASE,FIX PLEASE,ID,I,D,DESCRIPTIONS AND PREFERENCES,true,1,1,Untrained - Discovered,Phrase,Abstract Sign,true,CODE_MATCH
 2628,IDJ,BLUE,FINAL,Blue,,FIX PLEASE,IDJ,ID,J,FIX PLEASE,false,,2,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2629,IDJ,BLUE,FINAL,Blue,,FIX PLEASE,IDJ,ID,J,FIX PLEASE,false,,2,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
-2630,IDM,MOM,FINAL,Mom,,FIX PLEASE,IDM,ID,M,FIX PLEASE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2630,IDM,MOM,FINAL,Mom,,FIX PLEASE,IDM,ID,M,FIX PLEASE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2631,IDN,ELLIE,FINAL,Ellie,,FIX PLEASE,IDN,ID,N,FIX PLEASE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2632,IDH,FIX,FINAL,Fix,,FIX PLEASE,IDH,ID,H,FIX PLEASE,false,,4,Untrained - Discovered,Single Word,Drawing,true,CODE_MATCH
 2633,IDJ,BLUE,FINAL,Blue,,FIX PLEASE,IDJ,ID,J,FIX PLEASE,false,,2,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
@@ -2486,8 +2443,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2636,IDJ,BLUE,FINAL,Blue,,FIX PLEASE,IDJ,ID,J,FIX PLEASE,false,,2,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2637,IDQ,LIKE,FINAL,Like,,FIX PLEASE,IDQ,ID,Q,FIX PLEASE,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2638,IDQ,LIKE,FINAL,Like,,FIX PLEASE,IDQ,ID,Q,FIX PLEASE,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
-2639,IDM,MOM,FINAL,Mom,,FIX PLEASE,IDM,ID,M,FIX PLEASE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2640,IDM,MOM,FINAL,Mom,,FIX PLEASE,IDM,ID,M,FIX PLEASE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2639,IDM,MOM,FINAL,Mom,,FIX PLEASE,IDM,ID,M,FIX PLEASE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2640,IDM,MOM,FINAL,Mom,,FIX PLEASE,IDM,ID,M,FIX PLEASE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2641,IDN,ELLIE,FINAL,Ellie,,FIX PLEASE,IDN,ID,N,FIX PLEASE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2642,IDQ,LIKE,FINAL,Like,,FIX PLEASE,IDQ,ID,Q,FIX PLEASE,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2644,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
@@ -2764,11 +2721,11 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2946,ICK,LIKE,FINAL,Like,,MOVEMENT,ICK,IC,K,MOVEMENT,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2947,ICL,NO LIKE,FINAL,No like,,MOVEMENT,ICL,IC,L,MOVEMENT,false,,31,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 2948,ICL,NO LIKE,FINAL,No like,,MOVEMENT,ICL,IC,L,MOVEMENT,false,,31,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
-2949,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2949,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2950,ICJ,SLOW,FINAL,Slow,,MOVEMENT,ICJ,IC,J,MOVEMENT,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2951,ICI,FAST,FINAL,Fast,,MOVEMENT,ICI,IC,I,MOVEMENT,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2952,ICE,SWIM,FINAL,Swim,,MOVEMENT,ICE,IC,E,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-2953,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2953,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2954,ICB,RUN,FINAL,Run,,MOVEMENT,ICB,IC,B,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 2955,ICJ,SLOW,FINAL,Slow,,MOVEMENT,ICJ,IC,J,MOVEMENT,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2956,ICK,LIKE,FINAL,Like,,MOVEMENT,ICK,IC,K,MOVEMENT,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
@@ -2779,7 +2736,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2961,ICD,JUMP,FINAL,Jump,,MOVEMENT,ICD,IC,D,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 2962,ICJ,SLOW,FINAL,Slow,,MOVEMENT,ICJ,IC,J,MOVEMENT,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2963,ICJ,SLOW,FINAL,Slow,,MOVEMENT,ICJ,IC,J,MOVEMENT,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
-2964,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2964,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2965,ICB,RUN,FINAL,Run,,MOVEMENT,ICB,IC,B,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 2966,ICK,LIKE,FINAL,Like,,MOVEMENT,ICK,IC,K,MOVEMENT,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 2967,ICK,LIKE,FINAL,Like,,MOVEMENT,ICK,IC,K,MOVEMENT,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
@@ -2791,8 +2748,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2973,ICE,SWIM,FINAL,Swim,,MOVEMENT,ICE,IC,E,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 2974,ICE,SWIM,FINAL,Swim,,MOVEMENT,ICE,IC,E,MOVEMENT,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 2975,ICN,TILLIE,FINAL,Tillie,,MOVEMENT,ICN,IC,N,MOVEMENT,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2976,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2977,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2976,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2977,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2978,F,ENTERTAINMENT,MENU,,ENTERTAINMENT,ENTERTAINMENT,F,"",F,MAIN MENU,true,1,1,Trained,Single Word,Photo,true,CODE_MATCH
 2979,FD,ALEXA,MENU,,ALEXA,ALEXA,FD,F,D,ENTERTAINMENT,true,1,1,Trained,Single Word,Photo,true,CODE_MATCH
 2982,FDE,ALEXA PLAY VIVALDI ON PANDORA,FINAL,Alexa play Vivaldi on Pandora,,ALEXA,FDE,FD,E,ALEXA,false,,1,Generalized,Phrase,Photo,true,CODE_MATCH
@@ -2851,8 +2808,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3039,E,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,E,"",E,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 3040,EG,CAR RIDE,FINAL,Car ride,,SAY HELLO TO,EG,E,G,TO SAY HELLO TO,false,,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 3041,EG,CAR RIDE,FINAL,Car ride,,SAY HELLO TO,EG,E,G,TO SAY HELLO TO,false,,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
-3042,ED,CORI,FINAL,Cori,,SAY HELLO TO,ED,E,D,TO SAY HELLO TO,false,,2,Trained,Single Word,Photo,true,CODE_MATCH
-3043,ED,CORI,FINAL,Cori,,SAY HELLO TO,ED,E,D,TO SAY HELLO TO,false,,2,Trained,Single Word,Photo,true,CODE_MATCH
+3042,ED,CORI,FINAL,Cori,,SAY HELLO TO,ED,E,D,TO SAY HELLO TO,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
+3043,ED,CORI,FINAL,Cori,,SAY HELLO TO,ED,E,D,TO SAY HELLO TO,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 3044,EF,SIERRA,FINAL,Sierra,,SAY HELLO TO,EF,E,F,TO SAY HELLO TO,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 3047,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 3048,BJ,GOLF CART RIDE,FINAL,Golf cart ride,,ABOUT ME,BJ,B,J,PLACES,false,,3,Trained - Repeated,Phrase,Photo,true,CODE_MATCH
@@ -2879,9 +2836,9 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3070,ADCEK,GAME,FINAL,Game,,FEELING,ADCEK,ADCE,K,CHRISTMAS,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3071,ADCEK,GAME,FINAL,Game,,FEELING,ADCEK,ADCE,K,CHRISTMAS,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3072,ADCEI,CRAFT,FINAL,Craft,,FEELING,ADCEI,ADCE,I,CHRISTMAS,false,,7,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
-3074,DIH,COLORING,FINAL,Coloring,,FEELING,DIH,DI,H,TABLET GAMES,false,,2,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3074,DIH,COLORING,FINAL,Coloring,,FEELING,DIH,DI,H,TABLET GAMES,false,,1,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3075,DIJ,BABY UNICORN,FINAL,Baby Unicorn,,FEELING,DIJ,DI,J,TABLET GAMES,false,,1,Trained,Phrase,Photo,true,CODE_MATCH
-3076,DIH,COLORING,FINAL,Coloring,,FEELING,DIH,DI,H,TABLET GAMES,false,,2,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3076,DIH,COLORING,FINAL,Coloring,,FEELING,DIH,DI,H,TABLET GAMES,false,,1,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3077,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 3078,JC,TEMPERATURE,MENU,,TEMPERATURE,TEMPERATURE,JC,J,C,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 3079,JCE,COOL,MENU,,COOL,COOL,JCE,JC,E,TEMPERATURE,true,1,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -3011,20 +2968,20 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3209,DG,TYPING,MENU,,TYPING,TYPING,DG,D,G,TO PLAY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 3220,I,DESCRIPTIONS AND PREFERENCES,MENU,,DESCRIPTIONS AND PREFERENCES,DESCRIPTIONS AND PREFERENCES,I,"",I,MAIN MENU,true,1,1,Untrained - Discovered,Phrase,Drawing,true,CODE_MATCH
 3221,IE,CLEAN,MENU,,CLEAN,CLEAN,IE,I,E,DESCRIPTIONS AND PREFERENCES,true,1,1,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
-3222,IEI,MOM,FINAL,Mom,,CLEAN,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-3223,IEI,MOM,FINAL,Mom,,CLEAN,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3222,IEI,MOM,FINAL,Mom,,CLEAN,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3223,IEI,MOM,FINAL,Mom,,CLEAN,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3224,IEN,ELLIE,FINAL,Ellie,,CLEAN,IEN,IE,N,CLEAN,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-3225,IEI,MOM,FINAL,Mom,,CLEAN,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3225,IEI,MOM,FINAL,Mom,,CLEAN,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3226,IEN,ELLIE,FINAL,Ellie,,CLEAN,IEN,IE,N,CLEAN,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3227,IEM,I HELP,FINAL,I help,,CLEAN,IEM,IE,M,CLEAN,false,,1,Untrained - Discovered,Phrase,Abstract Sign,true,CODE_MATCH
-3228,IEI,MOM,FINAL,Mom,,CLEAN,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-3229,IEI,MOM,FINAL,Mom,,CLEAN,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-3230,IEI,MOM,FINAL,Mom,,CLEAN,IEI,IE,I,CLEAN,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3228,IEI,MOM,FINAL,Mom,,CLEAN,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3229,IEI,MOM,FINAL,Mom,,CLEAN,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3230,IEI,MOM,FINAL,Mom,,CLEAN,IEI,IE,I,CLEAN,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3234,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 3235,JE,FEELING,MENU,,FEELING,FEELING,JE,J,E,ABOUT ME,true,1,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 3236,JEB,HAPPY,MENU,,HAPPY,HAPPY,JEB,JE,B,FEELING,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 3237,JEBC,I FEEL HAPPY,FINAL,I feel happy,,HAPPY,JEBC,JEB,C,HAPPY,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
-3238,JEBA,BACK,MENU,,BACK,BACK,JEBA,JEB,A,HAPPY,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+3238,JEBA,BACK,MENU,,BACK,BACK,JEBA,JEB,A,HAPPY,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 3239,JEK,NO LIKE,FINAL,No like,,BACK,JEK,JE,K,FEELING,false,,31,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 3241,E,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,E,"",E,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 3242,EI,OUTSIDE WALK,FINAL,Outside walk,,SAY HELLO TO,EI,E,I,TO SAY HELLO TO,false,,3,Trained - Repeated,Phrase,Photo,true,CODE_MATCH
@@ -3082,14 +3039,14 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3300,JDLC,OUTSIDE OUCH MEDICINE,FINAL,Outside ouch medicine,,BODY,JDLC,JDL,C,MEDICINE,false,,1,Trained,Phrase,Photo,true,CODE_MATCH
 3301,JDLC,OUTSIDE OUCH MEDICINE,FINAL,Outside ouch medicine,,BODY,JDLC,JDL,C,MEDICINE,false,,1,Trained,Phrase,Photo,true,CODE_MATCH
 3302,JDLC,OUTSIDE OUCH MEDICINE,FINAL,Outside ouch medicine,,BODY,JDLC,JDL,C,MEDICINE,false,,1,Trained,Phrase,Photo,true,CODE_MATCH
-3303,JDLA,BACK,MENU,,BACK,BACK,JDLA,JDL,A,MEDICINE,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+3303,JDLA,BACK,MENU,,BACK,BACK,JDLA,JDL,A,MEDICINE,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 3304,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,1,1,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 3305,ABC,ANIMALS,MENU,,ANIMALS,ANIMALS,ABC,AB,C,ANIMALS,true,1,1,Trained - Repeated,Phrase,Drawing,true,CODE_MATCH
 3306,ABC,UNDERWATER ANIMALS,MENU,,UNDERWATER ANIMALS,UNDERWATER ANIMALS,ABC,AB,C,ANIMALS,true,1,1,Trained - Repeated,Phrase,Drawing,true,CODE_MATCH
 3307,ABCG,DOLPHIN,FINAL,Dolphin,,UNDERWATER ANIMALS,ABCG,ABC,G,UNDERWATER ANIMALS,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 3308,ABCH,CRAB,FINAL,Crab,,UNDERWATER ANIMALS,ABCH,ABC,H,UNDERWATER ANIMALS,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 3309,ABCB,FISH,FINAL,Fish,,UNDERWATER ANIMALS,ABCB,ABC,B,UNDERWATER ANIMALS,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-3310,ABCA,BACK,MENU,,BACK,BACK,ABCA,ABC,A,UNDERWATER ANIMALS,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+3310,ABCA,BACK,MENU,,BACK,BACK,ABCA,ABC,A,UNDERWATER ANIMALS,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 3311,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 3312,JE,FEELING,MENU,,FEELING,FEELING,JE,J,E,ABOUT ME,true,1,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 3313,JEG,AFRAID,FINAL,Afraid,,FEELING,JEG,JE,G,FEELING,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
@@ -3195,7 +3152,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3415,DB,SNUGGLE,FINAL,Snuggle,,TO PLAY,DB,D,B,TO PLAY,false,,2,Trained,Single Word,Drawing,true,CODE_MATCH
 3416,DB,SNUGGLE,FINAL,Snuggle,,TO PLAY,DB,D,B,TO PLAY,false,,2,Trained,Single Word,Drawing,true,CODE_MATCH
 3417,DG,TYPING,MENU,,TYPING,TYPING,DG,D,G,TO PLAY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-3419,DGA,BACK,MENU,,BACK,BACK,,,,,,,,,,,false,
+3419,DCA,BACK,MENU,,BACK,BACK,DCA,DC,A,TRACING AND WRITING,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 3420,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 3421,JD,BODY,MENU,,BODY,BODY,JD,J,D,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 3422,JDB,HEAD,FINAL,Head,,BODY,JDB,JD,B,BODY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
@@ -3276,7 +3233,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3497,AGH,LIKE,FINAL,Like,,OPPOSITES,AGH,AG,H,YES AND NO,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 3498,AGB,YES,FINAL,Yes,,OPPOSITES,AGB,AG,B,YES AND NO,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 3499,AGB,YES,FINAL,Yes,,OPPOSITES,AGB,AG,B,YES AND NO,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-3500,AGA,BACK,MENU,,BACK,BACK,AGA,AG,A,YES AND NO,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+3500,AGA,BACK,MENU,,BACK,BACK,AGA,AG,A,YES AND NO,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 3501,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 3502,JD,BODY,MENU,,BODY,BODY,JD,J,D,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 3503,JDI,I FEEL GOOD,FINAL,I feel good,,BODY,JDI,JD,I,BODY,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
@@ -3293,11 +3250,11 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3514,AGB,YES,FINAL,Yes,,BODY,AGB,AG,B,YES AND NO,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 3515,ID,FIX PLEASE,MENU,,FIX PLEASE,FIX PLEASE,ID,I,D,DESCRIPTIONS AND PREFERENCES,true,1,1,Untrained - Discovered,Phrase,Abstract Sign,true,CODE_MATCH
 3516,IDI,WHITE,FINAL,White,,FIX PLEASE,IDI,ID,I,FIX PLEASE,false,,1,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
-3517,IDM,MOM,FINAL,mom,,FIX PLEASE,IDM,ID,M,FIX PLEASE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3517,IDM,MOM,FINAL,mom,,FIX PLEASE,IDM,ID,M,FIX PLEASE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3518,IDG,BROKEN,FINAL,Broken,,FIX PLEASE,IDG,ID,G,FIX PLEASE,false,,5,Untrained - Discovered,Single Word,Drawing,true,CODE_MATCH
 3519,IDI,WHITE,FINAL,White,,FIX PLEASE,IDI,ID,I,FIX PLEASE,false,,1,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 3520,IDH,FIX,FINAL,Fix,,FIX PLEASE,IDH,ID,H,FIX PLEASE,false,,4,Untrained - Discovered,Single Word,Drawing,true,CODE_MATCH
-3521,IDM,MOM,FINAL,Mom,,FIX PLEASE,IDM,ID,M,FIX PLEASE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3521,IDM,MOM,FINAL,Mom,,FIX PLEASE,IDM,ID,M,FIX PLEASE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3522,IDP,ISABELLE,FINAL,Isabelle,,FIX PLEASE,IDP,ID,P,FIX PLEASE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3523,IDI,WHITE,FINAL,White,,FIX PLEASE,IDI,ID,I,FIX PLEASE,false,,1,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 3524,IDH,FIX,FINAL,Fix,,FIX PLEASE,IDH,ID,H,FIX PLEASE,false,,4,Untrained - Discovered,Single Word,Drawing,true,CODE_MATCH
@@ -3344,7 +3301,6 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3565,HBC,YESTERDAY,FINAL,Yesterday,,TIME,HBC,HB,C,TIME,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 3566,HBO,HAPPY,FINAL,Happy,,TIME,HBO,HB,O,TIME,false,,3,Trained,Single Word,Drawing,true,CODE_MATCH
 3567,HBO,HAPPY,FINAL,Happy,,TIME,HBO,HB,O,TIME,false,,3,Trained,Single Word,Drawing,true,CODE_MATCH
-3568,Z,BACK,MENU,,BACK,BACK,,,,,,,,,,,false,
 3569,HB,TIME,MENU,,TIME,TIME,HB,H,B,MEMORY AND TIME,true,1,1,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 3570,HBC,YESTERDAY,FINAL,Yesterday,,TIME,HBC,HB,C,TIME,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 3571,HBD,TODAY,FINAL,Today,,TIME,HBD,HB,D,TIME,false,,13,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -3386,7 +3342,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3609,JECD,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,EXCITED,JECD,JEC,D,EXCITED,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 3610,JECD,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,EXCITED,JECD,JEC,D,EXCITED,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
 3611,JECD,I WANT TO FEEL EXCITED,FINAL,I want to feel excited,,EXCITED,JECD,JEC,D,EXCITED,false,,1,Generalized,Phrase,Drawing,true,CODE_MATCH
-3612,JECA,BACK,MENU,,BACK,BACK,JECA,JEC,A,EXCITED,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+3612,JECA,BACK,MENU,,BACK,BACK,JECA,JEC,A,EXCITED,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 3613,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,1,1,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 3614,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 3615,JE,FEELING,MENU,,FEELING,FEELING,JE,J,E,ABOUT ME,true,1,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -3413,13 +3369,13 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3636,JEBD,I WANT TO FEEL HAPPY,FINAL,I want to feel happy,,HAPPY,JEBD,JEB,D,HAPPY,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
 3637,JEBC,I FEEL HAPPY,FINAL,I feel happy,,HAPPY,JEBC,JEB,C,HAPPY,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
 3638,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
-3639,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3639,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3640,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 3641,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3642,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3643,CK,TASTE,FINAL,Taste,,EXPERIENCE,CK,C,K,EXPERIENCE,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-3645,IA,DESCRIPTIONS AND PREFERENCES,MENU,,DESCRIPTIONS AND PREFERENCES,DESCRIPTIONS AND PREFERENCES,IA,I,A,DESCRIPTIONS AND PREFERENCES,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
-3646,IA,BACK,MENU,,BACK,BACK,IA,I,A,DESCRIPTIONS AND PREFERENCES,false,,84,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+3645,IA,DESCRIPTIONS AND PREFERENCES,MENU,,DESCRIPTIONS AND PREFERENCES,DESCRIPTIONS AND PREFERENCES,IA,I,A,DESCRIPTIONS AND PREFERENCES,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
+3646,IA,BACK,MENU,,BACK,BACK,IA,I,A,DESCRIPTIONS AND PREFERENCES,false,,81,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 3647,J,ABOUT ME,MENU,,ABOUT ME,ABOUT ME,J,"",J,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
 3648,JC,TEMPERATURE,MENU,,TEMPERATURE,TEMPERATURE,JC,J,C,ABOUT ME,true,1,1,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 3649,JCH,WIND,FINAL,Wind,,TEMPERATURE,JCH,JC,H,TEMPERATURE,false,,2,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -3435,7 +3391,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3659,JDL,MEDICINE,MENU,,MEDICINE,MEDICINE,JDL,JD,L,BODY,true,1,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 3663,I,DESCRIPTIONS AND PREFERENCES,MENU,,DESCRIPTIONS AND PREFERENCES,DESCRIPTIONS AND PREFERENCES,I,"",I,MAIN MENU,true,1,1,Untrained - Discovered,Phrase,Drawing,true,CODE_MATCH
 3664,IC,MOVEMENT,MENU,,MOVEMENT,MOVEMENT,IC,I,C,DESCRIPTIONS AND PREFERENCES,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
-3665,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3665,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3666,ICO,ELLIE,FINAL,Ellie,,MOVEMENT,ICO,IC,O,MOVEMENT,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3667,ICJ,SLOW,FINAL,Slow,,MOVEMENT,ICJ,IC,J,MOVEMENT,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 3668,ICP,ISABELLE,FINAL,Isabelle,,MOVEMENT,ICP,IC,P,MOVEMENT,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -3514,7 +3470,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3747,ICI,FAST,FINAL,Fast,,MOVEMENT,ICI,IC,I,MOVEMENT,false,,3,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 3748,ICO,ELLIE,FINAL,Ellie,,MOVEMENT,ICO,IC,O,MOVEMENT,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3749,ICN,TILLIE,FINAL,Tillie,,MOVEMENT,ICN,IC,N,MOVEMENT,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-3750,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,13,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3750,ICM,MOM,FINAL,Mom,,MOVEMENT,ICM,IC,M,MOVEMENT,false,,12,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3751,ICK,LIKE,FINAL,Like,,MOVEMENT,ICK,IC,K,MOVEMENT,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 3752,ICK,LIKE,FINAL,Like,,MOVEMENT,ICK,IC,K,MOVEMENT,false,,31,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 3753,ICO,ELLIE,FINAL,Ellie,,MOVEMENT,ICO,IC,O,MOVEMENT,false,,10,Trained - Repeated,Single Word,Photo,true,CODE_MATCH

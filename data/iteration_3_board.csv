@@ -1,1051 +1,911 @@
-Line Number,Location path code,L1,L2,L3,L4,L5,Training/ Spontaneous,Utterance: Single word or phrase,Type of Sign,Category
-1,A,A        Talk about,,,,,Trained - Repeated,Phrase,Abstract Sign,
-2,AA,A        Talk about,AA   Back,,,,Trained - Repeated,Single Word,Abstract Sign,
-3,AB,A        Talk about,AB   Animals,,,,Trained - Repeated,Single Word,Drawing,
-4,ABA,A        Talk about,AB   Animals,ABA Back,,,Trained - Repeated,Single Word,Abstract Sign,
+Line Number,Location path code,L1,L2,L3,L4,L5,Category,Utterance: Single word or phrase,Type of Sign,Training/ Spontaneous
+1,A,A        Talk about,,,,,Navigation,Phrase,Abstract Sign,Trained - Repeated
+2,AA,A        Talk about,AA   Back,,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+3,AB,A        Talk about,AB   Animals,,,,Navigation,Single Word,Drawing,Trained - Repeated
+4,ABA,A        Talk about,AB   Animals,ABA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
 5,ABB,A        Talk about,AB   Animals,ABB,,,,,,
-6,ABC,A        Talk about,AB   Animals,ABC Underwater Animals,,,Trained - Repeated,Phrase,Drawing,
-7,ABCA,A        Talk about,AB   Animals,ABC Underwater Animals,ABCA Back,,Trained - Repeated,Single Word,Abstract Sign,
-8,ABCB,A        Talk about,AB   Animals,ABC Underwater Animals,ABCB Fish,,Trained,Single Word,Drawing,
+6,ABC,A        Talk about,AB   Animals,ABC Underwater Animals,,,Navigation,Phrase,Drawing,Trained - Repeated
+7,ABCA,A        Talk about,AB   Animals,ABC Underwater Animals,ABCA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+8,ABCB,A        Talk about,AB   Animals,ABC Underwater Animals,ABCB Fish,,Socio-Cognitive,Single Word,Drawing,Trained
 9,ABCC,A        Talk about,AB   Animals,ABC Underwater Animals,ABCC ,,,,,
-10,ABCD,A        Talk about,AB   Animals,ABC Underwater Animals,ABCD Turtle,,Trained,Single Word,Drawing,
-11,ABCE,A        Talk about,AB   Animals,ABC Underwater Animals,ABCE Octopus,,Trained,Single Word,Photo,
-12,ABCF,A        Talk about,AB   Animals,ABC Underwater Animals,ABCF Seahorse,,Trained,Single Word,Photo,
-13,ABCG,A        Talk about,AB   Animals,ABC Underwater Animals,ABCG Dolphin,,Trained,Single Word,Photo,
-14,ABCH,A        Talk about,AB   Animals,ABC Underwater Animals,ABCH Crab,,Trained,Single Word,Drawing,
-15,ABCI,A        Talk about,AB   Animals,ABC Underwater Animals,ABCI Book,,Trained - Repeated,Single Word,Drawing,
-16,ABCJ,A        Talk about,AB   Animals,ABC Underwater Animals,ABCJ Look at art,,Trained - Repeated,Phrase,Drawing,
-17,ABCK,A        Talk about,AB   Animals,ABC Underwater Animals,ABCK Talk about,,Trained - Repeated,Phrase,Abstract Sign,
-18,ABCL,A        Talk about,AB   Animals,ABC Underwater Animals,ABCL Game,,Trained - Repeated,Single Word,Photo,
-19,ABCM,A        Talk about,AB   Animals,ABC Underwater Animals,ABCM Past,,Trained - Repeated,Single Word,Abstract Sign,
-20,ABCN,A        Talk about,AB   Animals,ABC Underwater Animals,ABCN Today,,Trained - Repeated,Single Word,Drawing,
-21,ABCO,A        Talk about,AB   Animals,ABC Underwater Animals,ABCO Future,,Trained - Repeated,Single Word,Abstract Sign,
-22,ABCP,A        Talk about,AB   Animals,ABC Underwater Animals,ABCP Like,,Trained - Repeated,Single Word,Abstract Sign,
-23,ABCQ,A        Talk about,AB   Animals,ABC Underwater Animals,ABCQ No like,,Trained - Repeated,Phrase,Abstract Sign,
-24,ABCR,A        Talk about,AB   Animals,ABC Underwater Animals,ABCR Want,,Trained - Repeated,Single Word,Drawing,
-25,ABD,A        Talk about,AB   Animals,ABD Baby Animals,,,Trained - Repeated,Phrase,Photo,
-26,ABDA,A        Talk about,AB   Animals,ABD Baby Animals,ABDA Back,,Trained - Repeated,Single Word,Abstract Sign,
-27,ABDB,A        Talk about,AB   Animals,ABD Baby Animals,ABDB Chick,,Trained,Single Word,Photo,
-28,ABDC,A        Talk about,AB   Animals,ABD Baby Animals,ABDC Lamb,,Trained,Single Word,Photo,
+10,ABCD,A        Talk about,AB   Animals,ABC Underwater Animals,ABCD Turtle,,Socio-Cognitive,Single Word,Drawing,Trained
+11,ABCE,A        Talk about,AB   Animals,ABC Underwater Animals,ABCE Octopus,,Socio-Cognitive,Single Word,Photo,Trained
+12,ABCF,A        Talk about,AB   Animals,ABC Underwater Animals,ABCF Seahorse,,Socio-Cognitive,Single Word,Photo,Trained
+13,ABCG,A        Talk about,AB   Animals,ABC Underwater Animals,ABCG Dolphin,,Socio-Cognitive,Single Word,Photo,Trained
+14,ABCH,A        Talk about,AB   Animals,ABC Underwater Animals,ABCH Crab,,Socio-Cognitive,Single Word,Drawing,Trained
+15,ABCI,A        Talk about,AB   Animals,ABC Underwater Animals,ABCI Book,,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+16,ABCJ,A        Talk about,AB   Animals,ABC Underwater Animals,ABCJ Look at art,,Socio-Cognitive,Phrase,Drawing,Trained - Repeated
+17,ABCK,A        Talk about,AB   Animals,ABC Underwater Animals,ABCK Talk about,,Socio-Cognitive,Phrase,Abstract Sign,Trained - Repeated
+18,ABCL,A        Talk about,AB   Animals,ABC Underwater Animals,ABCL Game,,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+19,ABCM,A        Talk about,AB   Animals,ABC Underwater Animals,ABCM Past,,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+20,ABCN,A        Talk about,AB   Animals,ABC Underwater Animals,ABCN Today,,Space-Temporal,Single Word,Drawing,Trained - Repeated
+21,ABCO,A        Talk about,AB   Animals,ABC Underwater Animals,ABCO Future,,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+22,ABCP,A        Talk about,AB   Animals,ABC Underwater Animals,ABCP Like,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+23,ABCQ,A        Talk about,AB   Animals,ABC Underwater Animals,ABCQ No like,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+24,ABCR,A        Talk about,AB   Animals,ABC Underwater Animals,ABCR Want,,Self/State,Single Word,Drawing,Trained - Repeated
+25,ABD,A        Talk about,AB   Animals,ABD Baby Animals,,,Navigation,Phrase,Photo,Trained - Repeated
+26,ABDA,A        Talk about,AB   Animals,ABD Baby Animals,ABDA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+27,ABDB,A        Talk about,AB   Animals,ABD Baby Animals,ABDB Chick,,Socio-Cognitive,Single Word,Photo,Trained
+28,ABDC,A        Talk about,AB   Animals,ABD Baby Animals,ABDC Lamb,,Socio-Cognitive,Single Word,Photo,Trained
 29,ABDD,A        Talk about,AB   Animals,ABD Baby Animals,ABDD,,,,,
-30,ABDE,A        Talk about,AB   Animals,ABD Baby Animals,ABDE Bunny,,Trained,Single Word,Photo,
-31,ABDF,A        Talk about,AB   Animals,ABD Baby Animals,ABDF Duck,,Trained,Single Word,Photo,
-32,ABDG,A        Talk about,AB   Animals,ABD Baby Animals,ABDG Puppy,,Trained,Single Word,Photo,
-33,ABDH,A        Talk about,AB   Animals,ABD Baby Animals,ABDH Kitten,,Trained,Single Word,Photo,
-34,ABDI,A        Talk about,AB   Animals,ABD Baby Animals,ABDI Book,,Trained - Repeated,Single Word,Drawing,
-35,ABDJ,A        Talk about,AB   Animals,ABD Baby Animals,ABDJ Look at art,,Trained - Repeated,Phrase,Abstract Sign,
-36,ABDK,A        Talk about,AB   Animals,ABD Baby Animals,ABDK Talk about,,Trained - Repeated,Phrase,Abstract Sign,
-37,ABDL,A        Talk about,AB   Animals,ABD Baby Animals,ABDL Game,,Trained - Repeated,Single Word,Photo,
-38,ABDM,A        Talk about,AB   Animals,ABD Baby Animals,ABDM Past,,Trained - Repeated,Single Word,Abstract Sign,
-39,ABDN,A        Talk about,AB   Animals,ABD Baby Animals,ABDN Today,,Trained - Repeated,Single Word,Drawing,
-40,ABDO,A        Talk about,AB   Animals,ABD Baby Animals,ABDO Future,,Trained - Repeated,Single Word,Abstract Sign,
-41,ABDP,A        Talk about,AB   Animals,ABD Baby Animals,ABDP Like,,Trained - Repeated,Single Word,Abstract Sign,
-42,ABDQ,A        Talk about,AB   Animals,ABD Baby Animals,ABDQ No like,,Trained - Repeated,Phrase,Abstract Sign,
-43,ABDR,A        Talk about,AB   Animals,ABD Baby Animals,ABDR Want,,Trained - Repeated,Single Word,Drawing,
-44,ABE,A        Talk about,AB   Animals,ABE Jungle Animals,,,Trained - Repeated,Phrase,Photo,
-45,ABEA,A        Talk about,AB   Animals,ABE Jungle Animals,ABEA Back,,Trained - Repeated,Single Word,Abstract Sign,
-46,ABEB,A        Talk about,AB   Animals,ABE Jungle Animals,ABEB Lion,,Trained,Single Word,Photo,
-47,ABEC,A        Talk about,AB   Animals,ABE Jungle Animals,ABEC Giraffe,,Trained,Single Word,Photo,
-48,ABED,A        Talk about,AB   Animals,ABE Jungle Animals,ABED Elephant,,Trained,Single Word,Photo,
+30,ABDE,A        Talk about,AB   Animals,ABD Baby Animals,ABDE Bunny,,Socio-Cognitive,Single Word,Photo,Trained
+31,ABDF,A        Talk about,AB   Animals,ABD Baby Animals,ABDF Duck,,Socio-Cognitive,Single Word,Photo,Trained
+32,ABDG,A        Talk about,AB   Animals,ABD Baby Animals,ABDG Puppy,,Socio-Cognitive,Single Word,Photo,Trained
+33,ABDH,A        Talk about,AB   Animals,ABD Baby Animals,ABDH Kitten,,Socio-Cognitive,Single Word,Photo,Trained
+34,ABDI,A        Talk about,AB   Animals,ABD Baby Animals,ABDI Book,,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+35,ABDJ,A        Talk about,AB   Animals,ABD Baby Animals,ABDJ Look at art,,Socio-Cognitive,Phrase,Abstract Sign,Trained - Repeated
+36,ABDK,A        Talk about,AB   Animals,ABD Baby Animals,ABDK Talk about,,Socio-Cognitive,Phrase,Abstract Sign,Trained - Repeated
+37,ABDL,A        Talk about,AB   Animals,ABD Baby Animals,ABDL Game,,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+38,ABDM,A        Talk about,AB   Animals,ABD Baby Animals,ABDM Past,,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+39,ABDN,A        Talk about,AB   Animals,ABD Baby Animals,ABDN Today,,Space-Temporal,Single Word,Drawing,Trained - Repeated
+40,ABDO,A        Talk about,AB   Animals,ABD Baby Animals,ABDO Future,,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+41,ABDP,A        Talk about,AB   Animals,ABD Baby Animals,ABDP Like,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+42,ABDQ,A        Talk about,AB   Animals,ABD Baby Animals,ABDQ No like,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+43,ABDR,A        Talk about,AB   Animals,ABD Baby Animals,ABDR Want,,Self/State,Single Word,Drawing,Trained - Repeated
+44,ABE,A        Talk about,AB   Animals,ABE Jungle Animals,,,Navigation,Phrase,Photo,Trained - Repeated
+45,ABEA,A        Talk about,AB   Animals,ABE Jungle Animals,ABEA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+46,ABEB,A        Talk about,AB   Animals,ABE Jungle Animals,ABEB Lion,,Socio-Cognitive,Single Word,Photo,Trained
+47,ABEC,A        Talk about,AB   Animals,ABE Jungle Animals,ABEC Giraffe,,Socio-Cognitive,Single Word,Photo,Trained
+48,ABED,A        Talk about,AB   Animals,ABE Jungle Animals,ABED Elephant,,Socio-Cognitive,Single Word,Photo,Trained
 49,ABEE,A        Talk about,AB   Animals,ABE Jungle Animals,ABEE,,,,,
-50,ABEF,A        Talk about,AB   Animals,ABE Jungle Animals,ABEF Gorilla,,Trained,Single Word,Photo,
-51,ABEG,A        Talk about,AB   Animals,ABE Jungle Animals,ABEG Zebra,,Trained,Single Word,Photo,
-52,ABEH,A        Talk about,AB   Animals,ABE Jungle Animals,ABEH Monkey,,Trained,Single Word,Photo,
-53,ABEI,A        Talk about,AB   Animals,ABE Jungle Animals,ABEI Book,,Trained - Repeated,Single Word,Drawing,
-54,ABEJ,A        Talk about,AB   Animals,ABE Jungle Animals,ABEJ Look at art,,Trained - Repeated,Phrase,Drawing,
-55,ABEK,A        Talk about,AB   Animals,ABE Jungle Animals,ABEK Talk about,,Trained - Repeated,Phrase,Abstract Sign,
-56,ABEL,A        Talk about,AB   Animals,ABE Jungle Animals,ABEL Game,,Trained - Repeated,Single Word,Photo,
-57,ABEM,A        Talk about,AB   Animals,ABE Jungle Animals,ABEM Past,,Trained - Repeated,Single Word,Abstract Sign,
-58,ABEN,A        Talk about,AB   Animals,ABE Jungle Animals,ABEN Today,,Trained - Repeated,Single Word,Drawing,
-59,ABEO,A        Talk about,AB   Animals,ABE Jungle Animals,ABEO Future,,Trained - Repeated,Single Word,Abstract Sign,
-60,ABEP,A        Talk about,AB   Animals,ABE Jungle Animals,ABEP Like,,Trained - Repeated,Single Word,Abstract Sign,
-61,ABEQ,A        Talk about,AB   Animals,ABE Jungle Animals,ABEQ No like,,Trained - Repeated,Phrase,Abstract Sign,
-62,ABER,A        Talk about,AB   Animals,ABE Jungle Animals,ABER Want,,Trained - Repeated,Single Word,Drawing,
-63,ABF,A        Talk about,AB   Animals,ABF Backyard Animals,,,Trained - Repeated,Phrase,Photo,
-64,ABFA,A        Talk about,AB   Animals,ABF Backyard Animals,ABFA Back,,Trained - Repeated,Single Word,Abstract Sign,
-65,ABFB,A        Talk about,AB   Animals,ABF Backyard Animals,ABFB Squirrel,,Trained - Repeated,Single Word,Photo,
-66,ABFC,A        Talk about,AB   Animals,ABF Backyard Animals,ABFC Rabbit,,Trained,Single Word,Photo,
-67,ABFD,A        Talk about,AB   Animals,ABF Backyard Animals,ABFD Iguana,,Trained,Single Word,Photo,
-68,ABFE,A        Talk about,AB   Animals,ABF Backyard Animals,ABFE Bird,,Trained,Single Word,Photo,
+50,ABEF,A        Talk about,AB   Animals,ABE Jungle Animals,ABEF Gorilla,,Socio-Cognitive,Single Word,Photo,Trained
+51,ABEG,A        Talk about,AB   Animals,ABE Jungle Animals,ABEG Zebra,,Socio-Cognitive,Single Word,Photo,Trained
+52,ABEH,A        Talk about,AB   Animals,ABE Jungle Animals,ABEH Monkey,,Socio-Cognitive,Single Word,Photo,Trained
+53,ABEI,A        Talk about,AB   Animals,ABE Jungle Animals,ABEI Book,,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+54,ABEJ,A        Talk about,AB   Animals,ABE Jungle Animals,ABEJ Look at art,,Socio-Cognitive,Phrase,Drawing,Trained - Repeated
+55,ABEK,A        Talk about,AB   Animals,ABE Jungle Animals,ABEK Talk about,,Socio-Cognitive,Phrase,Abstract Sign,Trained - Repeated
+56,ABEL,A        Talk about,AB   Animals,ABE Jungle Animals,ABEL Game,,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+57,ABEM,A        Talk about,AB   Animals,ABE Jungle Animals,ABEM Past,,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+58,ABEN,A        Talk about,AB   Animals,ABE Jungle Animals,ABEN Today,,Space-Temporal,Single Word,Drawing,Trained - Repeated
+59,ABEO,A        Talk about,AB   Animals,ABE Jungle Animals,ABEO Future,,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+60,ABEP,A        Talk about,AB   Animals,ABE Jungle Animals,ABEP Like,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+61,ABEQ,A        Talk about,AB   Animals,ABE Jungle Animals,ABEQ No like,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+62,ABER,A        Talk about,AB   Animals,ABE Jungle Animals,ABER Want,,Self/State,Single Word,Drawing,Trained - Repeated
+63,ABF,A        Talk about,AB   Animals,ABF Backyard Animals,,,Navigation,Phrase,Photo,Trained - Repeated
+64,ABFA,A        Talk about,AB   Animals,ABF Backyard Animals,ABFA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+65,ABFB,A        Talk about,AB   Animals,ABF Backyard Animals,ABFB Squirrel,,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+66,ABFC,A        Talk about,AB   Animals,ABF Backyard Animals,ABFC Rabbit,,Socio-Cognitive,Single Word,Photo,Trained
+67,ABFD,A        Talk about,AB   Animals,ABF Backyard Animals,ABFD Iguana,,Socio-Cognitive,Single Word,Photo,Trained
+68,ABFE,A        Talk about,AB   Animals,ABF Backyard Animals,ABFE Bird,,Socio-Cognitive,Single Word,Photo,Trained
 69,ABFF,A        Talk about,AB   Animals,ABF Backyard Animals,ABFF,,,,,
-70,ABFG,A        Talk about,AB   Animals,ABF Backyard Animals,ABFG Deer,,Trained,Single Word,Photo,
-71,ABFH,A        Talk about,AB   Animals,ABF Backyard Animals,ABFH Raccoon,,Trained,Single Word,Photo,
-72,ABFI,A        Talk about,AB   Animals,ABF Backyard Animals,ABFI Book,,Trained - Repeated,Single Word,Drawing,
-73,ABFJ,A        Talk about,AB   Animals,ABF Backyard Animals,ABFJ Look at art,,Trained - Repeated,Phrase,Drawing,
-74,ABFK,A        Talk about,AB   Animals,ABF Backyard Animals,ABFK Talk about,,Trained - Repeated,Phrase,Abstract Sign,
-75,ABFL,A        Talk about,AB   Animals,ABF Backyard Animals,ABFL Game,,Trained - Repeated,Single Word,Photo,
-76,ABFM,A        Talk about,AB   Animals,ABF Backyard Animals,ABFM Past,,Trained - Repeated,Single Word,Abstract Sign,
-77,ABFN,A        Talk about,AB   Animals,ABF Backyard Animals,ABFN Today,,Trained - Repeated,Single Word,Drawing,
-78,ABFO,A        Talk about,AB   Animals,ABF Backyard Animals,ABFO Future,,Trained - Repeated,Single Word,Abstract Sign,
-79,ABFP,A        Talk about,AB   Animals,ABF Backyard Animals,ABFP Like,,Trained - Repeated,Single Word,Abstract Sign,
-80,ABFQ,A        Talk about,AB   Animals,ABF Backyard Animals,ABFQ No like,,Trained - Repeated,Phrase,Abstract Sign,
-81,ABFR,A        Talk about,AB   Animals,ABF Backyard Animals,ABFR Want,,Trained - Repeated,Single Word,Drawing,
-82,ABG,A        Talk about,AB   Animals,ABG Bugs,,,Trained - Repeated,Single Word,Photo,
-83,ABGA,A        Talk about,AB   Animals,ABG Bugs,ABGA Back,,Trained - Repeated,Single Word,Abstract Sign,
-84,ABGB,A        Talk about,AB   Animals,ABG Bugs,ABGB Yuck bug,,Trained,Phrase,Photo,
-85,ABGC,A        Talk about,AB   Animals,ABG Bugs,ABGC Ant,,Trained,Single Word,Photo,
-86,ABGD,A        Talk about,AB   Animals,ABG Bugs,ABGD Butterfly,,Trained - Repeated,Single Word,Drawing,
-87,ABGE,A        Talk about,AB   Animals,ABG Bugs,ABGE High up,,Untrained - Discovered,Phrase,Drawing,
-88,ABGF,A        Talk about,AB   Animals,ABG Bugs,ABGF Down low,,Untrained - Discovered,Phrase,Drawing,
+70,ABFG,A        Talk about,AB   Animals,ABF Backyard Animals,ABFG Deer,,Socio-Cognitive,Single Word,Photo,Trained
+71,ABFH,A        Talk about,AB   Animals,ABF Backyard Animals,ABFH Raccoon,,Socio-Cognitive,Single Word,Photo,Trained
+72,ABFI,A        Talk about,AB   Animals,ABF Backyard Animals,ABFI Book,,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+73,ABFJ,A        Talk about,AB   Animals,ABF Backyard Animals,ABFJ Look at art,,Socio-Cognitive,Phrase,Drawing,Trained - Repeated
+74,ABFK,A        Talk about,AB   Animals,ABF Backyard Animals,ABFK Talk about,,Socio-Cognitive,Phrase,Abstract Sign,Trained - Repeated
+75,ABFL,A        Talk about,AB   Animals,ABF Backyard Animals,ABFL Game,,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+76,ABFM,A        Talk about,AB   Animals,ABF Backyard Animals,ABFM Past,,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+77,ABFN,A        Talk about,AB   Animals,ABF Backyard Animals,ABFN Today,,Space-Temporal,Single Word,Drawing,Trained - Repeated
+78,ABFO,A        Talk about,AB   Animals,ABF Backyard Animals,ABFO Future,,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+79,ABFP,A        Talk about,AB   Animals,ABF Backyard Animals,ABFP Like,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+80,ABFQ,A        Talk about,AB   Animals,ABF Backyard Animals,ABFQ No like,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+81,ABFR,A        Talk about,AB   Animals,ABF Backyard Animals,ABFR Want,,Self/State,Single Word,Drawing,Trained - Repeated
+82,ABG,A        Talk about,AB   Animals,ABG Bugs,,,Navigation,Single Word,Photo,Trained - Repeated
+83,ABGA,A        Talk about,AB   Animals,ABG Bugs,ABGA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+84,ABGB,A        Talk about,AB   Animals,ABG Bugs,ABGB Yuck bug,,Socio-Cognitive,Phrase,Photo,Trained
+85,ABGC,A        Talk about,AB   Animals,ABG Bugs,ABGC Ant,,Socio-Cognitive,Single Word,Photo,Trained
+86,ABGD,A        Talk about,AB   Animals,ABG Bugs,ABGD Butterfly,,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+87,ABGE,A        Talk about,AB   Animals,ABG Bugs,ABGE High up,,Space-Temporal,Phrase,Drawing,Untrained - Discovered
+88,ABGF,A        Talk about,AB   Animals,ABG Bugs,ABGF Down low,,Space-Temporal,Phrase,Drawing,Untrained - Discovered
 89,ABGG,A        Talk about,AB   Animals,ABG Bugs,ABGG,,,,,
-90,ABGH,A        Talk about,AB   Animals,ABG Bugs,ABGH Fix,,Untrained - Discovered,Single Word,Drawing,
-91,ABGI,A        Talk about,AB   Animals,ABG Bugs,ABGI Broken,,Untrained - Discovered,Single Word,Drawing,
-92,ABGJ,A        Talk about,AB   Animals,ABG Bugs,ABGJ Dark,,Untrained - Discovered,Single Word,Photo,
-93,ABGK,A        Talk about,AB   Animals,ABG Bugs,ABGK Light,,Untrained - Discovered,Single Word,Photo,
-94,ABGL,A        Talk about,AB   Animals,ABG Bugs,ABGL Mom,,Trained - Repeated,Single Word,Photo,
-95,ABGM,A        Talk about,AB   Animals,ABG Bugs,ABGM Ellie,,Trained - Repeated,Single Word,Photo,
-96,ABGN,A        Talk about,AB   Animals,ABG Bugs,ABGN Isabelle,,Trained - Repeated,Single Word,Photo,
-97,ABGO,A        Talk about,AB   Animals,ABG Bugs,ABGO Tillie,,Trained - Repeated,Single Word,Photo,
-98,ABGP,A        Talk about,AB   Animals,ABG Bugs,ABGP Like,,Trained - Repeated,Single Word,Abstract Sign,
-99,ABGQ,A        Talk about,AB   Animals,ABG Bugs,ABGQ No like,,Trained - Repeated,Phrase,Abstract Sign,
-100,ABGR,A        Talk about,AB   Animals,ABG Bugs,ABGR Afraid,,Trained - Repeated,Single Word,Drawing,
-101,AC,A        Talk about,AC   Fantasy,,,,Trained - Repeated,Single Word,Drawing,
-102,ACA,A        Talk about,AC   Fantasy,ACA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-103,ACB,A        Talk about,AC   Fantasy,ACB Dragon,,,Trained - Repeated,Single Word,Drawing,
+90,ABGH,A        Talk about,AB   Animals,ABG Bugs,ABGH Fix,,Qualifiers,Single Word,Drawing,Untrained - Discovered
+91,ABGI,A        Talk about,AB   Animals,ABG Bugs,ABGI Broken,,Qualifiers,Single Word,Drawing,Untrained - Discovered
+92,ABGJ,A        Talk about,AB   Animals,ABG Bugs,ABGJ Dark,,Qualifiers,Single Word,Photo,Untrained - Discovered
+93,ABGK,A        Talk about,AB   Animals,ABG Bugs,ABGK Light,,Qualifiers,Single Word,Photo,Untrained - Discovered
+94,ABGL,A        Talk about,AB   Animals,ABG Bugs,ABGL Mom,,Family & Friends,Single Word,Photo,Trained - Repeated
+95,ABGM,A        Talk about,AB   Animals,ABG Bugs,ABGM Ellie,,Family & Friends,Single Word,Photo,Trained - Repeated
+96,ABGN,A        Talk about,AB   Animals,ABG Bugs,ABGN Isabelle,,Family & Friends,Single Word,Photo,Trained - Repeated
+97,ABGO,A        Talk about,AB   Animals,ABG Bugs,ABGO Tillie,,Family & Friends,Single Word,Photo,Trained - Repeated
+98,ABGP,A        Talk about,AB   Animals,ABG Bugs,ABGP Like,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+99,ABGQ,A        Talk about,AB   Animals,ABG Bugs,ABGQ No like,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+100,ABGR,A        Talk about,AB   Animals,ABG Bugs,ABGR Afraid,,Self/State,Single Word,Drawing,Trained - Repeated
+101,AC,A        Talk about,AC   Fantasy,,,,Navigation,Single Word,Drawing,Trained - Repeated
+102,ACA,A        Talk about,AC   Fantasy,ACA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+103,ACB,A        Talk about,AC   Fantasy,ACB Dragon,,,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
 104,ACC,A        Talk about,AC   Fantasy,ACC,,,,,,
-105,ACD,A        Talk about,AC   Fantasy,ACD Unicorn,,,Trained - Repeated,Single Word,Drawing,
-106,ACE,A        Talk about,AC   Fantasy,ACE Fairy,,,Trained - Repeated,Single Word,Drawing,
-107,ACF,A        Talk about,AC   Fantasy,ACF Mermaid,,,Trained - Repeated,Single Word,Drawing,
-108,ACG,A        Talk about,AC   Fantasy,ACG Elf,,,Trained - Repeated,Single Word,Drawing,
-109,ACH,A        Talk about,AC   Fantasy,ACH Gnome,,,Trained - Repeated,Single Word,Drawing,
-110,ACI,A        Talk about,AC   Fantasy,ACI Book,,,Trained - Repeated,Single Word,Drawing,
-111,ACJ,A        Talk about,AC   Fantasy,ACJ Look at Art,,,Trained - Repeated,Phrase,Drawing,
-112,ACK,A        Talk about,AC   Fantasy,ACK Talk about,,,Trained - Repeated,Phrase,Abstract Sign,
-113,ACL,A        Talk about,AC   Fantasy,ACL Game,,,Trained - Repeated,Single Word,Photo,
-114,ACM,A        Talk about,AC   Fantasy,ACM Past,,,Trained - Repeated,Single Word,Abstract Sign,
-115,ACN,A        Talk about,AC   Fantasy,ACN Today,,,Trained - Repeated,Single Word,Drawing,
-116,ACO,A        Talk about,AC   Fantasy,ACO Future,,,Trained - Repeated,Single Word,Abstract Sign,
-117,ACP,A        Talk about,AC   Fantasy,ACP Like,,,Trained - Repeated,Single Word,Abstract Sign,
-118,ACQ,A        Talk about,AC   Fantasy,ACQ No like,,,Trained - Repeated,Phrase,Abstract Sign,
-119,ACR,A        Talk about,AC   Fantasy,ACR Want,,,Trained - Repeated,Single Word,Drawing,
-120,AD,A        Talk about,AD   Seasonal,,,,Trained - Repeated,Single Word,Photo,
-121,ADA,A        Talk about,AD   Seasonal,ADA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-122,ADB,A        Talk about,AD   Seasonal,ADB Seasonal,,,Trained - Repeated,Single Word,Photo,
-123,ADBA,A        Talk about,AD   Seasonal,ADB Seasonal,ADBA Back,,Trained - Repeated,Single Word,Abstract Sign,
+105,ACD,A        Talk about,AC   Fantasy,ACD Unicorn,,,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+106,ACE,A        Talk about,AC   Fantasy,ACE Fairy,,,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+107,ACF,A        Talk about,AC   Fantasy,ACF Mermaid,,,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+108,ACG,A        Talk about,AC   Fantasy,ACG Elf,,,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+109,ACH,A        Talk about,AC   Fantasy,ACH Gnome,,,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+110,ACI,A        Talk about,AC   Fantasy,ACI Book,,,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+111,ACJ,A        Talk about,AC   Fantasy,ACJ Look at Art,,,Socio-Cognitive,Phrase,Drawing,Trained - Repeated
+112,ACK,A        Talk about,AC   Fantasy,ACK Talk about,,,Socio-Cognitive,Phrase,Abstract Sign,Trained - Repeated
+113,ACL,A        Talk about,AC   Fantasy,ACL Game,,,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+114,ACM,A        Talk about,AC   Fantasy,ACM Past,,,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+115,ACN,A        Talk about,AC   Fantasy,ACN Today,,,Space-Temporal,Single Word,Drawing,Trained - Repeated
+116,ACO,A        Talk about,AC   Fantasy,ACO Future,,,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+117,ACP,A        Talk about,AC   Fantasy,ACP Like,,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+118,ACQ,A        Talk about,AC   Fantasy,ACQ No like,,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+119,ACR,A        Talk about,AC   Fantasy,ACR Want,,,Self/State,Single Word,Drawing,Trained - Repeated
+120,AD,A        Talk about,AD   Seasonal,,,,Navigation,Single Word,Photo,Trained - Repeated
+121,ADA,A        Talk about,AD   Seasonal,ADA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+122,ADB,A        Talk about,AD   Seasonal,ADB Seasonal,,,Navigation,Single Word,Photo,Trained - Repeated
+123,ADBA,A        Talk about,AD   Seasonal,ADB Seasonal,ADBA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
 124,ADBB,A        Talk about,AD   Seasonal,ADB Seasonal,ADBB ,,,,,
-125,ADBC,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,,Trained - Repeated,Single Word,Photo,
-126,ADBCA,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCA Back,Trained - Repeated,Single Word,Abstract Sign,
-127,ADBCB,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCB Flowers,Trained,Single Word,Drawing,
+125,ADBC,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,,Navigation,Single Word,Photo,Trained - Repeated
+126,ADBCA,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCA Back,Navigation,Single Word,Abstract Sign,Trained - Repeated
+127,ADBCB,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCB Flowers,Socio-Cognitive,Single Word,Drawing,Trained
 128,ADBCC,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCC,,,,
-129,ADBCD,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCD Sprouts,Trained,Single Word,Drawing,
-130,ADBCE,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCE Dirt,Trained,Single Word,Drawing,
-131,ADBCF,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCF Grass,Trained,Single Word,Drawing,
-132,ADBCG,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCG Outside Walk,Trained - Repeated,Phrase,Abstract Sign,
-133,ADBCH,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCH Baby animals,Trained - Repeated,Phrase,Photo,
-134,ADBCI,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCI Butterfly,Trained - Repeated,Single Word,Drawing,
-135,ADBCJ,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCJ Spring Cartoons,Generalized,Phrase,Photo,
-136,ADBCK,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCK Spring Music,Generalized,Phrase,Drawing,
-137,ADBCL,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCL Craft,Trained - Repeated,Single Word,Drawing,
-138,ADBCM,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCM Book,Trained - Repeated,Single Word,Drawing,
-139,ADBCN,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCN Game,Trained - Repeated,Single Word,Photo,
-140,ADBCO,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCO Card Game,Trained - Repeated,Single Word,Drawing,
-141,ADBCP,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCP Past,Trained - Repeated,Single Word,Abstract Sign,
-142,ADBCQ,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCQ Today,Trained - Repeated,Single Word,Drawing,
-143,ADBCR,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCR Future,Trained - Repeated,Single Word,Abstract Sign,
-144,ADBCS,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCS Like,Trained - Repeated,Single Word,Abstract Sign,
-145,ADBCT,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCT No like,Trained - Repeated,Phrase,Abstract Sign,
-146,ADBD,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,,Trained - Repeated,Single Word,Photo,
-147,ADBDA,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDA Back,Trained - Repeated,Single Word,Abstract Sign,
-148,ADBDB,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDB Outside Shower,Trained - Repeated,Phrase,Abstract Sign,
-149,ADBDC,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDC Sun,Trained - Repeated,Single Word,Photo,
+129,ADBCD,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCD Sprouts,Socio-Cognitive,Single Word,Drawing,Trained
+130,ADBCE,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCE Dirt,Socio-Cognitive,Single Word,Drawing,Trained
+131,ADBCF,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCF Grass,Socio-Cognitive,Single Word,Drawing,Trained
+132,ADBCG,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCG Outside Walk,Socio-Cognitive,Phrase,Abstract Sign,Trained - Repeated
+133,ADBCH,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCH Baby animals,Socio-Cognitive,Phrase,Photo,Trained - Repeated
+134,ADBCI,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCI Butterfly,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+135,ADBCJ,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCJ Spring Cartoons,Resources,Phrase,Photo,Generalized
+136,ADBCK,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCK Spring Music,Resources,Phrase,Drawing,Generalized
+137,ADBCL,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCL Craft,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+138,ADBCM,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCM Book,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+139,ADBCN,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCN Game,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+140,ADBCO,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCO Card Game,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+141,ADBCP,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCP Past,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+142,ADBCQ,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCQ Today,Space-Temporal,Single Word,Drawing,Trained - Repeated
+143,ADBCR,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCR Future,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+144,ADBCS,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCS Like,Self/State,Single Word,Abstract Sign,Trained - Repeated
+145,ADBCT,A        Talk about,AD   Seasonal,ADB Seasonal,ADBC Spring,ADBCT No like,Self/State,Phrase,Abstract Sign,Trained - Repeated
+146,ADBD,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,,Navigation,Single Word,Photo,Trained - Repeated
+147,ADBDA,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDA Back,Navigation,Single Word,Abstract Sign,Trained - Repeated
+148,ADBDB,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDB Outside Shower,Space-Temporal,Phrase,Abstract Sign,Trained - Repeated
+149,ADBDC,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDC Sun,Space-Temporal,Single Word,Photo,Trained - Repeated
 150,ADBDD,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDD ,,,,
-151,ADBDE,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDE Rain,Trained - Repeated,Single Word,Photo,
-152,ADBDF,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDF Thunder,Trained - Repeated,Single Word,Photo,
-153,ADBDG,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDG Fireworks,Trained,Single Word,Photo,
-154,ADBDH,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDH Golf Cart Ride,Trained - Repeated,Phrase,Photo,
-155,ADBDI,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDI Hot Outside,Trained - Repeated,Phrase,Photo,
-156,ADBDJ,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDJ Cool Outside,Trained - Repeated,Phrase,Photo,
-157,ADBDK,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDK Banana Straw,Untrained - Unused,Phrase,Photo,
-158,ADBDL,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDL Sensory Bowl,Untrained - Unused,Phrase,Photo,
-159,ADBDM,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDM Summer Cartoon,Generalized,Phrase,Photo,
-160,ADBDN,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDN Summer Music,Generalized,Phrase,Drawing,
-161,ADBDO,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDO Craft,Trained - Repeated,Single Word,Drawing,
-162,ADBDP,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDP Book,Trained - Repeated,Single Word,Drawing,
-163,ADBDQ,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDQ Game,Trained - Repeated,Single Word,Photo,
-164,ADBDR,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDR Card Game,Trained - Repeated,Phrase,Drawing,
-165,ADBDS,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDS Past,Trained - Repeated,Single Word,Abstract Sign,
-166,ADBDT,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDT Today,Trained - Repeated,Single Word,Drawing,
-167,ADBDU,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDU Future,Trained - Repeated,Single Word,Abstract Sign,
-168,ADBDV,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDV Like,Trained - Repeated,Single Word,Abstract Sign,
-169,ADBDW,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDW No Like,Trained - Repeated,Phrase,Abstract Sign,
-170,ADBE,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,,Trained - Repeated,Single Word,Photo,
-171,ADBEA,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEA Back,Trained - Repeated,Single Word,Abstract Sign,
-172,ADBEB,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEB Trees,Trained,Single Word,Photo,
-173,ADBEC,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEC Leaves,Trained,Single Word,Photo,
-174,ADBED,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBED Acorn,Trained,Single Word,Photo,
+151,ADBDE,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDE Rain,Space-Temporal,Single Word,Photo,Trained - Repeated
+152,ADBDF,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDF Thunder,Space-Temporal,Single Word,Photo,Trained - Repeated
+153,ADBDG,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDG Fireworks,Space-Temporal,Single Word,Photo,Trained
+154,ADBDH,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDH Golf Cart Ride,Space-Temporal,Phrase,Photo,Trained - Repeated
+155,ADBDI,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDI Hot Outside,Space-Temporal,Phrase,Photo,Trained - Repeated
+156,ADBDJ,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDJ Cool Outside,Space-Temporal,Phrase,Photo,Trained - Repeated
+157,ADBDK,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDK Banana Straw,Resources,Phrase,Photo,Untrained - Unused
+158,ADBDL,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDL Sensory Bowl,Resources,Phrase,Photo,Untrained - Unused
+159,ADBDM,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDM Summer Cartoon,Resources,Phrase,Photo,Generalized
+160,ADBDN,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDN Summer Music,Resources,Phrase,Drawing,Generalized
+161,ADBDO,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDO Craft,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+162,ADBDP,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDP Book,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+163,ADBDQ,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDQ Game,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+164,ADBDR,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDR Card Game,Socio-Cognitive,Phrase,Drawing,Trained - Repeated
+165,ADBDS,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDS Past,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+166,ADBDT,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDT Today,Space-Temporal,Single Word,Drawing,Trained - Repeated
+167,ADBDU,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDU Future,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+168,ADBDV,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDV Like,Self/State,Single Word,Abstract Sign,Trained - Repeated
+169,ADBDW,A        Talk about,AD   Seasonal,ADB Seasonal,ADBD Summer,ADBDW No Like,Self/State,Phrase,Abstract Sign,Trained - Repeated
+170,ADBE,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,,Navigation,Single Word,Photo,Trained - Repeated
+171,ADBEA,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEA Back,Navigation,Single Word,Abstract Sign,Trained - Repeated
+172,ADBEB,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEB Trees,Socio-Cognitive,Single Word,Photo,Trained
+173,ADBEC,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEC Leaves,Socio-Cognitive,Single Word,Photo,Trained
+174,ADBED,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBED Acorn,Socio-Cognitive,Single Word,Photo,Trained
 175,ADBEE,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEE,,,,
-176,ADBEF,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEF Warm clothes,Untrained - Unused,Phrase,Abstract Sign,
-177,ADBEG,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEG Pumpkin,Trained,Single Word,Photo,
-178,ADBEH,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEH Warm outside,Trained - Repeated,Phrase,Photo,
-179,ADBEI,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEI Cool outside,Trained - Repeated,Phrase,Photo,
-180,ADBEJ,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEJ Hot wind heater,Trained - Repeated,Phrase,Drawing,
-181,ADBEK,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEK Fireplace,Trained - Repeated,Single Word,Photo,
-182,ADBEL,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEL Hot tea,Trained - Repeated,Phrase,Photo,
-183,ADBEM,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEM Soup,Trained,Single Word,Drawing,
-184,ADBEN,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEN Fall cartoons,Generalized,Phrase,Photo,
-185,ADBEO,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEO Fall music,Generalized,Phrase,Drawing,
-186,ADBEP,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEP Craft,Trained - Repeated,Single Word,Drawing,
-187,ADBEQ,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEQ Book,Trained - Repeated,Single Word,Drawing,
-188,ADBER,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBER Game,Trained - Repeated,Single Word,Photo,
-189,ADBES,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBES Card game,Trained - Repeated,Phrase,Drawing,
-190,ADBET,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBET Past,Trained - Repeated,Single Word,Abstract Sign,
-191,ADBEU,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEU Today,Trained - Repeated,Single Word,Drawing,
-192,ADBEV,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEV Future,Trained - Repeated,Single Word,Abstract Sign,
-193,ADBEW,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEW Like,Trained - Repeated,Single Word,Abstract Sign,
-194,ADBEX,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEX No Like,Trained - Repeated,Phrase,Abstract Sign,
-195,ADBF,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,,Trained - Repeated,Single Word,Photo,
-196,ADBFA,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFA Back,Trained - Repeated,Single Word,Abstract Sign,
-197,ADBFB,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFB Snowflake,Trained,Single Word,Photo,
-198,ADBFC,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFC Snowman,Trained - Repeated,Single Word,Drawing,
-199,ADBFD,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFD Fireplace,Trained - Repeated,Single Word,Photo,
-200,ADBFE,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFE Winter cartoon,Generalized,Phrase,Photo,
+176,ADBEF,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEF Warm clothes,Socio-Cognitive,Phrase,Abstract Sign,Untrained - Unused
+177,ADBEG,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEG Pumpkin,Socio-Cognitive,Single Word,Photo,Trained
+178,ADBEH,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEH Warm outside,Space-Temporal,Phrase,Photo,Trained - Repeated
+179,ADBEI,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEI Cool outside,Space-Temporal,Phrase,Photo,Trained - Repeated
+180,ADBEJ,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEJ Hot wind heater,Resources,Phrase,Drawing,Trained - Repeated
+181,ADBEK,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEK Fireplace,Resources,Single Word,Photo,Trained - Repeated
+182,ADBEL,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEL Hot tea,Resources,Phrase,Photo,Trained - Repeated
+183,ADBEM,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEM Soup,Resources,Single Word,Drawing,Trained
+184,ADBEN,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEN Fall cartoons,Resources,Phrase,Photo,Generalized
+185,ADBEO,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEO Fall music,Resources,Phrase,Drawing,Generalized
+186,ADBEP,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEP Craft,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+187,ADBEQ,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEQ Book,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+188,ADBER,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBER Game,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+189,ADBES,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBES Card game,Socio-Cognitive,Phrase,Drawing,Trained - Repeated
+190,ADBET,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBET Past,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+191,ADBEU,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEU Today,Space-Temporal,Single Word,Drawing,Trained - Repeated
+192,ADBEV,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEV Future,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+193,ADBEW,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEW Like,Self/State,Single Word,Abstract Sign,Trained - Repeated
+194,ADBEX,A        Talk about,AD   Seasonal,ADB Seasonal,ADBE Fall,ADBEX No Like,Self/State,Phrase,Abstract Sign,Trained - Repeated
+195,ADBF,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,,Navigation,Single Word,Photo,Trained - Repeated
+196,ADBFA,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFA Back,Navigation,Single Word,Abstract Sign,Trained - Repeated
+197,ADBFB,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFB Snowflake,Socio-Cognitive,Single Word,Photo,Trained
+198,ADBFC,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFC Snowman,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+199,ADBFD,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFD Fireplace,Resources,Single Word,Photo,Trained - Repeated
+200,ADBFE,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFE Winter cartoon,Resources,Phrase,Photo,Generalized
 201,ADBFF,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFF,,,,
-202,ADBFG,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFG Winter music,Generalized,Phrase,Drawing,
-203,ADBFH,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFH Book,Trained - Repeated,Single Word,Drawing,
-204,ADBFI,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFI Look at pictures,Trained - Repeated,Phrase,Drawing,
-205,ADBFJ,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFJ Game,Trained - Repeated,Single Word,Photo,
-206,ADBFK,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFK Craft,Trained - Repeated,Single Word,Drawing,
-207,ADBFL,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFL Card games,Trained - Repeated,Phrase,Drawing,
-208,ADBFM,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFM Snuggle,Trained - Repeated,Single Word,Drawing,
-209,ADBFN,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFN Past,Trained - Repeated,Single Word,Abstract Sign,
-210,ADBFO,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFO Today,Trained - Repeated,Single Word,Drawing,
-211,ADBFP,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFP Future,Trained - Repeated,Single Word,Abstract Sign,
-212,ADBFQ,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFQ Like,Trained - Repeated,Single Word,Abstract Sign,
-213,ADBFR,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFR No like,Trained - Repeated,Phrase,Abstract Sign,
-214,ADC,A        Talk about,AD   Seasonal,ADC Holidays,,,Trained - Repeated,Single Word,Photo,
-215,ADCA,A        Talk about,AD   Seasonal,ADC Holidays,ADCA Back,,Trained - Repeated,Single Word,Abstract Sign,
-216,ADCB,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,,Trained,Single Word,Photo,
-217,ADCBA,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBA Back,Trained - Repeated,Single Word,Abstract Sign,
+202,ADBFG,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFG Winter music,Resources,Phrase,Drawing,Generalized
+203,ADBFH,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFH Book,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+204,ADBFI,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFI Look at pictures,Socio-Cognitive,Phrase,Drawing,Trained - Repeated
+205,ADBFJ,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFJ Game,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+206,ADBFK,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFK Craft,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+207,ADBFL,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFL Card games,Socio-Cognitive,Phrase,Drawing,Trained - Repeated
+208,ADBFM,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFM Snuggle,Action,Single Word,Drawing,Trained - Repeated
+209,ADBFN,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFN Past,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+210,ADBFO,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFO Today,Space-Temporal,Single Word,Drawing,Trained - Repeated
+211,ADBFP,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFP Future,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+212,ADBFQ,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFQ Like,Self/State,Single Word,Abstract Sign,Trained - Repeated
+213,ADBFR,A        Talk about,AD   Seasonal,ADB Seasonal,ADBF Winter,ADBFR No like,Self/State,Phrase,Abstract Sign,Trained - Repeated
+214,ADC,A        Talk about,AD   Seasonal,ADC Holidays,,,Navigation,Single Word,Photo,Trained - Repeated
+215,ADCA,A        Talk about,AD   Seasonal,ADC Holidays,ADCA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+216,ADCB,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,,Navigation,Single Word,Photo,Trained
+217,ADCBA,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBA Back,Navigation,Single Word,Abstract Sign,Trained - Repeated
 218,ADCBB,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBB,,,,
-219,ADCBC,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBC Easter bunny,Trained,Single Word,Drawing,
-220,ADCBD,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBD Easter egg,Trained,Phrase,Drawing,
-221,ADCBE,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBE Easter basket,Trained,Phrase,Photo,
-222,ADCBF,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBF Easter cartoons,Generalized,Phrase,Photo,
-223,ADCBG,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBG Easter music,Generalized,Phrase,Drawing,
-224,ADCBH,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBH Craft,Trained - Repeated,Single Word,Drawing,
-225,ADCBI,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBI Book,Trained - Repeated,Single Word,Drawing,
-226,ADCBJ,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBJ Game,Trained - Repeated,Single Word,Photo,
-227,ADCBK,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBK Look at art,Trained - Repeated,Phrase,Drawing,
-228,ADCBL,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBL Warm outside,Trained - Repeated,Phrase,Photo,
-229,ADCBM,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBM Cool outside,Trained - Repeated,Phrase,Photo,
-230,ADCBN,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBN Past,Trained - Repeated,Single Word,Abstract Sign,
-231,ADCBO,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBO Today,Trained - Repeated,Single Word,Drawing,
-232,ADCBP,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBP Future,Trained - Repeated,Single Word,Abstract Sign,
-233,ADCBQ,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBQ Like,Trained - Repeated,Single Word,Abstract Sign,
-234,ADCBR,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBR No like,Trained - Repeated,Phrase,Abstract Sign,
+219,ADCBC,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBC Easter bunny,Socio-Cognitive,Single Word,Drawing,Trained
+220,ADCBD,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBD Easter egg,Socio-Cognitive,Phrase,Drawing,Trained
+221,ADCBE,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBE Easter basket,Socio-Cognitive,Phrase,Photo,Trained
+222,ADCBF,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBF Easter cartoons,Resources,Phrase,Photo,Generalized
+223,ADCBG,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBG Easter music,Resources,Phrase,Drawing,Generalized
+224,ADCBH,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBH Craft,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+225,ADCBI,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBI Book,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+226,ADCBJ,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBJ Game,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+227,ADCBK,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBK Look at art,Socio-Cognitive,Phrase,Drawing,Trained - Repeated
+228,ADCBL,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBL Warm outside,Space-Temporal,Phrase,Photo,Trained - Repeated
+229,ADCBM,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBM Cool outside,Space-Temporal,Phrase,Photo,Trained - Repeated
+230,ADCBN,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBN Past,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+231,ADCBO,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBO Today,Space-Temporal,Single Word,Drawing,Trained - Repeated
+232,ADCBP,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBP Future,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+233,ADCBQ,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBQ Like,Self/State,Single Word,Abstract Sign,Trained - Repeated
+234,ADCBR,A        Talk about,AD   Seasonal,ADC Holidays,ADCB Easter,ADCBR No like,Self/State,Phrase,Abstract Sign,Trained - Repeated
 235,ADCC,A        Talk about,AD   Seasonal,ADC Holidays,ADCC,,,,,
-236,ADCD,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,,Trained - Repeated,Single Word,Photo,
-237,ADCDA,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDA Back,Trained - Repeated,Single Word,Abstract Sign,
-238,ADCDB,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDB Pumpkin,Trained - Repeated,Single Word,Photo,
-239,ADCDC,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDC Ghost,Trained,Single Word,Drawing,
+236,ADCD,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,,Navigation,Single Word,Photo,Trained - Repeated
+237,ADCDA,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDA Back,Navigation,Single Word,Abstract Sign,Trained - Repeated
+238,ADCDB,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDB Pumpkin,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+239,ADCDC,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDC Ghost,Socio-Cognitive,Single Word,Drawing,Trained
 240,ADCDD,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDD,,,,
-241,ADCDE,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDE Witch,Trained,Single Word,Drawing,
-242,ADCDF,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDF Monster,Trained,Single Word,Drawing,
-243,ADCDG,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDG Black cat,Trained,Phrase,Photo,
-244,ADCDH,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDH Haunted House,Trained,Phrase,Photo,
-245,ADCDI,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDI Book,Trained - Repeated,Single Word,Drawing,
-246,ADCDJ,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDJ Card games,Trained - Repeated,Phrase,Drawing,
-247,ADCDK,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDK Craft,Trained - Repeated,Single Word,Drawing,
-248,ADCDL,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDL Halloween lights,Trained,Phrase,Photo,
-249,ADCDM,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDM Halloween cartoons,Generalized,Phrase,Photo,
-250,ADCDN,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDN Game,Trained - Repeated,Single Word,Photo,
-251,ADCDO,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDO Alexa play Halloween Music,Generalized,Phrase,Drawing,
-252,ADCDP,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDP Like,Trained - Repeated,Single Word,Abstract Sign,
-253,ADCDQ,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDQ No like,Trained - Repeated,Phrase,Abstract Sign,
-254,ADCDR,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDR Talk or Learn,Generalized,Phrase,Abstract Sign,
-255,ADCE,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,,Trained,Single Word,Drawing,
-256,ADCEA,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEA Back,Trained - Repeated,Single Word,Abstract Sign,
-257,ADCEB,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEB Santa,Trained,Single Word,Drawing,
-258,ADCEC,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEC Frosty,Trained,Single Word,Drawing,
-259,ADCED,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCED Christmas tree,Trained,Phrase,Photo,
+241,ADCDE,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDE Witch,Socio-Cognitive,Single Word,Drawing,Trained
+242,ADCDF,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDF Monster,Socio-Cognitive,Single Word,Drawing,Trained
+243,ADCDG,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDG Black cat,Socio-Cognitive,Phrase,Photo,Trained
+244,ADCDH,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDH Haunted House,Socio-Cognitive,Phrase,Photo,Trained
+245,ADCDI,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDI Book,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+246,ADCDJ,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDJ Card games,Socio-Cognitive,Phrase,Drawing,Trained - Repeated
+247,ADCDK,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDK Craft,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+248,ADCDL,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDL Halloween lights,Space-Temporal,Phrase,Photo,Trained
+249,ADCDM,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDM Halloween cartoons,Resources,Phrase,Photo,Generalized
+250,ADCDN,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDN Game,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+251,ADCDO,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDO Alexa play Halloween Music,Resources,Phrase,Drawing,Generalized
+252,ADCDP,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDP Like,Self/State,Single Word,Abstract Sign,Trained - Repeated
+253,ADCDQ,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDQ No like,Self/State,Phrase,Abstract Sign,Trained - Repeated
+254,ADCDR,A        Talk about,AD   Seasonal,ADC Holidays,ADCD Halloween,ADCDR Talk or Learn,Socio-Cognitive,Phrase,Abstract Sign,Generalized
+255,ADCE,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,,Navigation,Single Word,Drawing,Trained
+256,ADCEA,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEA Back,Navigation,Single Word,Abstract Sign,Trained - Repeated
+257,ADCEB,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEB Santa,Socio-Cognitive,Single Word,Drawing,Trained
+258,ADCEC,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEC Frosty,Socio-Cognitive,Single Word,Drawing,Trained
+259,ADCED,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCED Christmas tree,Socio-Cognitive,Phrase,Photo,Trained
 260,ADCEE,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEE ,,,,
-261,ADCEF,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEF Presents,Trained,Single Word,Drawing,
-262,ADCEG,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEG Christmas cartoons,Generalized,Phrase,Photo,
-263,ADCEH,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEH Christmas music,Generalized,Phrase,Drawing,
-264,ADCEI,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEI Craft,Trained - Repeated,Single Word,Drawing,
-265,ADCEJ,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEJ Book,Trained - Repeated,Single Word,Drawing,
-266,ADCEK,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEK Game,Trained - Repeated,Single Word,Photo,
-267,ADCEL,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEL Card game,Trained - Repeated,Phrase,Drawing,
-268,ADCEM,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEM Christmas lights,Generalized,Phrase,Photo,
-269,ADCEN,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEN Past,Trained - Repeated,Single Word,Abstract Sign,
-270,ADCEO,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEO Today,Trained - Repeated,Single Word,Drawing,
-271,ADCEP,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEP Future,Trained - Repeated,Single Word,Abstract Sign,
-272,ADCEQ,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEQ Like,Trained - Repeated,Single Word,Abstract Sign,
-273,ADCER,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCER No Like,Trained - Repeated,Phrase,Abstract Sign,
-274,AE,A        Talk about,AE   Space sky,,,,Trained,Phrase,Photo,
-275,AEA,A        Talk about,AE   Space sky,AEA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-276,AEB,A        Talk about,AE   Space sky,AEB Sun far small,,,Trained,Phrase,Photo,
-277,AEC,A        Talk about,AE   Space sky,AEC Sun close big,,,Trained,Phrase,Photo,
-278,AED,A        Talk about,AE   Space sky,AED Moon far small,,,Trained,Phrase,Photo,
+261,ADCEF,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEF Presents,Socio-Cognitive,Single Word,Drawing,Trained
+262,ADCEG,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEG Christmas cartoons,Resources,Phrase,Photo,Generalized
+263,ADCEH,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEH Christmas music,Resources,Phrase,Drawing,Generalized
+264,ADCEI,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEI Craft,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+265,ADCEJ,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEJ Book,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+266,ADCEK,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEK Game,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+267,ADCEL,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEL Card game,Socio-Cognitive,Phrase,Drawing,Trained - Repeated
+268,ADCEM,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEM Christmas lights,Space-Temporal,Phrase,Photo,Generalized
+269,ADCEN,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEN Past,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+270,ADCEO,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEO Today,Space-Temporal,Single Word,Drawing,Trained - Repeated
+271,ADCEP,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEP Future,Space-Temporal,Single Word,Abstract Sign,Trained - Repeated
+272,ADCEQ,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCEQ Like,Self/State,Single Word,Abstract Sign,Trained - Repeated
+273,ADCER,A        Talk about,AD   Seasonal,ADC Holidays,ADCE Christmas,ADCER No Like,Self/State,Phrase,Abstract Sign,Trained - Repeated
+274,AE,A        Talk about,AE   Space sky,,,,Navigation,Phrase,Photo,Trained
+275,AEA,A        Talk about,AE   Space sky,AEA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+276,AEB,A        Talk about,AE   Space sky,AEB Sun far small,,,Socio-Cognitive,Phrase,Photo,Trained
+277,AEC,A        Talk about,AE   Space sky,AEC Sun close big,,,Socio-Cognitive,Phrase,Photo,Trained
+278,AED,A        Talk about,AE   Space sky,AED Moon far small,,,Socio-Cognitive,Phrase,Photo,Trained
 279,AEE,A        Talk about,AE   Space sky,AEE,,,,,,
-280,AEF,A        Talk about,AE   Space sky,AEF Moon close big,,,Trained,Phrase,Photo,
-281,AEG,A        Talk about,AE   Space sky,AEG Stars far small,,,Untrained - Discovered,Phrase,Photo,
-282,AEH,A        Talk about,AE   Space sky,AEH Stars close big,,,Untrained - Discovered,Phrase,Photo,
-283,AEI,A        Talk about,AE   Space sky,AEI Planets far small,,,Untrained - Discovered,Phrase,Photo,
-284,AEJ,A        Talk about,AE   Space sky,AEJ Planets close big,,,Untrained - Discovered,Phrase,Photo,
-285,AEK,A        Talk about,AE   Space sky,AEK What is it?,,,Untrained - Discovered,Phrase,Abstract Sign,
-286,AEL,A        Talk about,AE   Space sky,AEL Look at art,,,Trained - Repeated,Phrase,Drawing,
-287,AEM,A        Talk about,AE   Space sky,AEM Book,,,Trained - Repeated,Single Word,Drawing,
-288,AEN,A        Talk about,AE   Space sky,AEN Tablet game,,,Trained - Repeated,Phrase,Drawing,
-289,AF,A        Talk about,AF   Learn something New,,,,Trained - Repeated,Phrase,Abstract Sign,
-290,AG,A        Talk about,AG   Yes and No,,,,Trained,Phrase,Abstract Sign,
-291,AGA,A        Talk about,AG   Yes and No,AGA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-292,AGB,A        Talk about,AG   Yes and No,AGB Yes,,,Trained,Single Word,Abstract Sign,
-293,AGC,A        Talk about,AG   Yes and No,AGC No,,,Trained,Single Word,Abstract Sign,
-294,AGD,A        Talk about,AG   Yes and No,AGD I'm not sure,,,Trained,Phrase,Abstract Sign,
-295,AGE,A        Talk about,AG   Yes and No,AGE Something Else,,,Trained,Phrase,Abstract Sign,
+280,AEF,A        Talk about,AE   Space sky,AEF Moon close big,,,Socio-Cognitive,Phrase,Photo,Trained
+281,AEG,A        Talk about,AE   Space sky,AEG Stars far small,,,Socio-Cognitive,Phrase,Photo,Untrained - Discovered
+282,AEH,A        Talk about,AE   Space sky,AEH Stars close big,,,Socio-Cognitive,Phrase,Photo,Untrained - Discovered
+283,AEI,A        Talk about,AE   Space sky,AEI Planets far small,,,Socio-Cognitive,Phrase,Photo,Untrained - Discovered
+284,AEJ,A        Talk about,AE   Space sky,AEJ Planets close big,,,Socio-Cognitive,Phrase,Photo,Untrained - Discovered
+285,AEK,A        Talk about,AE   Space sky,AEK What is it?,,,Socio-Cognitive,Phrase,Abstract Sign,Untrained - Discovered
+286,AEL,A        Talk about,AE   Space sky,AEL Look at art,,,Socio-Cognitive,Phrase,Drawing,Trained - Repeated
+287,AEM,A        Talk about,AE   Space sky,AEM Book,,,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+288,AEN,A        Talk about,AE   Space sky,AEN Tablet game,,,Socio-Cognitive,Phrase,Drawing,Trained - Repeated
+289,AF,A        Talk about,AF   Learn something New,,,,Socio-Cognitive,Phrase,Abstract Sign,Trained - Repeated
+290,AG,A        Talk about,AG   Yes and No,,,,Navigation,Phrase,Abstract Sign,Trained
+291,AGA,A        Talk about,AG   Yes and No,AGA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+292,AGB,A        Talk about,AG   Yes and No,AGB Yes,,,Affirmations,Single Word,Abstract Sign,Trained
+293,AGC,A        Talk about,AG   Yes and No,AGC No,,,Affirmations,Single Word,Abstract Sign,Trained
+294,AGD,A        Talk about,AG   Yes and No,AGD I'm not sure,,,Affirmations,Phrase,Abstract Sign,Trained
+295,AGE,A        Talk about,AG   Yes and No,AGE Something Else,,,Affirmations,Phrase,Abstract Sign,Trained
 296,AGF,A        Talk about,AG   Yes and No,AGF,,,,,,
 297,AGG,A        Talk about,AG   Yes and No,AGG,,,,,,
-298,AGH,A        Talk about,AG   Yes and No,AGH Like,,,Trained - Repeated,Single Word,Abstract Sign,
-299,AGI,A        Talk about,AG   Yes and No,AGI No like,,,Trained - Repeated,Phrase,Abstract Sign,
-300,AH,A        Talk about,AH   Temp and Weather,,,,Trained - Repeated,Phrase,Photo,
-301,AHA,A        Talk about,AH   Temp and Weather,AHA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-302,AHB,A        Talk about,AH   Temp and Weather,AHB Hot,,,Trained - Repeated,Single Word,Abstract Sign,
-303,AHBA,A        Talk about,AH   Temp and Weather,AHB Hot,AHBA Back,,Trained - Repeated,Single Word,Abstract Sign,
+298,AGH,A        Talk about,AG   Yes and No,AGH Like,,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+299,AGI,A        Talk about,AG   Yes and No,AGI No like,,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+300,AH,A        Talk about,AH   Temp and Weather,,,,Navigation,Phrase,Photo,Trained - Repeated
+301,AHA,A        Talk about,AH   Temp and Weather,AHA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+302,AHB,A        Talk about,AH   Temp and Weather,AHB Hot,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+303,AHBA,A        Talk about,AH   Temp and Weather,AHB Hot,AHBA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
 304,AHBB,A        Talk about,AH   Temp and Weather,AHB Hot,AHBB,,,,,
-305,AHBC,A        Talk about,AH   Temp and Weather,AHB Hot,AHBC Hot outside,,Untrained - Discovered,Phrase,Photo,
-306,AHBD,A        Talk about,AH   Temp and Weather,AHB Hot,AHBD Hot inside,,Untrained - Discovered,Phrase,Drawing,
-307,AHBE,A        Talk about,AH   Temp and Weather,AHB Hot,AHBE Like,,Trained,Single Word,Abstract Sign,
-308,AHBF,A        Talk about,AH   Temp and Weather,AHB Hot,AHBF No like,,Trained,Phrase,Abstract Sign,
-309,AHC,A        Talk about,AH   Temp and Weather,AHC Warm,,,Trained,Single Word,Abstract Sign,
-310,AHCA,A        Talk about,AH   Temp and Weather,AHC Warm,AHCA Back,,Trained - Repeated,Single Word,Abstract Sign,
-311,AHCB,A        Talk about,AH   Temp and Weather,AHC Warm,AHCB Warm outside,,Untrained - Discovered,Phrase,Photo,
+305,AHBC,A        Talk about,AH   Temp and Weather,AHB Hot,AHBC Hot outside,,Space-Temporal,Phrase,Photo,Untrained - Discovered
+306,AHBD,A        Talk about,AH   Temp and Weather,AHB Hot,AHBD Hot inside,,Space-Temporal,Phrase,Drawing,Untrained - Discovered
+307,AHBE,A        Talk about,AH   Temp and Weather,AHB Hot,AHBE Like,,Self/State,Single Word,Abstract Sign,Trained
+308,AHBF,A        Talk about,AH   Temp and Weather,AHB Hot,AHBF No like,,Self/State,Phrase,Abstract Sign,Trained
+309,AHC,A        Talk about,AH   Temp and Weather,AHC Warm,,,Navigation,Single Word,Abstract Sign,Trained
+310,AHCA,A        Talk about,AH   Temp and Weather,AHC Warm,AHCA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+311,AHCB,A        Talk about,AH   Temp and Weather,AHC Warm,AHCB Warm outside,,Space-Temporal,Phrase,Photo,Untrained - Discovered
 312,AHCC,A        Talk about,AH   Temp and Weather,AHC Warm,AHCC,,,,,
-313,AHCD,A        Talk about,AH   Temp and Weather,AHC Warm,AHCD Warm inside,,Untrained - Discovered,Phrase,Abstract Sign,
-314,AHD,A        Talk about,AH   Temp and Weather,AHD Cool,,,Trained,Single Word,Abstract Sign,
-315,AHE,A        Talk about,AH   Temp and Weather,AHE Cold,,,Trained,Single Word,Abstract Sign,
+313,AHCD,A        Talk about,AH   Temp and Weather,AHC Warm,AHCD Warm inside,,Space-Temporal,Phrase,Abstract Sign,Untrained - Discovered
+314,AHD,A        Talk about,AH   Temp and Weather,AHD Cool,,,Space-Temporal,Single Word,Abstract Sign,Trained
+315,AHE,A        Talk about,AH   Temp and Weather,AHE Cold,,,Space-Temporal,Single Word,Abstract Sign,Trained
 316,AHF,A        Talk about,AH   Temp and Weather,AHF,,,,,,
-317,AHG,A        Talk about,AH   Temp and Weather,AHG Day sun,,,Trained - Repeated,Phrase,Photo,
-318,AHH,A        Talk about,AH   Temp and Weather,AHH Lightning Thunder Cheese Game,,,Trained - Repeated,Single Word,Photo,
-319,AHI,A        Talk about,AH   Temp and Weather,AHI Rain,,,Trained - Repeated,Single Word,Photo,
-320,AHJ,A        Talk about,AH   Temp and Weather,AHJ Clouds,,,Trained - Repeated,Single Word,Photo,
-321,AHK,A        Talk about,AH   Temp and Weather,AHK Wind,,,Trained - Repeated,Single Word,Photo,
-322,AHL,A        Talk about,AH   Temp and Weather,AHL Night moon,,,Trained - Repeated,Phrase,Photo,
-323,AHM,A        Talk about,AH   Temp and Weather,AHM Like,,,Trained - Repeated,Single Word,Abstract Sign,
-324,AHN,A        Talk about,AH   Temp and Weather,AHN plants,,,Trained,Single Word,Photo,
-325,AHO,A        Talk about,AH   Temp and Weather,AHO No like,,,Trained - Repeated,Phrase,Abstract Sign,
-326,AI,A        Talk about,AI   Reading and Phonics,,,,Trained,Phrase,Photo,
-327,AJ,A        Talk about,AJ   Tell a story,,,,Trained,Phrase,Drawing,
-328,AK,A        Talk about,AK Type,,,,Trained,Single Word,Photo,
-329,AKA,A        Talk about,AK Type,AKA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-330,AKB,A        Talk about,AK Type,"AKB ""A""",,,Trained,Single Word,Photo,
-331,AKC,A        Talk about,AK Type,"AKC ""B""",,,Trained,Single Word,Photo,
-332,AKD,A        Talk about,AK Type,"AKD ""E""",,,Trained,Single Word,Photo,
-333,AKE,A        Talk about,AK Type,"AKE ""L""",,,Trained,Single Word,Photo,
-334,AKF,A        Talk about,AK Type,"AKF ""T""",,,Trained,Single Word,Photo,
-335,AKG,A        Talk about,AK Type,"AKG ""F""",,,Trained,Single Word,Photo,
-336,AKH,A        Talk about,AK Type,"AKH ""P""",,,Trained,Single Word,Photo,
-337,AKI,A        Talk about,AK Type,"AKI ""D""",,,Trained,Single Word,Photo,
-338,AKJ,A        Talk about,AK Type,"AKJ ""S""",,,Trained,Single Word,Photo,
-339,AKK,A        Talk about,AK Type,"AKK ""O""",,,Trained,Single Word,Photo,
-340,AKL,A        Talk about,AK Type,"AKL ""M""",,,Trained,Single Word,Photo,
-341,AKM,A        Talk about,AK Type,"AKM ""R""",,,Trained,Single Word,Photo,
-342,AL,A        Talk about,AL Math,,,,Trained,Single Word,Photo,
-343,ALA,A        Talk about,AL Math,ALA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-344,ALB,A        Talk about,AL Math,ALB 0,,,Trained,Single Word,Photo,
-345,ALC,A        Talk about,AL Math,ALC 1,,,Trained,Single Word,Photo,
-346,ALD,A        Talk about,AL Math,ALD 2,,,Trained,Single Word,Photo,
-347,ALE,A        Talk about,AL Math,ALE 3,,,Trained,Single Word,Photo,
-348,ALF,A        Talk about,AL Math,ALF 4,,,Trained,Single Word,Photo,
-349,ALG,A        Talk about,AL Math,ALG 5,,,Trained,Single Word,Photo,
-350,ALH,A        Talk about,AL Math,ALH 6,,,Trained,Single Word,Photo,
-351,ALI,A        Talk about,AL Math,ALI 7,,,Untrained - Unused,Single Word,Photo,
-352,ALJ,A        Talk about,AL Math,ALJ 8,,,Untrained - Unused,Single Word,Photo,
-353,B,B        Places,,,,,Trained,Single Word,Photo,
-354,BA,B        Places,BA   Back,,,,Trained - Repeated,Single Word,Abstract Sign,
+317,AHG,A        Talk about,AH   Temp and Weather,AHG Day sun,,,Space-Temporal,Phrase,Photo,Trained - Repeated
+318,AHH,A        Talk about,AH   Temp and Weather,AHH Lightning Thunder Cheese Game,,,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+319,AHI,A        Talk about,AH   Temp and Weather,AHI Rain,,,Space-Temporal,Single Word,Photo,Trained - Repeated
+320,AHJ,A        Talk about,AH   Temp and Weather,AHJ Clouds,,,Space-Temporal,Single Word,Photo,Trained - Repeated
+321,AHK,A        Talk about,AH   Temp and Weather,AHK Wind,,,Space-Temporal,Single Word,Photo,Trained - Repeated
+322,AHL,A        Talk about,AH   Temp and Weather,AHL Night moon,,,Space-Temporal,Phrase,Photo,Trained - Repeated
+323,AHM,A        Talk about,AH   Temp and Weather,AHM Like,,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+324,AHN,A        Talk about,AH   Temp and Weather,AHN plants,,,Socio-Cognitive,Single Word,Photo,Trained
+325,AHO,A        Talk about,AH   Temp and Weather,AHO No like,,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+326,AI,A        Talk about,AI   Reading and Phonics,,,,Socio-Cognitive,Phrase,Photo,Trained
+327,AJ,A        Talk about,AJ   Tell a story,,,,Socio-Cognitive,Phrase,Drawing,Trained
+328,AK,A        Talk about,AK Type,,,,Navigation,Single Word,Photo,Trained
+329,AKA,A        Talk about,AK Type,AKA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+330,AKB,A        Talk about,AK Type,"AKB ""A""",,,,,,
+331,AKC,A        Talk about,AK Type,"AKC ""B""",,,,,,
+332,AKD,A        Talk about,AK Type,"AKD ""E""",,,,,,
+333,AKE,A        Talk about,AK Type,"AKE ""L""",,,,,,
+334,AKF,A        Talk about,AK Type,"AKF ""T""",,,,,,
+335,AKG,A        Talk about,AK Type,"AKG ""F""",,,,,,
+336,AKH,A        Talk about,AK Type,"AKH ""P""",,,,,,
+337,AKI,A        Talk about,AK Type,"AKI ""D""",,,,,,
+338,AKJ,A        Talk about,AK Type,"AKJ ""S""",,,,,,
+339,AKK,A        Talk about,AK Type,"AKK ""O""",,,,,,
+340,AKL,A        Talk about,AK Type,"AKL ""M""",,,,,,
+341,AKM,A        Talk about,AK Type,"AKM ""R""",,,,,,
+342,AL,A        Talk about,AL Math,,,,Navigation,Single Word,Photo,Trained
+343,ALA,A        Talk about,AL Math,ALA Back,,,,,,
+344,ALB,A        Talk about,AL Math,ALB 0,,,,,,
+345,ALC,A        Talk about,AL Math,ALC 1,,,,,,
+346,ALD,A        Talk about,AL Math,ALD 2,,,,,,
+347,ALE,A        Talk about,AL Math,ALE 3,,,,,,
+348,ALF,A        Talk about,AL Math,ALF 4,,,,,,
+349,ALG,A        Talk about,AL Math,ALG 5,,,,,,
+350,ALH,A        Talk about,AL Math,ALH 6,,,,,,
+351,ALI,A        Talk about,AL Math,ALI 7,,,,,,
+352,ALJ,A        Talk about,AL Math,ALJ 8,,,,,,
+353,B,B        Places,,,,,Navigation,Single Word,Photo,Trained
+354,BA,B        Places,BA   Back,,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
 355,BB,B        Places,BB   ,,,,,,,
-356,BC,B        Places,BC   Outside Walk,,,,Trained - Repeated,Phrase,Photo,
-357,BD,B        Places,BD   Isabelle's House,,,,Trained,Phrase,Photo,
-358,BE,B        Places,BE    Tillie's House,,,,Trained,Phrase,Photo,
-359,BF,B        Places,BF    Basket,,,,Trained,Single Word,Photo,
-360,BG,B        Places,BG   Playstand ,,,,Trained,Single Word,Photo,
-361,BH,B        Places,BH   Curtain,,,,Trained,Single Word,Photo,
-362,BI,B        Places,BI  Outside aviary,,,,Trained - Repeated,Phrase,Photo,
-363,BJ,B        Places,BJ  Golf cart ride,,,,Trained - Repeated,Phrase,Photo,
-364,BK,B        Places,BK  River aviary,,,,Trained,Phrase,Photo,
-365,BL,B        Places,BL   Tea room aviary,,,,Trained,Phrase,Photo,
-366,BM,B        Places,BM     Mom,,,,Trained - Repeated,Single Word,Photo,
-367,BN,B        Places,BN     Ellie,,,,Trained - Repeated,Single Word,Photo,
-368,BO,B        Places,BO     Isabelle,,,,Trained - Repeated,Single Word,Photo,
-369,BP,B        Places,BP     Tillie,,,,Trained - Repeated,Single Word,Photo,
-370,BQ,B        Places,BQ     Like,,,,Trained - Repeated,Single Word,Abstract Sign,
-371,BR,B        Places,BR     No like,,,,Trained - Repeated,Phrase,Abstract Sign,
-372,C,C         Experience,,,,,Trained,Single Word,Drawing,
-373,CA,C         Experience,CA   Back,,,,Trained - Repeated,Single Word,Abstract Sign,
-374,CB,C         Experience,CB   Mom,,,,Trained - Repeated,Single Word,Photo,
+356,BC,B        Places,BC   Outside Walk,,,,Space-Temporal,Phrase,Photo,Trained - Repeated
+357,BD,B        Places,BD   Isabelle's House,,,,Space-Temporal,Phrase,Photo,Trained
+358,BE,B        Places,BE    Tillie's House,,,,Space-Temporal,Phrase,Photo,Trained
+359,BF,B        Places,BF    Basket,,,,Space-Temporal,Single Word,Photo,Trained
+360,BG,B        Places,BG   Playstand ,,,,Space-Temporal,Single Word,Photo,Trained
+361,BH,B        Places,BH   Curtain,,,,Space-Temporal,Single Word,Photo,Trained
+362,BI,B        Places,BI  Outside aviary,,,,Space-Temporal,Phrase,Photo,Trained - Repeated
+363,BJ,B        Places,BJ  Golf cart ride,,,,Space-Temporal,Phrase,Photo,Trained - Repeated
+364,BK,B        Places,BK  River aviary,,,,Space-Temporal,Phrase,Photo,Trained
+365,BL,B        Places,BL   Tea room aviary,,,,Space-Temporal,Phrase,Photo,Trained
+366,BM,B        Places,BM     Mom,,,,Family & Friends,Single Word,Photo,Trained - Repeated
+367,BN,B        Places,BN     Ellie,,,,Family & Friends,Single Word,Photo,Trained - Repeated
+368,BO,B        Places,BO     Isabelle,,,,Family & Friends,Single Word,Photo,Trained - Repeated
+369,BP,B        Places,BP     Tillie,,,,Family & Friends,Single Word,Photo,Trained - Repeated
+370,BQ,B        Places,BQ     Like,,,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+371,BR,B        Places,BR     No like,,,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+372,C,C         Experience,,,,,Navigation,Single Word,Drawing,Trained
+373,CA,C         Experience,CA   Back,,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+374,CB,C         Experience,CB   Mom,,,,Family & Friends,Single Word,Photo,Trained - Repeated
 375,CC,C         Experience,CC   ,,,,,,,
-376,CD,C         Experience,CD   Touch,,,,Trained,Single Word,Abstract Sign,
-377,CE,C         Experience,CE    See,,,,Trained,Single Word,Abstract Sign,
-378,CF,C         Experience,CF    Hear,,,,Trained,Single Word,Abstract Sign,
-379,CG,C         Experience,CG  Ellie,,,,Trained - Repeated,Single Word,Photo,
-380,CH,C         Experience,CH   Tillie,,,,Trained - Repeated,Single Word,Photo,
-381,CI,C         Experience,CI     Isabelle,,,,Trained - Repeated,Single Word,Photo,
-382,CJ,C         Experience,CJ     Read,,,,Trained,Single Word,Abstract Sign,
-383,CK,C         Experience,CK   Taste,,,,Trained,Single Word,Drawing,
-384,CL,C         Experience,CL    Smell,,,,Trained,Single Word,Photo,
-385,CM,C         Experience,CM  Love,,,,Trained - Repeated,Single Word,Drawing,
-386,CN,C         Experience,CN  Happy,,,,Trained - Repeated,Single Word,Drawing,
-387,CO,C         Experience,CO  Excited,,,,Trained - Repeated,Single Word,Drawing,
-388,CP,C         Experience,CP  Sad,,,,Trained - Repeated,Single Word,Drawing,
-389,CQ,C         Experience,CQ  Like,,,,Trained - Repeated,Single Word,Abstract Sign,
-390,CR,C         Experience,CR  No like,,,,Trained - Repeated,Phrase,Abstract Sign,
-391,D,D        To play,,,,,Trained,Phrase,Drawing,
-392,DA,D        To play,DA  Back,,,,Trained - Repeated,Single Word,Abstract Sign,
-393,DB,D        To play,DB   Snuggle,,,,Trained,Single Word,Drawing,
-394,DC,D        To play,DC   Tracing and writing,,,,Trained - Repeated,Phrase,Photo,
-395,DCA,D        To play,DC   Tracing and writing,DCA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-396,DCB,D        To play,DC   Tracing and writing,DCB Tracing,,,Trained,Single Word,Photo,
+376,CD,C         Experience,CD   Touch,,,,Action,Single Word,Abstract Sign,Trained
+377,CE,C         Experience,CE    See,,,,Action,Single Word,Abstract Sign,Trained
+378,CF,C         Experience,CF    Hear,,,,Action,Single Word,Abstract Sign,Trained
+379,CG,C         Experience,CG  Ellie,,,,Family & Friends,Single Word,Photo,Trained - Repeated
+380,CH,C         Experience,CH   Tillie,,,,Family & Friends,Single Word,Photo,Trained - Repeated
+381,CI,C         Experience,CI     Isabelle,,,,Family & Friends,Single Word,Photo,Trained - Repeated
+382,CJ,C         Experience,CJ     Read,,,,Socio-Cognitive,Single Word,Abstract Sign,Trained
+383,CK,C         Experience,CK   Taste,,,,Action,Single Word,Drawing,Trained
+384,CL,C         Experience,CL    Smell,,,,Action,Single Word,Photo,Trained
+385,CM,C         Experience,CM  Love,,,,Self/State,Single Word,Drawing,Trained - Repeated
+386,CN,C         Experience,CN  Happy,,,,Self/State,Single Word,Drawing,Trained - Repeated
+387,CO,C         Experience,CO  Excited,,,,Self/State,Single Word,Drawing,Trained - Repeated
+388,CP,C         Experience,CP  Sad,,,,Self/State,Single Word,Drawing,Trained - Repeated
+389,CQ,C         Experience,CQ  Like,,,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+390,CR,C         Experience,CR  No like,,,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+391,D,D        To play,,,,,Navigation,Phrase,Drawing,Trained
+392,DA,D        To play,DA  Back,,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+393,DB,D        To play,DB   Snuggle,,,,Action,Single Word,Drawing,Trained
+394,DC,D        To play,DC   Tracing and writing,,,,Navigation,Phrase,Photo,Trained - Repeated
+395,DCA,D        To play,DC   Tracing and writing,DCA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+396,DCB,D        To play,DC   Tracing and writing,DCB Tracing,,,Socio-Cognitive,Single Word,Photo,Trained
 397,DCC,D        To play,DC   Tracing and writing,DCC ,,,,,,
-398,DCD,D        To play,DC   Tracing and writing,DCD Free writing practice,,,Trained,Phrase,Photo,
-399,DCE,D        To play,DC   Tracing and writing,DCE Letter practice,,,Trained,Phrase,Photo,
-400,DCF,D        To play,DC   Tracing and writing,DCF Draw what I see,,,Trained,Phrase,Photo,
-401,DCG,D        To play,DC   Tracing and writing,DCG Kindergarten lines,,,Trained,Phrase,Photo,
-402,DCH,D        To play,DC   Tracing and writing,DCH Write words,,,Trained,Phrase,Photo,
-403,DCI,D        To play,DC   Tracing and writing,DCI Spelling,,,Trained,Single Word,Photo,
+398,DCD,D        To play,DC   Tracing and writing,DCD Free writing practice,,,Socio-Cognitive,Phrase,Photo,Trained
+399,DCE,D        To play,DC   Tracing and writing,DCE Letter practice,,,Socio-Cognitive,Phrase,Photo,Trained
+400,DCF,D        To play,DC   Tracing and writing,DCF Draw what I see,,,Socio-Cognitive,Phrase,Photo,Trained
+401,DCG,D        To play,DC   Tracing and writing,DCG Kindergarten lines,,,Socio-Cognitive,Phrase,Photo,Trained
+402,DCH,D        To play,DC   Tracing and writing,DCH Write words,,,Socio-Cognitive,Phrase,Photo,Trained
+403,DCI,D        To play,DC   Tracing and writing,DCI Spelling,,,Socio-Cognitive,Single Word,Photo,Trained
 404,DD,D        To play,DD  ,,,,,,,
-405,DE,D        To play,DE   Book,,,,Trained - Repeated,Single Word,Drawing,
-406,DEA,D        To play,DE   Book,DEA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-407,DEB,D        To play,DE   Book,DEB Touch and Feel,,,Trained,Single Word,Photo,
-408,DEC,D        To play,DE   Book,DEC Pop-up,,,Trained,Single Word,Photo,
-409,DED,D        To play,DE   Book,DED Reading Book,,,Trained,Phrase,Photo,
-410,DEDA,D        To play,DE   Book,DED Reading Book,DEDA Back,,Trained - Repeated,Single Word,Abstract Sign,
-411,DEDB,D        To play,DE   Book,DED Reading Book,DEDB One Word,,Trained,Phrase,Photo,
-412,DEDC,D        To play,DE   Book,DED Reading Book,DEDC Sentence Book,,Trained,Phrase,Abstract Sign,
+405,DE,D        To play,DE   Book,,,,Navigation,Single Word,Drawing,Trained - Repeated
+406,DEA,D        To play,DE   Book,DEA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+407,DEB,D        To play,DE   Book,DEB Touch and Feel,,,Socio-Cognitive,Single Word,Photo,Trained
+408,DEC,D        To play,DE   Book,DEC Pop-up,,,Socio-Cognitive,Single Word,Photo,Trained
+409,DED,D        To play,DE   Book,DED Reading Book,,,Navigation,Phrase,Photo,Trained
+410,DEDA,D        To play,DE   Book,DED Reading Book,DEDA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+411,DEDB,D        To play,DE   Book,DED Reading Book,DEDB One Word,,Socio-Cognitive,Phrase,Photo,Trained
+412,DEDC,D        To play,DE   Book,DED Reading Book,DEDC Sentence Book,,Socio-Cognitive,Phrase,Abstract Sign,Trained
 413,DEE,D        To play,DE   Book,DEE,,,,,,
-414,DEF,D        To play,DE   Book,DEF Theme,,,Trained - Repeated,Single Word,Drawing,
-415,DEFA,D        To play,DE   Book,DEF Theme,DEFA Back,,Trained - Repeated,Single Word,Abstract Sign,
-416,DEFB,D        To play,DE   Book,DEF Theme,DEFB Fantasy,,Trained - Repeated,Single Word,Drawing,
-417,DEFBA,D        To play,DE   Book,DEF Theme,DEFB Fantasy,DEFBA Back,Trained - Repeated,Single Word,Abstract Sign,
+414,DEF,D        To play,DE   Book,DEF Theme,,,Navigation,Single Word,Drawing,Trained - Repeated
+415,DEFA,D        To play,DE   Book,DEF Theme,DEFA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+416,DEFB,D        To play,DE   Book,DEF Theme,DEFB Fantasy,,Navigation,Single Word,Drawing,Trained - Repeated
+417,DEFBA,D        To play,DE   Book,DEF Theme,DEFB Fantasy,DEFBA Back,Navigation,Single Word,Abstract Sign,Trained - Repeated
 418,DEFBB,D        To play,DE   Book,DEF Theme,DEFB Fantasy,DEFBB,,,,
-419,DEFBC,D        To play,DE   Book,DEF Theme,DEFB Fantasy,DEFBC Unicorn,Trained - Repeated,Single Word,Drawing,
-420,DEFBD,D        To play,DE   Book,DEF Theme,DEFB Fantasy,DEFBD Dragon,Trained - Repeated,Single Word,Drawing,
-421,DEFBE,D        To play,DE   Book,DEF Theme,DEFB Fantasy,DEFBE Fairy,Trained - Repeated,Single Word,Drawing,
-422,DEFBF,D        To play,DE   Book,DEF Theme,DEFB Fantasy,DEFBF Mermaid,Trained - Repeated,Single Word,Drawing,
-423,DEFBG,D        To play,DE   Book,DEF Theme,DEFB Fantasy,DEFBG Elf,Trained - Repeated,Single Word,Drawing,
-424,DEFBH,D        To play,DE   Book,DEF Theme,DEFB Fantasy,DEFBH Gnome,Trained - Repeated,Single Word,Drawing,
-425,DEFC,D        To play,DE   Book,DEF Theme,DEFC Animals,,Trained,Single Word,Drawing,
-426,DEFCA,D        To play,DE   Book,DEF Theme,DEFC Animals,DEFCA Back,Trained - Repeated,Single Word,Abstract Sign,
-427,DEFCB,D        To play,DE   Book,DEF Theme,DEFC Animals,DEFCB Baby Animals,Trained - Repeated,Phrase,Photo,
+419,DEFBC,D        To play,DE   Book,DEF Theme,DEFB Fantasy,DEFBC Unicorn,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+420,DEFBD,D        To play,DE   Book,DEF Theme,DEFB Fantasy,DEFBD Dragon,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+421,DEFBE,D        To play,DE   Book,DEF Theme,DEFB Fantasy,DEFBE Fairy,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+422,DEFBF,D        To play,DE   Book,DEF Theme,DEFB Fantasy,DEFBF Mermaid,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+423,DEFBG,D        To play,DE   Book,DEF Theme,DEFB Fantasy,DEFBG Elf,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+424,DEFBH,D        To play,DE   Book,DEF Theme,DEFB Fantasy,DEFBH Gnome,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+425,DEFC,D        To play,DE   Book,DEF Theme,DEFC Animals,,Navigation,Single Word,Drawing,Trained
+426,DEFCA,D        To play,DE   Book,DEF Theme,DEFC Animals,DEFCA Back,Navigation,Single Word,Abstract Sign,Trained - Repeated
+427,DEFCB,D        To play,DE   Book,DEF Theme,DEFC Animals,DEFCB Baby Animals,Socio-Cognitive,Phrase,Photo,Trained - Repeated
 428,DEFCC,D        To play,DE   Book,DEF Theme,DEFC Animals,DEFCC,,,,
-429,DEFCD,D        To play,DE   Book,DEF Theme,DEFC Animals,DEFCD Jungle Animals,Trained - Repeated,Phrase,Photo,
-430,DEFCE,D        To play,DE   Book,DEF Theme,DEFC Animals,DEFCE Underwater Animals,Trained - Repeated,Phrase,Drawing,
-431,DEFCF,D        To play,DE   Book,DEF Theme,DEFC Animals,DEFCF Backyard Animals,Trained - Repeated,Phrase,Photo,
-432,DEFCG,D        To play,DE   Book,DEF Theme,DEFC Animals,DEFCG Bugs,Trained - Repeated,Single Word,Photo,
-433,DEFD,D        To play,DE   Book,DEF Theme,DEFD Seasonal,,Trained,Single Word,Photo,
-434,DEFDA,D        To play,DE   Book,DEF Theme,DEFD Seasonal,DEFDA Back,Trained - Repeated,Single Word,Abstract Sign,
-435,DEFDB,D        To play,DE   Book,DEF Theme,DEFD Seasonal,DEFDB Spring,Trained - Repeated,Single Word,Photo,
-436,DEFDC,D        To play,DE   Book,DEF Theme,DEFD Seasonal,DEFDC Summer,Trained - Repeated,Single Word,Photo,
+429,DEFCD,D        To play,DE   Book,DEF Theme,DEFC Animals,DEFCD Jungle Animals,Socio-Cognitive,Phrase,Photo,Trained - Repeated
+430,DEFCE,D        To play,DE   Book,DEF Theme,DEFC Animals,DEFCE Underwater Animals,Socio-Cognitive,Phrase,Drawing,Trained - Repeated
+431,DEFCF,D        To play,DE   Book,DEF Theme,DEFC Animals,DEFCF Backyard Animals,Socio-Cognitive,Phrase,Photo,Trained - Repeated
+432,DEFCG,D        To play,DE   Book,DEF Theme,DEFC Animals,DEFCG Bugs,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+433,DEFD,D        To play,DE   Book,DEF Theme,DEFD Seasonal,,Navigation,Single Word,Photo,Trained
+434,DEFDA,D        To play,DE   Book,DEF Theme,DEFD Seasonal,DEFDA Back,Navigation,Single Word,Abstract Sign,Trained - Repeated
+435,DEFDB,D        To play,DE   Book,DEF Theme,DEFD Seasonal,DEFDB Spring,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+436,DEFDC,D        To play,DE   Book,DEF Theme,DEFD Seasonal,DEFDC Summer,Socio-Cognitive,Single Word,Photo,Trained - Repeated
 437,DEFDD,D        To play,DE   Book,DEF Theme,DEFD Seasonal,DEFDD ,,,,
-438,DEFDE,D        To play,DE   Book,DEF Theme,DEFD Seasonal,DEFDE Fall,Trained - Repeated,Single Word,Photo,
-439,DEFDF,D        To play,DE   Book,DEF Theme,DEFD Seasonal,DEFDF Winter,Trained - Repeated,Single Word,Photo,
-440,DEFE,D        To play,DE   Book,DEF Theme,DEFE Holidays,,Trained,Single Word,Photo,
-441,DEFEA,D        To play,DE   Book,DEF Theme,DEFE Holidays,DEFEA Back,Trained - Repeated,Single Word,Abstract Sign,
-442,DEFEB,D        To play,DE   Book,DEF Theme,DEFE Holidays,DEFEB Easter,Trained - Repeated,Single Word,Photo,
-443,DEFEC,D        To play,DE   Book,DEF Theme,DEFE Holidays,DEFEC Halloween,Trained - Repeated,Single Word,Photo,
-444,DEFED,D        To play,DE   Book,DEF Theme,DEFE Holidays,DEFED Christmas,Trained - Repeated,Single Word,Drawing,
-445,DEG,D        To play,DE   Book,DEG Death and Sad,,,Generalized,Phrase,Photo,
-446,DF,D        To play,DF Crafts,,,,Trained - Repeated,Single Word,Drawing,
-447,DG,D        To play,DG Typing,,,,Trained,Single Word,Photo,
-448,DH,D        To play,DH Leaf Wrestle,,,,Trained,Phrase,Photo,
-449,DI,D        To play,DI Tablet Games,,,,Trained - Repeated,Phrase,Drawing,
-450,DIA,D        To play,DI Tablet Games,DIA back,,,Trained - Repeated,Single Word,Abstract Sign,
-451,DIB,D        To play,DI Tablet Games,DIB Balloon pop,,,Trained,Phrase,Photo,
-452,DIC,D        To play,DI Tablet Games,DIC Piano,,,Trained,Single Word,Photo,
-453,DID,D        To play,DI Tablet Games,DID Puzzle,,,Trained,Single Word,Photo,
-454,DIE,D        To play,DI Tablet Games,DIE Number match,,,Trained,Phrase,Photo,
-455,DIF,D        To play,DI Tablet Games,DIF Puzzle world,,,Trained,Phrase,Photo,
-456,DIG,D        To play,DI Tablet Games,DIG Card Match,,,Trained,Phrase,Photo,
-457,DIH,D        To play,DI Tablet Games,DIH Coloring,,,Trained - Repeated,Single Word,Photo,
+438,DEFDE,D        To play,DE   Book,DEF Theme,DEFD Seasonal,DEFDE Fall,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+439,DEFDF,D        To play,DE   Book,DEF Theme,DEFD Seasonal,DEFDF Winter,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+440,DEFE,D        To play,DE   Book,DEF Theme,DEFE Holidays,,Navigation,Single Word,Photo,Trained
+441,DEFEA,D        To play,DE   Book,DEF Theme,DEFE Holidays,DEFEA Back,Navigation,Single Word,Abstract Sign,Trained - Repeated
+442,DEFEB,D        To play,DE   Book,DEF Theme,DEFE Holidays,DEFEB Easter,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+443,DEFEC,D        To play,DE   Book,DEF Theme,DEFE Holidays,DEFEC Halloween,Socio-Cognitive,Single Word,Photo,Trained - Repeated
+444,DEFED,D        To play,DE   Book,DEF Theme,DEFE Holidays,DEFED Christmas,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+445,DEG,D        To play,DE   Book,DEG Death and Sad,,,Socio-Cognitive,Phrase,Photo,Generalized
+446,DF,D        To play,DF Crafts,,,,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+447,DG,D        To play,DG Typing,,,,Socio-Cognitive,Single Word,Photo,Trained
+448,DH,D        To play,DH Leaf Wrestle,,,,Socio-Cognitive,Phrase,Photo,Trained
+449,DI,D        To play,DI Tablet Games,,,,Navigation,Phrase,Drawing,Trained - Repeated
+450,DIA,D        To play,DI Tablet Games,DIA back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+451,DIB,D        To play,DI Tablet Games,DIB Balloon pop,,,Socio-Cognitive,Phrase,Photo,Trained
+452,DIC,D        To play,DI Tablet Games,DIC Piano,,,Socio-Cognitive,Single Word,Photo,Trained
+453,DID,D        To play,DI Tablet Games,DID Puzzle,,,Socio-Cognitive,Single Word,Photo,Trained
+454,DIE,D        To play,DI Tablet Games,DIE Number match,,,Socio-Cognitive,Phrase,Photo,Trained
+455,DIF,D        To play,DI Tablet Games,DIF Puzzle world,,,Socio-Cognitive,Phrase,Photo,Trained
+456,DIG,D        To play,DI Tablet Games,DIG Card Match,,,Socio-Cognitive,Phrase,Photo,Trained
+457,DIH,D        To play,DI Tablet Games,DIH Coloring,,,Socio-Cognitive,Single Word,Photo,Trained - Repeated
 458,DII,D        To play,DI Tablet Games,DII,,,,,,
-459,DIJ,D        To play,DI Tablet Games,DIJ Baby unicorn,,,Trained,Phrase,Photo,
-460,DJ,D        To play,DJ Cards,,,,Trained - Repeated,Single Word,Drawing,
-461,DK,D        To play,DK Look at art,,,,Trained - Repeated,Phrase,Drawing,
-462,DL,D        To play,DL Play outside,,,,Trained - Repeated,Phrase,Drawing,
-463,DM,D        To play,DM Learning theme,,,,Trained - Repeated,Phrase,Photo,
-464,DN,D        To play,DN Learn new words,,,,Trained - Repeated,Phrase,Abstract Sign,
-465,DO,D        To play,DO Mom,,,,Trained - Repeated,Single Word,Photo,
-466,DP,D        To play,DP Ellie,,,,Trained - Repeated,Single Word,Photo,
-467,DQ,D        To play,DQ Tillie,,,,Trained - Repeated,Single Word,Photo,
-468,DR,D        To play,DR Isabelle,,,,Trained - Repeated,Single Word,Photo,
-469,E,E         To Say Hello To,,,,,Trained,Phrase,Drawing,
-470,EA,E         To Say Hello To,EA   Back,,,,Trained - Repeated,Single Word,Abstract Sign,
-471,EB,E         To Say Hello To,EB   Mom,,,,Trained - Repeated,Single Word,Photo,
-472,EC,E         To Say Hello To,EC    Grandma,,,,Trained - Repeated,Single Word,Photo,
-473,ED,E         To Say Hello To,ED   Cori,,,,Trained,Single Word,Photo,
+459,DIJ,D        To play,DI Tablet Games,DIJ Baby unicorn,,,Socio-Cognitive,Phrase,Photo,Trained
+460,DJ,D        To play,DJ Cards,,,,Socio-Cognitive,Single Word,Drawing,Trained - Repeated
+461,DK,D        To play,DK Look at art,,,,Socio-Cognitive,Phrase,Drawing,Trained - Repeated
+462,DL,D        To play,DL Play outside,,,,Space-Temporal,Phrase,Drawing,Trained - Repeated
+463,DM,D        To play,DM Learning theme,,,,Socio-Cognitive,Phrase,Photo,Trained - Repeated
+464,DN,D        To play,DN Learn new words,,,,Socio-Cognitive,Phrase,Abstract Sign,Trained - Repeated
+465,DO,D        To play,DO Mom,,,,Family & Friends,Single Word,Photo,Trained - Repeated
+466,DP,D        To play,DP Ellie,,,,Family & Friends,Single Word,Photo,Trained - Repeated
+467,DQ,D        To play,DQ Tillie,,,,Family & Friends,Single Word,Photo,Trained - Repeated
+468,DR,D        To play,DR Isabelle,,,,Family & Friends,Single Word,Photo,Trained - Repeated
+469,E,E         To Say Hello To,,,,,Navigation,Phrase,Drawing,Trained
+470,EA,E         To Say Hello To,EA   Back,,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+471,EB,E         To Say Hello To,EB   Mom,,,,Family & Friends,Single Word,Photo,Trained - Repeated
+472,EC,E         To Say Hello To,EC    Grandma,,,,Family & Friends,Single Word,Photo,Trained - Repeated
+473,ED,E         To Say Hello To,ED   Cori,,,,Family & Friends,Single Word,Photo,Trained
 474,EE,E         To Say Hello To,EE    ,,,,,,,
-475,EF,E         To Say Hello To,EF    Sierra,,,,Trained,Single Word,Photo,
-476,EG,E         To Say Hello To,EG   Car Ride,,,,Trained - Repeated,Single Word,Drawing,
-477,EH,E         To Say Hello To,EH   Bird Friends,,,,Trained,Phrase,Photo,
-478,EI,E         To Say Hello To,EI      Outside walk,,,,Trained - Repeated,Phrase,Photo,
-479,EJ,E         To Say Hello To,EJ     Golf cart ride,,,,Trained - Repeated,Phrase,Abstract Sign,
-480,F,F         Entertainment,,,,,Trained,Single Word,Photo,
-481,FA,F         Entertainment,FA   Back,,,,Trained - Repeated,Single Word,Abstract Sign,
-482,FB,F         Entertainment,FB    Music,,,,Trained - Repeated,Single Word,Photo,
-483,FBA,F         Entertainment,FB    Music,FBA Back,,,Trained - Repeated,Single Word,Abstract Sign,
+475,EF,E         To Say Hello To,EF    Sierra,,,,Family & Friends,Single Word,Photo,Trained
+476,EG,E         To Say Hello To,EG   Car Ride,,,,Space-Temporal,Single Word,Drawing,Trained - Repeated
+477,EH,E         To Say Hello To,EH   Bird Friends,,,,Family & Friends,Phrase,Photo,Trained
+478,EI,E         To Say Hello To,EI      Outside walk,,,,Space-Temporal,Phrase,Photo,Trained - Repeated
+479,EJ,E         To Say Hello To,EJ     Golf cart ride,,,,Space-Temporal,Phrase,Abstract Sign,Trained - Repeated
+480,F,F         Entertainment,,,,,Navigation,Single Word,Photo,Trained
+481,FA,F         Entertainment,FA   Back,,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+482,FB,F         Entertainment,FB    Music,,,,Navigation,Single Word,Photo,Trained - Repeated
+483,FBA,F         Entertainment,FB    Music,FBA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
 484,FBB,F         Entertainment,FB    Music,FBB ,,,,,,
-485,FBC,F         Entertainment,FB    Music,FBC Baroque,,,Trained,Single Word,Photo,
-486,FBCA,F         Entertainment,FB    Music,FBC Baroque,FBCA Back,,Trained - Repeated,Single Word,Abstract Sign,
-487,FBCB,F         Entertainment,FB    Music,FBC Baroque,FBCB Bach,,Trained,Single Word,Photo,
+485,FBC,F         Entertainment,FB    Music,FBC Baroque,,,Navigation,Single Word,Photo,Trained
+486,FBCA,F         Entertainment,FB    Music,FBC Baroque,FBCA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+487,FBCB,F         Entertainment,FB    Music,FBC Baroque,FBCB Bach,,Resources,Single Word,Photo,Trained
 488,FBCC,F         Entertainment,FB    Music,FBC Baroque,FBCC,,,,,
-489,FBCD,F         Entertainment,FB    Music,FBC Baroque,FBCD Handel,,Trained,Single Word,Photo,
-490,FBCE,F         Entertainment,FB    Music,FBC Baroque,FBCE Vivaldi,,Trained,Single Word,Photo,
-491,FBD,F         Entertainment,FB    Music,FBD Romantic Era ,,,Trained,Phrase,Photo,
-492,FBDA,F         Entertainment,FB    Music,FBD Romantic Era ,FBDA Back,,Trained - Repeated,Single Word,Abstract Sign,
-493,FBDB,F         Entertainment,FB    Music,FBD Romantic Era ,FBDB Beethoven,,Trained,Single Word,Photo,
-494,FBDC,F         Entertainment,FB    Music,FBD Romantic Era ,FBDC Saint Seans,,Trained,Phrase,Photo,
+489,FBCD,F         Entertainment,FB    Music,FBC Baroque,FBCD Handel,,Resources,Single Word,Photo,Trained
+490,FBCE,F         Entertainment,FB    Music,FBC Baroque,FBCE Vivaldi,,Resources,Single Word,Photo,Trained
+491,FBD,F         Entertainment,FB    Music,FBD Romantic Era ,,,Navigation,Phrase,Photo,Trained
+492,FBDA,F         Entertainment,FB    Music,FBD Romantic Era ,FBDA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+493,FBDB,F         Entertainment,FB    Music,FBD Romantic Era ,FBDB Beethoven,,Resources,Single Word,Photo,Trained
+494,FBDC,F         Entertainment,FB    Music,FBD Romantic Era ,FBDC Saint Seans,,Resources,Phrase,Photo,Trained
 495,FBDD,F         Entertainment,FB    Music,FBD Romantic Era ,FBDD ,,,,,
-496,FBDE,F         Entertainment,FB    Music,FBD Romantic Era ,FBDE Tchaikovsky,,Trained,Single Word,Photo,
-497,FBDF,F         Entertainment,FB    Music,FBD Romantic Era ,FBDF Rimsky-Korsakav,,Trained,Phrase,Photo,
-498,FBE,F         Entertainment,FB    Music,FBE Impressionist Era,,,Trained,Phrase,Photo,
-499,FBEA,F         Entertainment,FB    Music,FBE Impressionist Era,FBEA Back,,Trained - Repeated,Single Word,Abstract Sign,
-500,FBEB,F         Entertainment,FB    Music,FBE Impressionist Era,FBEB Debussy,,Trained,Single Word,Photo,
-501,FBF,F         Entertainment,FB    Music,FBF Instrumental,,,Trained,Single Word,Photo,
-502,FBFA,F         Entertainment,FB    Music,FBF Instrumental,FBFA Back,,Trained - Repeated,Single Word,Abstract Sign,
-503,FBFB,F         Entertainment,FB    Music,FBF Instrumental,FBFB Guitar,,Trained,Single Word,Photo,
-504,FBFC,F         Entertainment,FB    Music,FBF Instrumental,FBFC Violin,,Trained,Single Word,Photo,
-505,FBFD,F         Entertainment,FB    Music,FBF Instrumental,FBFD Hang drum,,Trained,Phrase,Photo,
-506,FBFE,F         Entertainment,FB    Music,FBF Instrumental,FBFE Trumpet,,Trained,Single Word,Photo,
+496,FBDE,F         Entertainment,FB    Music,FBD Romantic Era ,FBDE Tchaikovsky,,Resources,Single Word,Photo,Trained
+497,FBDF,F         Entertainment,FB    Music,FBD Romantic Era ,FBDF Rimsky-Korsakav,,Resources,Phrase,Photo,Trained
+498,FBE,F         Entertainment,FB    Music,FBE Impressionist Era,,,Navigation,Phrase,Photo,Trained
+499,FBEA,F         Entertainment,FB    Music,FBE Impressionist Era,FBEA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+500,FBEB,F         Entertainment,FB    Music,FBE Impressionist Era,FBEB Debussy,,Resources,Single Word,Photo,Trained
+501,FBF,F         Entertainment,FB    Music,FBF Instrumental,,,Navigation,Single Word,Photo,Trained
+502,FBFA,F         Entertainment,FB    Music,FBF Instrumental,FBFA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+503,FBFB,F         Entertainment,FB    Music,FBF Instrumental,FBFB Guitar,,Resources,Single Word,Photo,Trained
+504,FBFC,F         Entertainment,FB    Music,FBF Instrumental,FBFC Violin,,Resources,Single Word,Photo,Trained
+505,FBFD,F         Entertainment,FB    Music,FBF Instrumental,FBFD Hang drum,,Resources,Phrase,Photo,Trained
+506,FBFE,F         Entertainment,FB    Music,FBF Instrumental,FBFE Trumpet,,Resources,Single Word,Photo,Trained
 507,FBFF,F         Entertainment,FB    Music,FBF Instrumental,FBFF,,,,,
-508,FBFG,F         Entertainment,FB    Music,FBF Instrumental,FBFG Saxophone,,Trained,Single Word,Photo,
-509,FBFH,F         Entertainment,FB    Music,FBF Instrumental,FBFH Yanni,,Untrained - Unused,Single Word,Photo,
-510,FBG,F         Entertainment,FB    Music,FBG Dance,,,Trained,Single Word,Photo,
-511,FBGA,F         Entertainment,FB    Music,FBG Dance,FBGA Back,,Trained - Repeated,Single Word,Abstract Sign,
-512,FBGB,F         Entertainment,FB    Music,FBG Dance,FBGB Techno dance,,Trained,Phrase,Drawing,
-513,FBGC,F         Entertainment,FB    Music,FBG Dance,FBGC Pop Jason mraz,,Trained,Phrase,Photo,
-514,FBGD,F         Entertainment,FB    Music,FBG Dance,FBGD Pop imagine dragons,,Trained,Phrase,Photo,
-515,FBH,F         Entertainment,FB    Music,FBH Learn Something New,,,Trained - Repeated,Phrase,Abstract Sign,
-516,FBI,F         Entertainment,FB    Music,FBI I Play,,,Generalized,Phrase,Photo,
-517,FBJ,F         Entertainment,FB    Music,FBJ Loud,,,Trained,Single Word,Drawing,
-518,FBK,F         Entertainment,FB    Music,FBK Quiet,,,Trained,Single Word,Drawing,
-519,FC,F         Entertainment,FC    Cartoons,,,,Trained,Single Word,Photo,
-520,FCA,F         Entertainment,FC    Cartoons,FCA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-521,FCB,F         Entertainment,FC    Cartoons,FCB Peppa pig,,,Trained,Phrase,Photo,
+508,FBFG,F         Entertainment,FB    Music,FBF Instrumental,FBFG Saxophone,,Resources,Single Word,Photo,Trained
+509,FBFH,F         Entertainment,FB    Music,FBF Instrumental,FBFH Yanni,,Resources,Single Word,Photo,Untrained - Unused
+510,FBG,F         Entertainment,FB    Music,FBG Dance,,,Navigation,Single Word,Photo,Trained
+511,FBGA,F         Entertainment,FB    Music,FBG Dance,FBGA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+512,FBGB,F         Entertainment,FB    Music,FBG Dance,FBGB Techno dance,,Resources,Phrase,Drawing,Trained
+513,FBGC,F         Entertainment,FB    Music,FBG Dance,FBGC Pop Jason mraz,,Resources,Phrase,Photo,Trained
+514,FBGD,F         Entertainment,FB    Music,FBG Dance,FBGD Pop imagine dragons,,Resources,Phrase,Photo,Trained
+515,FBH,F         Entertainment,FB    Music,FBH Learn Something New,,,Socio-Cognitive,Phrase,Abstract Sign,Trained - Repeated
+516,FBI,F         Entertainment,FB    Music,FBI I Play,,,Socio-Cognitive,Phrase,Photo,Generalized
+517,FBJ,F         Entertainment,FB    Music,FBJ Loud,,,Qualifiers,Single Word,Drawing,Trained
+518,FBK,F         Entertainment,FB    Music,FBK Quiet,,,Qualifiers,Single Word,Drawing,Trained
+519,FC,F         Entertainment,FC    Cartoons,,,,Navigation,Single Word,Photo,Trained
+520,FCA,F         Entertainment,FC    Cartoons,FCA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+521,FCB,F         Entertainment,FC    Cartoons,FCB Peppa pig,,,Resources,Phrase,Photo,Trained
 522,FCC,F         Entertainment,FC    Cartoons,FCC,,,,,,
-523,FCD,F         Entertainment,FC    Cartoons,FCD Little Kingdom,,,Trained,Phrase,Photo,
-524,FCE,F         Entertainment,FC    Cartoons,FCE Cloudbabies,,,Trained,Single Word,Photo,
-525,FCF,F         Entertainment,FC    Cartoons,FCF Katuri,,,Trained,Single Word,Photo,
-526,FCG,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,,,Trained - Repeated,Phrase,Photo,
-527,FCGA,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGA Back,,Trained - Repeated,Single Word,Abstract Sign,
-528,FCGB,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGB Seasonal,,Trained - Repeated,Single Word,Photo,
-529,FCGBA,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGB Seasonal,FCGBA Back,Trained - Repeated,Single Word,Abstract Sign,
+523,FCD,F         Entertainment,FC    Cartoons,FCD Little Kingdom,,,Resources,Phrase,Photo,Trained
+524,FCE,F         Entertainment,FC    Cartoons,FCE Cloudbabies,,,Resources,Single Word,Photo,Trained
+525,FCF,F         Entertainment,FC    Cartoons,FCF Katuri,,,Resources,Single Word,Photo,Trained
+526,FCG,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,,,Navigation,Phrase,Photo,Trained - Repeated
+527,FCGA,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+528,FCGB,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGB Seasonal,,Navigation,Single Word,Photo,Trained - Repeated
+529,FCGBA,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGB Seasonal,FCGBA Back,Navigation,Single Word,Abstract Sign,Trained - Repeated
 530,FCGBB,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGB Seasonal,FCGBB ,,,,
-531,FCCBC,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGB Seasonal,FCGBC Spring,Trained - Repeated,Single Word,Photo,
-532,FCGBD,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGB Seasonal,FCGBD Summer,Trained - Repeated,Single Word,Photo,
-533,FCGBE,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGB Seasonal,FCGBE Fall ,Trained - Repeated,Single Word,Photo,
-534,FCGBF,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGB Seasonal,FCGBF Winter,Trained - Repeated,Single Word,Photo,
-535,FCGC,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGC Holidays,,Trained - Repeated,Single Word,Photo,
-536,FCGCA,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGC Holidays,FCGCA Back,Trained - Repeated,Single Word,Abstract Sign,
-537,FCGCB,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGC Holidays,FCGCB Easter,Trained - Repeated,Single Word,Photo,
+531,FCCBC,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGB Seasonal,FCGBC Spring,Resources,Single Word,Photo,Trained - Repeated
+532,FCGBD,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGB Seasonal,FCGBD Summer,Resources,Single Word,Photo,Trained - Repeated
+533,FCGBE,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGB Seasonal,FCGBE Fall ,Resources,Single Word,Photo,Trained - Repeated
+534,FCGBF,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGB Seasonal,FCGBF Winter,Resources,Single Word,Photo,Trained - Repeated
+535,FCGC,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGC Holidays,,Navigation,Single Word,Photo,Trained - Repeated
+536,FCGCA,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGC Holidays,FCGCA Back,Navigation,Single Word,Abstract Sign,Trained - Repeated
+537,FCGCB,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGC Holidays,FCGCB Easter,Resources,Single Word,Photo,Trained - Repeated
 538,FCGCC,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGC Holidays,FCGCC,,,,
-539,FCGCD,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGC Holidays,FCGCD Halloween,Trained - Repeated,Single Word,Photo,
-540,FCGCE,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGC Holidays,FCGCE Christmas,Trained - Repeated,Single Word,Drawing,
-541,FCH,F         Entertainment,FC    Cartoons,FCH Fantasy,,,Trained - Repeated,Single Word,Drawing,
-542,FCH,F         Entertainment,FC    Cartoons,FCH Fantasy,FCHA Back,,Trained - Repeated,Single Word,Abstract Sign,
-543,FCH,F         Entertainment,FC    Cartoons,FCH Fantasy,FCHB Unicorn,,Trained - Repeated,Single Word,Drawing,
-544,FCH,F         Entertainment,FC    Cartoons,FCH Fantasy,FCHC Dragon,,Trained - Repeated,Single Word,Drawing,
-545,FCH,F         Entertainment,FC    Cartoons,FCH Fantasy,FCHD Fairy,,Trained - Repeated,Single Word,Drawing,
-546,FCH,F         Entertainment,FC    Cartoons,FCH Fantasy,FCHE Mermaid,,Trained - Repeated,Single Word,Drawing,
-547,FCH,F         Entertainment,FC    Cartoons,FCH Fantasy,FCHF Elf,,Trained - Repeated,Single Word,Drawing,
-548,FCH,F         Entertainment,FC    Cartoons,FCH Fantasy,FCHG Gnome,,Trained - Repeated,Single Word,Drawing,
-549,FCI,F         Entertainment,FC    Cartoons,FCI Animals,,,Trained - Repeated,Single Word,Drawing,
-550,FCIA,F         Entertainment,FC    Cartoons,FCI Animals,FCIA Back,,Trained - Repeated,Single Word,Abstract Sign,
-551,FCIB,F         Entertainment,FC    Cartoons,FCI Animals,FCIB Underwater Animals,,Trained - Repeated,Phrase,Drawing,
-552,FCIC,F         Entertainment,FC    Cartoons,FCI Animals,FCIC Baby Animals,,Trained - Repeated,Phrase,Photo,
-553,FCID,F         Entertainment,FC    Cartoons,FCI Animals,FCID Jungle Animals,,Trained - Repeated,Phrase,Photo,
-554,FCIE,F         Entertainment,FC    Cartoons,FCI Animals,FCIE Backyard Animals,,Trained - Repeated,Phrase,Photo,
-555,FD,F         Entertainment,FD    Alexa    ,,,,Trained,Single Word,Photo,
-556,FDA,F         Entertainment,FD    Alexa    ,FDA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-557,FDB,F         Entertainment,FD    Alexa    ,FDB Mom,,,Trained - Repeated,Single Word,Photo,
-558,FDC ,F         Entertainment,FD    Alexa    ,FDC Alexa play meditation music,,,Generalized,Phrase,Photo,
-559,FDD,F         Entertainment,FD    Alexa    ,FDD ,,,Generalized,,,
-560,FDE,F         Entertainment,FD    Alexa    ,FDE Alexa play Vivaldi,,,Generalized,Phrase,Photo,
-561,FDF,F         Entertainment,FD    Alexa    ,FDF Alexa play Beethoven on spotify,,,Generalized,Phrase,Photo,
-562,FDG,F         Entertainment,FD    Alexa    ,FDG Alexa play cartoons alexa play number 1,,,Generalized,Phrase,Photo,
-563,FDH,F         Entertainment,FD    Alexa    ,FDH Alexa play Yiruma,,,Generalized,Phrase,Photo,
-564,FDI,F         Entertainment,FD    Alexa    ,FDI Alexa play Will Ackerman,,,Generalized,Phrase,Photo,
-565,FDJ,F         Entertainment,FD    Alexa    ,FDJ Alexa play hooked on a feeling on Pandora,,,Generalized,Phrase,Photo,
-566,FDK,F         Entertainment,FD    Alexa    ,FDK Alexa play Coldplay on Pandora,,,Generalized,Phrase,Photo,
-567,FDL,F         Entertainment,FD    Alexa    ,FDL Alexa play peppa pig cartoons,,,Generalized,Phrase,Photo,
-568,FDM,F         Entertainment,FD    Alexa    ,FDM Alexa thumbs up,,,Generalized,Phrase,Abstract Sign,
-569,FDN,F         Entertainment,FD    Alexa    ,FDN Alexa thumbs down,,,Generalized,Phrase,Abstract Sign,
-570,FDO,F         Entertainment,FD    Alexa    ,FDO Alexa volume 5,,,Generalized,Phrase,Abstract Sign,
-571,FDP,F         Entertainment,FD    Alexa    ,FDP Alexa volume 3,,,Generalized,Phrase,Abstract Sign,
-572,FDQ,F         Entertainment,FD    Alexa    ,FDQ Alexa play Handel,,,Generalized,Phrase,Photo,
-573,FDR,F         Entertainment,FD    Alexa    ,FDR Alexa cancel,,,Generalized,Phrase,Abstract Sign,
-574,FE,F         Entertainment,FE    Mom work,,,,Trained,Phrase,Photo,
-575,FEA,F         Entertainment,FE    Mom work,FEA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-576,FEB,F         Entertainment,FE    Mom work,FEB Music,,,Trained - Repeated,Single Word,Photo,
-577,FEC,F         Entertainment,FE    Mom work,FEC Cartoons,,,Trained - Repeated,Single Word,Photo,
-578,FED,F         Entertainment,FE    Mom work,FED Commboard,,,Untrained - Discovered,Single Word,Photo,
-579,FEE,F         Entertainment,FE    Mom work,FEE ,,,,,,
-580,FEF,F         Entertainment,FE    Mom work,FEF Coloring,,,Trained - Repeated,Single Word,Photo,
-581,FEG,F         Entertainment,FE    Mom work,FEG Writing,,,Trained - Repeated,Single Word,Photo,
-582,FEH,F         Entertainment,FE    Mom work,FEH Music,,,Trained - Repeated,Single Word,Photo,
-583,FEI,F         Entertainment,FE    Mom work,FEI Call a friend ,,,Trained,Phrase,Abstract Sign,
-584,FEIA,F         Entertainment,FE    Mom work,FEI Call a friend ,FEIA Back,,Trained - Repeated,Single Word,Abstract Sign,
-585,FEIB,F         Entertainment,FE    Mom work,FEI Call a friend ,FEIB Cori,,Trained - Repeated,Single Word,Photo,
-586,FEIC,F         Entertainment,FE    Mom work,FEI Call a friend ,FEIC Squee,,Trained - Repeated,Single Word,Photo,
-587,FEID,F         Entertainment,FE    Mom work,FEI Call a friend ,FEID Richie,,Trained - Repeated,Single Word,Photo,
-588,FEIE,F         Entertainment,FE    Mom work,FEI Call a friend ,FEIE Lyman,,Trained - Repeated,Single Word,Photo,
-589,FEIF,F         Entertainment,FE    Mom work,FEI Call a friend ,FEIF Grandma,,Trained - Repeated,Single Word,Photo,
-590,FEIG,F         Entertainment,FE    Mom work,FEI Call a friend ,FEIG Mom,,Trained - Repeated,Single Word,Photo,
-591,FEIH,F         Entertainment,FE    Mom work,FEI Call a friend ,FEIH Amy,,Trained - Repeated,Single Word,Photo,
-592,G,G        Food and Drinks,,,,,Trained,Phrase,Drawing,
-593,GA,G        Food and Drinks,GA  Back,,,,Trained - Repeated,Single Word,Abstract Sign,
-594,GB,G        Food and Drinks,GB  To Eat,,,,Trained,Phrase,Drawing,
-595,GBA,G        Food and Drinks,GB  To Eat,GBA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-596,GBB,G        Food and Drinks,GB  To Eat,GBB,,,,,,
-597,GBC,G        Food and Drinks,GB  To Eat,GBC A toast,,,Trained,Phrase,Photo,
-598,GBD,G        Food and Drinks,GB  To Eat,GBD Eggs,,,Trained,Single Word,Photo,
-599,GBE,G        Food and Drinks,GB  To Eat,GBE A pancake,,,Trained,Phrase,Photo,
-600,GBF,G        Food and Drinks,GB  To Eat,GBF Tofu,,,Trained,Single Word,Photo,
-601,GBG,G        Food and Drinks,GB  To Eat,GBG Cook Breakfast,,,Trained,Phrase,Abstract Sign,
-602,GBH,G        Food and Drinks,GB  To Eat,GBH Cook Dinner,,,Trained,Phrase,Abstract Sign,
-603,GBI,G        Food and Drinks,GB  To Eat,GBI Chop,,,Trained,Single Word,Photo,
-604,GBJ,G        Food and Drinks,GB  To Eat,GBJ An Apple,,,Trained,Phrase,Photo,
-605,GBK,G        Food and Drinks,GB  To Eat,GBK A Banana,,,Trained,Phrase,Photo,
-606,GBL ,G        Food and Drinks,GB  To Eat,GBL  Pear,,,Trained,Single Word,Photo,
-607,GBM,G        Food and Drinks,GB  To Eat,GBM Spaghetti,,,Trained,Single Word,Drawing,
-608,GC,G        Food and Drinks,GC To Drink,,,,Trained,Phrase,Photo,
-609,GCA,G        Food and Drinks,GC To Drink,GCA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-610,GCB,G        Food and Drinks,GC To Drink,GCB Water,,,Trained,Single Word,Photo,
-611,GCC,G        Food and Drinks,GC To Drink,GCC Tea,,,Trained - Repeated,Single Word,Photo,
-612,GCD,G        Food and Drinks,GC To Drink,GCD Juice,,,Trained,Single Word,Photo,
-613,GD,G        Food and Drinks,GD Treats,,,,Trained,Single Word,Photo,
-614,GDA,G        Food and Drinks,GD Treats,GDA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-615,GDB,G        Food and Drinks,GD Treats,GDB Sunflower Seeds,,,Trained,Phrase,Photo,
-616,GDC,G        Food and Drinks,GD Treats,GDC Nuts,,,Trained,Single Word,Photo,
-617,GDD,G        Food and Drinks,GD Treats,GDD Seed Ball,,,Trained,Phrase,Photo,
-618,GDE,G        Food and Drinks,GD Treats,GDE Mango,,,Trained,Single Word,Photo,
-619,GDF,G        Food and Drinks,GD Treats,GDF Medicine,,,Trained - Repeated,Single Word,Abstract Sign,
-620,GDG,G        Food and Drinks,GD Treats,GDG Almond,,,Trained,Single Word,Photo,
-621,H,H       Memory and Time,,,,,Untrained - Discovered,Phrase,Drawing,
-622,HA,H       Memory and Time,HA Back,,,,Trained - Repeated,Single Word,Abstract Sign,
-623,HB,H       Memory and Time,HB Time,,,,Untrained - Discovered,Single Word,Photo,
-624,HBA,H       Memory and Time,HB Time,HBA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-625,HBB,H       Memory and Time,HB Time,HBB ,,,,,,
-626,HBC,H       Memory and Time,HB Time,HBC Yesterday,,,Trained,Single Word,Abstract Sign,
-627,HBD,H       Memory and Time,HB Time,HBD Today,,,Trained,Single Word,Drawing,
-628,HBE,H       Memory and Time,HB Time,HBE Tomorrow,,,Trained,Single Word,Abstract Sign,
-629,HBF,H       Memory and Time,HB Time,HBF Calendar,,,Trained,Single Word,Drawing,
-630,HBG,H       Memory and Time,HB Time,HBG Past,,,Trained,Single Word,Abstract Sign,
-631,HBH,H       Memory and Time,HB Time,HBH Future,,,Trained,Single Word,Abstract Sign,
-632,HBI,H       Memory and Time,HB Time,HBI Look at pictures,,,Trained,Phrase,Drawing,
-633,HBJ,H       Memory and Time,HB Time,HBJ Talk about,,,Trained,Phrase,Abstract Sign,
-634,HBK,H       Memory and Time,HB Time,HBK Like,,,Trained,Single Word,Abstract Sign,
-635,HBL,H       Memory and Time,HB Time,HBL No like,,,Trained,Phrase,Abstract Sign,
-636,HBM,H       Memory and Time,HB Time,HBM I love you,,,Trained,Phrase,Drawing,
-637,HBN,H       Memory and Time,HB Time,HBN Excited,,,Trained,Single Word,Drawing,
-638,HBO,H       Memory and Time,HB Time,HBO Happy,,,Trained,Single Word,Drawing,
-639,HBP,H       Memory and Time,HB Time,HBP Sad,,,Trained,Single Word,Drawing,
-640,HBQ,H       Memory and Time,HB Time,HBQ Afraid,,,Trained,Single Word,Drawing,
-641,HBR,H       Memory and Time,HB Time,HBR Body,,,Trained,Single Word,Drawing,
-642,HC,H       Memory and Time,HC Remember,,,,Untrained - Discovered,Single Word,Photo,
-643,HCA,H       Memory and Time,HC Remember,HCA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-644,HCB,H       Memory and Time,HC Remember,HCB Moonlight,,,Untrained - Discovered,Single Word,Photo,
-645,HCC,H       Memory and Time,HC Remember,HCC Lily,,,Untrained - Discovered,Single Word,Photo,
-646,HCD,H       Memory and Time,HC Remember,HCD Old house,,,Untrained - Discovered,Phrase,Photo,
-647,HCE,H       Memory and Time,HC Remember,HCE Second old house,,,Untrained - Discovered,Phrase,Photo,
-648,HCF,H       Memory and Time,HC Remember,HCF Chris,,,Untrained - Discovered,Single Word,Photo,
-649,HCG,H       Memory and Time,HC Remember,HCG Talk About Feelings,,,Untrained - Discovered,Phrase,Drawing,
-650,HCH,H       Memory and Time,HC Remember,HCH Talk About,,,Untrained - Discovered,Phrase,Abstract Sign,
-651,HCI,H       Memory and Time,HC Remember,HCI Look at pictures,,,Untrained - Discovered,Phrase,Drawing,
-652,HCJ,H       Memory and Time,HC Remember,HCJ Tillie's old house,,,Untrained - Discovered,Phrase,Photo,
-653,I,I Descriptions and Preferences,,,,,Untrained - Discovered,Phrase,Drawing,
-654,IA,I Descriptions and Preferences,IA Back,,,,Trained - Repeated,Single Word,Abstract Sign,
-655,IB,I Descriptions and Preferences,IB Opposites,,,,Trained,Single Word,Drawing,
-656,IBA,I Descriptions and Preferences,IB Opposites,IBA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-657,IBB,I Descriptions and Preferences,IB Opposites,IBB,,,,,,
-658,IBC,I Descriptions and Preferences,IB Opposites,IBC High up,,,Untrained - Discovered,Phrase,Drawing,
-659,IBD,I Descriptions and Preferences,IB Opposites,IBD Down low,,,Untrained - Discovered,Phrase,Drawing,
-660,IBE,I Descriptions and Preferences,IB Opposites,IBE Big,,,Trained,Single Word,Drawing,
-661,IBF,I Descriptions and Preferences,IB Opposites,IBF Little,,,Trained,Single Word,Drawing,
-662,IBG,I Descriptions and Preferences,IB Opposites,IBG Broken,,,Untrained - Discovered,Single Word,Drawing,
-663,IBH,I Descriptions and Preferences,IB Opposites,IBH Fixed,,,Untrained - Discovered,Single Word,Drawing,
-664,IBI,I Descriptions and Preferences,IB Opposites,IBI Light,,,Untrained - Discovered,Single Word,Photo,
-665,IBJ,I Descriptions and Preferences,IB Opposites,IBJ Dark,,,Untrained - Discovered,Single Word,Abstract Sign,
-666,IBK,I Descriptions and Preferences,IB Opposites,IBK In,,,Untrained - Discovered,Single Word,Abstract Sign,
-667,IBL,I Descriptions and Preferences,IB Opposites,IBL Out,,,Untrained - Discovered,Single Word,Abstract Sign,
-668,IBM,I Descriptions and Preferences,IB Opposites,IBM Empty,,,Untrained - Discovered,Single Word,Drawing,
-669,IBN,I Descriptions and Preferences,IB Opposites,IBN Full,,,Untrained - Discovered,Single Word,Drawing,
-670,IBO,I Descriptions and Preferences,IB Opposites,IBO Like,,,Trained - Repeated,Single Word,Abstract Sign,
-671,IBP,I Descriptions and Preferences,IB Opposites,IBP No like,,,Trained - Repeated,Phrase,Abstract Sign,
-672,IBQ,I Descriptions and Preferences,IB Opposites,IBQ Easy,,,Untrained - Discovered,Single Word,Abstract Sign,
-673,IBR,I Descriptions and Preferences,IB Opposites,IBR Hard,,,Untrained - Discovered,Single Word,Abstract Sign,
-674,IC,I Descriptions and Preferences,IC Movement,,,,Trained,Single Word,Drawing,
-675,ICA,I Descriptions and Preferences,IC Movement,ICA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-676,ICB,I Descriptions and Preferences,IC Movement,ICB Run,,,Trained,Single Word,Drawing,
-677,ICC,I Descriptions and Preferences,IC Movement,ICC,,,,,,
-678,ICD,I Descriptions and Preferences,IC Movement,ICD Jump,,,Trained,Single Word,Drawing,
-679,ICE,I Descriptions and Preferences,IC Movement,ICE Swim,,,Trained,Single Word,Drawing,
-680,ICF,I Descriptions and Preferences,IC Movement,ICF Fly,,,Trained,Single Word,Drawing,
-681,ICG,I Descriptions and Preferences,IC Movement,ICG Sit,,,Trained,Single Word,Drawing,
-682,ICH,I Descriptions and Preferences,IC Movement,ICH Walk,,,Trained,Single Word,Drawing,
-683,ICI,I Descriptions and Preferences,IC Movement,ICI Fast,,,Trained - Repeated,Single Word,Abstract Sign,
-684,ICJ,I Descriptions and Preferences,IC Movement,ICJ Slow,,,Trained - Repeated,Single Word,Abstract Sign,
-685,ICK,I Descriptions and Preferences,IC Movement,ICK Like,,,Trained - Repeated,Single Word,Abstract Sign,
-686,ICL,I Descriptions and Preferences,IC Movement,ICL No Like,,,Trained - Repeated,Phrase,Abstract Sign,
-687,ICM,I Descriptions and Preferences,IC Movement,ICM Mom,,,Trained - Repeated,Single Word,Photo,
-688,ICN,I Descriptions and Preferences,IC Movement,ICN Tillie,,,Trained - Repeated,Single Word,Photo,
-689,ICO,I Descriptions and Preferences,IC Movement,ICO Ellie,,,Trained - Repeated,Single Word,Photo,
-690,ICP,I Descriptions and Preferences,IC Movement,ICP Isabelle,,,Trained - Repeated,Single Word,Photo,
-691,ICQ,I Descriptions and Preferences,IC Movement,ICQ,,,,,,
-692,ID,I Descriptions and Preferences,ID Fix please,,,,Untrained - Discovered,Phrase,Abstract Sign,
-693,IDA,I Descriptions and Preferences,ID Fix please,IDA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-694,IDB,I Descriptions and Preferences,ID Fix please,IDB inside,,,Generalized,Single Word,Photo,
-695,IDC,I Descriptions and Preferences,ID Fix please,IDC outside,,,Generalized,Single Word,Photo,
-696,IDD,I Descriptions and Preferences,ID Fix please,IDD,,,,,,
-697,IDE,I Descriptions and Preferences,ID Fix please,IDE Down low,,,Untrained - Discovered,Phrase,Drawing,
-698,IDF,I Descriptions and Preferences,ID Fix please,IDF High up,,,Untrained - Discovered,Phrase,Drawing,
-699,IDG,I Descriptions and Preferences,ID Fix please,IDG Broken,,,Untrained - Discovered,Single Word,Drawing,
-700,IDH,I Descriptions and Preferences,ID Fix please,IDH Fix,,,Untrained - Discovered,Single Word,Drawing,
-701,IDI,I Descriptions and Preferences,ID Fix please,IDI White,,,Untrained - Discovered,Single Word,Photo,
-702,IDJ,I Descriptions and Preferences,ID Fix please,IDJ Blue,,,Untrained - Discovered,Single Word,Photo,
-703,IDK,I Descriptions and Preferences,ID Fix please,IDK Brown,,,Untrained - Discovered,Single Word,Photo,
-704,IDL,I Descriptions and Preferences,ID Fix please,IDL Tablet,,,Untrained - Discovered,Single Word,Photo,
-705,IDM,I Descriptions and Preferences,ID Fix please,IDM Mom,,,Trained - Repeated,Single Word,Photo,
-706,IDN,I Descriptions and Preferences,ID Fix please,IDN Ellie,,,Trained - Repeated,Single Word,Photo,
-707,IDO,I Descriptions and Preferences,ID Fix please,IDO Tillie,,,Trained - Repeated,Single Word,Photo,
-708,IDP,I Descriptions and Preferences,ID Fix please,IDP Isabelle,,,Trained - Repeated,Single Word,Photo,
-709,IDQ,I Descriptions and Preferences,ID Fix please,IDQ Like,,,Trained - Repeated,Single Word,Abstract Sign,
-710,IDR,I Descriptions and Preferences,ID Fix please,IDR No like,,,Trained - Repeated,Phrase,Abstract Sign,
-711,IE,I Descriptions and Preferences,IE Clean,,,,Untrained - Discovered,Single Word,Photo,
-712,IEA,I Descriptions and Preferences,IE Clean,IEA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-713,IEB,I Descriptions and Preferences,IE Clean,IEB Floor,,,Untrained - Discovered,Single Word,Photo,
-714,IEC,I Descriptions and Preferences,IE Clean,IEC Sweep broom,,,Untrained - Discovered,Phrase,Photo,
-715,IED,I Descriptions and Preferences,IE Clean,IED Papers,,,Untrained - Discovered,Single Word,Photo,
-716,IEE,I Descriptions and Preferences,IE Clean,IEE,,,,,,
-717,IEF,I Descriptions and Preferences,IE Clean,IEF Cages,,,Untrained - Discovered,Single Word,Photo,
-718,IEG,I Descriptions and Preferences,IE Clean,IEG Broken,,,Untrained - Discovered,Single Word,Drawing,
-719,IEH,I Descriptions and Preferences,IE Clean,IEH Fix,,,Untrained - Discovered,Single Word,Drawing,
-720,IEI,I Descriptions and Preferences,IE Clean,IEI Mom,,,Trained - Repeated,Single Word,Photo,
-721,IEJ,I Descriptions and Preferences,IE Clean,IEJ Fast,,,Trained - Repeated,Single Word,Abstract Sign,
-722,IEK,I Descriptions and Preferences,IE Clean,IEK Slow,,,Trained - Repeated,Single Word,Abstract Sign,
-723,IEL,I Descriptions and Preferences,IE Clean,IEL Outside aviary,,,Trained - Repeated,Phrase,Photo,
-724,IEM,I Descriptions and Preferences,IE Clean,IEM I help,,,Untrained - Discovered,Phrase,Abstract Sign,
-725,IEN,I Descriptions and Preferences,IE Clean,IEN Ellie,,,Trained - Repeated,Single Word,Photo,
-726,IEO,I Descriptions and Preferences,IE Clean,IEO Isabelle,,,Trained - Repeated,Single Word,Photo,
-727,IEP,I Descriptions and Preferences,IE Clean,IEP Tillie,,,Trained - Repeated,Single Word,Photo,
-728,IEQ,I Descriptions and Preferences,IE Clean,IEQ Like,,,Trained - Repeated,Single Word,Abstract Sign,
-729,IER,I Descriptions and Preferences,IE Clean,IER No like,,,Trained - Repeated,Single Word,Abstract Sign,
-730,IF,I Descriptions and Preferences,IF,,,,,,,
-731,IG,I Descriptions and Preferences,IG Questions,,,,Trained,Single Word,Abstract Sign,
-732,IGA,I Descriptions and Preferences,IG Questions,IGA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-733,IGB,I Descriptions and Preferences,IG Questions,IGB Who is that?,,,Trained,Phrase,Abstract Sign,
-734,IGC,I Descriptions and Preferences,IG Questions,IGC What is that?,,,Trained,Phrase,Abstract Sign,
-735,IGD,I Descriptions and Preferences,IG Questions,IGD Where are you going?,,,Trained,Phrase,Abstract Sign,
-736,IGE,I Descriptions and Preferences,IG Questions,IGE Where is someone?,,,Trained,Phrase,Abstract Sign,
-737,IGF,I Descriptions and Preferences,IG Questions,IGF How?,,,Trained,Single Word,Abstract Sign,
-738,IGG,I Descriptions and Preferences,IG Questions,IGG ,,,,,,
-739,IGH,I Descriptions and Preferences,IG Questions,IGH Why?,,,Trained,Single Word,Abstract Sign,
-740,IGI,I Descriptions and Preferences,IG Questions,IGI When?,,,Trained,Single Word,Abstract Sign,
-741,IGJ,I Descriptions and Preferences,IG Questions,IGJ I know!,,,Trained,Phrase,Abstract Sign,
-742,IGK,I Descriptions and Preferences,IG Questions,IGK I dont know,,,Trained - Repeated,Phrase,Abstract Sign,
-743,IGL,I Descriptions and Preferences,IG Questions,IGL Inside,,,Generalized,Single Word,Photo,
-744,IGM,I Descriptions and Preferences,IG Questions,IGM Outside,,,Generalized,Single Word,Photo,
-745,IGN,I Descriptions and Preferences,IG Questions,IGN Isabelle,,,Trained - Repeated,Single Word,Photo,
-746,IGO,I Descriptions and Preferences,IG Questions,IGO Tillie,,,Trained - Repeated,Single Word,Photo,
-747,IGP,I Descriptions and Preferences,IG Questions,IGP Ellie,,,Trained - Repeated,Single Word,Photo,
-748,IGQ,I Descriptions and Preferences,IG Questions,IGQ Mom,,,Trained - Repeated,Single Word,Photo,
-749,IGR,I Descriptions and Preferences,IG Questions,IGR Someone Else,,,Generalized,Phrase,Abstract Sign,
-750,IH,I Descriptions and Preferences,IH Squirrels,,,,Untrained - Discovered,Single Word,Photo,
-751,IHA,I Descriptions and Preferences,IH Squirrels,IHA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-752,IHB,I Descriptions and Preferences,IH Squirrels,IHB Broken,,,Untrained - Discovered,Single Word,Drawing,
-753,IHC,I Descriptions and Preferences,IH Squirrels,IHC Fix,,,Untrained - Discovered,Single Word,Drawing,
-754,IHD,I Descriptions and Preferences,IH Squirrels,IHD Fast,,,Trained - Repeated,Single Word,Abstract Sign,
-755,IHE,I Descriptions and Preferences,IH Squirrels,IHE Slow,,,Trained - Repeated,Single Word,Abstract Sign,
-756,IHF,I Descriptions and Preferences,IH Squirrels,IHF Squirrel music,,,Generalized,Phrase,Photo,
-757,IHG,I Descriptions and Preferences,IH Squirrels,IHG ,,,,,,
-758,IHH,I Descriptions and Preferences,IH Squirrels,IHH Squirrel,,,Trained - Repeated,Single Word,Photo,
-759,IHI,I Descriptions and Preferences,IH Squirrels,IHI Tablet,,,Untrained - Discovered,Single Word,Photo,
-760,IHJ,I Descriptions and Preferences,IH Squirrels,IHJ Like,,,Trained - Repeated,Single Word,Abstract Sign,
-761,IHK,I Descriptions and Preferences,IH Squirrels,IHK No like,,,Trained - Repeated,Phrase,Abstract Sign,
-762,IHL,I Descriptions and Preferences,IH Squirrels,IHL Video call,,,Untrained - Discovered,Phrase,Photo,
-763,IHM,I Descriptions and Preferences,IH Squirrels,IHM Mom,,,Trained - Repeated,Single Word,Photo,
-764,IHN,I Descriptions and Preferences,IH Squirrels,IHN Down low,,,Untrained - Discovered,Phrase,Drawing,
-765,IHO,I Descriptions and Preferences,IH Squirrels,IHO Up high,,,Untrained - Discovered,Phrase,Drawing,
-766,IHP,I Descriptions and Preferences,IH Squirrels,IHP Blue,,,Untrained - Discovered,Single Word,Photo,
-767,IHQ,I Descriptions and Preferences,IH Squirrels,IHQ Yellow,,,Untrained - Discovered,Single Word,Photo,
-768,IHR,I Descriptions and Preferences,IH Squirrels,IHR Gray,,,Untrained - Discovered,Single Word,Photo,
-769,J,J About Me,,,,,Trained,Phrase,Drawing,
-770,JA,J About Me,JA Back,,,,Trained - Repeated,Single Word,Abstract Sign,
-771,JB,J About Me,JB,,,,,,,
-772,JC,J About Me,JC Temperature,,,,Trained - Repeated,Single Word,Abstract Sign,
-773,JCA,J About Me,JC Temperature,JCA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-774,JCB,J About Me,JC Temperature,JCB Hot,,,Trained,Single Word,Abstract Sign,
-775,JCBA,J About Me,JC Temperature,JCB Hot,JCBA Back,,Trained - Repeated,Single Word,Abstract Sign,
-776,JCBB,J About Me,JC Temperature,JCB Hot,JCBB,,,,,
-777,JCBC,J About Me,JC Temperature,JCB Hot,JCBC I Feel Hot,,Generalized,Phrase,Drawing,
-778,JCBD,J About Me,JC Temperature,JCB Hot,JCBD I Want to Feel Hot,,Generalized,Phrase,Drawing,
-779,JCBE,J About Me,JC Temperature,JCB Hot,JCBE Like,,Trained - Repeated,Single Word,Abstract Sign,
-780,JCBF,J About Me,JC Temperature,JCB Hot,JCBF No Like,,Trained - Repeated,Phrase,Abstract Sign,
-781,JCBG,J About Me,JC Temperature,JCB Hot,JCBG I felt hot,,Generalized,Phrase,Abstract Sign,
-782,JCBH,J About Me,JC Temperature,JCB Hot,JCBH I will feel hot,,Generalized,Phrase,Abstract Sign,
-783,JCBI,J About Me,JC Temperature,JCB Hot,JCBI Hot outside,,Untrained - Discovered,Phrase,Photo,
-784,JCBJ,J About Me,JC Temperature,JCB Hot,JCBJ Hot inside,,Untrained - Discovered,Phrase,Abstract Sign,
-785,JCBK,J About Me,JC Temperature,JCB Hot,JCBK Talk about,,Trained - Repeated,Phrase,Abstract Sign,
-786,JCC,J About Me,JC Temperature,JCC,,,,,,
-787,JCD,J About Me,JC Temperature,JCD Warm,,,Trained,Single Word,Abstract Sign,
-788,JCDA,J About Me,JC Temperature,JCD Warm,JCDA Back,,Trained - Repeated,Single Word,Abstract Sign,
-789,JCDB,J About Me,JC Temperature,JCD Warm,JCDB I Feel Warm,,Generalized,Phrase,Drawing,
-790,JCDC,J About Me,JC Temperature,JCD Warm,JCDC I Want to Feel Warm,,Generalized,Phrase,Drawing,
-791,JCDD,J About Me,JC Temperature,JCD Warm,JCDD,,,,,
-792,JCDE,J About Me,JC Temperature,JCD Warm,JCDE Like,,Trained - Repeated,Single Word,Abstract Sign,
-793,JCDF,J About Me,JC Temperature,JCD Warm,JCDF No Like,,Trained - Repeated,Phrase,Abstract Sign,
-794,JCDG,J About Me,JC Temperature,JCD Warm,JCDG I felt warm,,Generalized,Phrase,Abstract Sign,
-795,JCDH,J About Me,JC Temperature,JCD Warm,JCDH I will feel warm,,Generalized,Phrase,Abstract Sign,
-796,JCDI,J About Me,JC Temperature,JCD Warm,JCDI Warm outside,,Untrained - Discovered,Phrase,Photo,
-797,JCDJ,J About Me,JC Temperature,JCD Warm,JCDJ Warm inside,,Untrained - Discovered,Phrase,Abstract Sign,
-798,JCDK,J About Me,JC Temperature,JCD Warm,JCDK Talk about,,Trained - Repeated,Phrase,Abstract Sign,
-799,JCE,J About Me,JC Temperature,JCE Cool,,,Trained,Single Word,Abstract Sign,
-800,JCEA,J About Me,JC Temperature,JCE Cool,JCEA Back,,Trained - Repeated,Single Word,Abstract Sign,
-801,JCEB,J About Me,JC Temperature,JCE Cool,JCEB I Feel Cool,,Generalized,Phrase,Drawing,
-802,JCEC,J About Me,JC Temperature,JCE Cool,JCEC I Want to Feel Cool,,Generalized,Phrase,Drawing,
-803,JCED,J About Me,JC Temperature,JCE Cool,JCED Like,,Trained - Repeated,Single Word,Abstract Sign,
-804,JCEE,J About Me,JC Temperature,JCE Cool,JCEE,,Trained,,,
-805,JCEF,J About Me,JC Temperature,JCE Cool,JCEF No Like,,Trained - Repeated,Phrase,Abstract Sign,
-806,JCEG,J About Me,JC Temperature,JCE Cool,JCEG I felt cool,,Generalized,Phrase,Abstract Sign,
-807,JCEH,J About Me,JC Temperature,JCE Cool,JCEH I will feel cool,,Generalized,Phrase,Abstract Sign,
-808,JCEI,J About Me,JC Temperature,JCE Cool,JCEI Cool outside,,Untrained - Discovered,Phrase,Photo,
-809,JCEJ,J About Me,JC Temperature,JCE Cool,JCEJ Cool inside,,Untrained - Discovered,Phrase,Abstract Sign,
-810,JCEK,J About Me,JC Temperature,JCE Cool,JCEK Talk about,,Trained - Repeated,Phrase,Abstract Sign,
-811,JCF,J About Me,JC Temperature,JCF Cold,,,Trained,Single Word,Abstract Sign,
-812,JCFA,J About Me,JC Temperature,JCF Cold,JCFA Back,,Trained - Repeated,Single Word,Abstract Sign,
-813,JCFB,J About Me,JC Temperature,JCF Cold,JCFB I feel cold,,Generalized,Phrase,Drawing,
-814,JCFC,J About Me,JC Temperature,JCF Cold,JCFC I want to feel cold,,Generalized,Phrase,Drawing,
-815,JCFD,J About Me,JC Temperature,JCF Cold,JCFD Like,,Trained - Repeated,Single Word,Abstract Sign,
-816,JCFE,J About Me,JC Temperature,JCF Cold,JCFE No like,,Trained - Repeated,Phrase,Abstract Sign,
-817,JCFF,J About Me,JC Temperature,JCF Cold,JCFF,,,,,
-818,JCFG,J About Me,JC Temperature,JCF Cold,JCFG I felt cold,,Generalized,Phrase,Abstract Sign,
-819,JCFH,J About Me,JC Temperature,JCF Cold,JCFH I will feel cold,,Generalized,Phrase,Abstract Sign,
-820,JCFI,J About Me,JC Temperature,JCF Cold,JCFI Cold outside,,Untrained - Discovered,Phrase,Photo,
-821,JCFJ,J About Me,JC Temperature,JCF Cold,JCFJ Cold inside,,Untrained - Discovered,Phrase,Photo,
-822,JCFK,J About Me,JC Temperature,JCF Cold,JCFK Talk about,,Trained - Repeated,Phrase,Abstract Sign,
-823,JCG,J About Me,JC Temperature,JCG Sun,,,Trained - Repeated,Single Word,Photo,
-824,JCH,J About Me,JC Temperature,JCH Wind,,,Trained - Repeated,Single Word,Photo,
-825,JCI,J About Me,JC Temperature,JCI Cloud,,,Trained - Repeated,Single Word,Photo,
-826,JCJ,J About Me,JC Temperature,JCJ Rain,,,Trained - Repeated,Single Word,Photo,
-827,JCK,J About Me,JC Temperature,JCK Night - Star,,,Trained - Repeated,Phrase,Photo,
-828,JCL,J About Me,JC Temperature,JCL Moon,,,Trained - Repeated,Single Word,Photo,
-829,JCM,J About Me,JC Temperature,JCM Lightning thunder cheese game,,,Trained - Repeated,Phrase,Photo,
-830,JCN,J About Me,JC Temperature,JCN Happy,,,Trained - Repeated,Single Word,Drawing,
-831,JCO,J About Me,JC Temperature,JCO Afraid,,,Trained - Repeated,Single Word,Drawing,
-832,JCP,J About Me,JC Temperature,JCP Mad,,,Trained - Repeated,Single Word,Drawing,
-833,JCQ,J About Me,JC Temperature,JCQ Like,,,Trained - Repeated,Single Word,Abstract Sign,
-834,JCR,J About Me,JC Temperature,JCR No like,,,Trained - Repeated,Phrase,Abstract Sign,
-835,JD,J About Me,JD Body,,,,Trained - Repeated,Single Word,Drawing,
-836,JDA,J About Me,JD Body,JDA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-837,JDB,J About Me,JD Body,JDB Head,,,Trained,Single Word,Photo,
-838,JDC,J About Me,JD Body,JDC Tummy,,,Trained,Single Word,Photo,
-839,JDD,J About Me,JD Body,JDD,,,,,,
-840,JDE,J About Me,JD Body,JDE Wing,,,Trained,Single Word,Photo,
-841,JDF,J About Me,JD Body,JDF Foot,,,Trained,Single Word,Photo,
-842,JDG,J About Me,JD Body,JDG Past,,,Generalized,Single Word,Abstract Sign,
-843,JDH,J About Me,JD Body,JDH Today,,,Generalized,Single Word,Drawing,
-844,JDI,J About Me,JD Body,JDI Feel Good,,,Generalized,Phrase,Drawing,
-845,JDJ,J About Me,JD Body,JDJ Ouch,,,Generalized,Single Word,Drawing,
-846,JDK,J About Me,JD Body,JDK Feel,,,Generalized,Single Word,Drawing,
-847,JDL,J About Me,JD Body,JDL Medicine,,,Trained,Single Word,Abstract Sign,
-848,JDLA,J About Me,JD Body,JDL Medicine,JDLA Back,,Trained - Repeated,Single Word,Abstract Sign,
-849,JDLB,J About Me,JD Body,JDL Medicine,JDLB Treat syringe,,Trained,Phrase,Photo,
-850,JDLC,J About Me,JD Body,JDL Medicine,JDLC Ouch medicine,,Trained,Phrase,Photo,
-851,JDLD,J About Me,JD Body,JDL Medicine,JDLD Sick medicine,,Trained,Phrase,Photo,
-852,JDLE,J About Me,JD Body,JDL Medicine,JDLE Handful of treats,,Trained,Phrase,Photo,
-853,JDM,J About Me,JD Body,JDM Ellie,,,Trained - Repeated,Single Word,Photo,
-854,JDN,J About Me,JD Body,JDN Isabelle,,,Trained - Repeated,Single Word,Photo,
-855,JDO,J About Me,JD Body,JDO Tillie,,,Trained - Repeated,Single Word,Photo,
-856,JDP,J About Me,JD Body,JDP Like,,,Trained - Repeated,Single Word,Abstract Sign,
-857,JDQ,J About Me,JD Body,JDQ No like,,,Trained - Repeated,Phrase,Abstract Sign,
-858,JDR,J About Me,JD Body,JDR Types of ouch,,,Trained,Phrase,Abstract Sign,
-859,JDRA,J About Me,JD Body,JDR Types of ouch,JDRA Back,,Trained - Repeated,Single Word,Abstract Sign,
-860,JDRB,J About Me,JD Body,JDR Types of ouch,JDRB Inside ouch,,Trained,Phrase,Drawing,
-861,JDRC,J About Me,JD Body,JDR Types of ouch,JDRC Outside ouch,,Trained,Phrase,Photo,
-862,JDRD,J About Me,JD Body,JDR Types of ouch,JDRD Bone ouch,,Trained,Phrase,Drawing,
-863,JDRE,J About Me,JD Body,JDR Types of ouch,JDRE Sick ouch,,Trained,Phrase,Drawing,
-864,JDRF,J About Me,JD Body,JDR Types of ouch,JDRF What type of ouch?,,Trained,Phrase,Drawing,
-865,JDRG,J About Me,JD Body,JDR Types of ouch,JDRG Cancer,,Trained,Single Word,Drawing,
-866,JDRH,J About Me,JD Body,JDR Types of ouch,JDRH I felt ouch,,Generalized,Phrase,Abstract Sign,
-867,JDRI,J About Me,JD Body,JDR Types of ouch,JDRI I will feel ouch,,Generalized,Phrase,Abstract Sign,
-868,JDRJ,J About Me,JD Body,JDR Types of ouch,JDRJ I feel ouch,,Generalized,Phrase,Drawing,
-869,JDRK,J About Me,JD Body,JDR Types of ouch,JDRK Afraid ouch,,Generalized,Phrase,Drawing,
-870,JDRO,J About Me,JD Body,JDR Types of ouch,JDRO Mom,,Trained - Repeated,Single Word,Photo,
-871,JDRP,J About Me,JD Body,JDR Types of ouch,JDRP Ellie,,Trained - Repeated,Single Word,Photo,
-872,JDRQ,J About Me,JD Body,JDR Types of ouch,JDRQ Isabelle,,Trained - Repeated,Single Word,Photo,
-873,JDRR,J About Me,JD Body,JDR Types of ouch,JDRR Tillie,,Trained - Repeated,Single Word,Photo,
-874,JE,J About Me,JE Feeling,,,,Trained,Single Word,Abstract Sign,
-875,JEA,J About Me,JE Feeling,JEA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-876,JEB,J About Me,JE Feeling,JEB Happy,,,Trained - Repeated,Single Word,Drawing,
-877,JEBA,J About Me,JE Feeling,JEB Happy,JEBA Back,,Trained - Repeated,Single Word,Abstract Sign,
-878,JEBB,J About Me,JE Feeling,JEB Happy,JEBB,,,,,
-879,JEBC,J About Me,JE Feeling,JEB Happy,JEBC I feel happy,,Trained,Phrase,Drawing,
-880,JEBD,J About Me,JE Feeling,JEB Happy,JEBD I want to feel happy,,Trained,Phrase,Drawing,
-881,JEBE,J About Me,JE Feeling,JEB Happy,JEBE,,,,,
-882,JEBF,J About Me,JE Feeling,JEB Happy,JEBF,,,,,
-883,JEBG,J About Me,JE Feeling,JEB Happy,JEBG I felt happy,,Trained,Phrase,Abstract Sign,
-884,JEBH,J About Me,JE Feeling,JEB Happy,JEBH I will feel happy,,Trained,Phrase,Abstract Sign,
-885,JEC,J About Me,JE Feeling,JEC Excited,,,Trained - Repeated,Single Word,Drawing,
-886,JECA,J About Me,JE Feeling,JEC Excited,JECA Back,,Trained - Repeated,Single Word,Abstract Sign,
-887,JECB,J About Me,JE Feeling,JEC Excited,JECB I feel excited,,Generalized,Phrase,Drawing,
-888,JECC,J About Me,JE Feeling,JEC Excited,JECC,,,,,
-889,JECD,J About Me,JE Feeling,JEC Excited,JECD I want to feel excited,,Generalized,Phrase,Drawing,
-890,JECE,J About Me,JE Feeling,JEC Excited,JECE,,,,,
-891,JECF,J About Me,JE Feeling,JEC Excited,JECF,,,,,
-892,JECG,J About Me,JE Feeling,JEC Excited,JECG I felt excited,,Generalized,Phrase,Abstract Sign,
-893,JECH,J About Me,JE Feeling,JEC Excited,JECH I will feel excited,,Generalized,Phrase,Abstract Sign,
-894,JED,J About Me,JE Feeling,JED Mad,,,Trained - Repeated,Single Word,Drawing,
-895,JEDA,J About Me,JE Feeling,JED Mad,JEDA Back,,Trained - Repeated,Single Word,Abstract Sign,
-896,JEDB,J About Me,JE Feeling,JED Mad,JEDB I feel mad,,Generalized,Phrase,Drawing,
-897,JEDC,J About Me,JE Feeling,JED Mad,JEDC I want to feel mad,,Generalized,Phrase,Drawing,
-898,JEDD,J About Me,JE Feeling,JED Mad,JEDD,,,,,
-899,JEDE,J About Me,JE Feeling,JED Mad,JEDE,,,,,
-900,JEDF,J About Me,JE Feeling,JED Mad,JEDF,,,,,
-901,JEDG,J About Me,JE Feeling,JED Mad,JEDG I felt mad,,Generalized,Phrase,Abstract Sign,
-902,JEDH,J About Me,JE Feeling,JED Mad,JEDH I will feel mad,,Generalized,Phrase,Abstract Sign,
-903,JEF,J About Me,JE Feeling,JEF,,,,,,
-904,JEG,J About Me,JE Feeling,JEG Afraid,,,Trained - Repeated,Single Word,Drawing,
-905,JEGA,J About Me,JE Feeling,JEG Afraid,JEGA Back,,Trained - Repeated,Single Word,Abstract Sign,
-906,JEGB,J About Me,JE Feeling,JEG Afraid,JEGB I feel afraid,,Generalized,Phrase,Drawing,
-907,JEGC,J About Me,JE Feeling,JEG Afraid,JEGC I want to feel afraid,,Generalized,Phrase,Drawing,
-908,JEGD,J About Me,JE Feeling,JEG Afraid,JEGD,,,,,
-909,JEGE,J About Me,JE Feeling,JEG Afraid,JEGE,,,,,
-910,JEGF,J About Me,JE Feeling,JEG Afraid,JEGF,,,,,
-911,JEGG,J About Me,JE Feeling,JEG Afraid,JEGG I felt afraid,,Generalized,Phrase,Abstract Sign,
-912,JEGH,J About Me,JE Feeling,JEG Afraid,JEGH I will feel afraid,,Generalized,Phrase,Abstract Sign,
-913,JEH,J About Me,JE Feeling,JEH Body,,,Trained - Repeated,Single Word,Drawing,
-914,JEI,J About Me,JE Feeling,JEI I love you,,,Trained - Repeated,Phrase,Drawing,
-915,JEJ,J About Me,JE Feeling,JEJ Like,,,Trained - Repeated,Single Word,Abstract Sign,
-916,JEK,J About Me,JE Feeling,JEK No like,,,Trained - Repeated,Phrase,Abstract Sign,
-917,JEL,J About Me,JE Feeling,JEL Sad,,,Trained - Repeated,Single Word,Drawing,
-918,JELA,J About Me,JE Feeling,JEL Sad,JELA Back,,Trained - Repeated,Single Word,Abstract Sign,
-919,JELB,J About Me,JE Feeling,JEL Sad,JELB I feel sad,,Generalized,Phrase,Drawing,
-920,JELC,J About Me,JE Feeling,JEL Sad,JELC I want to feel sad,,Generalized,Phrase,Drawing,
-921,JELD,J About Me,JE Feeling,JEL Sad,JELD,,,,,
-922,JELE,J About Me,JE Feeling,JEL Sad,JELE,,,,,
-923,JELF,J About Me,JE Feeling,JEL Sad,JELF,,,,,
-924,JELG,J About Me,JE Feeling,JEL Sad,JELG I felt sad,,Generalized,Phrase,Abstract Sign,
-925,JELH,J About Me,JE Feeling,JEL Sad,JELH I will feel sad,,Generalized,Phrase,Abstract Sign,
-926,JEM,J About Me,JE Feeling,JEM Eww,,,Trained,Single Word,Drawing,
-927,JEN,J About Me,JE Feeling,JEN Interesting,,,Untrained - Unused,Single Word,Drawing,
-928,JEO,J About Me,JE Feeling,JEO Boring,,,Untrained - Unused,Single Word,Drawing,
-929,JF,J About Me,JF My Opinion,,,,,Phrase,Drawing,
-930,JFA,J About Me,JF My Opinion,JFA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-931,JFB,J About Me,JF My Opinion,JFB Fun,,,,Single Word,Drawing,
-932,JFC,J About Me,JF My Opinion,JFC Boring,,,,Single Word,Drawing,
-933,JFD,J About Me,JF My Opinion,JFD Interesting,,,,Single Word,Abstract Sign,
-934,JFE,J About Me,JF My Opinion,JFE,,,,,,
-935,JFF,J About Me,JF My Opinion,JFF,,,,,,
-936,JFG,J About Me,JF My Opinion,JFG Good idea,,,,Phrase,Abstract Sign,
-937,JFH,J About Me,JF My Opinion,JFH Bad idea,,,,Phrase,Abstract Sign,
-938,JFI,J About Me,JF My Opinion,JFI Pretty,,,,Single Word,Abstract Sign,
-939,JFJ,J About Me,JF My Opinion,JFJ Ugly,,,,Single Word,Abstract Sign,
-940,JFK,J About Me,JF My Opinion,JFK Yum,,,,Single Word,Abstract Sign,
-941,JFL,J About Me,JF My Opinion,JFL Eww,,,,Single Word,Drawing,
-942,JFM,J About Me,JF My Opinion,JFM Scary,,,,Single Word,Abstract Sign,
-943,JFN ,J About Me,JF My Opinion,JFN Hurry!!!,,,,Single Word,Abstract Sign,
-944,JFO,J About Me,JF My Opinion,JFO Safe,,,,Single Word,Abstract Sign,
-945,JFP,J About Me,JF My Opinion,JFP Sweet,,,,Single Word,Abstract Sign,
-946,JFQ,J About Me,JF My Opinion,JFQ Mean,,,,Single Word,Abstract Sign,
-947,JFR,J About Me,JF My Opinion,JFR,,,,,,
-948,,,,,,,,,,
-949,,,,,,,,,,
-950,,,,,,,,,,
-951,T2 - Differences,,,,,,,,,
-952,About Me JD with Wing and Back,,,,,,,,,
-953,J About me,,,,,,,,,
-954,JD,J About Me,JD Body,,,,Trained - Repeated,Single Word,Drawing,
-955,JDA,J About Me,JD Body,JDA Back (arrow),,,Trained - Repeated,Single Word,Abstract Sign,
-956,JDB,J About Me,JD Body,JDB Head,,,Trained,Single Word,Photo,
-957,JDC,J About Me,JD Body,JDC Tummy,,,Trained,Single Word,Photo,
-958,JDD,J About Me,JD Body,JDD Wing,,,Trained,Single Word,Photo,
-959,JDE,J About Me,JD Body,JDE,,,,,,
-960,JDF,J About Me,JD Body,JDF (unknown - maybe foot?),,,Trained,Single Word,Photo,
-961,JDG,J About Me,JD Body,JDG Body,x,,Trained,Single Word,Abstract Sign,
-962,JDH,J About Me,JD Body,JDH Back (of her body),x,,Trained,Single Word,Photo,
-963,JDI,J About Me,JD Body,JDI Feel Good,,,Generalized,Phrase,Drawing,
-964,JDJ,J About Me,JD Body,JDJ Ouch,,,Generalized,Single Word,Drawing,
-965,JDK,J About Me,JD Body,JDK Medicine,,,Trained,Single Word,Abstract Sign,
-966,JDL,J About Me,JD Body,JDL Talk About,,,Trained - Repeated,Phrase,Abstract Sign,
-967,,,,,,,,,,
-968,BOTTOM BACK ,Z,,,,,,,,
-969,,,,,,,,,,
-970,E To say hello to (with Cassie),,,,,,,,,
-971,E,E To Say Hello To,EG Car Ride,,,,Trained - Repeated,Phrase,Drawing,
-972,,E To Say Hello To,EH Bird Friends,,,,Trained,Phrase,Photo,
-973,,E To Say Hello To,EI Cassie,,x,,Trained,Single Word,Photo,
-974,,E To Say Hello To,EJ Outside Walk,,,,Trained - Repeated,Phrase,Photo,
-975,,,,,,,,,,
-976,I Descriptions & preferences (with Please Fix),,,,,,,,,
-977,I,I Descriptions and Preferences,IA Back,,,,Trained - Repeated,Single Word,Abstract Sign,
-978,,I Descriptions and Preferences,IB Opposites,,,,Trained,Single Word,Drawing,
-979,,I Descriptions and Preferences,IC Movement,,,,Trained,Single Word,Drawing,
-980,,I Descriptions and Preferences,ID Please Fix,,,,Untrained - Discovered,Phrase,Drawing,
-981,,,,,,,,,,
-982,H Memory & time (with Mad),,,,,,,,,
-983,HA,H Memory and Time,HA Back,,,,Trained - Repeated,Single Word,Abstract Sign,
-984,HB,H Memory and Time,HB Time,,,,Trained,Single Word,Drawing,
-985,HBA,H Memory and Time,HB Time,HBA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-986,HBB,H Memory and Time,HB Time,HBB,,,,,,
-987,HBC,H Memory and Time,HB Time,HBC Yesterday,,,Trained,Single Word,Abstract Sign,
-988,HBD,H Memory and Time,HB Time,HBD Today,,,Trained,Single Word,Drawing,
-989,HBE,H Memory and Time,HB Time,HBE Tomorrow,,,Trained,Single Word,Abstract Sign,
-990,HBF,H Memory and Time,HB Time,HBF Calendar,,,Trained,Single Word,Drawing,
-991,HBG,H Memory and Time,HB Time,HBG Past,,,Trained,Single Word,Abstract Sign,
-992,HBH,H Memory and Time,HB Time,HBH Future,,,Trained,Single Word,Abstract Sign,
-993,HBI,H Memory and Time,HB Time,HBI,,,,,,
-994,HBJ,H Memory and Time,HB Time,HBJ Look at art,,,Trained - Repeated,Phrase,Drawing,
-995,HBK,H Memory and Time,HB Time,HBK Like,,,Trained - Repeated,Single Word,Abstract Sign,
-996,HBL,H Memory and Time,HB Time,HBL No like,,,Trained - Repeated,Phrase,Abstract Sign,
-997,HBM,H Memory and Time,HB Time,HBM Talk about,,,Trained - Repeated,Phrase,Abstract Sign,
-998,HBN,H Memory and Time,HB Time,HBN Happy,,,Trained - Repeated,Single Word,Drawing,
-999,T2HBO,H Memory and Time,HB Time,HBO Mad,x,,Trained - Repeated,Single Word,Drawing,
-1000,HBP,H Memory and Time,HB Time,HBP Afraid,,,Trained - Repeated,Single Word,Drawing,
-1001,HBQ,H Memory and Time,HB Time,HBQ Excited,,,Trained - Repeated,Single Word,Drawing,
-1002,HBR,H Memory and Time,HB Time,HBR Body,,,Trained - Repeated,Single Word,Drawing,
-1003,,,,,,,,,,
-1004,,,,,,,,,,
-1005,J,About me-Temperature (with Dark),,,,,,,,
-1006,JC,,,,,,,,,
-1007,JCG,J About Me,JC Temperature,JCG Sun,,,Trained - Repeated,Single Word,Photo,
-1008,JCH,J About Me,JC Temperature,JCH Cloud,,,Trained - Repeated,Single Word,Photo,
-1009,JCI,J About Me,JC Temperature,JCI Wind,,,Trained - Repeated,Single Word,Photo,
-1010,JCJ,J About Me,JC Temperature,JCJ Rain,,,Trained - Repeated,Single Word,Photo,
-1011,T2JCK,J About Me,JC Temperature,JCK Dark,x,,Trained - Repeated,Single Word,Abstract Sign,
-1012,JCL,J About Me,JC Temperature,JCL Moon,,,Trained - Repeated,Single Word,Photo,
-1013,JCM,J About Me,JC Temperature,JCM Like,,,Trained - Repeated,Single Word,Abstract Sign,
-1014,JCN,J About Me,JC Temperature,JCN No like,,,Trained - Repeated,Phrase,Abstract Sign,
-1015,JCO,J About Me,JC Temperature,JCO,,,,,,
-1016,JCP,J About Me,JC Temperature,JCP,,,,,,
-1017,JCQ,J About Me,JC Temperature,JCQ,,,,,,
-1018,JCR,J About Me,JC Temperature,JCR,,,,,,
-1019,,,,,,,,,,
-1020,,,,,,,,,,
-,,,,,,,,,,
-,G,Food and Drinks (with Pistachio),,,,,,,,
-,GD,G Food and Drinks,GD Treats,,,,Trained,,,
-,GDA,G Food and Drinks,GD Treats,GDA Back,,,Trained - Repeated,Single Word,Abstract Sign,
-,GDB,G Food and Drinks,GD Treats,GDB Sunflower Seeds,,,Trained,Phrase,Photo,
-,GDC,G Food and Drinks,GD Treats,GDC Nuts,,,Trained,Single Word,Photo,
-,T2GDD,G Food and Drinks,GD Treats,GDD,,,,,,
-,T2GDE,G Food and Drinks,GD Treats,GDE Pistachio,x,,Trained,Single Word,Photo,
-,T2GDF,G Food and Drinks,GD Treats,GDF [UNKNOWN],,,,,,
-,T2GDG,G Food and Drinks,GD Treats,GDG Mango,,,Trained,Single Word,Photo,
-,T2GDH,G Food and Drinks,GD Treats,GDH Almond,,,Trained,Single Word,Photo,
-,T2GDI,G Food and Drinks,GD Treats,GDI Peanut Butter Syringe,,,Trained,Phrase,Abstract Sign,
-,T2GDJ,G Food and Drinks,GD Treats,GDJ Warm Water,,,Trained,Phrase,Drawing,
-,T2GDK,G Food and Drinks,GD Treats,GDK Seed Ball,,,Trained,Phrase,Photo,
-,T2GDL,G Food and Drinks,GD Treats,GDL [UNKNOWN],,,Trained,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,T2DG - possible submenu of individual letters same as Talk About,,,,,,,,,
-,,,,,,,,,,
-,JD,,,,,,,,,
-,,JDL Medicine,,,,,,,,
-,,JDL Medicine,JDLA Back,,,,,,,
-,,JDL Medicine,JDLB Treat syringe,,,,,,,
-,,JDL Medicine,JDLC Ouch medicine,Outside ouch medicine,,,,,,
-,,JDL Medicine,JDLD Sick medicine,Inside ouch antibiotics,,,,,,
-,,JDL Medicine,JDLE Handful of treats,,,,,,,
-,,,,,,,,,,
-,T2DE,Reading Book and Holidays on same menu - no subs for reading book,,,,,,,,
-,T2DED,Reading book ,,,,,,,,
-,T2DEG,Holidays ,(not Death and Sad),,,,,,,
+539,FCGCD,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGC Holidays,FCGCD Halloween,Resources,Single Word,Photo,Trained - Repeated
+540,FCGCE,F         Entertainment,FC    Cartoons,FCG Seasonal and Holidays,FCGC Holidays,FCGCE Christmas,Resources,Single Word,Drawing,Trained - Repeated
+541,FCH,F         Entertainment,FC    Cartoons,FCH Fantasy,,,Navigation,Single Word,Drawing,Trained - Repeated
+542,FCH,F         Entertainment,FC    Cartoons,FCH Fantasy,FCHA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+543,FCH,F         Entertainment,FC    Cartoons,FCH Fantasy,FCHB Unicorn,,Resources,Single Word,Drawing,Trained - Repeated
+544,FCH,F         Entertainment,FC    Cartoons,FCH Fantasy,FCHC Dragon,,Resources,Single Word,Drawing,Trained - Repeated
+545,FCH,F         Entertainment,FC    Cartoons,FCH Fantasy,FCHD Fairy,,Resources,Single Word,Drawing,Trained - Repeated
+546,FCH,F         Entertainment,FC    Cartoons,FCH Fantasy,FCHE Mermaid,,Resources,Single Word,Drawing,Trained - Repeated
+547,FCH,F         Entertainment,FC    Cartoons,FCH Fantasy,FCHF Elf,,Resources,Single Word,Drawing,Trained - Repeated
+548,FCH,F         Entertainment,FC    Cartoons,FCH Fantasy,FCHG Gnome,,Resources,Single Word,Drawing,Trained - Repeated
+549,FCI,F         Entertainment,FC    Cartoons,FCI Animals,,,Navigation,Single Word,Drawing,Trained - Repeated
+550,FCIA,F         Entertainment,FC    Cartoons,FCI Animals,FCIA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+551,FCIB,F         Entertainment,FC    Cartoons,FCI Animals,FCIB Underwater Animals,,Resources,Phrase,Drawing,Trained - Repeated
+552,FCIC,F         Entertainment,FC    Cartoons,FCI Animals,FCIC Baby Animals,,Resources,Phrase,Photo,Trained - Repeated
+553,FCID,F         Entertainment,FC    Cartoons,FCI Animals,FCID Jungle Animals,,Resources,Phrase,Photo,Trained - Repeated
+554,FCIE,F         Entertainment,FC    Cartoons,FCI Animals,FCIE Backyard Animals,,Resources,Phrase,Photo,Trained - Repeated
+555,FD,F         Entertainment,FD    Alexa    ,,,,Navigation,Single Word,Photo,Trained
+556,FDA,F         Entertainment,FD    Alexa    ,FDA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+557,FDB,F         Entertainment,FD    Alexa    ,FDB Mom,,,Family & Friends,Single Word,Photo,Trained - Repeated
+558,FDC ,F         Entertainment,FD    Alexa    ,FDC Alexa play meditation music,,,Resources,Phrase,Photo,Generalized
+559,FDD,F         Entertainment,FD    Alexa    ,FDD ,,,,,,
+560,FDE,F         Entertainment,FD    Alexa    ,FDE Alexa play Vivaldi,,,Resources,Phrase,Photo,Generalized
+561,FDF,F         Entertainment,FD    Alexa    ,FDF Alexa play Beethoven on spotify,,,Resources,Phrase,Photo,Generalized
+562,FDG,F         Entertainment,FD    Alexa    ,FDG Alexa play cartoons alexa play number 1,,,Resources,Phrase,Photo,Generalized
+563,FDH,F         Entertainment,FD    Alexa    ,FDH Alexa play Yiruma,,,Resources,Phrase,Photo,Generalized
+564,FDI,F         Entertainment,FD    Alexa    ,FDI Alexa play Will Ackerman,,,Resources,Phrase,Photo,Generalized
+565,FDJ,F         Entertainment,FD    Alexa    ,FDJ Alexa play hooked on a feeling on Pandora,,,Resources,Phrase,Photo,Generalized
+566,FDK,F         Entertainment,FD    Alexa    ,FDK Alexa play Coldplay on Pandora,,,Resources,Phrase,Photo,Generalized
+567,FDL,F         Entertainment,FD    Alexa    ,FDL Alexa play peppa pig cartoons,,,Resources,Phrase,Photo,Generalized
+568,FDM,F         Entertainment,FD    Alexa    ,FDM Alexa thumbs up,,,Self/State,Phrase,Abstract Sign,Generalized
+569,FDN,F         Entertainment,FD    Alexa    ,FDN Alexa thumbs down,,,Self/State,Phrase,Abstract Sign,Generalized
+570,FDO,F         Entertainment,FD    Alexa    ,FDO Alexa volume 5,,,Qualifiers,Phrase,Abstract Sign,Generalized
+571,FDP,F         Entertainment,FD    Alexa    ,FDP Alexa volume 3,,,Qualifiers,Phrase,Abstract Sign,Generalized
+572,FDQ,F         Entertainment,FD    Alexa    ,FDQ Alexa play Handel,,,Resources,Phrase,Photo,Generalized
+573,FDR,F         Entertainment,FD    Alexa    ,FDR Alexa cancel,,,Action,Phrase,Abstract Sign,Generalized
+574,G,G        Food and Drinks,,,,,Navigation,Phrase,Drawing,Trained
+575,GA,G        Food and Drinks,GA  Back,,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+576,GB,G        Food and Drinks,GB  To Eat,,,,Navigation,Phrase,Drawing,Trained
+577,GBA,G        Food and Drinks,GB  To Eat,GBA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+578,GBB,G        Food and Drinks,GB  To Eat,GBB,,,,,,
+579,GBC,G        Food and Drinks,GB  To Eat,GBC A toast,,,Resources,Phrase,Photo,Trained
+580,GBD,G        Food and Drinks,GB  To Eat,GBD Eggs,,,Resources,Single Word,Photo,Trained
+581,GBE,G        Food and Drinks,GB  To Eat,GBE A pancake,,,Resources,Phrase,Photo,Trained
+582,GBF,G        Food and Drinks,GB  To Eat,GBF Tofu,,,Resources,Single Word,Photo,Trained
+583,GBG,G        Food and Drinks,GB  To Eat,GBG Cook Breakfast,,,Resources,Phrase,Abstract Sign,Trained
+584,GBH,G        Food and Drinks,GB  To Eat,GBH Cook Dinner,,,Resources,Phrase,Abstract Sign,Trained
+585,GBI,G        Food and Drinks,GB  To Eat,GBI Chop,,,Resources,Single Word,Photo,Trained
+586,GBJ,G        Food and Drinks,GB  To Eat,GBJ An Apple,,,Resources,Phrase,Photo,Trained
+587,GBK,G        Food and Drinks,GB  To Eat,GBK A Banana,,,Resources,Phrase,Photo,Trained
+588,GBL ,G        Food and Drinks,GB  To Eat,GBL  Pear,,,Resources,Single Word,Photo,Trained
+589,GBM,G        Food and Drinks,GB  To Eat,GBM Spaghetti,,,Resources,Single Word,Drawing,Trained
+590,GC,G        Food and Drinks,GC To Drink,,,,Navigation,Phrase,Photo,Trained
+591,GCA,G        Food and Drinks,GC To Drink,GCA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+592,GCB,G        Food and Drinks,GC To Drink,GCB Water,,,Resources,Single Word,Photo,Trained
+593,GCC,G        Food and Drinks,GC To Drink,GCC Tea,,,Resources,Single Word,Photo,Trained - Repeated
+594,GCD,G        Food and Drinks,GC To Drink,GCD Juice,,,Resources,Single Word,Photo,Trained
+595,GD,G        Food and Drinks,GD Treats,,,,Navigation,Single Word,Photo,Trained
+596,GDA,G        Food and Drinks,GD Treats,GDA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+597,GDB,G        Food and Drinks,GD Treats,GDB Sunflower Seeds,,,Resources,Phrase,Photo,Trained
+598,GDC,G        Food and Drinks,GD Treats,GDC Nuts,,,Resources,Single Word,Photo,Trained
+599,GDD,G        Food and Drinks,GD Treats,GDD Seed Ball,,,Resources,Phrase,Photo,Trained
+600,GDE,G        Food and Drinks,GD Treats,GDE Mango,,,Resources,Single Word,Photo,Trained
+601,GDF,G        Food and Drinks,GD Treats,GDF Medicine,,,Resources,Single Word,Abstract Sign,Trained - Repeated
+602,GDG,G        Food and Drinks,GD Treats,GDG Almond,,,Resources,Single Word,Photo,Trained
+603,H,H       Memory and Time,,,,,Navigation,Phrase,Drawing,Untrained - Discovered
+604,HA,H       Memory and Time,HA Back,,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+605,HB,H       Memory and Time,HB Time,,,,Navigation,Single Word,Photo,Untrained - Discovered
+606,HBA,H       Memory and Time,HB Time,HBA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+607,HBB,H       Memory and Time,HB Time,HBB ,,,,,,
+608,HBC,H       Memory and Time,HB Time,HBC Yesterday,,,Space-Temporal,Single Word,Abstract Sign,Trained
+609,HBD,H       Memory and Time,HB Time,HBD Today,,,Space-Temporal,Single Word,Drawing,Trained
+610,HBE,H       Memory and Time,HB Time,HBE Tomorrow,,,Space-Temporal,Single Word,Abstract Sign,Trained
+611,HBF,H       Memory and Time,HB Time,HBF Calendar,,,Space-Temporal,Single Word,Drawing,Trained
+612,HBG,H       Memory and Time,HB Time,HBG Past,,,Space-Temporal,Single Word,Abstract Sign,Trained
+613,HBH,H       Memory and Time,HB Time,HBH Future,,,Space-Temporal,Single Word,Abstract Sign,Trained
+614,HBI,H       Memory and Time,HB Time,HBI Look at pictures,,,Socio-Cognitive,Phrase,Drawing,Trained
+615,HBJ,H       Memory and Time,HB Time,HBJ Talk about,,,Socio-Cognitive,Phrase,Abstract Sign,Trained
+616,HBK,H       Memory and Time,HB Time,HBK Like,,,Self/State,Single Word,Abstract Sign,Trained
+617,HBL,H       Memory and Time,HB Time,HBL No like,,,Self/State,Phrase,Abstract Sign,Trained
+618,HBM,H       Memory and Time,HB Time,HBM I love you,,,Self/State,Phrase,Drawing,Trained
+619,HBN,H       Memory and Time,HB Time,HBN Excited,,,Self/State,Single Word,Drawing,Trained
+620,HBO,H       Memory and Time,HB Time,HBO Happy,,,Self/State,Single Word,Drawing,Trained
+621,HBP,H       Memory and Time,HB Time,HBP Sad,,,Self/State,Single Word,Drawing,Trained
+622,HBQ,H       Memory and Time,HB Time,HBQ Afraid,,,Self/State,Single Word,Drawing,Trained
+623,HBR,H       Memory and Time,HB Time,HBR Body,,,Self/State,Single Word,Drawing,Trained
+624,HC,H       Memory and Time,HC Remember,,,,Navigation,Single Word,Photo,Untrained - Discovered
+625,HCA,H       Memory and Time,HC Remember,HCA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+626,HCB,H       Memory and Time,HC Remember,HCB Moonlight,,,Family & Friends,Single Word,Photo,Untrained - Discovered
+627,HCC,H       Memory and Time,HC Remember,HCC Lily,,,Family & Friends,Single Word,Photo,Untrained - Discovered
+628,HCD,H       Memory and Time,HC Remember,HCD Old house,,,Socio-Cognitive,Phrase,Photo,Untrained - Discovered
+629,HCE,H       Memory and Time,HC Remember,HCE Second old house,,,Socio-Cognitive,Phrase,Photo,Untrained - Discovered
+630,HCF,H       Memory and Time,HC Remember,HCF Chris,,,Family & Friends,Single Word,Photo,Untrained - Discovered
+631,HCG,H       Memory and Time,HC Remember,HCG Talk About Feelings,,,Self/State,Phrase,Drawing,Untrained - Discovered
+632,HCH,H       Memory and Time,HC Remember,HCH Talk About,,,Socio-Cognitive,Phrase,Abstract Sign,Untrained - Discovered
+633,HCI,H       Memory and Time,HC Remember,HCI Look at pictures,,,Socio-Cognitive,Phrase,Drawing,Untrained - Discovered
+634,HCJ,H       Memory and Time,HC Remember,HCJ Tillie's old house,,,Socio-Cognitive,Phrase,Photo,Untrained - Discovered
+635,I,I Descriptions and Preferences,,,,,Navigation,Phrase,Drawing,Untrained - Discovered
+636,IA,I Descriptions and Preferences,IA Back,,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+637,IB,I Descriptions and Preferences,IB Opposites,,,,Navigation,Single Word,Drawing,Trained
+638,IBA,I Descriptions and Preferences,IB Opposites,IBA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+639,IBB,I Descriptions and Preferences,IB Opposites,IBB,,,,,,
+640,IBC,I Descriptions and Preferences,IB Opposites,IBC High up,,,Space-Temporal,Phrase,Drawing,Untrained - Discovered
+641,IBD,I Descriptions and Preferences,IB Opposites,IBD Down low,,,Space-Temporal,Phrase,Drawing,Untrained - Discovered
+642,IBE,I Descriptions and Preferences,IB Opposites,IBE Big,,,Qualifiers,Single Word,Drawing,Trained
+643,IBF,I Descriptions and Preferences,IB Opposites,IBF Little,,,Qualifiers,Single Word,Drawing,Trained
+644,IBG,I Descriptions and Preferences,IB Opposites,IBG Broken,,,Qualifiers,Single Word,Drawing,Untrained - Discovered
+645,IBH,I Descriptions and Preferences,IB Opposites,IBH Fixed,,,Qualifiers,Single Word,Drawing,Untrained - Discovered
+646,IBI,I Descriptions and Preferences,IB Opposites,IBI Light,,,Qualifiers,Single Word,Photo,Untrained - Discovered
+647,IBJ,I Descriptions and Preferences,IB Opposites,IBJ Dark,,,Qualifiers,Single Word,Abstract Sign,Untrained - Discovered
+648,IBK,I Descriptions and Preferences,IB Opposites,IBK In,,,Space-Temporal,Single Word,Abstract Sign,Untrained - Discovered
+649,IBL,I Descriptions and Preferences,IB Opposites,IBL Out,,,Space-Temporal,Single Word,Abstract Sign,Untrained - Discovered
+650,IBM,I Descriptions and Preferences,IB Opposites,IBM Empty,,,Qualifiers,Single Word,Drawing,Untrained - Discovered
+651,IBN,I Descriptions and Preferences,IB Opposites,IBN Full,,,Qualifiers,Single Word,Drawing,Untrained - Discovered
+652,IBO,I Descriptions and Preferences,IB Opposites,IBO Like,,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+653,IBP,I Descriptions and Preferences,IB Opposites,IBP No like,,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+654,IBQ,I Descriptions and Preferences,IB Opposites,IBQ Easy,,,Qualifiers,Single Word,Abstract Sign,Untrained - Discovered
+655,IBR,I Descriptions and Preferences,IB Opposites,IBR Hard,,,Qualifiers,Single Word,Abstract Sign,Untrained - Discovered
+656,IC,I Descriptions and Preferences,IC Movement,,,,Navigation,Single Word,Drawing,Trained
+657,ICA,I Descriptions and Preferences,IC Movement,ICA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+658,ICB,I Descriptions and Preferences,IC Movement,ICB Run,,,Action,Single Word,Drawing,Trained
+659,ICC,I Descriptions and Preferences,IC Movement,ICC,,,,,,
+660,ICD,I Descriptions and Preferences,IC Movement,ICD Jump,,,Action,Single Word,Drawing,Trained
+661,ICE,I Descriptions and Preferences,IC Movement,ICE Swim,,,Action,Single Word,Drawing,Trained
+662,ICF,I Descriptions and Preferences,IC Movement,ICF Fly,,,Action,Single Word,Drawing,Trained
+663,ICG,I Descriptions and Preferences,IC Movement,ICG Sit,,,Action,Single Word,Drawing,Trained
+664,ICH,I Descriptions and Preferences,IC Movement,ICH Walk,,,Action,Single Word,Drawing,Trained
+665,ICI,I Descriptions and Preferences,IC Movement,ICI Fast,,,Qualifiers,Single Word,Abstract Sign,Trained - Repeated
+666,ICJ,I Descriptions and Preferences,IC Movement,ICJ Slow,,,Qualifiers,Single Word,Abstract Sign,Trained - Repeated
+667,ICK,I Descriptions and Preferences,IC Movement,ICK Like,,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+668,ICL,I Descriptions and Preferences,IC Movement,ICL No Like,,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+669,ICM,I Descriptions and Preferences,IC Movement,ICM Mom,,,Family & Friends,Single Word,Photo,Trained - Repeated
+670,ICN,I Descriptions and Preferences,IC Movement,ICN Tillie,,,Family & Friends,Single Word,Photo,Trained - Repeated
+671,ICO,I Descriptions and Preferences,IC Movement,ICO Ellie,,,Family & Friends,Single Word,Photo,Trained - Repeated
+672,ICP,I Descriptions and Preferences,IC Movement,ICP Isabelle,,,Family & Friends,Single Word,Photo,Trained - Repeated
+673,ICQ,I Descriptions and Preferences,IC Movement,ICQ,,,,,,
+674,ID,I Descriptions and Preferences,ID Fix please,,,,Navigation,Phrase,Abstract Sign,Untrained - Discovered
+675,IDA,I Descriptions and Preferences,ID Fix please,IDA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+676,IDB,I Descriptions and Preferences,ID Fix please,IDB inside,,,Space-Temporal,Single Word,Photo,Generalized
+677,IDC,I Descriptions and Preferences,ID Fix please,IDC outside,,,Space-Temporal,Single Word,Photo,Generalized
+678,IDD,I Descriptions and Preferences,ID Fix please,IDD,,,,,,
+679,IDE,I Descriptions and Preferences,ID Fix please,IDE Down low,,,Space-Temporal,Phrase,Drawing,Untrained - Discovered
+680,IDF,I Descriptions and Preferences,ID Fix please,IDF High up,,,Space-Temporal,Phrase,Drawing,Untrained - Discovered
+681,IDG,I Descriptions and Preferences,ID Fix please,IDG Broken,,,Qualifiers,Single Word,Drawing,Untrained - Discovered
+682,IDH,I Descriptions and Preferences,ID Fix please,IDH Fix,,,Qualifiers,Single Word,Drawing,Untrained - Discovered
+683,IDI,I Descriptions and Preferences,ID Fix please,IDI White,,,Qualifiers,Single Word,Photo,Untrained - Discovered
+684,IDJ,I Descriptions and Preferences,ID Fix please,IDJ Blue,,,Qualifiers,Single Word,Photo,Untrained - Discovered
+685,IDK,I Descriptions and Preferences,ID Fix please,IDK Brown,,,Qualifiers,Single Word,Photo,Untrained - Discovered
+686,IDL,I Descriptions and Preferences,ID Fix please,IDL Tablet,,,Resources,Single Word,Photo,Untrained - Discovered
+687,IDM,I Descriptions and Preferences,ID Fix please,IDM Mom,,,Family & Friends,Single Word,Photo,Trained - Repeated
+688,IDN,I Descriptions and Preferences,ID Fix please,IDN Ellie,,,Family & Friends,Single Word,Photo,Trained - Repeated
+689,IDO,I Descriptions and Preferences,ID Fix please,IDO Tillie,,,Family & Friends,Single Word,Photo,Trained - Repeated
+690,IDP,I Descriptions and Preferences,ID Fix please,IDP Isabelle,,,Family & Friends,Single Word,Photo,Trained - Repeated
+691,IDQ,I Descriptions and Preferences,ID Fix please,IDQ Like,,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+692,IDR,I Descriptions and Preferences,ID Fix please,IDR No like,,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+693,IE,I Descriptions and Preferences,IE Clean,,,,Navigation,Single Word,Photo,Untrained - Discovered
+694,IEA,I Descriptions and Preferences,IE Clean,IEA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+695,IEB,I Descriptions and Preferences,IE Clean,IEB Floor,,,Resources,Single Word,Photo,Untrained - Discovered
+696,IEC,I Descriptions and Preferences,IE Clean,IEC Sweep broom,,,Resources,Phrase,Photo,Untrained - Discovered
+697,IED,I Descriptions and Preferences,IE Clean,IED Papers,,,Resources,Single Word,Photo,Untrained - Discovered
+698,IEE,I Descriptions and Preferences,IE Clean,IEE,,,,,,
+699,IEF,I Descriptions and Preferences,IE Clean,IEF Cages,,,Resources,Single Word,Photo,Untrained - Discovered
+700,IEG,I Descriptions and Preferences,IE Clean,IEG Broken,,,Qualifiers,Single Word,Drawing,Untrained - Discovered
+701,IEH,I Descriptions and Preferences,IE Clean,IEH Fix,,,Qualifiers,Single Word,Drawing,Untrained - Discovered
+702,IEI,I Descriptions and Preferences,IE Clean,IEI Mom,,,Family & Friends,Single Word,Photo,Trained - Repeated
+703,IEJ,I Descriptions and Preferences,IE Clean,IEJ Fast,,,Qualifiers,Single Word,Abstract Sign,Trained - Repeated
+704,IEK,I Descriptions and Preferences,IE Clean,IEK Slow,,,Qualifiers,Single Word,Abstract Sign,Trained - Repeated
+705,IEL,I Descriptions and Preferences,IE Clean,IEL Outside aviary,,,Space-Temporal,Phrase,Photo,Trained - Repeated
+706,IEM,I Descriptions and Preferences,IE Clean,IEM I help,,,Action,Phrase,Abstract Sign,Untrained - Discovered
+707,IEN,I Descriptions and Preferences,IE Clean,IEN Ellie,,,Family & Friends,Single Word,Photo,Trained - Repeated
+708,IEO,I Descriptions and Preferences,IE Clean,IEO Isabelle,,,Family & Friends,Single Word,Photo,Trained - Repeated
+709,IEP,I Descriptions and Preferences,IE Clean,IEP Tillie,,,Family & Friends,Single Word,Photo,Trained - Repeated
+710,IEQ,I Descriptions and Preferences,IE Clean,IEQ Like,,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+711,IER,I Descriptions and Preferences,IE Clean,IER No like,,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+712,IF,I Descriptions and Preferences,IF,,,,,,,
+713,IG,I Descriptions and Preferences,IG Questions,,,,Navigation,Single Word,Abstract Sign,Trained
+714,IGA,I Descriptions and Preferences,IG Questions,IGA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+715,IGB,I Descriptions and Preferences,IG Questions,IGB Who is that?,,,Socio-Cognitive,Phrase,Abstract Sign,Trained
+716,IGC,I Descriptions and Preferences,IG Questions,IGC What is that?,,,Socio-Cognitive,Phrase,Abstract Sign,Trained
+717,IGD,I Descriptions and Preferences,IG Questions,IGD Where are you going?,,,Socio-Cognitive,Phrase,Abstract Sign,Trained
+718,IGE,I Descriptions and Preferences,IG Questions,IGE Where is someone?,,,Socio-Cognitive,Phrase,Abstract Sign,Trained
+719,IGF,I Descriptions and Preferences,IG Questions,IGF How?,,,Socio-Cognitive,Single Word,Abstract Sign,Trained
+720,IGG,I Descriptions and Preferences,IG Questions,IGG ,,,,,,
+721,IGH,I Descriptions and Preferences,IG Questions,IGH Why?,,,Socio-Cognitive,Single Word,Abstract Sign,Trained
+722,IGI,I Descriptions and Preferences,IG Questions,IGI When?,,,Socio-Cognitive,Single Word,Abstract Sign,Trained
+723,IGJ,I Descriptions and Preferences,IG Questions,IGJ I know!,,,Socio-Cognitive,Phrase,Abstract Sign,Trained
+724,IGK,I Descriptions and Preferences,IG Questions,IGK I dont know,,,Socio-Cognitive,Phrase,Abstract Sign,Trained - Repeated
+725,IGL,I Descriptions and Preferences,IG Questions,IGL Inside,,,Space-Temporal,Single Word,Photo,Generalized
+726,IGM,I Descriptions and Preferences,IG Questions,IGM Outside,,,Space-Temporal,Single Word,Photo,Generalized
+727,IGN,I Descriptions and Preferences,IG Questions,IGN Isabelle,,,Family & Friends,Single Word,Photo,Trained - Repeated
+728,IGO,I Descriptions and Preferences,IG Questions,IGO Tillie,,,Family & Friends,Single Word,Photo,Trained - Repeated
+729,IGP,I Descriptions and Preferences,IG Questions,IGP Ellie,,,Family & Friends,Single Word,Photo,Trained - Repeated
+730,IGQ,I Descriptions and Preferences,IG Questions,IGQ Mom,,,Family & Friends,Single Word,Photo,Trained - Repeated
+731,IGR,I Descriptions and Preferences,IG Questions,IGR Someone Else,,,Family & Friends,Phrase,Abstract Sign,Generalized
+732,IH,I Descriptions and Preferences,IH Squirrels,,,,Navigation,Single Word,Photo,Untrained - Discovered
+733,IHA,I Descriptions and Preferences,IH Squirrels,IHA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+734,IHB,I Descriptions and Preferences,IH Squirrels,IHB Broken,,,Qualifiers,Single Word,Drawing,Untrained - Discovered
+735,IHC,I Descriptions and Preferences,IH Squirrels,IHC Fix,,,Qualifiers,Single Word,Drawing,Untrained - Discovered
+736,IHD,I Descriptions and Preferences,IH Squirrels,IHD Fast,,,Qualifiers,Single Word,Abstract Sign,Trained - Repeated
+737,IHE,I Descriptions and Preferences,IH Squirrels,IHE Slow,,,Qualifiers,Single Word,Abstract Sign,Trained - Repeated
+738,IHF,I Descriptions and Preferences,IH Squirrels,IHF Squirrel music,,,Resources,Phrase,Photo,Generalized
+739,IHG,I Descriptions and Preferences,IH Squirrels,IHG ,,,,,,
+740,IHH,I Descriptions and Preferences,IH Squirrels,IHH Squirrel,,,Family & Friends,Single Word,Photo,Trained - Repeated
+741,IHI,I Descriptions and Preferences,IH Squirrels,IHI Tablet,,,Resources,Single Word,Photo,Untrained - Discovered
+742,IHJ,I Descriptions and Preferences,IH Squirrels,IHJ Like,,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+743,IHK,I Descriptions and Preferences,IH Squirrels,IHK No like,,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+744,IHL,I Descriptions and Preferences,IH Squirrels,IHL Video call,,,Socio-Cognitive,Phrase,Photo,Untrained - Discovered
+745,IHM,I Descriptions and Preferences,IH Squirrels,IHM Mom,,,Family & Friends,Single Word,Photo,Trained - Repeated
+746,IHN,I Descriptions and Preferences,IH Squirrels,IHN Down low,,,Self/State,Phrase,Drawing,Untrained - Discovered
+747,IHO,I Descriptions and Preferences,IH Squirrels,IHO Up high,,,Space-Temporal,Phrase,Drawing,Untrained - Discovered
+748,IHP,I Descriptions and Preferences,IH Squirrels,IHP Blue,,,Qualifiers,Single Word,Photo,Untrained - Discovered
+749,IHQ,I Descriptions and Preferences,IH Squirrels,IHQ Yellow,,,Qualifiers,Single Word,Photo,Untrained - Discovered
+750,IHR,I Descriptions and Preferences,IH Squirrels,IHR Gray,,,Qualifiers,Single Word,Photo,Untrained - Discovered
+751,J,J About Me,,,,,Navigation,Phrase,Drawing,Trained
+752,JA,J About Me,JA Back,,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+753,JB,J About Me,JB,,,,,,,
+754,JC,J About Me,JC Temperature,,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+755,JCA,J About Me,JC Temperature,JCA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+756,JCB,J About Me,JC Temperature,JCB Hot,,,Navigation,Single Word,Abstract Sign,Trained
+757,JCBA,J About Me,JC Temperature,JCB Hot,JCBA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+758,JCBB,J About Me,JC Temperature,JCB Hot,JCBB,,,,,
+759,JCBC,J About Me,JC Temperature,JCB Hot,JCBC I Feel Hot,,Self/State,Phrase,Drawing,Generalized
+760,JCBD,J About Me,JC Temperature,JCB Hot,JCBD I Want to Feel Hot,,Self/State,Phrase,Drawing,Generalized
+761,JCBE,J About Me,JC Temperature,JCB Hot,JCBE Like,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+762,JCBF,J About Me,JC Temperature,JCB Hot,JCBF No Like,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+763,JCBG,J About Me,JC Temperature,JCB Hot,JCBG I felt hot,,Space-Temporal,Phrase,Abstract Sign,Generalized
+764,JCBH,J About Me,JC Temperature,JCB Hot,JCBH I will feel hot,,Space-Temporal,Phrase,Abstract Sign,Generalized
+765,JCBI,J About Me,JC Temperature,JCB Hot,JCBI Hot outside,,Space-Temporal,Phrase,Photo,Untrained - Discovered
+766,JCBJ,J About Me,JC Temperature,JCB Hot,JCBJ Hot inside,,Space-Temporal,Phrase,Abstract Sign,Untrained - Discovered
+767,JCBK,J About Me,JC Temperature,JCB Hot,JCBK Talk about,,Socio-Cognitive,Phrase,Abstract Sign,Trained - Repeated
+768,JCC,J About Me,JC Temperature,JCC,,,,,,
+769,JCD,J About Me,JC Temperature,JCD Warm,,,Navigation,Single Word,Abstract Sign,Trained
+770,JCDA,J About Me,JC Temperature,JCD Warm,JCDA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+771,JCDB,J About Me,JC Temperature,JCD Warm,JCDB I Feel Warm,,Self/State,Phrase,Drawing,Generalized
+772,JCDC,J About Me,JC Temperature,JCD Warm,JCDC I Want to Feel Warm,,Self/State,Phrase,Drawing,Generalized
+773,JCDD,J About Me,JC Temperature,JCD Warm,JCDD,,,,,
+774,JCDE,J About Me,JC Temperature,JCD Warm,JCDE Like,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+775,JCDF,J About Me,JC Temperature,JCD Warm,JCDF No Like,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+776,JCDG,J About Me,JC Temperature,JCD Warm,JCDG I felt warm,,Space-Temporal,Phrase,Abstract Sign,Generalized
+777,JCDH,J About Me,JC Temperature,JCD Warm,JCDH I will feel warm,,Space-Temporal,Phrase,Abstract Sign,Generalized
+778,JCDI,J About Me,JC Temperature,JCD Warm,JCDI Warm outside,,Space-Temporal,Phrase,Photo,Untrained - Discovered
+779,JCDJ,J About Me,JC Temperature,JCD Warm,JCDJ Warm inside,,Space-Temporal,Phrase,Abstract Sign,Untrained - Discovered
+780,JCDK,J About Me,JC Temperature,JCD Warm,JCDK Talk about,,Socio-Cognitive,Phrase,Abstract Sign,Trained - Repeated
+781,JCE,J About Me,JC Temperature,JCE Cool,,,Navigation,Single Word,Abstract Sign,Trained
+782,JCEA,J About Me,JC Temperature,JCE Cool,JCEA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+783,JCEB,J About Me,JC Temperature,JCE Cool,JCEB I Feel Cool,,Self/State,Phrase,Drawing,Generalized
+784,JCEC,J About Me,JC Temperature,JCE Cool,JCEC I Want to Feel Cool,,Self/State,Phrase,Drawing,Generalized
+785,JCED,J About Me,JC Temperature,JCE Cool,JCED Like,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+786,JCEE,J About Me,JC Temperature,JCE Cool,JCEE,,,,,
+787,JCEF,J About Me,JC Temperature,JCE Cool,JCEF No Like,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+788,JCEG,J About Me,JC Temperature,JCE Cool,JCEG I felt cool,,Space-Temporal,Phrase,Abstract Sign,Generalized
+789,JCEH,J About Me,JC Temperature,JCE Cool,JCEH I will feel cool,,Space-Temporal,Phrase,Abstract Sign,Generalized
+790,JCEI,J About Me,JC Temperature,JCE Cool,JCEI Cool outside,,Space-Temporal,Phrase,Photo,Untrained - Discovered
+791,JCEJ,J About Me,JC Temperature,JCE Cool,JCEJ Cool inside,,Space-Temporal,Phrase,Abstract Sign,Untrained - Discovered
+792,JCEK,J About Me,JC Temperature,JCE Cool,JCEK Talk about,,Socio-Cognitive,Phrase,Abstract Sign,Trained - Repeated
+793,JCF,J About Me,JC Temperature,JCF Cold,,,Navigation,Single Word,Abstract Sign,Trained
+794,JCFA,J About Me,JC Temperature,JCF Cold,JCFA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+795,JCFB,J About Me,JC Temperature,JCF Cold,JCFB I feel cold,,Self/State,Phrase,Drawing,Generalized
+796,JCFC,J About Me,JC Temperature,JCF Cold,JCFC I want to feel cold,,Self/State,Phrase,Drawing,Generalized
+797,JCFD,J About Me,JC Temperature,JCF Cold,JCFD Like,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+798,JCFE,J About Me,JC Temperature,JCF Cold,JCFE No like,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+799,JCFF,J About Me,JC Temperature,JCF Cold,JCFF,,,,,
+800,JCFG,J About Me,JC Temperature,JCF Cold,JCFG I felt cold,,Space-Temporal,Phrase,Abstract Sign,Generalized
+801,JCFH,J About Me,JC Temperature,JCF Cold,JCFH I will feel cold,,Space-Temporal,Phrase,Abstract Sign,Generalized
+802,JCFI,J About Me,JC Temperature,JCF Cold,JCFI Cold outside,,Space-Temporal,Phrase,Photo,Untrained - Discovered
+803,JCFJ,J About Me,JC Temperature,JCF Cold,JCFJ Cold inside,,Space-Temporal,Phrase,Photo,Untrained - Discovered
+804,JCFK,J About Me,JC Temperature,JCF Cold,JCFK Talk about,,Socio-Cognitive,Phrase,Abstract Sign,Trained - Repeated
+805,JCG,J About Me,JC Temperature,JCG Sun,,,Space-Temporal,Single Word,Photo,Trained - Repeated
+806,JCH,J About Me,JC Temperature,JCH Wind,,,Space-Temporal,Single Word,Photo,Trained - Repeated
+807,JCI,J About Me,JC Temperature,JCI Cloud,,,Space-Temporal,Single Word,Photo,Trained - Repeated
+808,JCJ,J About Me,JC Temperature,JCJ Rain,,,Space-Temporal,Single Word,Photo,Trained - Repeated
+809,JCK,J About Me,JC Temperature,JCK Night - Star,,,Space-Temporal,Phrase,Photo,Trained - Repeated
+810,JCL,J About Me,JC Temperature,JCL Moon,,,Space-Temporal,Single Word,Photo,Trained - Repeated
+811,JCM,J About Me,JC Temperature,JCM Lightning thunder cheese game,,,Resources,Phrase,Photo,Trained - Repeated
+812,JCN,J About Me,JC Temperature,JCN Happy,,,Self/State,Single Word,Drawing,Trained - Repeated
+813,JCO,J About Me,JC Temperature,JCO Afraid,,,Self/State,Single Word,Drawing,Trained - Repeated
+814,JCP,J About Me,JC Temperature,JCP Mad,,,Self/State,Single Word,Drawing,Trained - Repeated
+815,JCQ,J About Me,JC Temperature,JCQ Like,,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+816,JCR,J About Me,JC Temperature,JCR No like,,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+817,JD,J About Me,JD Body,,,,Navigation,Single Word,Drawing,Trained - Repeated
+818,JDA,J About Me,JD Body,JDA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+819,JDB,J About Me,JD Body,JDB Head,,,Self/State,Single Word,Photo,Trained
+820,JDC,J About Me,JD Body,JDC Tummy,,,Self/State,Single Word,Photo,Trained
+821,JDD,J About Me,JD Body,JDD,,,,,,
+822,JDE,J About Me,JD Body,JDE Wing,,,Self/State,Single Word,Photo,Trained
+823,JDF,J About Me,JD Body,JDF Foot,,,Self/State,Single Word,Photo,Trained
+824,JDG,J About Me,JD Body,JDG Past,,,Space-Temporal,Single Word,Abstract Sign,Generalized
+825,JDH,J About Me,JD Body,JDH Today,,,Space-Temporal,Single Word,Drawing,Generalized
+826,JDI,J About Me,JD Body,JDI Feel Good,,,Self/State,Phrase,Drawing,Generalized
+827,JDJ,J About Me,JD Body,JDJ Ouch,,,Self/State,Single Word,Drawing,Generalized
+828,JDK,J About Me,JD Body,JDK Feel,,,Self/State,Single Word,Drawing,Generalized
+829,JDL,J About Me,JD Body,JDL Medicine,,,Navigation,Single Word,Abstract Sign,Trained
+830,JDLA,J About Me,JD Body,JDL Medicine,JDLA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+831,JDLB,J About Me,JD Body,JDL Medicine,JDLB Treat syringe,,Resources,Phrase,Photo,Trained
+832,JDLC,J About Me,JD Body,JDL Medicine,JDLC Ouch medicine,,Resources,Phrase,Photo,Trained
+833,JDLD,J About Me,JD Body,JDL Medicine,JDLD Sick medicine,,Resources,Phrase,Photo,Trained
+834,JDLE,J About Me,JD Body,JDL Medicine,JDLE Handful of treats,,Resources,Phrase,Photo,Trained
+835,JDM,J About Me,JD Body,JDM Ellie,,,Family & Friends,Single Word,Photo,Trained - Repeated
+836,JDN,J About Me,JD Body,JDN Isabelle,,,Family & Friends,Single Word,Photo,Trained - Repeated
+837,JDO,J About Me,JD Body,JDO Tillie,,,Family & Friends,Single Word,Photo,Trained - Repeated
+838,JDP,J About Me,JD Body,JDP Like,,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+839,JDQ,J About Me,JD Body,JDQ No like,,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+840,JDR,J About Me,JD Body,JDR Types of ouch,,,Navigation,Phrase,Abstract Sign,Trained
+841,JDRA,J About Me,JD Body,JDR Types of ouch,JDRA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+842,JDRB,J About Me,JD Body,JDR Types of ouch,JDRB Inside ouch,,Self/State,Phrase,Drawing,Trained
+843,JDRC,J About Me,JD Body,JDR Types of ouch,JDRC Outside ouch,,Self/State,Phrase,Photo,Trained
+844,JDRD,J About Me,JD Body,JDR Types of ouch,JDRD Bone ouch,,Self/State,Phrase,Drawing,Trained
+845,JDRE,J About Me,JD Body,JDR Types of ouch,JDRE Sick ouch,,Self/State,Phrase,Drawing,Trained
+846,JDRF,J About Me,JD Body,JDR Types of ouch,JDRF What type of ouch?,,Socio-Cognitive,Phrase,Drawing,Trained
+847,JDRG,J About Me,JD Body,JDR Types of ouch,JDRG Cancer,,Self/State,Single Word,Drawing,Trained
+848,JDRH,J About Me,JD Body,JDR Types of ouch,JDRH I felt ouch,,Space-Temporal,Phrase,Abstract Sign,Generalized
+849,JDRI,J About Me,JD Body,JDR Types of ouch,JDRI I will feel ouch,,Space-Temporal,Phrase,Abstract Sign,Generalized
+850,JDRJ,J About Me,JD Body,JDR Types of ouch,JDRJ I feel ouch,,Self/State,Phrase,Drawing,Generalized
+851,JDRK,J About Me,JD Body,JDR Types of ouch,JDRK Afraid ouch,,Self/State,Phrase,Drawing,Generalized
+852,JDRO,J About Me,JD Body,JDR Types of ouch,JDRO Mom,,Family & Friends,Single Word,Photo,Trained - Repeated
+853,JDRP,J About Me,JD Body,JDR Types of ouch,JDRP Ellie,,Family & Friends,Single Word,Photo,Trained - Repeated
+854,JDRQ,J About Me,JD Body,JDR Types of ouch,JDRQ Isabelle,,Family & Friends,Single Word,Photo,Trained - Repeated
+855,JDRR,J About Me,JD Body,JDR Types of ouch,JDRR Tillie,,Family & Friends,Single Word,Photo,Trained - Repeated
+856,JE,J About Me,JE Feeling,,,,Navigation,Single Word,Abstract Sign,Trained
+857,JEA,J About Me,JE Feeling,JEA Back,,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+858,JEB,J About Me,JE Feeling,JEB Happy,,,Navigation,Single Word,Drawing,Trained - Repeated
+859,JEBA,J About Me,JE Feeling,JEB Happy,JEBA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+860,JEBB,J About Me,JE Feeling,JEB Happy,JEBB,,,,,
+861,JEBC,J About Me,JE Feeling,JEB Happy,JEBC I feel happy,,Self/State,Phrase,Drawing,Trained
+862,JEBD,J About Me,JE Feeling,JEB Happy,JEBD I want to feel happy,,Self/State,Phrase,Drawing,Trained
+863,JEBE,J About Me,JE Feeling,JEB Happy,JEBE,,,,,
+864,JEBF,J About Me,JE Feeling,JEB Happy,JEBF,,,,,
+865,JEBG,J About Me,JE Feeling,JEB Happy,JEBG I felt happy,,Space-Temporal,Phrase,Abstract Sign,Trained
+866,JEBH,J About Me,JE Feeling,JEB Happy,JEBH I will feel happy,,Space-Temporal,Phrase,Abstract Sign,Trained
+867,JEC,J About Me,JE Feeling,JEC Excited,,,Navigation,Single Word,Drawing,Trained - Repeated
+868,JECA,J About Me,JE Feeling,JEC Excited,JECA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+869,JECB,J About Me,JE Feeling,JEC Excited,JECB I feel excited,,Self/State,Phrase,Drawing,Generalized
+870,JECC,J About Me,JE Feeling,JEC Excited,JECC,,,,,
+871,JECD,J About Me,JE Feeling,JEC Excited,JECD I want to feel excited,,Self/State,Phrase,Drawing,Generalized
+872,JECE,J About Me,JE Feeling,JEC Excited,JECE,,,,,
+873,JECF,J About Me,JE Feeling,JEC Excited,JECF,,,,,
+874,JECG,J About Me,JE Feeling,JEC Excited,JECG I felt excited,,Space-Temporal,Phrase,Abstract Sign,Generalized
+875,JECH,J About Me,JE Feeling,JEC Excited,JECH I will feel excited,,Space-Temporal,Phrase,Abstract Sign,Generalized
+876,JED,J About Me,JE Feeling,JED Mad,,,Navigation,Single Word,Drawing,Trained - Repeated
+877,JEDA,J About Me,JE Feeling,JED Mad,JEDA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+878,JEDB,J About Me,JE Feeling,JED Mad,JEDB I feel mad,,Self/State,Phrase,Drawing,Generalized
+879,JEDC,J About Me,JE Feeling,JED Mad,JEDC I want to feel mad,,Self/State,Phrase,Drawing,Generalized
+880,JEDD,J About Me,JE Feeling,JED Mad,JEDD,,,,,
+881,JEDE,J About Me,JE Feeling,JED Mad,JEDE,,,,,
+882,JEDF,J About Me,JE Feeling,JED Mad,JEDF,,,,,
+883,JEDG,J About Me,JE Feeling,JED Mad,JEDG I felt mad,,Space-Temporal,Phrase,Abstract Sign,Generalized
+884,JEDH,J About Me,JE Feeling,JED Mad,JEDH I will feel mad,,Space-Temporal,Phrase,Abstract Sign,Generalized
+885,JEF,J About Me,JE Feeling,JEF,,,,,,
+886,JEG,J About Me,JE Feeling,JEG Afraid,,,Navigation,Single Word,Drawing,Trained - Repeated
+887,JEGA,J About Me,JE Feeling,JEG Afraid,JEGA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+888,JEGB,J About Me,JE Feeling,JEG Afraid,JEGB I feel afraid,,Self/State,Phrase,Drawing,Generalized
+889,JEGC,J About Me,JE Feeling,JEG Afraid,JEGC I want to feel afraid,,Self/State,Phrase,Drawing,Generalized
+890,JEGD,J About Me,JE Feeling,JEG Afraid,JEGD,,,,,
+891,JEGE,J About Me,JE Feeling,JEG Afraid,JEGE,,,,,
+892,JEGF,J About Me,JE Feeling,JEG Afraid,JEGF,,,,,
+893,JEGG,J About Me,JE Feeling,JEG Afraid,JEGG I felt afraid,,Space-Temporal,Phrase,Abstract Sign,Generalized
+894,JEGH,J About Me,JE Feeling,JEG Afraid,JEGH I will feel afraid,,Space-Temporal,Phrase,Abstract Sign,Generalized
+895,JEH,J About Me,JE Feeling,JEH Body,,,Self/State,Single Word,Drawing,Trained - Repeated
+896,JEI,J About Me,JE Feeling,JEI I love you,,,Self/State,Phrase,Drawing,Trained - Repeated
+897,JEJ,J About Me,JE Feeling,JEJ Like,,,Self/State,Single Word,Abstract Sign,Trained - Repeated
+898,JEK,J About Me,JE Feeling,JEK No like,,,Self/State,Phrase,Abstract Sign,Trained - Repeated
+899,JEL,J About Me,JE Feeling,JEL Sad,,,Navigation,Single Word,Drawing,Trained - Repeated
+900,JELA,J About Me,JE Feeling,JEL Sad,JELA Back,,Navigation,Single Word,Abstract Sign,Trained - Repeated
+901,JELB,J About Me,JE Feeling,JEL Sad,JELB I feel sad,,Self/State,Phrase,Drawing,Generalized
+902,JELC,J About Me,JE Feeling,JEL Sad,JELC I want to feel sad,,Self/State,Phrase,Drawing,Generalized
+903,JELD,J About Me,JE Feeling,JEL Sad,JELD,,,,,
+904,JELE,J About Me,JE Feeling,JEL Sad,JELE,,,,,
+905,JELF,J About Me,JE Feeling,JEL Sad,JELF,,,,,
+906,JELG,J About Me,JE Feeling,JEL Sad,JELG I felt sad,,Space-Temporal,Phrase,Abstract Sign,Generalized
+907,JELH,J About Me,JE Feeling,JEL Sad,JELH I will feel sad,,Space-Temporal,Phrase,Abstract Sign,Generalized
+908,JEM,J About Me,JE Feeling,JEM Eww,,,Self/State,Single Word,Drawing,Trained
+909,JEN,J About Me,JE Feeling,JEN Interesting,,,Self/State,Single Word,Drawing,Untrained - Unused
+910,JEO,J About Me,JE Feeling,JEO Boring,,,Self/State,Single Word,Drawing,Untrained - Unused

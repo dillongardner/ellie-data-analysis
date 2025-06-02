@@ -1709,7 +1709,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3080,JE,DANCE,FINAL,Dance,,MUSIC,JE,J,E,MUSIC,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 3081,JF,OLDIES,FINAL,Oldies,,MUSIC,JF,J,F,MUSIC,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
 3082,JB,BACH & VIVALDI,FINAL,Bach & Vivaldi,,MUSIC,JB,J,B,MUSIC,false,,1,Trained,Phrase,Drawing,true,CODE_MATCH
-3083,A ,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,,,,,,,,,,,false,
+3083,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,2,2,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 3084,AB ,TEMP AND WEATHER,MENU,,TEMP AND WEATHER,TEMP AND WEATHER,AB,A,B,TALK ABOUT,true,1,1,Trained - Repeated,Phrase,Photo,true,UNIQUE_MATCH
 3085,ABC,HOT,MENU,,HOT,HOT,ABC,AB,C,TEMP AND WEATHER,true,1,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 3089,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH

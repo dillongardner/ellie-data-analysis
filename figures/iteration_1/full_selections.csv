@@ -1,9 +1,9 @@
 Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,menu_pattern,button,menu_title,is_menu,menu_multiplicity,multiplicity,Training/ Spontaneous,Utterance: Single word or phrase,Type of Sign,is_match,match_type
-1,K ,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,,,,,,,,,,,false,
-2,KE,NEIGHBOR,FINAL,Neighbor,,SAY HELLO TO,KE,K,E,TO SAY HELLO TO,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-5,E,YES,FINAL,Yes,,SAY HELLO TO,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-6,F,NO,FINAL,No,,SAY HELLO TO,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-7,E,YES,FINAL,Yes,,SAY HELLO TO,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
+1,K ,TO SAY HELLO TO,MENU,,TO SAY HELLO TO,TO SAY HELLO TO,K,"",K,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,UNIQUE_MATCH
+2,KE,NEIGHBOR,FINAL,Neighbor,,TO SAY HELLO TO,KE,K,E,TO SAY HELLO TO,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
+5,E,YES,FINAL,Yes,,TO SAY HELLO TO,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
+6,F,NO,FINAL,No,,TO SAY HELLO TO,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
+7,E,YES,FINAL,Yes,,TO SAY HELLO TO,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 10,J,TO PLAY,MENU,,TO PLAY,TO PLAY,J,"",J,MAIN MENU,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
 11,JI,OUTSIDE,FINAL,Outside,,TO PLAY,JI,J,I,TO PLAY,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
 14,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH

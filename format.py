@@ -192,7 +192,7 @@ def format_selections(df: pl.DataFrame) -> pl.DataFrame:
     return result
 
 
-def combine(selections: pl.DataFrame, board: pl.DataFrame) -> pl.DataFrame:
+def combine(selections: pl.DataFrame, board: pl.DataFrame) -> tuple[pl.DataFrame, pl.DataFrame]:
     """
     Joins the selection to the board
     This is done by
@@ -263,4 +263,4 @@ def combine(selections: pl.DataFrame, board: pl.DataFrame) -> pl.DataFrame:
     )
     if (len(result) != len(selections)) or (not (result["Line Number"] == selections["Line Number"]).all()):
         print("WARNING: LINE NUMBERS DO NOT MATCH")
-    return result
+    return result, unmatched
