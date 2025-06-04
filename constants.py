@@ -39,6 +39,7 @@ FORMATTED_BOARD_COLS = [
     "is_menu",
     "menu_multiplicity",
     "multiplicity",
+    "Category",
     "Training/ Spontaneous",
     "Utterance: Single word or phrase",
     "Type of Sign",

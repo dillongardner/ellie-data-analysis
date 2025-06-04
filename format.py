@@ -29,6 +29,7 @@ def format_boards(df: pl.DataFrame) -> pl.DataFrame:
         "terminal_level",
         "full_pattern",
         pl.col("selection").str.replace("  ", " ").alias("selection"),
+        "Category",
         "Training/ Spontaneous",
         "Utterance: Single word or phrase",
         "Type of Sign"
@@ -45,6 +46,7 @@ def format_boards(df: pl.DataFrame) -> pl.DataFrame:
         "menu_pattern",
         "button",
         "selection",
+        "Category",
         "Training/ Spontaneous",
         "Utterance: Single word or phrase",
         "Type of Sign"
@@ -135,6 +137,7 @@ def format_board_v1(df: pl.DataFrame) -> pl.DataFrame:
     df = df.select(
         pl.col("Location path code").alias("full_pattern"),
         terminal_level.str.to_uppercase().alias("selection"),
+        "Category",
         "Training/ Spontaneous",
         "Utterance: Single word or phrase",
         "Type of Sign"
@@ -150,6 +153,7 @@ def format_board_v1(df: pl.DataFrame) -> pl.DataFrame:
         "menu_pattern",
         "button",
         "selection",
+        "Category",
         "Training/ Spontaneous",
         "Utterance: Single word or phrase",
         "Type of Sign"

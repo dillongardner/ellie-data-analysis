@@ -1,64 +1,64 @@
-full_pattern,menu_pattern,button,selection,Training/ Spontaneous,Utterance: Single word or phrase,Type of Sign,menu_title,is_menu,menu_multiplicity,multiplicity
-A,"",A,WANT,Trained,Single Word,Drawing,MAIN MENU,false,,2
-B,"",B,TREAT,Trained,Single Word,Photo,MAIN MENU,false,,1
-C,"",C,NUT,Trained,Single Word,Photo,MAIN MENU,false,,1
-D,"",D,SEED BALL,Trained,Single Word,Photo,MAIN MENU,false,,1
-E,"",E,YES,Trained,Single Word,Drawing,MAIN MENU,false,,1
-F,"",F,NO,Trained,Single Word,Drawing,MAIN MENU,false,,1
-G,"",G,MORE,Trained,Single Word,Drawing,MAIN MENU,false,,1
-H,"",H,TO DRINK,Trained,Phrase,Drawing,MAIN MENU,true,1,1
-HA,H,A,BACK,Trained,Single Word,Abstract Sign,TO DRINK,false,,7
-HB,H,B,WATER,Trained,Single Word,Photo,TO DRINK,false,,1
-HC,H,C,TEA,Trained,Single Word,Photo,TO DRINK,false,,1
-HD,H,D,JUICE,Trained,Single Word,Photo,TO DRINK,false,,1
-I,"",I,TO EAT,Trained,Phrase,Drawing,MAIN MENU,true,1,1
-IA,I,A,BACK,Trained,Single Word,Abstract Sign,TO EAT,false,,7
-IB,I,B,A BANANA,Trained,Single Word,Photo,TO EAT,false,,1
-IC,I,C,A PANCAKE,Trained,Single Word,Photo,TO EAT,false,,1
-ID,I,D,OMELET,Trained,Single Word,Photo,TO EAT,false,,1
-IE,I,E,A TOAST,Trained,Single Word,Photo,TO EAT,false,,1
-IF,I,F,TACO,Trained,Single Word,Photo,TO EAT,false,,1
-IG,I,G,CEREAL,Trained,Single Word,Photo,TO EAT,false,,1
-IH,I,H,AN APPLE,Trained,Single Word,Photo,TO EAT,false,,1
-J,"",J,TO PLAY,Trained,Single Word,Drawing,MAIN MENU,true,1,1
-JA,J,A,BACK,Trained,Single Word,Abstract Sign,TO PLAY,false,,7
-JB,J,B,BOOK,Trained,Single Word,Drawing,TO PLAY,false,,1
-JC,J,C,WRITING,Trained,Single Word,Photo,TO PLAY,false,,1
-JD,J,D,TRACING,Trained,Single Word,Photo,TO PLAY,false,,1
-JE,J,E,COLORING,Trained,Single Word,Photo,TO PLAY,false,,1
-JF,J,F,BACK,Trained,Single Word,Abstract Sign,TO PLAY,false,,7
-JG,J,G,SNUGGLE,Trained,Single Word,Drawing,TO PLAY,false,,1
-JH,J,H,SHOWER,Trained,Single Word,Drawing,TO PLAY,false,,1
-JI,J,I,OUTSIDE,Trained,Single Word,Drawing,TO PLAY,false,,1
-JJ,J,J,BOARD,Trained,Single Word,Photo,TO PLAY,false,,1
-JK,J,K,DANCE,Trained,Single Word,Drawing,TO PLAY,false,,1
-JL,J,L,COLOR GAME,Trained,Single Word,Photo,TO PLAY,false,,1
-JM,J,M,CARDS,Trained,Single Word,Drawing,TO PLAY,false,,1
-JN,J,N,CHASE,Trained,Single Word,Drawing,TO PLAY,false,,1
-JO,J,O,CRAFT,Trained,Single Word,Drawing,TO PLAY,false,,1
-K,"",K,TO SAY HELLO TO,Trained,Phrase,Drawing,MAIN MENU,true,1,1
-KA,K,A,BACK,Trained,Single Word,Abstract Sign,TO SAY HELLO TO,false,,7
-KB,K,B,MOM,Untrained - Discovered,Single Word,Drawing,TO SAY HELLO TO,false,,2
-KC,K,C,AUNTIE ANGIE,Trained,Single Word,Photo,TO SAY HELLO TO,false,,1
-KD,K,D,GRANDMA,Trained,Single Word,Photo,TO SAY HELLO TO,false,,1
-KE,K,E,NEIGHBOR,Trained,Single Word,Drawing,TO SAY HELLO TO,false,,1
-L,"",L,TO WATCH,Trained,Phrase,Photo,MAIN MENU,true,1,1
-LA,L,A,BACK,Trained,Single Word,Abstract Sign,TO WATCH,false,,7
-LB,L,B,PEPPA PIG,Trained,Single Word,Photo,TO WATCH,false,,1
-LC,L,C,LITTLE KINGDOM,Trained,Single Word,Photo,TO WATCH,false,,1
-LD,L,D,TOM AND JERRY,Trained,Single Word,Photo,TO WATCH,false,,1
-LE,L,E,KATURI,Trained,Single Word,Photo,TO WATCH,false,,1
-LF,L,F,BUBBLE GUPPIES,Trained,Single Word,Photo,TO WATCH,false,,1
-LG,L,G,MUSIC,Trained,Single Word,Abstract Sign,TO WATCH,false,,1
-M,"",M,FEELING,Trained,Single Word,Drawing,MAIN MENU,false,,1
-N,"",N,EXPERIENCE,Trained,Single Word,Photo,MAIN MENU,true,1,1
-NA,N,A,BACK,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,7
-NB,N,B,MOM,Untrained - Discovered,Single Word,Photo,EXPERIENCE,false,,2
-NC,N,C,ELLIE,Trained,Single Word,Photo,EXPERIENCE,false,,1
-ND,N,D,TOUCH ,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
-NE,N,E,LOOK,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
-NF,N,F,HEAR,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
-NG,N,G,WANT,Trained,Single Word,Drawing,EXPERIENCE,false,,2
-NH,N,H,AND,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
-NI,N,I,ISABELLE,Trained,Single Word,Photo,EXPERIENCE,false,,1
-O,"",O,MEDICINE,Trained,Single Word,Abstract Sign,MAIN MENU,false,,1
+full_pattern,menu_pattern,button,selection,Category,Training/ Spontaneous,Utterance: Single word or phrase,Type of Sign,menu_title,is_menu,menu_multiplicity,multiplicity
+A,"",A,WANT,Self/State,Trained,Single Word,Drawing,MAIN MENU,false,,2
+B,"",B,TREAT,Resources,Trained,Single Word,Photo,MAIN MENU,false,,1
+C,"",C,NUT,Resources,Trained,Single Word,Photo,MAIN MENU,false,,1
+D,"",D,SEED BALL,Resources,Trained,Single Word,Photo,MAIN MENU,false,,1
+E,"",E,YES,Affirmations,Trained,Single Word,Drawing,MAIN MENU,false,,1
+F,"",F,NO,Affirmations,Trained,Single Word,Drawing,MAIN MENU,false,,1
+G,"",G,MORE,Qualifiers,Trained,Single Word,Drawing,MAIN MENU,false,,1
+H,"",H,TO DRINK,Navigation,Trained,Phrase,Drawing,MAIN MENU,true,1,1
+HA,H,A,BACK,Navigation,Trained,Single Word,Abstract Sign,TO DRINK,false,,7
+HB,H,B,WATER,Resources,Trained,Single Word,Photo,TO DRINK,false,,1
+HC,H,C,TEA,Resources,Trained,Single Word,Photo,TO DRINK,false,,1
+HD,H,D,JUICE,Resources,Trained,Single Word,Photo,TO DRINK,false,,1
+I,"",I,TO EAT,Navigation,Trained,Phrase,Drawing,MAIN MENU,true,1,1
+IA,I,A,BACK,Navigation,Trained,Single Word,Abstract Sign,TO EAT,false,,7
+IB,I,B,A BANANA,Resources,Trained,Single Word,Photo,TO EAT,false,,1
+IC,I,C,A PANCAKE,Resources,Trained,Single Word,Photo,TO EAT,false,,1
+ID,I,D,OMELET,Resources,Trained,Single Word,Photo,TO EAT,false,,1
+IE,I,E,A TOAST,Resources,Trained,Single Word,Photo,TO EAT,false,,1
+IF,I,F,TACO,Resources,Trained,Single Word,Photo,TO EAT,false,,1
+IG,I,G,CEREAL,Resources,Trained,Single Word,Photo,TO EAT,false,,1
+IH,I,H,AN APPLE,Resources,Trained,Single Word,Photo,TO EAT,false,,1
+J,"",J,TO PLAY,Navigation,Trained,Single Word,Drawing,MAIN MENU,true,1,1
+JA,J,A,BACK,Navigation,Trained,Single Word,Abstract Sign,TO PLAY,false,,7
+JB,J,B,BOOK,Socio-Cognitive,Trained,Single Word,Drawing,TO PLAY,false,,1
+JC,J,C,WRITING,Socio-Cognitive,Trained,Single Word,Photo,TO PLAY,false,,1
+JD,J,D,TRACING,Socio-Cognitive,Trained,Single Word,Photo,TO PLAY,false,,1
+JE,J,E,COLORING,Socio-Cognitive,Trained,Single Word,Photo,TO PLAY,false,,1
+JF,J,F,BACK,Navigation,Trained,Single Word,Abstract Sign,TO PLAY,false,,7
+JG,J,G,SNUGGLE,Action,Trained,Single Word,Drawing,TO PLAY,false,,1
+JH,J,H,SHOWER,Resources,Trained,Single Word,Drawing,TO PLAY,false,,1
+JI,J,I,OUTSIDE,Space-Temporal,Trained,Single Word,Drawing,TO PLAY,false,,1
+JJ,J,J,BOARD,Socio-Cognitive,Trained,Single Word,Photo,TO PLAY,false,,1
+JK,J,K,DANCE,Action,Trained,Single Word,Drawing,TO PLAY,false,,1
+JL,J,L,COLOR GAME,Socio-Cognitive,Trained,Single Word,Photo,TO PLAY,false,,1
+JM,J,M,CARDS,Socio-Cognitive,Trained,Single Word,Drawing,TO PLAY,false,,1
+JN,J,N,CHASE,Action,Trained,Single Word,Drawing,TO PLAY,false,,1
+JO,J,O,CRAFT,Socio-Cognitive,Trained,Single Word,Drawing,TO PLAY,false,,1
+K,"",K,TO SAY HELLO TO,Navigation,Trained,Phrase,Drawing,MAIN MENU,true,1,1
+KA,K,A,BACK,Navigation,Trained,Single Word,Abstract Sign,TO SAY HELLO TO,false,,7
+KB,K,B,MOM,Family & Friends,Untrained - Discovered,Single Word,Drawing,TO SAY HELLO TO,false,,2
+KC,K,C,AUNTIE ANGIE,Family & Friends,Trained,Single Word,Photo,TO SAY HELLO TO,false,,1
+KD,K,D,GRANDMA,Family & Friends,Trained,Single Word,Photo,TO SAY HELLO TO,false,,1
+KE,K,E,NEIGHBOR,Family & Friends,Trained,Single Word,Drawing,TO SAY HELLO TO,false,,1
+L,"",L,TO WATCH,Navigation,Trained,Phrase,Photo,MAIN MENU,true,1,1
+LA,L,A,BACK,Navigation,Trained,Single Word,Abstract Sign,TO WATCH,false,,7
+LB,L,B,PEPPA PIG,Resources,Trained,Single Word,Photo,TO WATCH,false,,1
+LC,L,C,LITTLE KINGDOM,Resources,Trained,Single Word,Photo,TO WATCH,false,,1
+LD,L,D,TOM AND JERRY,Resources,Trained,Single Word,Photo,TO WATCH,false,,1
+LE,L,E,KATURI,Resources,Trained,Single Word,Photo,TO WATCH,false,,1
+LF,L,F,BUBBLE GUPPIES,Resources,Trained,Single Word,Photo,TO WATCH,false,,1
+LG,L,G,MUSIC,Resources,Trained,Single Word,Abstract Sign,TO WATCH,false,,1
+M,"",M,FEELING,Self/State,Trained,Single Word,Drawing,MAIN MENU,false,,1
+N,"",N,EXPERIENCE,Navigation,Trained,Single Word,Photo,MAIN MENU,true,1,1
+NA,N,A,BACK,Navigation,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,7
+NB,N,B,MOM,Family & Friends,Untrained - Discovered,Single Word,Photo,EXPERIENCE,false,,2
+NC,N,C,ELLIE,Family & Friends,Trained,Single Word,Photo,EXPERIENCE,false,,1
+ND,N,D,TOUCH ,Action,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
+NE,N,E,LOOK,Action,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
+NF,N,F,HEAR,Action,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
+NG,N,G,WANT,Self/State,Trained,Single Word,Drawing,EXPERIENCE,false,,2
+NH,N,H,AND,,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
+NI,N,I,ISABELLE,Family & Friends,Trained,Single Word,Photo,EXPERIENCE,false,,1
+O,"",O,MEDICINE,Resources,Trained,Single Word,Abstract Sign,MAIN MENU,false,,1

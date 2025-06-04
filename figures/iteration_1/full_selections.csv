@@ -1,108 +1,108 @@
-Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,menu_pattern,button,menu_title,is_menu,menu_multiplicity,multiplicity,Training/ Spontaneous,Utterance: Single word or phrase,Type of Sign,is_match,match_type
-1,K ,TO SAY HELLO TO,MENU,,TO SAY HELLO TO,TO SAY HELLO TO,K,"",K,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,UNIQUE_MATCH
-2,KE,NEIGHBOR,FINAL,Neighbor,,TO SAY HELLO TO,KE,K,E,TO SAY HELLO TO,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-5,E,YES,FINAL,Yes,,TO SAY HELLO TO,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-6,F,NO,FINAL,No,,TO SAY HELLO TO,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-7,E,YES,FINAL,Yes,,TO SAY HELLO TO,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-10,J,TO PLAY,MENU,,TO PLAY,TO PLAY,J,"",J,MAIN MENU,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
-11,JI,OUTSIDE,FINAL,Outside,,TO PLAY,JI,J,I,TO PLAY,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-14,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-15,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-16,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-17,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-18,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-21,A,WANT,FINAL,Want,,TO PLAY,A,"",A,MAIN MENU,false,,2,Trained,Single Word,Drawing,true,CODE_MATCH
-22,B,TREAT,FINAL,Treat,,TO PLAY,B,"",B,MAIN MENU,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-23,A,WANT,FINAL,Want,,TO PLAY,A,"",A,MAIN MENU,false,,2,Trained,Single Word,Drawing,true,CODE_MATCH
-24,B,TREAT,FINAL,Treat,,TO PLAY,B,"",B,MAIN MENU,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-27,LD,TOM & JERRY,FINAL,Tom & Jerry,,TO PLAY,LD,L,D,TO WATCH,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-28,LD,TOM & JERRY,FINAL,Tom & Jerry,,TO PLAY,LD,L,D,TO WATCH,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-31,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-32,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-33,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-34,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-35,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-38,B,TREAT,FINAL,Treat,,TO PLAY,B,"",B,MAIN MENU,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-41,H,TO DRINK,MENU,,TO DRINK,TO DRINK,H,"",H,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
-42,HC,TEA,FINAL,Tea,,TO DRINK,HC,H,C,TO DRINK,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-43,E,YES,FINAL,Yes,,TO DRINK,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-47,J,TO PLAY,MENU,,TO PLAY,TO PLAY,J,"",J,MAIN MENU,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
-49,J,TO PLAY,MENU,,TO PLAY,TO PLAY,J,"",J,MAIN MENU,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
-50,JD,TRACING,FINAL,Tracing,,TO PLAY,JD,J,D,TO PLAY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-51,JD,TRACING,FINAL,Tracing,,TO PLAY,JD,J,D,TO PLAY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-54,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-55,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-58,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-59,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-60,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-62,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-65,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-66,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-69,D,SEED BALL,FINAL,Seed ball,,TO PLAY,D,"",D,MAIN MENU,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-70,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-73,D,SEED BALL,FINAL,Seed ball,,TO PLAY,D,"",D,MAIN MENU,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-74,E,YES,FINAL,YES,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-75,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-78,K,TO SAY HELLO TO,MENU,,TO SAY HELLO TO,TO SAY HELLO TO,K,"",K,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
-79,KE,NEIGHBOR,FINAL,Neighbor,,TO SAY HELLO TO,KE,K,E,TO SAY HELLO TO,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-84,J,TO PLAY,MENU,,TO PLAY,TO PLAY,J,"",J,MAIN MENU,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
-85,JD,TRACING,FINAL,Tracing,,TO PLAY,JD,J,D,TO PLAY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-86,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-89,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-92,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-93,K,TO SAY HELLO TO,MENU,,TO SAY HELLO TO,TO SAY HELLO TO,K,"",K,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
-94,KE,NEIGHBOR,FINAL,Neighbor,,TO SAY HELLO TO,KE,K,E,TO SAY HELLO TO,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-95,F,NO,FINAL,No,,TO SAY HELLO TO,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-98,E,YES,FINAL,Yes,,TO SAY HELLO TO,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-101,F,NO,FINAL,No,,TO SAY HELLO TO,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-102,F,NO,FINAL,No,,TO SAY HELLO TO,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-106,E,YES,FINAL,Yes,,TO SAY HELLO TO,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-109,C,NUT,FINAL,Nut,,TO SAY HELLO TO,C,"",C,MAIN MENU,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-110,E,YES,FINAL,Yes,,TO SAY HELLO TO,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-113,F,NO,FINAL,No,,TO SAY HELLO TO,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-114,H,TO DRINK,MENU,,TO DRINK,TO DRINK,H,"",H,MAIN MENU,true,1,1,Trained,Phrase,Drawing,true,CODE_MATCH
-115,HC,TEA,FINAL,Tea,,TO DRINK,HC,H,C,TO DRINK,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-116,F,NO,FINAL,No,,TO DRINK,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-119,J,TO PLAY,MENU,,TO PLAY,TO PLAY,J,"",J,MAIN MENU,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
-120,JD,TRACING,FINAL,Tracing,,TO PLAY,JD,J,D,TO PLAY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-121,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-124,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-125,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-126,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-129,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-130,C,NUT,FINAL,Nut,,TO PLAY,C,"",C,MAIN MENU,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-131,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-134,N,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,N,"",N,MAIN MENU,true,1,1,Trained,Single Word,Photo,true,CODE_MATCH
-135,ND,TOUCH,FINAL,Touch,,EXPERIENCE,ND,N,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-136,E,YES,FINAL,Yes,,EXPERIENCE,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-137,E,YES,FINAL,Yes,,EXPERIENCE,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-140,E,YES,FINAL,Yes,,EXPERIENCE,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-141,F,NO,FINAL,No,,EXPERIENCE,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-142,E,YES,FINAL,Yes,,EXPERIENCE,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-145,F,NO,FINAL,No,,EXPERIENCE,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-146,E,YES,FINAL,Yes,,EXPERIENCE,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-147,E,YES,FINAL,Yes,,EXPERIENCE,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-148,F,NO,FINAL,No,,EXPERIENCE,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-149,C,NUT,FINAL,Nut,,EXPERIENCE,C,"",C,MAIN MENU,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-150,J,TO PLAY,MENU,,TO PLAY,TO PLAY,J,"",J,MAIN MENU,true,1,1,Trained,Single Word,Drawing,true,CODE_MATCH
-151,JD,TRACING,FINAL,Tracing,,TO PLAY,JD,J,D,TO PLAY,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-152,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-153,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-154,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-157,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-158,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-161,N,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,N,"",N,MAIN MENU,true,1,1,Trained,Single Word,Photo,true,CODE_MATCH
-162,NH,AND,FINAL,And,,EXPERIENCE,NH,N,H,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-163,NB,MOM,FINAL,Mom,,EXPERIENCE,NB,N,B,EXPERIENCE,false,,2,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
-164,NH,AND,FINAL,And,,EXPERIENCE,NH,N,H,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-165,NC,ELLIE,FINAL,Ellie,,EXPERIENCE,NC,N,C,EXPERIENCE,false,,1,Trained,Single Word,Photo,true,CODE_MATCH
-166,NE,LOOK,FINAL,Look,,EXPERIENCE,NE,N,E,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-167,E,YES,FINAL,Yes,,EXPERIENCE,E,"",E,MAIN MENU,false,,1,Trained,Single Word,Drawing,true,CODE_MATCH
-170,N,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,N,"",N,MAIN MENU,true,1,1,Trained,Single Word,Photo,true,CODE_MATCH
-171,NF,HEAR,FINAL,Hear,,EXPERIENCE,NF,N,F,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-172,NE,LOOK,FINAL,Look,,EXPERIENCE,NE,N,E,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-173,NE,LOOK,FINAL,Look,,EXPERIENCE,NE,N,E,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-174,ND,TOUCH,FINAL,Touch,,EXPERIENCE,ND,N,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-175,NE,LOOK,FINAL,Look,,EXPERIENCE,NE,N,E,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-176,ND,TOUCH,FINAL,Touch,,EXPERIENCE,ND,N,D,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-177,NE,LOOK,FINAL,Look,,EXPERIENCE,NE,N,E,EXPERIENCE,false,,1,Trained,Single Word,Abstract Sign,true,CODE_MATCH
+Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,menu_pattern,button,menu_title,is_menu,menu_multiplicity,multiplicity,Category,Training/ Spontaneous,Utterance: Single word or phrase,Type of Sign,is_match,match_type
+1,K ,TO SAY HELLO TO,MENU,,TO SAY HELLO TO,TO SAY HELLO TO,K,"",K,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,UNIQUE_MATCH
+2,KE,NEIGHBOR,FINAL,Neighbor,,TO SAY HELLO TO,KE,K,E,TO SAY HELLO TO,false,,1,Family & Friends,Trained,Single Word,Drawing,true,CODE_MATCH
+5,E,YES,FINAL,Yes,,TO SAY HELLO TO,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+6,F,NO,FINAL,No,,TO SAY HELLO TO,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+7,E,YES,FINAL,Yes,,TO SAY HELLO TO,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+10,J,TO PLAY,MENU,,TO PLAY,TO PLAY,J,"",J,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
+11,JI,OUTSIDE,FINAL,Outside,,TO PLAY,JI,J,I,TO PLAY,false,,1,Space-Temporal,Trained,Single Word,Drawing,true,CODE_MATCH
+14,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+15,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+16,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+17,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+18,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+21,A,WANT,FINAL,Want,,TO PLAY,A,"",A,MAIN MENU,false,,2,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
+22,B,TREAT,FINAL,Treat,,TO PLAY,B,"",B,MAIN MENU,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
+23,A,WANT,FINAL,Want,,TO PLAY,A,"",A,MAIN MENU,false,,2,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
+24,B,TREAT,FINAL,Treat,,TO PLAY,B,"",B,MAIN MENU,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
+27,LD,TOM & JERRY,FINAL,Tom & Jerry,,TO PLAY,LD,L,D,TO WATCH,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
+28,LD,TOM & JERRY,FINAL,Tom & Jerry,,TO PLAY,LD,L,D,TO WATCH,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
+31,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+32,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+33,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+34,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+35,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+38,B,TREAT,FINAL,Treat,,TO PLAY,B,"",B,MAIN MENU,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
+41,H,TO DRINK,MENU,,TO DRINK,TO DRINK,H,"",H,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
+42,HC,TEA,FINAL,Tea,,TO DRINK,HC,H,C,TO DRINK,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
+43,E,YES,FINAL,Yes,,TO DRINK,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+47,J,TO PLAY,MENU,,TO PLAY,TO PLAY,J,"",J,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
+49,J,TO PLAY,MENU,,TO PLAY,TO PLAY,J,"",J,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
+50,JD,TRACING,FINAL,Tracing,,TO PLAY,JD,J,D,TO PLAY,false,,1,Socio-Cognitive,Trained,Single Word,Photo,true,CODE_MATCH
+51,JD,TRACING,FINAL,Tracing,,TO PLAY,JD,J,D,TO PLAY,false,,1,Socio-Cognitive,Trained,Single Word,Photo,true,CODE_MATCH
+54,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+55,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+58,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+59,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+60,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+62,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+65,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+66,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+69,D,SEED BALL,FINAL,Seed ball,,TO PLAY,D,"",D,MAIN MENU,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
+70,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+73,D,SEED BALL,FINAL,Seed ball,,TO PLAY,D,"",D,MAIN MENU,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
+74,E,YES,FINAL,YES,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+75,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+78,K,TO SAY HELLO TO,MENU,,TO SAY HELLO TO,TO SAY HELLO TO,K,"",K,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
+79,KE,NEIGHBOR,FINAL,Neighbor,,TO SAY HELLO TO,KE,K,E,TO SAY HELLO TO,false,,1,Family & Friends,Trained,Single Word,Drawing,true,CODE_MATCH
+84,J,TO PLAY,MENU,,TO PLAY,TO PLAY,J,"",J,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
+85,JD,TRACING,FINAL,Tracing,,TO PLAY,JD,J,D,TO PLAY,false,,1,Socio-Cognitive,Trained,Single Word,Photo,true,CODE_MATCH
+86,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+89,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+92,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+93,K,TO SAY HELLO TO,MENU,,TO SAY HELLO TO,TO SAY HELLO TO,K,"",K,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
+94,KE,NEIGHBOR,FINAL,Neighbor,,TO SAY HELLO TO,KE,K,E,TO SAY HELLO TO,false,,1,Family & Friends,Trained,Single Word,Drawing,true,CODE_MATCH
+95,F,NO,FINAL,No,,TO SAY HELLO TO,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+98,E,YES,FINAL,Yes,,TO SAY HELLO TO,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+101,F,NO,FINAL,No,,TO SAY HELLO TO,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+102,F,NO,FINAL,No,,TO SAY HELLO TO,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+106,E,YES,FINAL,Yes,,TO SAY HELLO TO,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+109,C,NUT,FINAL,Nut,,TO SAY HELLO TO,C,"",C,MAIN MENU,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
+110,E,YES,FINAL,Yes,,TO SAY HELLO TO,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+113,F,NO,FINAL,No,,TO SAY HELLO TO,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+114,H,TO DRINK,MENU,,TO DRINK,TO DRINK,H,"",H,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
+115,HC,TEA,FINAL,Tea,,TO DRINK,HC,H,C,TO DRINK,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
+116,F,NO,FINAL,No,,TO DRINK,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+119,J,TO PLAY,MENU,,TO PLAY,TO PLAY,J,"",J,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
+120,JD,TRACING,FINAL,Tracing,,TO PLAY,JD,J,D,TO PLAY,false,,1,Socio-Cognitive,Trained,Single Word,Photo,true,CODE_MATCH
+121,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+124,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+125,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+126,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+129,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+130,C,NUT,FINAL,Nut,,TO PLAY,C,"",C,MAIN MENU,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
+131,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+134,N,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,N,"",N,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Photo,true,CODE_MATCH
+135,ND,TOUCH,FINAL,Touch,,EXPERIENCE,ND,N,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
+136,E,YES,FINAL,Yes,,EXPERIENCE,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+137,E,YES,FINAL,Yes,,EXPERIENCE,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+140,E,YES,FINAL,Yes,,EXPERIENCE,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+141,F,NO,FINAL,No,,EXPERIENCE,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+142,E,YES,FINAL,Yes,,EXPERIENCE,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+145,F,NO,FINAL,No,,EXPERIENCE,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+146,E,YES,FINAL,Yes,,EXPERIENCE,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+147,E,YES,FINAL,Yes,,EXPERIENCE,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+148,F,NO,FINAL,No,,EXPERIENCE,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+149,C,NUT,FINAL,Nut,,EXPERIENCE,C,"",C,MAIN MENU,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
+150,J,TO PLAY,MENU,,TO PLAY,TO PLAY,J,"",J,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
+151,JD,TRACING,FINAL,Tracing,,TO PLAY,JD,J,D,TO PLAY,false,,1,Socio-Cognitive,Trained,Single Word,Photo,true,CODE_MATCH
+152,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+153,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+154,F,NO,FINAL,No,,TO PLAY,F,"",F,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+157,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+158,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+161,N,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,N,"",N,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Photo,true,CODE_MATCH
+162,NH,AND,FINAL,And,,EXPERIENCE,NH,N,H,EXPERIENCE,false,,1,,Trained,Single Word,Abstract Sign,true,CODE_MATCH
+163,NB,MOM,FINAL,Mom,,EXPERIENCE,NB,N,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+164,NH,AND,FINAL,And,,EXPERIENCE,NH,N,H,EXPERIENCE,false,,1,,Trained,Single Word,Abstract Sign,true,CODE_MATCH
+165,NC,ELLIE,FINAL,Ellie,,EXPERIENCE,NC,N,C,EXPERIENCE,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
+166,NE,LOOK,FINAL,Look,,EXPERIENCE,NE,N,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
+167,E,YES,FINAL,Yes,,EXPERIENCE,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
+170,N,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,N,"",N,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Photo,true,CODE_MATCH
+171,NF,HEAR,FINAL,Hear,,EXPERIENCE,NF,N,F,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
+172,NE,LOOK,FINAL,Look,,EXPERIENCE,NE,N,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
+173,NE,LOOK,FINAL,Look,,EXPERIENCE,NE,N,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
+174,ND,TOUCH,FINAL,Touch,,EXPERIENCE,ND,N,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
+175,NE,LOOK,FINAL,Look,,EXPERIENCE,NE,N,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
+176,ND,TOUCH,FINAL,Touch,,EXPERIENCE,ND,N,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
+177,NE,LOOK,FINAL,Look,,EXPERIENCE,NE,N,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
