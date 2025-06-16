@@ -92,9 +92,9 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 157,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
 158,E,YES,FINAL,Yes,,TO PLAY,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH
 161,N,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,N,"",N,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Photo,true,CODE_MATCH
-162,NH,AND,FINAL,And,,EXPERIENCE,NH,N,H,EXPERIENCE,false,,1,,Trained,Single Word,Abstract Sign,true,CODE_MATCH
+162,NH,AND,FINAL,And,,EXPERIENCE,NH,N,H,EXPERIENCE,false,,1,Qualifiers,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 163,NB,MOM,FINAL,Mom,,EXPERIENCE,NB,N,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
-164,NH,AND,FINAL,And,,EXPERIENCE,NH,N,H,EXPERIENCE,false,,1,,Trained,Single Word,Abstract Sign,true,CODE_MATCH
+164,NH,AND,FINAL,And,,EXPERIENCE,NH,N,H,EXPERIENCE,false,,1,Qualifiers,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 165,NC,ELLIE,FINAL,Ellie,,EXPERIENCE,NC,N,C,EXPERIENCE,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
 166,NE,LOOK,FINAL,Look,,EXPERIENCE,NE,N,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 167,E,YES,FINAL,Yes,,EXPERIENCE,E,"",E,MAIN MENU,false,,1,Affirmations,Trained,Single Word,Drawing,true,CODE_MATCH

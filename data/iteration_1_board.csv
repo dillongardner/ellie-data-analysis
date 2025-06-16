@@ -1,66 +1,66 @@
-Line Number,Location path code,L1,L2,Utterance: Single word or phrase,Type of Sign,Category,Training/ Spontaneous
-1,A,Want,,Single Word,Drawing,Self/State,Trained
-2,B,Treat,,Single Word,Photo,Resources,Trained
-3,C,Nut,,Single Word,Photo,Resources,Trained
-4,D,Seed ball,,Single Word,Photo,Resources,Trained
-5,E,Yes,,Single Word,Drawing,Affirmations,Trained
-6,F,No,,Single Word,Drawing,Affirmations,Trained
-7,G,More,,Single Word,Drawing,Qualifiers,Trained
-8,H,To Drink,,Phrase,Drawing,Navigation,Trained
-9,HA,,Back,Single Word,Abstract Sign,Navigation,Trained
-10,HB,,Water,Single Word,Photo,Resources,Trained
-11,HC,,Tea,Single Word,Photo,Resources,Trained
-12,HD,,Juice,Single Word,Photo,Resources,Trained
-13,I,To Eat,,Phrase,Drawing,Navigation,Trained
-14,IA,,Back,Single Word,Abstract Sign,Navigation,Trained
-15,IB,,A Banana,Single Word,Photo,Resources,Trained
-16,IC,,A Pancake,Single Word,Photo,Resources,Trained
-17,ID,,Omelet,Single Word,Photo,Resources,Trained
-18,IE,,A Toast,Single Word,Photo,Resources,Trained
-19,IF,,Taco,Single Word,Photo,Resources,Trained
-20,IG,,Cereal,Single Word,Photo,Resources,Trained
-21,IH,,An Apple,Single Word,Photo,Resources,Trained
-22,J,To Play,,Single Word,Drawing,Navigation,Trained
-23,JA,,Back,Single Word,Abstract Sign,Navigation,Trained
-24,JB,,Book,Single Word,Drawing,Socio-Cognitive,Trained
-25,JC,,Writing,Single Word,Photo,Socio-Cognitive,Trained
-26,JD,,Tracing,Single Word,Photo,Socio-Cognitive,Trained
-27,JE,,Coloring,Single Word,Photo,Socio-Cognitive,Trained
-28,JF,,Back,Single Word,Abstract Sign,Navigation,Trained
-29,JG,,Snuggle,Single Word,Drawing,Action,Trained
-30,JH,,Shower,Single Word,Drawing,Resources,Trained
-31,JI,,Outside,Single Word,Drawing,Space-Temporal,Trained
-32,JJ,,Board,Single Word,Photo,Socio-Cognitive,Trained
-33,JK,,Dance,Single Word,Drawing,Action,Trained
-34,JL,,Color game,Single Word,Photo,Socio-Cognitive,Trained
-35,JM,,Cards,Single Word,Drawing,Socio-Cognitive,Trained
-36,JN,,Chase,Single Word,Drawing,Action,Trained
-37,JO,,Craft,Single Word,Drawing,Socio-Cognitive,Trained
-38,K,To Say Hello To,,Phrase,Drawing,Navigation,Trained
-39,KA,,Back,Single Word,Abstract Sign,Navigation,Trained
-40,KB,,Mom,Single Word,Drawing,Family & Friends,Untrained - Discovered
-41,KC,,Auntie Angie,Single Word,Photo,Family & Friends,Trained
-42,KD,,Grandma,Single Word,Photo,Family & Friends,Trained
-43,KE,,Neighbor,Single Word,Drawing,Family & Friends,Trained
-44,L,To Watch,,Phrase,Photo,Navigation,Trained
-45,LA,,Back,Single Word,Abstract Sign,Navigation,Trained
-46,LB,,Peppa Pig,Single Word,Photo,Resources,Trained
-47,LC,,Little Kingdom,Single Word,Photo,Resources,Trained
-48,LD,,Tom and Jerry,Single Word,Photo,Resources,Trained
-49,LE,,Katuri,Single Word,Photo,Resources,Trained
-50,LF,,Bubble Guppies,Single Word,Photo,Resources,Trained
-51,LG,,Music,Single Word,Abstract Sign,Resources,Trained
-52,M,Feeling,,Single Word,Drawing,Self/State,Trained
-53,N,Experience,,Single Word,Photo,Navigation,Trained
-54,NA,,Back,Single Word,Abstract Sign,Navigation,Trained
-55,NB,,Mom,Single Word,Photo,Family & Friends,Untrained - Discovered
-56,NC,,Ellie,Single Word,Photo,Family & Friends,Trained
-57,ND,,Touch ,Single Word,Abstract Sign,Action,Trained
-58,NE,,Look,Single Word,Abstract Sign,Action,Trained
-59,NF,,Hear,Single Word,Abstract Sign,Action,Trained
-60,NG,,Want,Single Word,Drawing,Self/State,Trained
-61,NH,,And,Single Word,Abstract Sign,,Trained
-62,NI,,Isabelle,Single Word,Photo,Family & Friends,Trained
-63,O,Medicine,,Single Word,Abstract Sign,Resources,Trained
-64,,,,,,,
-65,,,,,,,
+Line Number,Location path code,L1,L2,Utterance: Single word or phrase,Type of Sign,Type of Sign 2,Category,Training/ Spontaneous
+1,A,Want,,Single Word,Drawing,Non-Iconic,Self/State,Trained
+2,B,Treat,,Single Word,Photo,Iconic,Resources,Trained
+3,C,Nut,,Single Word,Photo,Iconic,Resources,Trained
+4,D,Seed ball,,Single Word,Photo,Iconic,Resources,Trained
+5,E,Yes,,Single Word,Drawing,Non-Iconic,Affirmations,Trained
+6,F,No,,Single Word,Drawing,Non-Iconic,Affirmations,Trained
+7,G,More,,Single Word,Drawing,Non-Iconic,Qualifiers,Trained
+8,H,To Drink,,Phrase,Drawing,Iconic,Navigation,Trained
+9,HA,,Back,Single Word,Abstract Sign,Non-Iconic,Navigation,Trained
+10,HB,,Water,Single Word,Photo,Iconic,Resources,Trained
+11,HC,,Tea,Single Word,Photo,Iconic,Resources,Trained
+12,HD,,Juice,Single Word,Photo,Iconic,Resources,Trained
+13,I,To Eat,,Phrase,Drawing,Iconic,Navigation,Trained
+14,IA,,Back,Single Word,Abstract Sign,Non-Iconic,Navigation,Trained
+15,IB,,A Banana,Single Word,Photo,Iconic,Resources,Trained
+16,IC,,A Pancake,Single Word,Photo,Iconic,Resources,Trained
+17,ID,,Omelet,Single Word,Photo,Iconic,Resources,Trained
+18,IE,,A Toast,Single Word,Photo,Iconic,Resources,Trained
+19,IF,,Taco,Single Word,Photo,Iconic,Resources,Trained
+20,IG,,Cereal,Single Word,Photo,Iconic,Resources,Trained
+21,IH,,An Apple,Single Word,Photo,Iconic,Resources,Trained
+22,J,To Play,,Single Word,Drawing,Non-Iconic,Navigation,Trained
+23,JA,,Back,Single Word,Abstract Sign,Non-Iconic,Navigation,Trained
+24,JB,,Book,Single Word,Drawing,Iconic,Socio-Cognitive,Trained
+25,JC,,Writing,Single Word,Photo,Iconic,Socio-Cognitive,Trained
+26,JD,,Tracing,Single Word,Photo,Iconic,Socio-Cognitive,Trained
+27,JE,,Coloring,Single Word,Photo,Iconic,Socio-Cognitive,Trained
+28,JF,,Back,Single Word,Abstract Sign,Non-Iconic,Navigation,Trained
+29,JG,,Snuggle,Single Word,Drawing,Non-Iconic,Action,Trained
+30,JH,,Shower,Single Word,Drawing,Non-Iconic,Resources,Trained
+31,JI,,Outside,Single Word,Drawing,Non-Iconic,Space-Temporal,Trained
+32,JJ,,Board,Single Word,Photo,Iconic,Socio-Cognitive,Trained
+33,JK,,Dance,Single Word,Drawing,Non-Iconic,Action,Trained
+34,JL,,Color game,Single Word,Photo,Iconic,Socio-Cognitive,Trained
+35,JM,,Cards,Single Word,Drawing,Iconic,Socio-Cognitive,Trained
+36,JN,,Chase,Single Word,Drawing,Non-Iconic,Action,Trained
+37,JO,,Craft,Single Word,Drawing,Non-Iconic,Socio-Cognitive,Trained
+38,K,To Say Hello To,,Phrase,Drawing,Iconic,Navigation,Trained
+39,KA,,Back,Single Word,Abstract Sign,Non-Iconic,Navigation,Trained
+40,KB,,Mom,Single Word,Drawing,Iconic,Family & Friends,Untrained - Discovered
+41,KC,,Auntie Angie,Single Word,Photo,Iconic,Family & Friends,Trained
+42,KD,,Grandma,Single Word,Photo,Iconic,Family & Friends,Trained
+43,KE,,Neighbor,Single Word,Drawing,Non-Iconic,Family & Friends,Trained
+44,L,To Watch,,Phrase,Photo,Iconic,Navigation,Trained
+45,LA,,Back,Single Word,Abstract Sign,Non-Iconic,Navigation,Trained
+46,LB,,Peppa Pig,Single Word,Photo,Iconic,Resources,Trained
+47,LC,,Little Kingdom,Single Word,Photo,Iconic,Resources,Trained
+48,LD,,Tom and Jerry,Single Word,Photo,Iconic,Resources,Trained
+49,LE,,Katuri,Single Word,Photo,Iconic,Resources,Trained
+50,LF,,Bubble Guppies,Single Word,Photo,Iconic,Resources,Trained
+51,LG,,Music,Single Word,Abstract Sign,Non-Iconic,Resources,Trained
+52,M,Feeling,,Single Word,Drawing,Non-Iconic,Self/State,Trained
+53,N,Experience,,Single Word,Photo,Non-Iconic,Navigation,Trained
+54,NA,,Back,Single Word,Abstract Sign,Non-Iconic,Navigation,Trained
+55,NB,,Mom,Single Word,Photo,Iconic,Family & Friends,Untrained - Discovered
+56,NC,,Ellie,Single Word,Photo,Iconic,Family & Friends,Trained
+57,ND,,Touch ,Single Word,Abstract Sign,Non-Iconic,Action,Trained
+58,NE,,Look,Single Word,Abstract Sign,Non-Iconic,Action,Trained
+59,NF,,Hear,Single Word,Abstract Sign,Non-Iconic,Action,Trained
+60,NG,,Want,Single Word,Drawing,Non-Iconic,Self/State,Trained
+61,NH,,And,Single Word,Abstract Sign,Non-Iconic,Qualifiers,Trained
+62,NI,,Isabelle,Single Word,Photo,Non-Iconic,Family & Friends,Trained
+63,O,Medicine,,Single Word,Abstract Sign,Non-Iconic,Resources,Trained
+64,,,,,,,,
+65,,,,,,,,

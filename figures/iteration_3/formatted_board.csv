@@ -33,7 +33,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 32,ABDG,ABD,G,PUPPY,Socio-Cognitive,Trained,Single Word,Photo,BABY ANIMALS,false,,1
 33,ABDH,ABD,H,KITTEN,Socio-Cognitive,Trained,Single Word,Photo,BABY ANIMALS,false,,1
 34,ABDI,ABD,I,BOOK,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,BABY ANIMALS,false,,13
-35,ABDJ,ABD,J,LOOK AT ART,Socio-Cognitive,Trained - Repeated,Phrase,Abstract Sign,BABY ANIMALS,false,,8
+35,ABDJ,ABD,J,LOOK AT ART,Socio-Cognitive,Trained - Repeated,Phrase,Drawing,BABY ANIMALS,false,,8
 36,ABDK,ABD,K,TALK ABOUT,Socio-Cognitive,Trained - Repeated,Phrase,Abstract Sign,BABY ANIMALS,false,,11
 37,ABDL,ABD,L,GAME,Socio-Cognitive,Trained - Repeated,Single Word,Photo,BABY ANIMALS,false,,12
 38,ABDM,ABD,M,PAST,Space-Temporal,Trained - Repeated,Single Word,Abstract Sign,BABY ANIMALS,false,,13
@@ -90,9 +90,9 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 89,ABGG,ABG,G,,,,,,BUGS,false,,56
 90,ABGH,ABG,H,FIX,Qualifiers,Untrained - Discovered,Single Word,Drawing,BUGS,false,,4
 91,ABGI,ABG,I,BROKEN,Qualifiers,Untrained - Discovered,Single Word,Drawing,BUGS,false,,5
-92,ABGJ,ABG,J,DARK,Qualifiers,Untrained - Discovered,Single Word,Photo,BUGS,false,,2
+92,ABGJ,ABG,J,DARK,Qualifiers,Untrained - Discovered,Single Word,Abstract Sign,BUGS,false,,2
 93,ABGK,ABG,K,LIGHT,Qualifiers,Untrained - Discovered,Single Word,Photo,BUGS,false,,2
-94,ABGL,ABG,L,MOM,Family & Friends,Trained - Repeated,Single Word,Photo,BUGS,false,,12
+94,ABGL,ABG,L,MOM,Family & Friends,Untrained - Discovered,Single Word,Photo,BUGS,false,,12
 95,ABGM,ABG,M,ELLIE,Family & Friends,Trained - Repeated,Single Word,Photo,BUGS,false,,10
 96,ABGN,ABG,N,ISABELLE,Family & Friends,Trained - Repeated,Single Word,Photo,BUGS,false,,10
 97,ABGO,ABG,O,TILLIE,Family & Friends,Trained - Repeated,Single Word,Photo,BUGS,false,,10
@@ -130,7 +130,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 129,ADBCD,ADBC,D,SPROUTS,Socio-Cognitive,Trained,Single Word,Drawing,SPRING,false,,1
 130,ADBCE,ADBC,E,DIRT,Socio-Cognitive,Trained,Single Word,Drawing,SPRING,false,,1
 131,ADBCF,ADBC,F,GRASS,Socio-Cognitive,Trained,Single Word,Drawing,SPRING,false,,1
-132,ADBCG,ADBC,G,OUTSIDE WALK,Socio-Cognitive,Trained - Repeated,Phrase,Abstract Sign,SPRING,false,,3
+132,ADBCG,ADBC,G,OUTSIDE WALK,Socio-Cognitive,Trained - Repeated,Phrase,Drawing,SPRING,false,,3
 133,ADBCH,ADBC,H,BABY ANIMALS,Socio-Cognitive,Trained - Repeated,Phrase,Photo,SPRING,false,,3
 134,ADBCI,ADBC,I,BUTTERFLY,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,SPRING,false,,2
 135,ADBCJ,ADBC,J,SPRING CARTOONS,Resources,Generalized,Phrase,Photo,SPRING,false,,1
@@ -146,7 +146,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 145,ADBCT,ADBC,T,NO LIKE,Self/State,Trained - Repeated,Phrase,Abstract Sign,SPRING,false,,31
 146,ADBD,ADB,D,SUMMER,Navigation,Trained - Repeated,Single Word,Photo,SEASONAL,true,1,1
 147,ADBDA,ADBD,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,SUMMER,false,,81
-148,ADBDB,ADBD,B,OUTSIDE SHOWER,Space-Temporal,Trained - Repeated,Phrase,Abstract Sign,SUMMER,false,,1
+148,ADBDB,ADBD,B,OUTSIDE SHOWER,Space-Temporal,Trained - Repeated,Phrase,Drawing,SUMMER,false,,1
 149,ADBDC,ADBD,C,SUN,Space-Temporal,Trained - Repeated,Single Word,Photo,SUMMER,false,,2
 150,ADBDD,ADBD,D,"",,,,,SUMMER,false,,17
 151,ADBDE,ADBD,E,RAIN,Space-Temporal,Trained - Repeated,Single Word,Photo,SUMMER,false,,3
@@ -174,7 +174,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 173,ADBEC,ADBE,C,LEAVES,Socio-Cognitive,Trained,Single Word,Photo,FALL,false,,1
 174,ADBED,ADBE,D,ACORN,Socio-Cognitive,Trained,Single Word,Photo,FALL,false,,1
 175,ADBEE,ADBE,E,,,,,,FALL,false,,56
-176,ADBEF,ADBE,F,WARM CLOTHES,Socio-Cognitive,Untrained - Unused,Phrase,Abstract Sign,FALL,false,,1
+176,ADBEF,ADBE,F,WARM CLOTHES,Socio-Cognitive,Untrained - Unused,Phrase,Drawing,FALL,false,,1
 177,ADBEG,ADBE,G,PUMPKIN,Socio-Cognitive,Trained,Single Word,Photo,FALL,false,,2
 178,ADBEH,ADBE,H,WARM OUTSIDE,Space-Temporal,Trained - Repeated,Phrase,Photo,FALL,false,,4
 179,ADBEI,ADBE,I,COOL OUTSIDE,Space-Temporal,Trained - Repeated,Phrase,Photo,FALL,false,,4
@@ -283,15 +283,15 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 282,AEH,AE,H,STARS CLOSE BIG,Socio-Cognitive,Untrained - Discovered,Phrase,Photo,SPACE SKY,false,,1
 283,AEI,AE,I,PLANETS FAR SMALL,Socio-Cognitive,Untrained - Discovered,Phrase,Photo,SPACE SKY,false,,1
 284,AEJ,AE,J,PLANETS CLOSE BIG,Socio-Cognitive,Untrained - Discovered,Phrase,Photo,SPACE SKY,false,,1
-285,AEK,AE,K,WHAT IS IT?,Socio-Cognitive,Untrained - Discovered,Phrase,Abstract Sign,SPACE SKY,false,,1
+285,AEK,AE,K,WHAT IS IT?,Socio-Cognitive,Untrained - Discovered,Phrase,Drawing,SPACE SKY,false,,1
 286,AEL,AE,L,LOOK AT ART,Socio-Cognitive,Trained - Repeated,Phrase,Drawing,SPACE SKY,false,,8
 287,AEM,AE,M,BOOK,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,SPACE SKY,false,,13
 288,AEN,AE,N,TABLET GAME,Socio-Cognitive,Trained - Repeated,Phrase,Drawing,SPACE SKY,false,,1
 289,AF,A,F,LEARN SOMETHING NEW,Socio-Cognitive,Trained - Repeated,Phrase,Abstract Sign,TALK ABOUT,false,,2
-290,AG,A,G,YES AND NO,Navigation,Trained,Phrase,Abstract Sign,TALK ABOUT,true,1,1
+290,AG,A,G,YES AND NO,Navigation,Trained,Phrase,Drawing,TALK ABOUT,true,1,1
 291,AGA,AG,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,YES AND NO,false,,81
-292,AGB,AG,B,YES,Affirmations,Trained,Single Word,Abstract Sign,YES AND NO,false,,1
-293,AGC,AG,C,NO,Affirmations,Trained,Single Word,Abstract Sign,YES AND NO,false,,1
+292,AGB,AG,B,YES,Affirmations,Trained,Single Word,Drawing,YES AND NO,false,,1
+293,AGC,AG,C,NO,Affirmations,Trained,Single Word,Drawing,YES AND NO,false,,1
 294,AGD,AG,D,I'M NOT SURE,Affirmations,Trained,Phrase,Abstract Sign,YES AND NO,false,,1
 295,AGE,AG,E,SOMETHING ELSE,Affirmations,Trained,Phrase,Abstract Sign,YES AND NO,false,,1
 296,AGF,AG,F,,,,,,YES AND NO,false,,56
@@ -304,7 +304,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 303,AHBA,AHB,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,HOT,false,,81
 304,AHBB,AHB,B,,,,,,HOT,false,,56
 305,AHBC,AHB,C,HOT OUTSIDE,Space-Temporal,Untrained - Discovered,Phrase,Photo,HOT,false,,3
-306,AHBD,AHB,D,HOT INSIDE,Space-Temporal,Untrained - Discovered,Phrase,Drawing,HOT,false,,2
+306,AHBD,AHB,D,HOT INSIDE,Space-Temporal,Untrained - Discovered,Phrase,Abstract Sign,HOT,false,,2
 307,AHBE,AHB,E,LIKE,Self/State,Trained,Single Word,Abstract Sign,HOT,false,,31
 308,AHBF,AHB,F,NO LIKE,Self/State,Trained,Phrase,Abstract Sign,HOT,false,,31
 309,AHC,AH,C,WARM,Navigation,Trained,Single Word,Abstract Sign,TEMP AND WEATHER,true,2,2
@@ -341,7 +341,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 340,AKL,AK,L,"""M""",,,,,TYPE,false,,1
 341,AKM,AK,M,"""R""",,,,,TYPE,false,,1
 342,AL,A,L,MATH,Navigation,Trained,Single Word,Photo,TALK ABOUT,true,1,1
-343,ALA,AL,A,BACK,,,,,MATH,false,,81
+343,ALA,AL,A,BACK,,,,Abstract Sign,MATH,false,,81
 344,ALB,AL,B,0,,,,,MATH,false,,1
 345,ALC,AL,C,1,,,,,MATH,false,,1
 346,ALD,AL,D,2,,,,,MATH,false,,1
@@ -364,7 +364,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 363,BJ,B,J,GOLF CART RIDE,Space-Temporal,Trained - Repeated,Phrase,Photo,PLACES,false,,3
 364,BK,B,K,RIVER AVIARY,Space-Temporal,Trained,Phrase,Photo,PLACES,false,,1
 365,BL,B,L,TEA ROOM AVIARY,Space-Temporal,Trained,Phrase,Photo,PLACES,false,,1
-366,BM,B,M,MOM,Family & Friends,Trained - Repeated,Single Word,Photo,PLACES,false,,12
+366,BM,B,M,MOM,Family & Friends,Untrained - Discovered,Single Word,Photo,PLACES,false,,12
 367,BN,B,N,ELLIE,Family & Friends,Trained - Repeated,Single Word,Photo,PLACES,false,,10
 368,BO,B,O,ISABELLE,Family & Friends,Trained - Repeated,Single Word,Photo,PLACES,false,,10
 369,BP,B,P,TILLIE,Family & Friends,Trained - Repeated,Single Word,Photo,PLACES,false,,10
@@ -372,7 +372,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 371,BR,B,R,NO LIKE,Self/State,Trained - Repeated,Phrase,Abstract Sign,PLACES,false,,31
 372,C,"",C,EXPERIENCE,Navigation,Trained,Single Word,Drawing,MAIN MENU,true,1,1
 373,CA,C,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,EXPERIENCE,false,,81
-374,CB,C,B,MOM,Family & Friends,Trained - Repeated,Single Word,Photo,EXPERIENCE,false,,12
+374,CB,C,B,MOM,Family & Friends,Untrained - Discovered,Single Word,Photo,EXPERIENCE,false,,12
 375,CC,C,C,"",,,,,EXPERIENCE,false,,17
 376,CD,C,D,TOUCH,Action,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
 377,CE,C,E,SEE,Action,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
@@ -409,7 +409,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 408,DEC,DE,C,POP-UP,Socio-Cognitive,Trained,Single Word,Photo,BOOK,false,,1
 409,DED,DE,D,READING BOOK,Navigation,Trained,Phrase,Photo,BOOK,true,1,1
 410,DEDA,DED,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,READING BOOK,false,,81
-411,DEDB,DED,B,ONE WORD,Socio-Cognitive,Trained,Phrase,Photo,READING BOOK,false,,1
+411,DEDB,DED,B,ONE WORD,Socio-Cognitive,Trained,Phrase,Abstract Sign,READING BOOK,false,,1
 412,DEDC,DED,C,SENTENCE BOOK,Socio-Cognitive,Trained,Phrase,Abstract Sign,READING BOOK,false,,1
 413,DEE,DE,E,,,,,,BOOK,false,,56
 414,DEF,DE,F,THEME,Navigation,Trained - Repeated,Single Word,Drawing,BOOK,true,1,1
@@ -463,13 +463,13 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 462,DL,D,L,PLAY OUTSIDE,Space-Temporal,Trained - Repeated,Phrase,Drawing,TO PLAY,false,,1
 463,DM,D,M,LEARNING THEME,Socio-Cognitive,Trained - Repeated,Phrase,Photo,TO PLAY,false,,1
 464,DN,D,N,LEARN NEW WORDS,Socio-Cognitive,Trained - Repeated,Phrase,Abstract Sign,TO PLAY,false,,1
-465,DO,D,O,MOM,Family & Friends,Trained - Repeated,Single Word,Photo,TO PLAY,false,,12
+465,DO,D,O,MOM,Family & Friends,Untrained - Discovered,Single Word,Photo,TO PLAY,false,,12
 466,DP,D,P,ELLIE,Family & Friends,Trained - Repeated,Single Word,Photo,TO PLAY,false,,10
 467,DQ,D,Q,TILLIE,Family & Friends,Trained - Repeated,Single Word,Photo,TO PLAY,false,,10
 468,DR,D,R,ISABELLE,Family & Friends,Trained - Repeated,Single Word,Photo,TO PLAY,false,,10
 469,E,"",E,TO SAY HELLO TO,Navigation,Trained,Phrase,Drawing,MAIN MENU,true,1,1
 470,EA,E,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,TO SAY HELLO TO,false,,81
-471,EB,E,B,MOM,Family & Friends,Trained - Repeated,Single Word,Photo,TO SAY HELLO TO,false,,12
+471,EB,E,B,MOM,Family & Friends,Untrained - Discovered,Single Word,Photo,TO SAY HELLO TO,false,,12
 472,EC,E,C,GRANDMA,Family & Friends,Trained - Repeated,Single Word,Photo,TO SAY HELLO TO,false,,1
 473,ED,E,D,CORI,Family & Friends,Trained,Single Word,Photo,TO SAY HELLO TO,false,,1
 474,EE,E,E,"",,,,,TO SAY HELLO TO,false,,17
@@ -477,7 +477,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 476,EG,E,G,CAR RIDE,Space-Temporal,Trained - Repeated,Single Word,Drawing,TO SAY HELLO TO,false,,1
 477,EH,E,H,BIRD FRIENDS,Family & Friends,Trained,Phrase,Photo,TO SAY HELLO TO,false,,1
 478,EI,E,I,OUTSIDE WALK,Space-Temporal,Trained - Repeated,Phrase,Photo,TO SAY HELLO TO,false,,3
-479,EJ,E,J,GOLF CART RIDE,Space-Temporal,Trained - Repeated,Phrase,Abstract Sign,TO SAY HELLO TO,false,,3
+479,EJ,E,J,GOLF CART RIDE,Space-Temporal,Trained - Repeated,Phrase,Photo,TO SAY HELLO TO,false,,3
 480,F,"",F,ENTERTAINMENT,Navigation,Trained,Single Word,Photo,MAIN MENU,true,1,1
 481,FA,F,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,ENTERTAINMENT,false,,81
 482,FB,F,B,MUSIC,Navigation,Trained - Repeated,Single Word,Photo,ENTERTAINMENT,true,1,1
@@ -555,7 +555,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 554,FCIE,FCI,E,BACKYARD ANIMALS,Resources,Trained - Repeated,Phrase,Photo,ANIMALS,false,,2
 555,FD,F,D,ALEXA,Navigation,Trained,Single Word,Photo,ENTERTAINMENT,true,1,1
 556,FDA,FD,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,ALEXA,false,,81
-557,FDB,FD,B,MOM,Family & Friends,Trained - Repeated,Single Word,Photo,ALEXA,false,,12
+557,FDB,FD,B,MOM,Family & Friends,Untrained - Discovered,Single Word,Photo,ALEXA,false,,12
 558,FDC,FD,C,ALEXA PLAY MEDITATION MUSIC,Resources,Generalized,Phrase,Photo,ALEXA,false,,1
 559,FDD,FD,D,"",,,,,ALEXA,false,,17
 560,FDE,FD,E,ALEXA PLAY VIVALDI,Resources,Generalized,Phrase,Photo,ALEXA,false,,1
@@ -566,10 +566,10 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 565,FDJ,FD,J,ALEXA PLAY HOOKED ON A FEELING ON PANDORA,Resources,Generalized,Phrase,Photo,ALEXA,false,,1
 566,FDK,FD,K,ALEXA PLAY COLDPLAY ON PANDORA,Resources,Generalized,Phrase,Photo,ALEXA,false,,1
 567,FDL,FD,L,ALEXA PLAY PEPPA PIG CARTOONS,Resources,Generalized,Phrase,Photo,ALEXA,false,,1
-568,FDM,FD,M,ALEXA THUMBS UP,Self/State,Generalized,Phrase,Abstract Sign,ALEXA,false,,1
-569,FDN,FD,N,ALEXA THUMBS DOWN,Self/State,Generalized,Phrase,Abstract Sign,ALEXA,false,,1
-570,FDO,FD,O,ALEXA VOLUME 5,Qualifiers,Generalized,Phrase,Abstract Sign,ALEXA,false,,1
-571,FDP,FD,P,ALEXA VOLUME 3,Qualifiers,Generalized,Phrase,Abstract Sign,ALEXA,false,,1
+568,FDM,FD,M,ALEXA THUMBS UP,Self/State,Generalized,Phrase,Drawing,ALEXA,false,,1
+569,FDN,FD,N,ALEXA THUMBS DOWN,Self/State,Generalized,Phrase,Drawing,ALEXA,false,,1
+570,FDO,FD,O,ALEXA VOLUME 5,Qualifiers,Generalized,Phrase,Drawing,ALEXA,false,,1
+571,FDP,FD,P,ALEXA VOLUME 3,Qualifiers,Generalized,Phrase,Drawing,ALEXA,false,,1
 572,FDQ,FD,Q,ALEXA PLAY HANDEL,Resources,Generalized,Phrase,Photo,ALEXA,false,,1
 573,FDR,FD,R,ALEXA CANCEL,Action,Generalized,Phrase,Abstract Sign,ALEXA,false,,1
 574,G,"",G,FOOD AND DRINKS,Navigation,Trained,Phrase,Drawing,MAIN MENU,true,1,1
@@ -629,9 +629,9 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 628,HCD,HC,D,OLD HOUSE,Socio-Cognitive,Untrained - Discovered,Phrase,Photo,REMEMBER,false,,1
 629,HCE,HC,E,SECOND OLD HOUSE,Socio-Cognitive,Untrained - Discovered,Phrase,Photo,REMEMBER,false,,1
 630,HCF,HC,F,CHRIS,Family & Friends,Untrained - Discovered,Single Word,Photo,REMEMBER,false,,1
-631,HCG,HC,G,TALK ABOUT FEELINGS,Self/State,Untrained - Discovered,Phrase,Drawing,REMEMBER,false,,1
-632,HCH,HC,H,TALK ABOUT,Socio-Cognitive,Untrained - Discovered,Phrase,Abstract Sign,REMEMBER,false,,11
-633,HCI,HC,I,LOOK AT PICTURES,Socio-Cognitive,Untrained - Discovered,Phrase,Drawing,REMEMBER,false,,3
+631,HCG,HC,G,TALK ABOUT FEELINGS,Self/State,Trained - Repeated,Phrase,Drawing,REMEMBER,false,,1
+632,HCH,HC,H,TALK ABOUT,Socio-Cognitive,Trained - Repeated,Phrase,Abstract Sign,REMEMBER,false,,11
+633,HCI,HC,I,LOOK AT PICTURES,Socio-Cognitive,Trained - Repeated,Phrase,Drawing,REMEMBER,false,,3
 634,HCJ,HC,J,TILLIE'S OLD HOUSE,Socio-Cognitive,Untrained - Discovered,Phrase,Photo,REMEMBER,false,,1
 635,I,"",I,DESCRIPTIONS AND PREFERENCES,Navigation,Untrained - Discovered,Phrase,Drawing,MAIN MENU,true,1,1
 636,IA,I,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,DESCRIPTIONS AND PREFERENCES,false,,81
@@ -646,14 +646,14 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 645,IBH,IB,H,FIXED,Qualifiers,Untrained - Discovered,Single Word,Drawing,OPPOSITES,false,,1
 646,IBI,IB,I,LIGHT,Qualifiers,Untrained - Discovered,Single Word,Photo,OPPOSITES,false,,2
 647,IBJ,IB,J,DARK,Qualifiers,Untrained - Discovered,Single Word,Abstract Sign,OPPOSITES,false,,2
-648,IBK,IB,K,IN,Space-Temporal,Untrained - Discovered,Single Word,Abstract Sign,OPPOSITES,false,,1
-649,IBL,IB,L,OUT,Space-Temporal,Untrained - Discovered,Single Word,Abstract Sign,OPPOSITES,false,,1
+648,IBK,IB,K,IN,Space-Temporal,Untrained - Unused,Single Word,Abstract Sign,OPPOSITES,false,,1
+649,IBL,IB,L,OUT,Space-Temporal,Untrained - Unused,Single Word,Abstract Sign,OPPOSITES,false,,1
 650,IBM,IB,M,EMPTY,Qualifiers,Untrained - Discovered,Single Word,Drawing,OPPOSITES,false,,1
 651,IBN,IB,N,FULL,Qualifiers,Untrained - Discovered,Single Word,Drawing,OPPOSITES,false,,1
 652,IBO,IB,O,LIKE,Self/State,Trained - Repeated,Single Word,Abstract Sign,OPPOSITES,false,,31
 653,IBP,IB,P,NO LIKE,Self/State,Trained - Repeated,Phrase,Abstract Sign,OPPOSITES,false,,31
-654,IBQ,IB,Q,EASY,Qualifiers,Untrained - Discovered,Single Word,Abstract Sign,OPPOSITES,false,,1
-655,IBR,IB,R,HARD,Qualifiers,Untrained - Discovered,Single Word,Abstract Sign,OPPOSITES,false,,1
+654,IBQ,IB,Q,EASY,Qualifiers,Untrained - Discovered,Single Word,Drawing,OPPOSITES,false,,1
+655,IBR,IB,R,HARD,Qualifiers,Untrained - Discovered,Single Word,Drawing,OPPOSITES,false,,1
 656,IC,I,C,MOVEMENT,Navigation,Trained,Single Word,Drawing,DESCRIPTIONS AND PREFERENCES,true,1,1
 657,ICA,IC,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,MOVEMENT,false,,81
 658,ICB,IC,B,RUN,Action,Trained,Single Word,Drawing,MOVEMENT,false,,1
@@ -663,16 +663,16 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 662,ICF,IC,F,FLY,Action,Trained,Single Word,Drawing,MOVEMENT,false,,1
 663,ICG,IC,G,SIT,Action,Trained,Single Word,Drawing,MOVEMENT,false,,1
 664,ICH,IC,H,WALK,Action,Trained,Single Word,Drawing,MOVEMENT,false,,1
-665,ICI,IC,I,FAST,Qualifiers,Trained - Repeated,Single Word,Abstract Sign,MOVEMENT,false,,3
-666,ICJ,IC,J,SLOW,Qualifiers,Trained - Repeated,Single Word,Abstract Sign,MOVEMENT,false,,3
+665,ICI,IC,I,FAST,Qualifiers,Trained - Repeated,Single Word,Drawing,MOVEMENT,false,,3
+666,ICJ,IC,J,SLOW,Qualifiers,Trained - Repeated,Single Word,Drawing,MOVEMENT,false,,3
 667,ICK,IC,K,LIKE,Self/State,Trained - Repeated,Single Word,Abstract Sign,MOVEMENT,false,,31
 668,ICL,IC,L,NO LIKE,Self/State,Trained - Repeated,Phrase,Abstract Sign,MOVEMENT,false,,31
-669,ICM,IC,M,MOM,Family & Friends,Trained - Repeated,Single Word,Photo,MOVEMENT,false,,12
+669,ICM,IC,M,MOM,Family & Friends,Untrained - Discovered,Single Word,Photo,MOVEMENT,false,,12
 670,ICN,IC,N,TILLIE,Family & Friends,Trained - Repeated,Single Word,Photo,MOVEMENT,false,,10
 671,ICO,IC,O,ELLIE,Family & Friends,Trained - Repeated,Single Word,Photo,MOVEMENT,false,,10
 672,ICP,IC,P,ISABELLE,Family & Friends,Trained - Repeated,Single Word,Photo,MOVEMENT,false,,10
 673,ICQ,IC,Q,,,,,,MOVEMENT,false,,56
-674,ID,I,D,FIX PLEASE,Navigation,Untrained - Discovered,Phrase,Abstract Sign,DESCRIPTIONS AND PREFERENCES,true,1,1
+674,ID,I,D,FIX PLEASE,Navigation,Untrained - Discovered,Phrase,Drawing,DESCRIPTIONS AND PREFERENCES,true,1,1
 675,IDA,ID,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,FIX PLEASE,false,,81
 676,IDB,ID,B,INSIDE,Space-Temporal,Generalized,Single Word,Photo,FIX PLEASE,false,,2
 677,IDC,ID,C,OUTSIDE,Space-Temporal,Generalized,Single Word,Photo,FIX PLEASE,false,,2
@@ -685,7 +685,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 684,IDJ,ID,J,BLUE,Qualifiers,Untrained - Discovered,Single Word,Photo,FIX PLEASE,false,,2
 685,IDK,ID,K,BROWN,Qualifiers,Untrained - Discovered,Single Word,Photo,FIX PLEASE,false,,1
 686,IDL,ID,L,TABLET,Resources,Untrained - Discovered,Single Word,Photo,FIX PLEASE,false,,2
-687,IDM,ID,M,MOM,Family & Friends,Trained - Repeated,Single Word,Photo,FIX PLEASE,false,,12
+687,IDM,ID,M,MOM,Family & Friends,Untrained - Discovered,Single Word,Photo,FIX PLEASE,false,,12
 688,IDN,ID,N,ELLIE,Family & Friends,Trained - Repeated,Single Word,Photo,FIX PLEASE,false,,10
 689,IDO,ID,O,TILLIE,Family & Friends,Trained - Repeated,Single Word,Photo,FIX PLEASE,false,,10
 690,IDP,ID,P,ISABELLE,Family & Friends,Trained - Repeated,Single Word,Photo,FIX PLEASE,false,,10
@@ -700,42 +700,42 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 699,IEF,IE,F,CAGES,Resources,Untrained - Discovered,Single Word,Photo,CLEAN,false,,1
 700,IEG,IE,G,BROKEN,Qualifiers,Untrained - Discovered,Single Word,Drawing,CLEAN,false,,5
 701,IEH,IE,H,FIX,Qualifiers,Untrained - Discovered,Single Word,Drawing,CLEAN,false,,4
-702,IEI,IE,I,MOM,Family & Friends,Trained - Repeated,Single Word,Photo,CLEAN,false,,12
-703,IEJ,IE,J,FAST,Qualifiers,Trained - Repeated,Single Word,Abstract Sign,CLEAN,false,,3
-704,IEK,IE,K,SLOW,Qualifiers,Trained - Repeated,Single Word,Abstract Sign,CLEAN,false,,3
+702,IEI,IE,I,MOM,Family & Friends,Untrained - Discovered,Single Word,Photo,CLEAN,false,,12
+703,IEJ,IE,J,FAST,Qualifiers,Trained - Repeated,Single Word,Drawing,CLEAN,false,,3
+704,IEK,IE,K,SLOW,Qualifiers,Trained - Repeated,Single Word,Drawing,CLEAN,false,,3
 705,IEL,IE,L,OUTSIDE AVIARY,Space-Temporal,Trained - Repeated,Phrase,Photo,CLEAN,false,,2
-706,IEM,IE,M,I HELP,Action,Untrained - Discovered,Phrase,Abstract Sign,CLEAN,false,,1
+706,IEM,IE,M,I HELP,Action,Untrained - Discovered,Phrase,Drawing,CLEAN,false,,1
 707,IEN,IE,N,ELLIE,Family & Friends,Trained - Repeated,Single Word,Photo,CLEAN,false,,10
 708,IEO,IE,O,ISABELLE,Family & Friends,Trained - Repeated,Single Word,Photo,CLEAN,false,,10
 709,IEP,IE,P,TILLIE,Family & Friends,Trained - Repeated,Single Word,Photo,CLEAN,false,,10
 710,IEQ,IE,Q,LIKE,Self/State,Trained - Repeated,Single Word,Abstract Sign,CLEAN,false,,31
 711,IER,IE,R,NO LIKE,Self/State,Trained - Repeated,Single Word,Abstract Sign,CLEAN,false,,31
 712,IF,I,F,,,,,,DESCRIPTIONS AND PREFERENCES,false,,56
-713,IG,I,G,QUESTIONS,Navigation,Trained,Single Word,Abstract Sign,DESCRIPTIONS AND PREFERENCES,true,1,1
+713,IG,I,G,QUESTIONS,Navigation,Trained,Single Word,Drawing,DESCRIPTIONS AND PREFERENCES,true,1,1
 714,IGA,IG,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,QUESTIONS,false,,81
-715,IGB,IG,B,WHO IS THAT?,Socio-Cognitive,Trained,Phrase,Abstract Sign,QUESTIONS,false,,1
-716,IGC,IG,C,WHAT IS THAT?,Socio-Cognitive,Trained,Phrase,Abstract Sign,QUESTIONS,false,,1
-717,IGD,IG,D,WHERE ARE YOU GOING?,Socio-Cognitive,Trained,Phrase,Abstract Sign,QUESTIONS,false,,1
-718,IGE,IG,E,WHERE IS SOMEONE?,Socio-Cognitive,Trained,Phrase,Abstract Sign,QUESTIONS,false,,1
-719,IGF,IG,F,HOW?,Socio-Cognitive,Trained,Single Word,Abstract Sign,QUESTIONS,false,,1
+715,IGB,IG,B,WHO IS THAT?,Socio-Cognitive,Trained,Phrase,Drawing,QUESTIONS,false,,1
+716,IGC,IG,C,WHAT IS THAT?,Socio-Cognitive,Trained,Phrase,Drawing,QUESTIONS,false,,1
+717,IGD,IG,D,WHERE ARE YOU GOING?,Socio-Cognitive,Trained,Phrase,Drawing,QUESTIONS,false,,1
+718,IGE,IG,E,WHERE IS SOMEONE?,Socio-Cognitive,Trained,Phrase,Drawing,QUESTIONS,false,,1
+719,IGF,IG,F,HOW?,Socio-Cognitive,Trained,Single Word,Drawing,QUESTIONS,false,,1
 720,IGG,IG,G,"",,,,,QUESTIONS,false,,17
-721,IGH,IG,H,WHY?,Socio-Cognitive,Trained,Single Word,Abstract Sign,QUESTIONS,false,,1
-722,IGI,IG,I,WHEN?,Socio-Cognitive,Trained,Single Word,Abstract Sign,QUESTIONS,false,,1
-723,IGJ,IG,J,I KNOW!,Socio-Cognitive,Trained,Phrase,Abstract Sign,QUESTIONS,false,,1
-724,IGK,IG,K,I DONT KNOW,Socio-Cognitive,Trained - Repeated,Phrase,Abstract Sign,QUESTIONS,false,,1
+721,IGH,IG,H,WHY?,Socio-Cognitive,Trained,Single Word,Drawing,QUESTIONS,false,,1
+722,IGI,IG,I,WHEN?,Socio-Cognitive,Trained,Single Word,Drawing,QUESTIONS,false,,1
+723,IGJ,IG,J,I KNOW!,Socio-Cognitive,Trained,Phrase,Drawing,QUESTIONS,false,,1
+724,IGK,IG,K,I DONT KNOW,Socio-Cognitive,Trained - Repeated,Phrase,Drawing,QUESTIONS,false,,1
 725,IGL,IG,L,INSIDE,Space-Temporal,Generalized,Single Word,Photo,QUESTIONS,false,,2
 726,IGM,IG,M,OUTSIDE,Space-Temporal,Generalized,Single Word,Photo,QUESTIONS,false,,2
 727,IGN,IG,N,ISABELLE,Family & Friends,Trained - Repeated,Single Word,Photo,QUESTIONS,false,,10
 728,IGO,IG,O,TILLIE,Family & Friends,Trained - Repeated,Single Word,Photo,QUESTIONS,false,,10
 729,IGP,IG,P,ELLIE,Family & Friends,Trained - Repeated,Single Word,Photo,QUESTIONS,false,,10
-730,IGQ,IG,Q,MOM,Family & Friends,Trained - Repeated,Single Word,Photo,QUESTIONS,false,,12
+730,IGQ,IG,Q,MOM,Family & Friends,Untrained - Discovered,Single Word,Photo,QUESTIONS,false,,12
 731,IGR,IG,R,SOMEONE ELSE,Family & Friends,Generalized,Phrase,Abstract Sign,QUESTIONS,false,,1
 732,IH,I,H,SQUIRRELS,Navigation,Untrained - Discovered,Single Word,Photo,DESCRIPTIONS AND PREFERENCES,true,1,1
 733,IHA,IH,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,SQUIRRELS,false,,81
 734,IHB,IH,B,BROKEN,Qualifiers,Untrained - Discovered,Single Word,Drawing,SQUIRRELS,false,,5
 735,IHC,IH,C,FIX,Qualifiers,Untrained - Discovered,Single Word,Drawing,SQUIRRELS,false,,4
-736,IHD,IH,D,FAST,Qualifiers,Trained - Repeated,Single Word,Abstract Sign,SQUIRRELS,false,,3
-737,IHE,IH,E,SLOW,Qualifiers,Trained - Repeated,Single Word,Abstract Sign,SQUIRRELS,false,,3
+736,IHD,IH,D,FAST,Qualifiers,Trained - Repeated,Single Word,Drawing,SQUIRRELS,false,,3
+737,IHE,IH,E,SLOW,Qualifiers,Trained - Repeated,Single Word,Drawing,SQUIRRELS,false,,3
 738,IHF,IH,F,SQUIRREL MUSIC,Resources,Generalized,Phrase,Photo,SQUIRRELS,false,,1
 739,IHG,IH,G,"",,,,,SQUIRRELS,false,,17
 740,IHH,IH,H,SQUIRREL,Family & Friends,Trained - Repeated,Single Word,Photo,SQUIRRELS,false,,2
@@ -743,7 +743,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 742,IHJ,IH,J,LIKE,Self/State,Trained - Repeated,Single Word,Abstract Sign,SQUIRRELS,false,,31
 743,IHK,IH,K,NO LIKE,Self/State,Trained - Repeated,Phrase,Abstract Sign,SQUIRRELS,false,,31
 744,IHL,IH,L,VIDEO CALL,Socio-Cognitive,Untrained - Discovered,Phrase,Photo,SQUIRRELS,false,,1
-745,IHM,IH,M,MOM,Family & Friends,Trained - Repeated,Single Word,Photo,SQUIRRELS,false,,12
+745,IHM,IH,M,MOM,Family & Friends,Untrained - Discovered,Single Word,Photo,SQUIRRELS,false,,12
 746,IHN,IH,N,DOWN LOW,Self/State,Untrained - Discovered,Phrase,Drawing,SQUIRRELS,false,,4
 747,IHO,IH,O,UP HIGH,Space-Temporal,Untrained - Discovered,Phrase,Drawing,SQUIRRELS,false,,1
 748,IHP,IH,P,BLUE,Qualifiers,Untrained - Discovered,Single Word,Photo,SQUIRRELS,false,,2
@@ -764,7 +764,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 763,JCBG,JCB,G,I FELT HOT,Space-Temporal,Generalized,Phrase,Abstract Sign,HOT,false,,1
 764,JCBH,JCB,H,I WILL FEEL HOT,Space-Temporal,Generalized,Phrase,Abstract Sign,HOT,false,,1
 765,JCBI,JCB,I,HOT OUTSIDE,Space-Temporal,Untrained - Discovered,Phrase,Photo,HOT,false,,3
-766,JCBJ,JCB,J,HOT INSIDE,Space-Temporal,Untrained - Discovered,Phrase,Abstract Sign,HOT,false,,2
+766,JCBJ,JCB,J,HOT INSIDE,Space-Temporal,Untrained - Unused,Phrase,Abstract Sign,HOT,false,,2
 767,JCBK,JCB,K,TALK ABOUT,Socio-Cognitive,Trained - Repeated,Phrase,Abstract Sign,HOT,false,,11
 768,JCC,JC,C,,,,,,TEMPERATURE,false,,56
 769,JCD,JC,D,WARM,Navigation,Trained,Single Word,Abstract Sign,TEMPERATURE,true,2,2
@@ -789,7 +789,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 788,JCEG,JCE,G,I FELT COOL,Space-Temporal,Generalized,Phrase,Abstract Sign,COOL,false,,1
 789,JCEH,JCE,H,I WILL FEEL COOL,Space-Temporal,Generalized,Phrase,Abstract Sign,COOL,false,,1
 790,JCEI,JCE,I,COOL OUTSIDE,Space-Temporal,Untrained - Discovered,Phrase,Photo,COOL,false,,4
-791,JCEJ,JCE,J,COOL INSIDE,Space-Temporal,Untrained - Discovered,Phrase,Abstract Sign,COOL,false,,1
+791,JCEJ,JCE,J,COOL INSIDE,Space-Temporal,Untrained - Unused,Phrase,Abstract Sign,COOL,false,,1
 792,JCEK,JCE,K,TALK ABOUT,Socio-Cognitive,Trained - Repeated,Phrase,Abstract Sign,COOL,false,,11
 793,JCF,JC,F,COLD,Navigation,Trained,Single Word,Abstract Sign,TEMPERATURE,true,1,1
 794,JCFA,JCF,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,COLD,false,,81
@@ -801,7 +801,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 800,JCFG,JCF,G,I FELT COLD,Space-Temporal,Generalized,Phrase,Abstract Sign,COLD,false,,1
 801,JCFH,JCF,H,I WILL FEEL COLD,Space-Temporal,Generalized,Phrase,Abstract Sign,COLD,false,,1
 802,JCFI,JCF,I,COLD OUTSIDE,Space-Temporal,Untrained - Discovered,Phrase,Photo,COLD,false,,1
-803,JCFJ,JCF,J,COLD INSIDE,Space-Temporal,Untrained - Discovered,Phrase,Photo,COLD,false,,1
+803,JCFJ,JCF,J,COLD INSIDE,Space-Temporal,Untrained - Unused,Phrase,Abstract Sign,COLD,false,,1
 804,JCFK,JCF,K,TALK ABOUT,Socio-Cognitive,Trained - Repeated,Phrase,Abstract Sign,COLD,false,,11
 805,JCG,JC,G,SUN,Space-Temporal,Trained - Repeated,Single Word,Photo,TEMPERATURE,false,,2
 806,JCH,JC,H,WIND,Space-Temporal,Trained - Repeated,Single Word,Photo,TEMPERATURE,false,,2
@@ -850,7 +850,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 849,JDRI,JDR,I,I WILL FEEL OUCH,Space-Temporal,Generalized,Phrase,Abstract Sign,TYPES OF OUCH,false,,1
 850,JDRJ,JDR,J,I FEEL OUCH,Self/State,Generalized,Phrase,Drawing,TYPES OF OUCH,false,,1
 851,JDRK,JDR,K,AFRAID OUCH,Self/State,Generalized,Phrase,Drawing,TYPES OF OUCH,false,,1
-852,JDRO,JDR,O,MOM,Family & Friends,Trained - Repeated,Single Word,Photo,TYPES OF OUCH,false,,12
+852,JDRO,JDR,O,MOM,Family & Friends,Untrained - Discovered,Single Word,Photo,TYPES OF OUCH,false,,12
 853,JDRP,JDR,P,ELLIE,Family & Friends,Trained - Repeated,Single Word,Photo,TYPES OF OUCH,false,,10
 854,JDRQ,JDR,Q,ISABELLE,Family & Friends,Trained - Repeated,Single Word,Photo,TYPES OF OUCH,false,,10
 855,JDRR,JDR,R,TILLIE,Family & Friends,Trained - Repeated,Single Word,Photo,TYPES OF OUCH,false,,10

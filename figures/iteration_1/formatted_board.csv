@@ -59,6 +59,6 @@ ND,N,D,TOUCH ,Action,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
 NE,N,E,LOOK,Action,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
 NF,N,F,HEAR,Action,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
 NG,N,G,WANT,Self/State,Trained,Single Word,Drawing,EXPERIENCE,false,,2
-NH,N,H,AND,,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
+NH,N,H,AND,Qualifiers,Trained,Single Word,Abstract Sign,EXPERIENCE,false,,1
 NI,N,I,ISABELLE,Family & Friends,Trained,Single Word,Photo,EXPERIENCE,false,,1
 O,"",O,MEDICINE,Resources,Trained,Single Word,Abstract Sign,MAIN MENU,false,,1

@@ -1,221 +1,221 @@
-,Line Number,Location path code,L1,L2,L3,L4,L5,Category,Training/ Spontaneous,Utterance: Single word or phrase,Type of Sign,,,,,absolute X,absolute Y,relative X,relative Y,Notes,# boxes on screen,"Cori's double check - yellow are different, white are still the same"
-1,1,ABCE,A        Talk about,AB   Temp and Weather,ABC       Hot,ABCE             Hot inside,,Space-Temporal,Generalized,Phrase,Photo,,,,,2,1,2,1,,7,7
-2,2,ABCF,A        Talk about,AB   Temp and Weather,ABC       Hot,ABCF             Hot outside,,Space-Temporal,Generalized,Phrase,Photo,,,,,3,1,3,1,,7,7
-3,3,ABDE,A        Talk about,AB   Temp and Weather,ABD      Warm,ABDE             Warm inside,,Space-Temporal,Generalized,Phrase,Photo,,,,,2,1,2,0,,6,6
-4,4,ABDF,A        Talk about,AB   Temp and Weather,ABD      Warm,ABDF             Warm outside,,Space-Temporal,Generalized,Phrase,Photo,,,,,3,1,3,0,,6,6
-5,5,ABED,A        Talk about,AB   Temp and Weather,ABE       Cool,ABED             Cool inside,,Space-Temporal,Generalized,Phrase,Photo,,,,,1,1,1,0,,6,6
-6,6,ABEF,A        Talk about,AB   Temp and Weather,ABE       Cool,ABEF              Cool outside,,Space-Temporal,Generalized,Phrase,Photo,,,,,3,1,3,1,,6,6
-7,7,ABFD,A        Talk about,AB   Temp and Weather,ABF       Cold,ABFD             Cold inside,,Space-Temporal,Generalized,Phrase,Photo,,,,,1,1,1,1,,7,7
-8,8,ABFE,A        Talk about,AB   Temp and Weather,ABF       Cold,ABFE              Cold outside,,Space-Temporal,Generalized,Phrase,Photo,,,,,2,1,2,1,,7,7
-9,9,BKD,B        Say hello to,BK   Talk About,BKD       Learning,,,Socio-Cognitive,Generalized,Single Word,Abstract Sign,,,,,1,1,2,0,,4,4
-10,10,DCG,D        To play,DC   Book,DCG Theme,,,Navigation,Generalized,Single Word,Drawing,,,,,-3,-1,-3,-1,"prev x=-2, y=1",8,7
-11,11,KF,K         Cartoons,KF    Themes,,,,Navigation,Generalized,Single Word,Drawing,,,,,3,1,3,1,,9,9
-12,12,ABC,A        Talk about,AB   Temp and Weather,ABC       Hot,,,Navigation,Trained,Single Word,Abstract Sign,,,,,-1,1,-1,1,,12,12
-13,13,ABCB,A        Talk about,AB   Temp and Weather,ABC       Hot,ABCB             I feel hot,,Self/State,Trained,Phrase,Drawing,,,,,-2,1,-2,1,,7,7
-14,14,ABCD,A        Talk about,AB   Temp and Weather,ABC       Hot,ABCD            I want to feel hot,,Self/State,Trained,Phrase,Drawing,,,,,1,1,1,1,,7,7
-15,15,ABCG,A        Talk about,AB   Temp and Weather,ABC       Hot,ABCG            Hot wind blow dryer,,Resources,Trained,Phrase,Photo,,,,,-3,-1,-3,-1,,7,7
-16,16,ABD,A        Talk about,AB   Temp and Weather,ABD      Warm,,,Navigation,Trained,Single Word,Abstract Sign,,,,,1,1,1,0,,12,12
-17,17,ABDB,A        Talk about,AB   Temp and Weather,ABD      Warm,ABDB            I feel warm,,Self/State,Trained,Phrase,Drawing,,,,,-2,1,-2,0,,6,6
-18,18,ABDC,A        Talk about,AB   Temp and Weather,ABD      Warm,ABDC            I want to feel warm,,Self/State,Trained,Phrase,Drawing,,,,,-1,1,-1,0,,6,6
-19,19,ABE,A        Talk about,AB   Temp and Weather,ABE       Cool,,,Navigation,Trained,Single Word,Abstract Sign,,,,,2,1,2,0,,12,12
-20,20,ABEB,A        Talk about,AB   Temp and Weather,ABE       Cool,ABEB             I feel cool,,Self/State,Trained,Phrase,Drawing,,,,,-2,1,-2,0,,6,6
-21,21,ABEC,A        Talk about,AB   Temp and Weather,ABE       Cool,ABEC             I want to feel cool,,Self/State,Trained,Phrase,Drawing,,,,,-1,1,-1,0,,6,6
-22,22,ABF,A        Talk about,AB   Temp and Weather,ABF       Cold,,,Navigation,Trained,Single Word,Abstract Sign,,,,,3,1,3,1,,12,12
-23,23,ABFB,A        Talk about,AB   Temp and Weather,ABF       Cold,ABFB             I feel cold,,Self/State,Trained,Phrase,Drawing,,,,,-2,1,-2,1,,7,7
-24,24,ABFC,A        Talk about,AB   Temp and Weather,ABF       Cold,ABFC             I want to feel cold,,Self/State,Trained,Phrase,Drawing,,,,,-1,1,-1,1,,7,7
-25,25,ABFG,A        Talk about,AB   Temp and Weather,ABF       Cold,ABFG             Cold wind air conditioner,,Resources,Trained,Phrase,Photo,,,,,-3,-1,-3,-1,,7,7
-26,26,ABH,A        Talk about,AB   Temp and Weather,ABH Cloud,,,Space-Temporal,Trained,Single Word,Photo,,,,,-2,-1,-2,-1,,,12
-27,27,ABI,A        Talk about,AB   Temp and Weather,ABI Rain,,,Space-Temporal,Trained,Single Word,Photo,,,,,-1,-1,-1,-1,,,12
-28,28,ABJ,A        Talk about,AB   Temp and Weather,ABJ Wind,,,Space-Temporal,Trained,Single Word,Photo,,,,,1,-1,1,-1,,,12
-29,29,ABK,A        Talk about,AB   Temp and Weather,ABK Day / Sun,,,Space-Temporal,Trained,Phrase,Photo,,,,,2,-1,2,-1,,,12
-30,30,ABL,A        Talk about,AB   Temp and Weather,ABL Night / Moon,,,Space-Temporal,Trained,Phrase,Photo,,,,,3,-1,3,-1,,,12
-31,31,ADB,A        Talk about,AD  Animals,ADB      Easter Babies,,,Socio-Cognitive,Trained,Phrase,Photo,,,,,-2,1,1,0,,8,2
-32,32,AE,A        Talk about,AE Holidays,,,,Socio-Cognitive,Trained,Single Word,Photo,,,,,2,1,2,1,,,10
-33,33,AF,A        Talk about,AF   Learn something new,,,,Socio-Cognitive,Trained,Phrase,Abstract Sign,,,,,3,1,3,1,,11,10
-34,34,AG,A        Talk about,AG  Math,,,,Socio-Cognitive,Trained,Single Word,Photo,,,,,-3,-1,-3,-1,,9,10
-35,35,AH,A        Talk about,AH  Letters and phonics,,,,Socio-Cognitive,Trained,Phrase,Photo,,,,,-3,-1,-3,-1,prev x=-2,9,10
-36,36,AI,A        Talk about,AI     Typing,,,,Socio-Cognitive,Trained,Single Word,Photo,,,,,-1,-1,-1,-1,,9,10
-37,37,AJ,A        Talk about,AJ Yes and No,,,,Navigation,Trained,Phrase,Drawing,,,,,1,-1,1,-1,prev y=0,5,10
-38,38,AJB,A        Talk about,AJ Yes and No,AJB Yes,,,Affirmations,Trained,Single Word,Abstract Sign,,,,,-2,1,-1,0,,5,5
-39,39,AJC,A        Talk about,AJ Yes and No,AJC No,,,Affirmations,Trained,Single Word,Abstract Sign,,,,,-1,1,0,0,,5,5
-40,40,AJD,A        Talk about,AJ Yes and No,AJD I'm not sure,,,Affirmations,Trained,Phrase,Abstract Sign,,,,,1,1,1,0,,5,5
-41,41,AJE,A        Talk about,AJ Yes and No,AJE Something Else,,,Affirmations,Trained,Phrase,Abstract Sign,,,,,2,1,2,0,,5,5
-42,42,B,B        Say hello to,,,,,Navigation,Trained,Phrase,Drawing,,,,,-2,1,-2,1,,12,12
-43,43,BD,B        Say hello to,BD   Grandma,,,,Family & Friends,Trained,Single Word,Photo,,,,,1,1,1,1,,11,11
-44,44,BE,B        Say hello to,BE   Cori,,,,Family & Friends,Trained,Single Word,Photo,,,,,2,1,2,1,,11,11
-45,45,BF,B        Say hello to,BF    Sierra,,,,Family & Friends,Trained,Single Word,Photo,,,,,3,1,3,1,,11,11
-46,46,BG,B        Say hello to,BG  Car ride,,,,Space-Temporal,Trained,Phrase,Drawing,,,,,-3,-1,-3,-1,,11,11
-47,47,BH,B        Say hello to,BH Bird Friends,,,,Navigation,Trained,Phrase,Photo,,,,,-3,-1,-3,-1,,,11
-48,48,BHB,B        Say hello to,BH Bird Friends,BHB Cookie,,,Family & Friends,Trained,Single Word,Photo,,,,,-2,1,-1,0,,,4
-49,49,BHC,B        Say hello to,BH Bird Friends,BHC Little Lou,,,Family & Friends,Trained,Phrase,Photo,,,,,-1,1,1,0,,,4
-50,50,BHD,B        Say hello to,BH Bird Friends,"BHD Skittles, Squee and Yaya",,,Family & Friends,Trained,Phrase,Photo,,,,,1,1,2,0,,,4
-51,51,BJ,B        Say hello to,BJ     Sisters,,,,Navigation,Trained,Single Word,Photo,,,,,1,-1,1,-1,,11,11
-52,52,C,C         Experience,,,,,Navigation,Trained,Single Word,Drawing,,,,,-1,1,-1,1,,12,12
-53,53,CD,C         Experience,CD   Touch,,,,Action,Trained,Single Word,Abstract Sign,,,,,1,1,1,1,,12,12
-54,54,CE,C         Experience,CE    See,,,,Action,Trained,Single Word,Abstract Sign,,,,,2,1,2,1,,12,12
-55,55,CF,C         Experience,CF    Hear,,,,Action,Trained,Single Word,Abstract Sign,,,,,3,1,3,1,,12,12
-56,56,CJ,C         Experience,CJ     Read,,,,Socio-Cognitive,Trained,Single Word,Abstract Sign,,,,,1,-1,1,-1,,12,12
-57,57,CK,C         Experience,CK   Taste,,,,Action,Trained,Single Word,Drawing,,,,,2,-1,2,-1,,12,12
-58,58,CL,C         Experience,CL    Smell,,,,Action,Trained,Single Word,Photo,,,,,3,-1,3,-1,,12,12
-59,59,D,D        To play,,,,,Navigation,Trained,Phrase,Drawing,,,,,1,1,1,1,,12,12
-60,60,DB,D        To play,DB   Snuggle,,,,Action,Trained,Single Word,Drawing,,,,,-2,1,-2,1,,12,12
-61,61,DC,D        To play,DC   Book,,,,Navigation,Trained,Single Word,Drawing,,,,,-1,1,-1,1,,12,12
-62,62,DCB,D        To play,DC   Book,DCB Touch and Feel,,,Socio-Cognitive,Trained,Phrase,Photo,,,,,-2,1,-2,1,prev y=0,6,7
-63,63,DCD,D        To play,DC   Book,DCD Pop Up ,,,Socio-Cognitive,Trained,Phrase,Photo,,,,,1,1,1,1,prev y=0,6,7
-64,64,DCE,D        To play,DC   Book,DCE Reading Book,,,Navigation,Trained,Phrase,Photo,,,,,2,1,2,1,prev y=0,6,7
-65,65,DCEB,D        To play,DC   Book,DCE Reading Book,DCEB One Word,,Socio-Cognitive,Trained,Phrase,Abstract Sign,DCEB One Word,,,,-2,1,0,0,,3,3
-66,66,DCEC,D        To play,DC   Book,DCE Reading Book,DCEC Sentence Book,,Socio-Cognitive,Trained,Phrase,Abstract Sign,DCEC Sentence Book,,,,-1,1,1,0,,3,3
-67,67,DE,D        To play,DE   Writing,,,,Socio-Cognitive,Trained,Single Word,Photo,,,,,2,1,2,1,,12,12
-68,68,DH,D        To play,DH  Outside Shower,,,,Space-Temporal,Trained,Phrase,Drawing,,,,,-2,-1,-2,-1,leafwrestle in video,12,12
-69,69,DJ,D        To play,DJ    Cards,,,,Socio-Cognitive,Trained,Single Word,Drawing,,,,,1,-1,1,-1,,12,12
-70,70,DK,D        To play,DK   Crafts,,,,Socio-Cognitive,Trained,Single Word,Drawing,,,,,2,-1,2,-1,,12,12
-71,71,DL,D        To play,DL   Toys,,,,Resources,Trained,Single Word,Photo,,,,,3,-1,3,-1,,12,12
-72,72,EB,E         Feeling,EB   Happy,,,,Self/State,Trained,Single Word,Drawing,,,,,-2,1,-2,1,,12,12
-73,73,EC,E         Feeling,EC    Excited,,,,Self/State,Trained,Single Word,Drawing,,,,,-1,1,-1,1,,12,12
-74,74,ED,E         Feeling,ED   Yum,,,,Self/State,Trained,Single Word,Drawing,,,,,1,1,1,1,,12,12
-75,75,EF,E         Feeling,EF    Mad,,,,Self/State,Trained,Single Word,Abstract Sign,,,,,3,1,3,1,,12,12
-76,76,EH,E         Feeling,EH   Like,,,,Self/State,Trained,Single Word,Abstract Sign,,,,,-2,-1,-2,-1,,12,12
-77,77,EI,E         Feeling,EI      No Like,,,,Self/State,Trained,Phrase,Abstract Sign,,,,,-1,-1,-1,-1,,12,12
-78,78,EJ,E         Feeling,EJ     Eww,,,,Self/State,Trained,Single Word,Drawing,,,,,1,-1,1,-1,,12,12
-79,79,EK,E         Feeling,EK    Afraid,,,,Self/State,Trained,Single Word,Drawing,,,,,2,-1,2,-1,,12,12
-80,80,EL,E         Feeling,EL    Sad,,,,Self/State,Trained,Single Word,Drawing,,,,,3,-1,3,-1,,12,12
-81,81,FB,F         Games,FB    Connect the Dots,,,,Socio-Cognitive,Trained,Phrase,Photo,,,,,-2,1,-2,1,,12,12
-82,82,FD,F         Games,FD   Balloon Pop,,,,Socio-Cognitive,Trained,Phrase,Photo,,,,,1,1,1,1,,12,12
-83,83,FF,F         Games,FF    Music,,,,Socio-Cognitive,Trained,Single Word,Photo,,,,,3,1,3,1,,12,12
-84,84,FG,F         Games,FG   Number Match,,,,Socio-Cognitive,Trained,Phrase,Photo,,,,,-3,-1,-3,-1,,12,12
-85,85,FH,F         Games,FH   Matching Game,,,,Socio-Cognitive,Trained,Phrase,Photo,,,,,-2,-1,-2,-1,,12,12
-86,86,FI,F         Games,FI      Which One?,,,,Socio-Cognitive,Trained,Phrase,Photo,,,,,-1,-1,-1,-1,,12,12
-87,87,FJ,F         Games,FJ     Puzzle,,,,Socio-Cognitive,Trained,Single Word,Photo,,,,,1,-1,1,-1,,12,12
-88,88,FK,F         Games,FK    Coloring,,,,Socio-Cognitive,Trained,Single Word,Photo,,,,,2,-1,2,-1,,12,12
-89,89,FL,F         Games,FL     Baby Unicorn,,,,Socio-Cognitive,Trained,Phrase,Photo,,,,,3,-1,3,-1,,12,12
-90,90,G,G        To eat,,,,,Navigation,Trained,Phrase,Drawing,,,,,-3,-1,-3,-1,,12,12
-91,91,GB,G        To eat,GB  A Toast,,,,Resources,Trained,Phrase,Photo,,,,,-2,1,-2,1,,12,12
-92,92,GC,G        To eat,GC  Eggs,,,,Resources,Trained,Single Word,Photo,,,,,-1,1,-1,1,,12,12
-93,93,GD,G        To eat,GD  Chop,,,,Resources,Trained,Single Word,Photo,,,,,1,1,1,1,,12,12
-94,94,GF,G        To eat,GF   An Apple,,,,Resources,Trained,Phrase,Photo,,,,,3,1,3,1,,12,12
-95,95,GI,G        To eat,GI     A pancake,,,,Resources,Trained,Phrase,Photo,,,,,-1,-1,-1,-1,,12,12
-96,96,GJ,G        To eat,GJ    Spaghetti,,,,Resources,Trained,Single Word,Photo,,,,,1,-1,1,-1,,12,12
-97,97,GK,G        To eat,GK   A banana,,,,Resources,Trained,Phrase,Photo,,,,,2,-1,2,-1,,12,12
-98,98,GL,G        To eat,GL   Tofu,,,,Resources,Trained,Single Word,Photo,,,,,3,-1,3,-1,,12,12
-99,99,H,H        To drink,,,,,Navigation,Trained,Phrase,Drawing,,,,,-2,-1,-2,-1,,12,12
-100,100,HB,H        To drink,HB  Water,,,,Resources,Trained,Single Word,Photo,,,,,-2,1,-1,0,,4,4
-101,101,HC,H        To drink,HC   Tea,,,,Resources,Trained,Single Word,Photo,,,,,-1,1,1,0,,4,4
-102,102,HD,H        To drink,HD  Juice,,,,Resources,Trained,Single Word,Photo,,,,,1,1,2,0,,4,4
-103,103,I,I           Places,,,,,Navigation,Trained,Single Word,Photo,,,,,-1,2,-1,2,,12,12
-104,104,IB,I           Places,IB     Isabelle’s House,,,,Space-Temporal,Trained,Phrase,Photo,,,,,-2,1,-2,0,,6,6
-105,105,IC,I           Places,IC     Sofa Basket,,,,Space-Temporal,Trained,Phrase,Photo,,,,,-1,1,-1,0,,6,6
-106,106,ID,I           Places,ID     Cage Tablet,,,,Space-Temporal,Trained,Phrase,Photo,,,,,1,1,1,0,,6,6
-107,107,IF,I           Places,IF      Play Stand,,,,Space-Temporal,Trained,Phrase,Photo,,,,,3,1,3,0,,6,6
-108,108,J,J          Music,,,,,Navigation,Trained,Single Word,Drawing,,,,,1,2,1,2,,12,12
-109,109,JB,J          Music,JB     Bach & Vivaldi,,,,Resources,Trained,Phrase,Drawing,,,,,-2,1,-2,1,,7,7
-110,110,JC,J          Music,JC     Piano,,,,Resources,Trained,Single Word,Drawing,,,,,-1,1,-1,1,,7,7
-111,111,JD,J          Music,JD    Violin,,,,Resources,Trained,Single Word,Drawing,,,,,1,1,1,1,,7,7
-112,112,JE,J          Music,JE     Dance,,,,Resources,Trained,Single Word,Photo,,,,,2,1,2,1,,7,7
-113,113,JF,J          Music,JF     Oldies,,,,Resources,Trained,Single Word,Photo,,,,,3,1,3,1,,7,7
-114,114,JG,J          Music,JG    Beethoven & Dvorak,,,,Resources,Trained,Phrase,Drawing,,,,,-3,-1,-3,-1,,7,7
-115,115,K,K         Cartoons,,,,,Navigation,Trained,Single Word,Photo,,,,,2,-1,2,-1,,12,12
-116,116,KB,K         Cartoons,KB   Peppa Pig,,,,Resources,Trained,Phrase,Photo,,,,,-2,1,-1,0,,9,9
-117,117,KC,K         Cartoons,KC   Cloudbabies,,,,Resources,Trained,Single Word,Photo,,,,,-1,1,1,0,,9,9
-118,118,KD,K         Cartoons,KD   Tom and Jerry,,,,Resources,Trained,Phrase,Photo,,,,,1,1,2,0,,9,9
-119,119,KEB,K         Cartoons,KE    Seasonal,KEB       Winter,,,Resources,Trained,Single Word,Photo,,,,,-2,1,-1,0,,5,5
-120,120,KEC,K         Cartoons,KE    Seasonal,KEC        Fall,,,Resources,Trained,Single Word,Photo,,,,,-1,1,0,0,,5,5
-121,121,KED,K         Cartoons,KE    Seasonal,KED       Spring,,,Resources,Trained,Single Word,Photo,,,,,1,1,1,0,,5,5
-122,122,KEE,K         Cartoons,KE    Seasonal,KEE Summer,,,Resources,Trained,Single Word,Photo,,,,,2,1,2,0,,5,5
-123,123,KH,K         Cartoons,KH   Katuri,,,,Resources,Trained,Single Word,Photo,,,,,-2,-1,-2,-1,,9,9
-124,124,KI,K         Cartoons,KI     Little Kingdom,,,,Resources,Trained,Phrase,Photo,,,,,-1,-1,-1,-1,,9,9
-125,125,L,L         Treats,,,,,Navigation,Trained,Single Word,Photo,,,,,3,-1,3,-1,,12,12
-126,126,LB,L         Treats,LB    Sunflower Seeds,,,,Resources,Trained,Phrase,Photo,,,,,-2,1,-2,1,,7,7
-127,127,LC,L         Treats,LC    Nuts,,,,Resources,Trained,Single Word,Photo,,,,,-1,1,-1,1,,7,7
-128,128,LD,L         Treats,LD   Seed  Ball,,,,Resources,Trained,Phrase,Photo,,,,,1,1,1,1,,7,7
-129,129,LE,L         Treats,LE    Mango,,,,Resources,Trained,Single Word,Photo,,,,,2,1,2,1,,7,7
-130,130,LF,L         Treats,LF     Medicine,,,,Resources,Trained,Single Word,Abstract Sign,,,,,3,1,3,1,,7,7
-131,131,LG,L         Treats,LG   Almond,,,,Resources,Trained,Single Word,Photo,,,,,-3,-1,-3,-1,,7,7
-132,132,A,A        Talk about,,,,,Navigation,Trained - Repeated,Phrase,Abstract Sign,,,,,-3,1,-3,1,,12,12
-133,133,AA,A        Talk about,AA   Back,,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,1,,12,10
-134,134,AB,A        Talk about,AB   Temp and Weather,,,,Navigation,Trained - Repeated,Phrase,Photo,,,,,-2,1,-2,1,prev y=0,7,10
-135,135,ABA,A        Talk about,AB   Temp and Weather,ABA      Back,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,1,prev y=0,6,12
-136,136,ABCA,A        Talk about,AB   Temp and Weather,ABC       Hot,ABCA             Back,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,1,,7,7
-137,137,ABDA,A        Talk about,AB   Temp and Weather,ABD      Warm,ABDA            Back,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,0,,6,6
-138,138,ABEA,A        Talk about,AB   Temp and Weather,ABE       Cool,ABEA             Back,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,0,,6,6
-139,139,ABFA,A        Talk about,AB   Temp and Weather,ABF       Cold,ABFA             Back,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,1,,7,7
-140,140,AC,A        Talk about,AC   Fantasy,,,,Navigation,Trained - Repeated,Single Word,Drawing,,,,,-1,1,-1,1,,9,10
-141,141,ACA,A        Talk about,AC   Fantasy,ACA      Back,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-2,1,,5,5
-142,142,ACB,A        Talk about,AC   Fantasy,ACB       Dragon,,,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,,,,,-2,1,-1,1,,5,5
-143,143,ACD,A        Talk about,AC   Fantasy,ACD      Unicorn,,,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,,,,,1,1,1,1,,5,5
-144,144,ACE,A        Talk about,AC   Fantasy,ACE       Fairy,,,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,,,,,2,1,2,1,,5,5
-145,145,AD,A        Talk about,AD  Animals,,,,Navigation,Trained - Repeated,Single Word,Drawing,,,,,1,1,1,1,,9,10
-146,146,ADA,A        Talk about,AD  Animals,ADA      Back,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-1,0,,8,2
-147,147,AJA,A        Talk about,AJ Yes and No,AJA Back,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-2,0,,5,5
-148,148,BA,B        Say hello to,BA   Back,,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,1,,11,11
-149,149,BC,B        Say hello to,BC   Mom,,,,Family & Friends,Trained - Repeated,Single Word,Photo,,,,,-1,1,-1,1,,11,11
-150,150,BHA,B        Say hello to,BH Bird Friends,BHA Back,,,Navigation,Trained - Repeated,Single Word,Photo,,,,,-3,1,-2,0,,,4
-151,151,BI,B        Say hello to,BI     Outside Walk,,,,Space-Temporal,Trained - Repeated,Phrase,Photo,,,,,-2,-1,-1,-1,,11,11
-152,152,BJA,B        Say hello to,BJ     Sisters,BJA Back,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-2,0,,4,4
-153,153,BJB,B        Say hello to,BJ     Sisters,BJB Ellie,,,Family & Friends,Trained - Repeated,Single Word,Photo,,,,,-2,1,-1,0,,4,4
-154,154,BJC,B        Say hello to,BJ     Sisters,BJC Isabelle,,,Family & Friends,Trained - Repeated,Single Word,Photo,,,,,-1,1,1,0,,4,4
-155,155,BJD,B        Say hello to,BJ     Sisters,BJD Tillie,,,Family & Friends,Trained - Repeated,Single Word,Photo,,,,,1,1,2,0,,4,4
-156,156,BK,B        Say hello to,BK   Talk About,,,,Navigation,Trained - Repeated,Phrase,Abstract Sign,,,,,2,-1,2,-1,,12,11
-157,157,BKA,B        Say hello to,BK   Talk About,BKA       Back,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-2,0,,4,4
-158,158,BKB,B        Say hello to,BK   Talk About,BKB       Feeling,,,Self/State,Trained - Repeated,Single Word,Drawing,,,,,-2,1,-1,0,,4,4
-159,159,BKC,B        Say hello to,BK   Talk About,BKC       Temp and Weather,,,Self/State,Trained - Repeated,Phrase,Photo,,,,,-1,1,1,0,,4,4
-160,160,CA,C         Experience,CA   Back,,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,1,,12,12
-161,161,CB,C         Experience,CB   Mom,,,,Family & Friends,Trained - Repeated,Single Word,Photo,,,,,-2,1,-2,1,,12,12
-162,162,CG,C         Experience,CG  Ellie,,,,Family & Friends,Trained - Repeated,Single Word,Photo,,,,,-3,-1,-3,-1,,12,12
-163,163,CH,C         Experience,CH   Tillie,,,,Family & Friends,Trained - Repeated,Single Word,Photo,,,,,-2,-1,-2,-1,,12,12
-164,164,CI,C         Experience,CI     Isabelle,,,,Family & Friends,Trained - Repeated,Single Word,Photo,,,,,-1,-1,-1,-1,,12,12
-165,165,DA,D        To play,DA  Back,,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,1,,12,12
-166,166,DCA,D        To play,DC   Book,DCA Back,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,1,prev y=0,6,7
-167,167,DCEA,D        To play,DC   Book,DCE Reading Book,DCEA Back,,Navigation,Trained - Repeated,Single Word,Abstract Sign,DCEA Back,,,,-3,1,-1,0,,3,3
-168,168,DCF,D        To play,DC   Book,DCF Seasonal,,,Navigation,Trained - Repeated,Single Word,Photo,,,,,3,1,3,1,prev y=0,6,7
-169,169,DCFA,D        To play,DC   Book,DCF Seasonal,DCFA Back,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-2,0,,4,4
-170,170,DCFB,D        To play,DC   Book,DCF Seasonal,DCFB Christmas,,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,,,,,-2,1,-1,0,,4,4
-171,171,DCFC,D        To play,DC   Book,DCF Seasonal,DCFC Halloween,,Socio-Cognitive,Trained - Repeated,Single Word,Photo,,,,,-1,1,1,0,,4,4
-172,172,DCFD,D        To play,DC   Book,DCF Seasonal,DCFD Easter,,Socio-Cognitive,Trained - Repeated,Single Word,Photo,,,,,1,1,2,0,,4,4
-173,173,DCGA,D        To play,DC   Book,DCG Theme,DCGA Back,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-1,0,,3,3
-174,174,DCGB,D        To play,DC   Book,DCG Theme,DCGB Fantasy,,Navigation,Trained - Repeated,Single Word,Drawing,,,,,-2,1,0,0,prev x=-1,3,3
-175,175,DCGBA,D        To play,DC   Book,DCG Theme,DCGB Fantasy,DCGBA Back,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,0,0,,4,4
-176,176,DCGBB,D        To play,DC   Book,DCG Theme,DCGB Fantasy,DCGBB Unicorns,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,,,,,-2,1,-2,0,,4,4
-177,177,DCGBC,D        To play,DC   Book,DCG Theme,DCGB Fantasy,DCGBC Dragons,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,,,,,-1,1,-1,0,,4,4
-178,178,DCGBD,D        To play,DC   Book,DCG Theme,DCGB Fantasy,DCGBD Fairies,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,,,,,1,1,1,0,,4,4
-179,179,DCGC,D        To play,DC   Book,DCG Theme,DCGC Animals,,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,,,,,-1,1,1,0,prev x=-1,2,3
-180,180,DF,D        To play,DF   Tracing,,,,Socio-Cognitive,Trained - Repeated,Single Word,Photo,,,,,3,1,3,1,,12,12
-181,181,DG,D        To play,DG  Play outside,,,,Space-Temporal,Trained - Repeated,Phrase,Drawing,,,,,-3,-1,-3,-1,,12,12
-182,182,DI,D        To play,DI     Games,,,,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,,,,,-1,-1,-1,-1,,12,12
-183,183,E,E         Feeling,,,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,2,1,2,1,,12,12
-184,184,EA,E         Feeling,EA   Back,,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,1,,12,12
-185,185,F,F         Games,,,,,Navigation,Trained - Repeated,Single Word,Drawing,,,,,3,1,3,1,,12,12
-186,186,FA,F         Games,FA   Back,,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,1,,12,12
-187,187,FC,F         Games,FC    Tracing,,,,Socio-Cognitive,Trained - Repeated,Single Word,Photo,,,,,-1,1,-1,1,,12,12
-188,188,GA,G        To eat,GA  Back,,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,1,,12,12
-189,189,HA,H        To drink,HA  Back,,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-2,0,,4,4
-190,190,IA,I           Places,IA     Back,,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,0,,6,6
-191,191,IE,I           Places,IE      Outside Walk,,,,Space-Temporal,Trained - Repeated,Phrase,Photo,,,,,2,1,2,0,,6,6
-192,192,JA,J          Music,JA    Back,,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,1,,7,7
-193,193,KA,K         Cartoons,KA   Back,,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-2,0,,9,9
-194,194,KE,K         Cartoons,KE    Seasonal,,,,Navigation,Trained - Repeated,Single Word,Photo,,,,,2,1,2,1,,9,9
-195,195,KEA,K         Cartoons,KE    Seasonal,KEA       Back,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-2,0,,5,5
-196,196,KFA,K         Cartoons,KF    Themes,KFA       Back,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,1,,6,6
-197,197,KFB,K         Cartoons,KF    Themes,KFB Fantasy,,,Resources,Trained - Repeated,Single Word,Drawing,,,,,-2,1,-2,1,,6,6
-198,198,KFF,K         Cartoons,KF    Themes,KFF Music,,,Resources,Trained - Repeated,Single Word,Drawing,,,,,3,1,3,1,,6,6
-199,199,LA,L         Treats,LA    Back,,,,Navigation,Trained - Repeated,Single Word,Abstract Sign,,,,,-3,1,-3,1,,7,7
-200,200,GG,G        To eat,GG  Cook Breakfast,,,,Action,Untrained - Discovered,Phrase,Abstract Sign,,,,,-3,-1,-3,-1,,12,12
-201,201,GH,G        To eat,GH  Mom Cook Dinner,,,,Action,Untrained - Discovered,Phrase,Abstract Sign,,,,,-2,-1,-2,-1,,12,12
-202,202,KFC,K         Cartoons,KF    Themes,KFC Plants and Outside,,,Resources,Untrained - Unused,Phrase,Photo,,,,,-1,1,-1,1,,6,6
-203,203,KFD,K         Cartoons,KF    Themes,KFD       Patterns,,,Resources,Untrained - Unused,Single Word,Photo,,,,,1,1,1,1,,6,6
-204,204,KEE,K         Cartoons,KF    Themes,KFE Letters and Words,,,Resources,Untrained - Unused,Phrase,Photo,,,,,2,1,2,1,,6,6
-205,205,KG,K         Cartoons,KG   Bubble Guppies,,,,Resources,Untrained - Unused,Phrase,Photo,,,,,-3,-1,-3,-1,,9,9
-206,206,ABB,A        Talk about,AB   Temp and Weather,ABB        ,,,,,,,,,,,-2,1,-2,1,prev y=0,6,12
-207,207,ABCC,A        Talk about,AB   Temp and Weather,ABC       Hot,ABCC               ,,,,,,,,,,-1,1,-1,1,,7,7
-208,208,ABDD,A        Talk about,AB   Temp and Weather,ABD      Warm,ABDD              ,,,,,,,,,,1,1,1,0,,6,6
-209,209,ABEE,A        Talk about,AB   Temp and Weather,ABE       Cool,ABEE               ,,,,,,,,,,2,1,2,0,,6,6
-210,210,ABFF,A        Talk about,AB   Temp and Weather,ABF       Cold,ABFF                ,,,,,,,,,,3,1,3,1,,7,7
-211,211,ABG,A        Talk about,AB   Temp and Weather,ABG,,,,,,,,,,,-3,-1,-3,-1,,12,12
-212,212,ACC,A        Talk about,AC   Fantasy,ACC         ,,,,,,,,,,,-1,1,0,1,,5,5
-213,213,BB,B        Say hello to,BB      ,,,,,,,,,,,,-2,1,-2,1,,11,11
-214,214,CC,C         Experience,CC     ,,,,,,,,,,,,-1,1,-1,1,,12,12
-215,215,DCC,D        To play,DC   Book,DCC   ,,,,,,,,,,,-1,1,-1,1,prev y=0,6,7
-216,216,DD,D        To play,DD      ,,,,,,,,,,,,1,1,1,1,,12,12
-217,217,EE,E         Feeling,EE        ,,,,,,,,,,,,2,1,2,1,,12,12
-218,218,EG,E         Feeling,EG      ,,,,,,,,,,,,-3,-1,-3,-1,,12,12
-219,219,FE,F         Games,FE        ,,,,,,,,,,,,2,1,2,1,,12,12
-220,220,GE,G        To eat,GE       ,,,,,,,,,,,,2,1,2,1,,12,12
+,Line Number,Location path code,L1,L2,L3,L4,L5,Category,Training/ Spontaneous,How Discovered?,Utterance: Single word or phrase,Type of Sign,Type of Sign 2,,,,,absolute X,absolute Y,relative X,relative Y,Notes,# boxes on screen,"Cori's double check - yellow are different, white are still the same"
+1,1,ABCE,A        Talk about,AB   Temp and Weather,ABC       Hot,ABCE             Hot inside,,Space-Temporal,Generalized,,Phrase,Photo,Iconic,,,,,2,1,2,1,,7,7
+2,2,ABCF,A        Talk about,AB   Temp and Weather,ABC       Hot,ABCF             Hot outside,,Space-Temporal,Generalized,,Phrase,Photo,Iconic,,,,,3,1,3,1,,7,7
+3,3,ABDE,A        Talk about,AB   Temp and Weather,ABD      Warm,ABDE             Warm inside,,Space-Temporal,Generalized,,Phrase,Photo,Iconic,,,,,2,1,2,0,,6,6
+4,4,ABDF,A        Talk about,AB   Temp and Weather,ABD      Warm,ABDF             Warm outside,,Space-Temporal,Generalized,,Phrase,Photo,Iconic,,,,,3,1,3,0,,6,6
+5,5,ABED,A        Talk about,AB   Temp and Weather,ABE       Cool,ABED             Cool inside,,Space-Temporal,Generalized,,Phrase,Photo,Iconic,,,,,1,1,1,0,,6,6
+6,6,ABEF,A        Talk about,AB   Temp and Weather,ABE       Cool,ABEF              Cool outside,,Space-Temporal,Generalized,,Phrase,Photo,Iconic,,,,,3,1,3,1,,6,6
+7,7,ABFD,A        Talk about,AB   Temp and Weather,ABF       Cold,ABFD             Cold inside,,Space-Temporal,Generalized,,Phrase,Photo,Iconic,,,,,1,1,1,1,,7,7
+8,8,ABFE,A        Talk about,AB   Temp and Weather,ABF       Cold,ABFE              Cold outside,,Space-Temporal,Generalized,,Phrase,Photo,Iconic,,,,,2,1,2,1,,7,7
+9,9,BKD,B        Say hello to,BK   Talk About,BKD       Learning,,,Socio-Cognitive,Generalized,,Single Word,Abstract Sign,Not-Iconic,,,,,1,1,2,0,,4,4
+10,10,DCG,D        To play,DC   Book,DCG Theme,,,Navigation,Generalized,,Single Word,Drawing,Not-Iconic,,,,,-3,-1,-3,-1,"prev x=-2, y=1",8,7
+11,11,KF,K         Cartoons,KF    Themes,,,,Navigation,Generalized,,Single Word,Drawing,Not-Iconic,,,,,3,1,3,1,,9,9
+12,12,ABC,A        Talk about,AB   Temp and Weather,ABC       Hot,,,Navigation,Trained,,Single Word,Abstract Sign,Not-Iconic,,,,,-1,1,-1,1,,12,12
+13,13,ABCB,A        Talk about,AB   Temp and Weather,ABC       Hot,ABCB             I feel hot,,Self/State,Trained,,Phrase,Drawing,Not-Iconic,,,,,-2,1,-2,1,,7,7
+14,14,ABCD,A        Talk about,AB   Temp and Weather,ABC       Hot,ABCD            I want to feel hot,,Self/State,Trained,,Phrase,Drawing,Not-Iconic,,,,,1,1,1,1,,7,7
+15,15,ABCG,A        Talk about,AB   Temp and Weather,ABC       Hot,ABCG            Hot wind blow dryer,,Resources,Trained,,Phrase,Photo,Iconic,,,,,-3,-1,-3,-1,,7,7
+16,16,ABD,A        Talk about,AB   Temp and Weather,ABD      Warm,,,Navigation,Trained,,Single Word,Abstract Sign,Not-Iconic,,,,,1,1,1,0,,12,12
+17,17,ABDB,A        Talk about,AB   Temp and Weather,ABD      Warm,ABDB            I feel warm,,Self/State,Trained,,Phrase,Drawing,Not-Iconic,,,,,-2,1,-2,0,,6,6
+18,18,ABDC,A        Talk about,AB   Temp and Weather,ABD      Warm,ABDC            I want to feel warm,,Self/State,Trained,,Phrase,Drawing,Not-Iconic,,,,,-1,1,-1,0,,6,6
+19,19,ABE,A        Talk about,AB   Temp and Weather,ABE       Cool,,,Navigation,Trained,,Single Word,Abstract Sign,Not-Iconic,,,,,2,1,2,0,,12,12
+20,20,ABEB,A        Talk about,AB   Temp and Weather,ABE       Cool,ABEB             I feel cool,,Self/State,Trained,,Phrase,Drawing,Not-Iconic,,,,,-2,1,-2,0,,6,6
+21,21,ABEC,A        Talk about,AB   Temp and Weather,ABE       Cool,ABEC             I want to feel cool,,Self/State,Trained,,Phrase,Drawing,Not-Iconic,,,,,-1,1,-1,0,,6,6
+22,22,ABF,A        Talk about,AB   Temp and Weather,ABF       Cold,,,Navigation,Trained,,Single Word,Abstract Sign,Not-Iconic,,,,,3,1,3,1,,12,12
+23,23,ABFB,A        Talk about,AB   Temp and Weather,ABF       Cold,ABFB             I feel cold,,Self/State,Trained,,Phrase,Drawing,Not-Iconic,,,,,-2,1,-2,1,,7,7
+24,24,ABFC,A        Talk about,AB   Temp and Weather,ABF       Cold,ABFC             I want to feel cold,,Self/State,Trained,,Phrase,Drawing,Not-Iconic,,,,,-1,1,-1,1,,7,7
+25,25,ABFG,A        Talk about,AB   Temp and Weather,ABF       Cold,ABFG             Cold wind air conditioner,,Resources,Trained,,Phrase,Photo,Iconic,,,,,-3,-1,-3,-1,,7,7
+26,26,ABH,A        Talk about,AB   Temp and Weather,ABH Cloud,,,Space-Temporal,Trained,,Single Word,Photo,Iconic,,,,,-2,-1,-2,-1,,,12
+27,27,ABI,A        Talk about,AB   Temp and Weather,ABI Rain,,,Space-Temporal,Trained,,Single Word,Photo,Iconic,,,,,-1,-1,-1,-1,,,12
+28,28,ABJ,A        Talk about,AB   Temp and Weather,ABJ Wind,,,Space-Temporal,Trained,,Single Word,Photo,Iconic,,,,,1,-1,1,-1,,,12
+29,29,ABK,A        Talk about,AB   Temp and Weather,ABK Day / Sun,,,Space-Temporal,Trained,,Phrase,Photo,Iconic,,,,,2,-1,2,-1,,,12
+30,30,ABL,A        Talk about,AB   Temp and Weather,ABL Night / Moon,,,Space-Temporal,Trained,,Phrase,Photo,Iconic,,,,,3,-1,3,-1,,,12
+31,31,ADB,A        Talk about,AD  Animals,ADB      Easter Babies,,,Socio-Cognitive,Trained,,Phrase,Photo,Iconic,,,,,-2,1,1,0,,8,2
+32,32,AE,A        Talk about,AE Holidays,,,,Socio-Cognitive,Trained,,Single Word,Photo,Iconic,,,,,2,1,2,1,,,10
+33,33,AF,A        Talk about,AF   Learn something new,,,,Socio-Cognitive,Trained,,Phrase,Abstract Sign,Not-Iconic,,,,,3,1,3,1,,11,10
+34,34,AG,A        Talk about,AG  Math,,,,Socio-Cognitive,Trained,,Single Word,Photo,Iconic,,,,,-3,-1,-3,-1,,9,10
+35,35,AH,A        Talk about,AH  Letters and phonics,,,,Socio-Cognitive,Trained,,Phrase,Photo,Iconic,,,,,-3,-1,-3,-1,prev x=-2,9,10
+36,36,AI,A        Talk about,AI     Typing,,,,Socio-Cognitive,Trained,,Single Word,Photo,Iconic,,,,,-1,-1,-1,-1,,9,10
+37,37,AJ,A        Talk about,AJ Yes and No,,,,Navigation,Trained,,Phrase,Drawing,Not-Iconic,,,,,1,-1,1,-1,prev y=0,5,10
+38,38,AJB,A        Talk about,AJ Yes and No,AJB Yes,,,Affirmations,Trained,,Single Word,Abstract Sign,Not-Iconic,,,,,-2,1,-1,0,,5,5
+39,39,AJC,A        Talk about,AJ Yes and No,AJC No,,,Affirmations,Trained,,Single Word,Abstract Sign,Not-Iconic,,,,,-1,1,0,0,,5,5
+40,40,AJD,A        Talk about,AJ Yes and No,AJD I'm not sure,,,Affirmations,Trained,,Phrase,Abstract Sign,Not-Iconic,,,,,1,1,1,0,,5,5
+41,41,AJE,A        Talk about,AJ Yes and No,AJE Something Else,,,Affirmations,Trained,,Phrase,Abstract Sign,Not-Iconic,,,,,2,1,2,0,,5,5
+42,42,B,B        Say hello to,,,,,Navigation,Trained,,Phrase,Drawing,Iconic,,,,,-2,1,-2,1,,12,12
+43,43,BD,B        Say hello to,BD   Grandma,,,,Family & Friends,Trained,,Single Word,Photo,Iconic,,,,,1,1,1,1,,11,11
+44,44,BE,B        Say hello to,BE   Cori,,,,Family & Friends,Trained,,Single Word,Photo,Iconic,,,,,2,1,2,1,,11,11
+45,45,BF,B        Say hello to,BF    Sierra,,,,Family & Friends,Trained,,Single Word,Photo,Iconic,,,,,3,1,3,1,,11,11
+46,46,BG,B        Say hello to,BG  Car ride,,,,Space-Temporal,Trained,,Phrase,Drawing,Not-Iconic,,,,,-3,-1,-3,-1,,11,11
+47,47,BH,B        Say hello to,BH Bird Friends,,,,Navigation,Trained,,Phrase,Photo,Iconic,,,,,-3,-1,-3,-1,,,11
+48,48,BHB,B        Say hello to,BH Bird Friends,BHB Cookie,,,Family & Friends,Trained,,Single Word,Photo,Iconic,,,,,-2,1,-1,0,,,4
+49,49,BHC,B        Say hello to,BH Bird Friends,BHC Little Lou,,,Family & Friends,Trained,,Phrase,Photo,Iconic,,,,,-1,1,1,0,,,4
+50,50,BHD,B        Say hello to,BH Bird Friends,"BHD Skittles, Squee and Yaya",,,Family & Friends,Trained,,Phrase,Photo,Iconic,,,,,1,1,2,0,,,4
+51,51,BJ,B        Say hello to,BJ     Sisters,,,,Navigation,Trained,,Single Word,Photo,Iconic,,,,,1,-1,1,-1,,11,11
+52,52,C,C         Experience,,,,,Navigation,Trained,,Single Word,Drawing,Not-Iconic,,,,,-1,1,-1,1,,12,12
+53,53,CD,C         Experience,CD   Touch,,,,Action,Trained,,Single Word,Abstract Sign,Not-Iconic,,,,,1,1,1,1,,12,12
+54,54,CE,C         Experience,CE    See,,,,Action,Trained,,Single Word,Abstract Sign,Not-Iconic,,,,,2,1,2,1,,12,12
+55,55,CF,C         Experience,CF    Hear,,,,Action,Trained,,Single Word,Abstract Sign,Not-Iconic,,,,,3,1,3,1,,12,12
+56,56,CJ,C         Experience,CJ     Read,,,,Socio-Cognitive,Trained,,Single Word,Abstract Sign,Not-Iconic,,,,,1,-1,1,-1,,12,12
+57,57,CK,C         Experience,CK   Taste,,,,Action,Trained,,Single Word,Drawing,Not-Iconic,,,,,2,-1,2,-1,,12,12
+58,58,CL,C         Experience,CL    Smell,,,,Action,Trained,,Single Word,Photo,Not-Iconic,,,,,3,-1,3,-1,,12,12
+59,59,D,D        To play,,,,,Navigation,Trained,,Phrase,Drawing,Not-Iconic,,,,,1,1,1,1,,12,12
+60,60,DB,D        To play,DB   Snuggle,,,,Action,Trained,,Single Word,Drawing,Not-Iconic,,,,,-2,1,-2,1,,12,12
+61,61,DC,D        To play,DC   Book,,,,Navigation,Trained,,Single Word,Drawing,Iconic,,,,,-1,1,-1,1,,12,12
+62,62,DCB,D        To play,DC   Book,DCB Touch and Feel,,,Socio-Cognitive,Trained,,Phrase,Photo,Not-Iconic,,,,,-2,1,-2,1,prev y=0,6,7
+63,63,DCD,D        To play,DC   Book,DCD Pop Up ,,,Socio-Cognitive,Trained,,Phrase,Photo,Not-Iconic,,,,,1,1,1,1,prev y=0,6,7
+64,64,DCE,D        To play,DC   Book,DCE Reading Book,,,Navigation,Trained,,Phrase,Photo,Not-Iconic,,,,,2,1,2,1,prev y=0,6,7
+65,65,DCEB,D        To play,DC   Book,DCE Reading Book,DCEB One Word,,Socio-Cognitive,Trained,,Phrase,Abstract Sign,Not-Iconic,DCEB One Word,,,,-2,1,0,0,,3,3
+66,66,DCEC,D        To play,DC   Book,DCE Reading Book,DCEC Sentence Book,,Socio-Cognitive,Trained,,Phrase,Abstract Sign,Not-Iconic,DCEC Sentence Book,,,,-1,1,1,0,,3,3
+67,67,DE,D        To play,DE   Writing,,,,Socio-Cognitive,Trained,,Single Word,Photo,Iconic,,,,,2,1,2,1,,12,12
+68,68,DH,D        To play,DH  Outside Shower,,,,Space-Temporal,Trained,,Phrase,Drawing,Not-Iconic,,,,,-2,-1,-2,-1,leafwrestle in video,12,12
+69,69,DJ,D        To play,DJ    Cards,,,,Socio-Cognitive,Trained,,Single Word,Drawing,Iconic,,,,,1,-1,1,-1,,12,12
+70,70,DK,D        To play,DK   Crafts,,,,Socio-Cognitive,Trained,,Single Word,Drawing,Not-Iconic,,,,,2,-1,2,-1,,12,12
+71,71,DL,D        To play,DL   Toys,,,,Resources,Trained,,Single Word,Photo,Iconic,,,,,3,-1,3,-1,,12,12
+72,72,EB,E         Feeling,EB   Happy,,,,Self/State,Trained,,Single Word,Drawing,Not-Iconic,,,,,-2,1,-2,1,,12,12
+73,73,EC,E         Feeling,EC    Excited,,,,Self/State,Trained,,Single Word,Drawing,Not-Iconic,,,,,-1,1,-1,1,,12,12
+74,74,ED,E         Feeling,ED   Yum,,,,Self/State,Trained,,Single Word,Drawing,Not-Iconic,,,,,1,1,1,1,,12,12
+75,75,EF,E         Feeling,EF    Mad,,,,Self/State,Trained,,Single Word,Abstract Sign,Not-Iconic,,,,,3,1,3,1,,12,12
+76,76,EH,E         Feeling,EH   Like,,,,Self/State,Trained,,Single Word,Abstract Sign,Not-Iconic,,,,,-2,-1,-2,-1,,12,12
+77,77,EI,E         Feeling,EI      No Like,,,,Self/State,Trained,,Phrase,Abstract Sign,Not-Iconic,,,,,-1,-1,-1,-1,,12,12
+78,78,EJ,E         Feeling,EJ     Eww,,,,Self/State,Trained,,Single Word,Drawing,Not-Iconic,,,,,1,-1,1,-1,,12,12
+79,79,EK,E         Feeling,EK    Afraid,,,,Self/State,Trained,,Single Word,Drawing,Not-Iconic,,,,,2,-1,2,-1,,12,12
+80,80,EL,E         Feeling,EL    Sad,,,,Self/State,Trained,,Single Word,Drawing,Not-Iconic,,,,,3,-1,3,-1,,12,12
+81,81,FB,F         Games,FB    Connect the Dots,,,,Socio-Cognitive,Trained,,Phrase,Photo,Iconic,,,,,-2,1,-2,1,,12,12
+82,82,FD,F         Games,FD   Balloon Pop,,,,Socio-Cognitive,Trained,,Phrase,Photo,Iconic,,,,,1,1,1,1,,12,12
+83,83,FF,F         Games,FF    Music,,,,Socio-Cognitive,Trained,,Single Word,Photo,Iconic,,,,,3,1,3,1,,12,12
+84,84,FG,F         Games,FG   Number Match,,,,Socio-Cognitive,Trained,,Phrase,Photo,Iconic,,,,,-3,-1,-3,-1,,12,12
+85,85,FH,F         Games,FH   Matching Game,,,,Socio-Cognitive,Trained,,Phrase,Photo,Iconic,,,,,-2,-1,-2,-1,,12,12
+86,86,FI,F         Games,FI      Which One?,,,,Socio-Cognitive,Trained,,Phrase,Photo,Iconic,,,,,-1,-1,-1,-1,,12,12
+87,87,FJ,F         Games,FJ     Puzzle,,,,Socio-Cognitive,Trained,,Single Word,Photo,Iconic,,,,,1,-1,1,-1,,12,12
+88,88,FK,F         Games,FK    Coloring,,,,Socio-Cognitive,Trained,,Single Word,Photo,Iconic,,,,,2,-1,2,-1,,12,12
+89,89,FL,F         Games,FL     Baby Unicorn,,,,Socio-Cognitive,Trained,,Phrase,Photo,Iconic,,,,,3,-1,3,-1,,12,12
+90,90,G,G        To eat,,,,,Navigation,Trained,,Phrase,Drawing,Iconic,,,,,-3,-1,-3,-1,,12,12
+91,91,GB,G        To eat,GB  A Toast,,,,Resources,Trained,,Phrase,Photo,Iconic,,,,,-2,1,-2,1,,12,12
+92,92,GC,G        To eat,GC  Eggs,,,,Resources,Trained,,Single Word,Photo,Iconic,,,,,-1,1,-1,1,,12,12
+93,93,GD,G        To eat,GD  Chop,,,,Resources,Trained,,Single Word,Photo,Not-Iconic,,,,,1,1,1,1,,12,12
+94,94,GF,G        To eat,GF   An Apple,,,,Resources,Trained,,Phrase,Photo,Iconic,,,,,3,1,3,1,,12,12
+95,95,GI,G        To eat,GI     A pancake,,,,Resources,Trained,,Phrase,Photo,Iconic,,,,,-1,-1,-1,-1,,12,12
+96,96,GJ,G        To eat,GJ    Spaghetti,,,,Resources,Trained,,Single Word,Photo,Iconic,,,,,1,-1,1,-1,,12,12
+97,97,GK,G        To eat,GK   A banana,,,,Resources,Trained,,Phrase,Photo,Iconic,,,,,2,-1,2,-1,,12,12
+98,98,GL,G        To eat,GL   Tofu,,,,Resources,Trained,,Single Word,Photo,Iconic,,,,,3,-1,3,-1,,12,12
+99,99,H,H        To drink,,,,,Navigation,Trained,,Phrase,Drawing,Iconic,,,,,-2,-1,-2,-1,,12,12
+100,100,HB,H        To drink,HB  Water,,,,Resources,Trained,,Single Word,Photo,Iconic,,,,,-2,1,-1,0,,4,4
+101,101,HC,H        To drink,HC   Tea,,,,Resources,Trained,,Single Word,Photo,Iconic,,,,,-1,1,1,0,,4,4
+102,102,HD,H        To drink,HD  Juice,,,,Resources,Trained,,Single Word,Photo,Iconic,,,,,1,1,2,0,,4,4
+103,103,I,I           Places,,,,,Navigation,Trained,,Single Word,Photo,Iconic,,,,,-1,2,-1,2,,12,12
+104,104,IB,I           Places,IB     Isabelle’s House,,,,Space-Temporal,Trained,,Phrase,Photo,Iconic,,,,,-2,1,-2,0,,6,6
+105,105,IC,I           Places,IC     Sofa Basket,,,,Space-Temporal,Trained,,Phrase,Photo,Iconic,,,,,-1,1,-1,0,,6,6
+106,106,ID,I           Places,ID     Cage Tablet,,,,Space-Temporal,Trained,,Phrase,Photo,Iconic,,,,,1,1,1,0,,6,6
+107,107,IF,I           Places,IF      Play Stand,,,,Space-Temporal,Trained,,Phrase,Photo,Iconic,,,,,3,1,3,0,,6,6
+108,108,J,J          Music,,,,,Navigation,Trained,,Single Word,Drawing,Not-Iconic,,,,,1,2,1,2,,12,12
+109,109,JB,J          Music,JB     Bach & Vivaldi,,,,Resources,Trained,,Phrase,Drawing,Not-Iconic,,,,,-2,1,-2,1,,7,7
+110,110,JC,J          Music,JC     Piano,,,,Resources,Trained,,Single Word,Drawing,Iconic,,,,,-1,1,-1,1,,7,7
+111,111,JD,J          Music,JD    Violin,,,,Resources,Trained,,Single Word,Drawing,Iconic,,,,,1,1,1,1,,7,7
+112,112,JE,J          Music,JE     Dance,,,,Resources,Trained,,Single Word,Photo,Not-Iconic,,,,,2,1,2,1,,7,7
+113,113,JF,J          Music,JF     Oldies,,,,Resources,Trained,,Single Word,Photo,Not-Iconic,,,,,3,1,3,1,,7,7
+114,114,JG,J          Music,JG    Beethoven & Dvorak,,,,Resources,Trained,,Phrase,Drawing,Not-Iconic,,,,,-3,-1,-3,-1,,7,7
+115,115,K,K         Cartoons,,,,,Navigation,Trained,,Single Word,Photo,Iconic,,,,,2,-1,2,-1,,12,12
+116,116,KB,K         Cartoons,KB   Peppa Pig,,,,Resources,Trained,,Phrase,Photo,Iconic,,,,,-2,1,-1,0,,9,9
+117,117,KC,K         Cartoons,KC   Cloudbabies,,,,Resources,Trained,,Single Word,Photo,Iconic,,,,,-1,1,1,0,,9,9
+118,118,KD,K         Cartoons,KD   Tom and Jerry,,,,Resources,Trained,,Phrase,Photo,Iconic,,,,,1,1,2,0,,9,9
+119,119,KEB,K         Cartoons,KE    Seasonal,KEB       Winter,,,Resources,Trained,,Single Word,Photo,Not-Iconic,,,,,-2,1,-1,0,,5,5
+120,120,KEC,K         Cartoons,KE    Seasonal,KEC        Fall,,,Resources,Trained,,Single Word,Photo,Not-Iconic,,,,,-1,1,0,0,,5,5
+121,121,KED,K         Cartoons,KE    Seasonal,KED       Spring,,,Resources,Trained,,Single Word,Photo,Not-Iconic,,,,,1,1,1,0,,5,5
+122,122,KEE,K         Cartoons,KE    Seasonal,KEE Summer,,,Resources,Trained,,Single Word,Photo,Not-Iconic,,,,,2,1,2,0,,5,5
+123,123,KH,K         Cartoons,KH   Katuri,,,,Resources,Trained,,Single Word,Photo,Iconic,,,,,-2,-1,-2,-1,,9,9
+124,124,KI,K         Cartoons,KI     Little Kingdom,,,,Resources,Trained,,Phrase,Photo,Iconic,,,,,-1,-1,-1,-1,,9,9
+125,125,L,L         Treats,,,,,Navigation,Trained,,Single Word,Photo,Iconic,,,,,3,-1,3,-1,,12,12
+126,126,LB,L         Treats,LB    Sunflower Seeds,,,,Resources,Trained,,Phrase,Photo,Iconic,,,,,-2,1,-2,1,,7,7
+127,127,LC,L         Treats,LC    Nuts,,,,Resources,Trained,,Single Word,Photo,Iconic,,,,,-1,1,-1,1,,7,7
+128,128,LD,L         Treats,LD   Seed  Ball,,,,Resources,Trained,,Phrase,Photo,Iconic,,,,,1,1,1,1,,7,7
+129,129,LE,L         Treats,LE    Mango,,,,Resources,Trained,,Single Word,Photo,Iconic,,,,,2,1,2,1,,7,7
+130,130,LF,L         Treats,LF     Medicine,,,,Resources,Trained,,Single Word,Abstract Sign,Not-Iconic,,,,,3,1,3,1,,7,7
+131,131,LG,L         Treats,LG   Almond,,,,Resources,Trained,,Single Word,Photo,Iconic,,,,,-3,-1,-3,-1,,7,7
+132,132,A,A        Talk about,,,,,Navigation,Trained - Repeated,,Phrase,Abstract Sign,Not-Iconic,,,,,-3,1,-3,1,,12,12
+133,133,AA,A        Talk about,AA   Back,,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,1,,12,10
+134,134,AB,A        Talk about,AB   Temp and Weather,,,,Navigation,Trained - Repeated,,Phrase,Photo,Not-Iconic,,,,,-2,1,-2,1,prev y=0,7,10
+135,135,ABA,A        Talk about,AB   Temp and Weather,ABA      Back,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,1,prev y=0,6,12
+136,136,ABCA,A        Talk about,AB   Temp and Weather,ABC       Hot,ABCA             Back,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,1,,7,7
+137,137,ABDA,A        Talk about,AB   Temp and Weather,ABD      Warm,ABDA            Back,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,0,,6,6
+138,138,ABEA,A        Talk about,AB   Temp and Weather,ABE       Cool,ABEA             Back,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,0,,6,6
+139,139,ABFA,A        Talk about,AB   Temp and Weather,ABF       Cold,ABFA             Back,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,1,,7,7
+140,140,AC,A        Talk about,AC   Fantasy,,,,Navigation,Trained - Repeated,,Single Word,Drawing,Not-Iconic,,,,,-1,1,-1,1,,9,10
+141,141,ACA,A        Talk about,AC   Fantasy,ACA      Back,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-2,1,,5,5
+142,142,ACB,A        Talk about,AC   Fantasy,ACB       Dragon,,,Socio-Cognitive,Trained - Repeated,,Single Word,Drawing,Not-Iconic,,,,,-2,1,-1,1,,5,5
+143,143,ACD,A        Talk about,AC   Fantasy,ACD      Unicorn,,,Socio-Cognitive,Trained - Repeated,,Single Word,Drawing,Not-Iconic,,,,,1,1,1,1,,5,5
+144,144,ACE,A        Talk about,AC   Fantasy,ACE       Fairy,,,Socio-Cognitive,Trained - Repeated,,Single Word,Drawing,Not-Iconic,,,,,2,1,2,1,,5,5
+145,145,AD,A        Talk about,AD  Animals,,,,Navigation,Trained - Repeated,,Single Word,Drawing,Not-Iconic,,,,,1,1,1,1,,9,10
+146,146,ADA,A        Talk about,AD  Animals,ADA      Back,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-1,0,,8,2
+147,147,AJA,A        Talk about,AJ Yes and No,AJA Back,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-2,0,,5,5
+148,148,BA,B        Say hello to,BA   Back,,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,1,,11,11
+149,149,BC,B        Say hello to,BC   Mom,,,,Family & Friends,Untrained - Discovered,,Single Word,Photo,Iconic,,,,,-1,1,-1,1,,11,11
+150,150,BHA,B        Say hello to,BH Bird Friends,BHA Back,,,Navigation,Trained - Repeated,,Single Word,Photo,Not-Iconic,,,,,-3,1,-2,0,,,4
+151,151,BI,B        Say hello to,BI     Outside Walk,,,,Space-Temporal,Trained - Repeated,,Phrase,Photo,Iconic,,,,,-2,-1,-1,-1,,11,11
+152,152,BJA,B        Say hello to,BJ     Sisters,BJA Back,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-2,0,,4,4
+153,153,BJB,B        Say hello to,BJ     Sisters,BJB Ellie,,,Family & Friends,Trained - Repeated,,Single Word,Photo,Iconic,,,,,-2,1,-1,0,,4,4
+154,154,BJC,B        Say hello to,BJ     Sisters,BJC Isabelle,,,Family & Friends,Trained - Repeated,,Single Word,Photo,Iconic,,,,,-1,1,1,0,,4,4
+155,155,BJD,B        Say hello to,BJ     Sisters,BJD Tillie,,,Family & Friends,Trained - Repeated,,Single Word,Photo,Iconic,,,,,1,1,2,0,,4,4
+156,156,BK,B        Say hello to,BK   Talk About,,,,Navigation,Trained - Repeated,,Phrase,Abstract Sign,Not-Iconic,,,,,2,-1,2,-1,,12,11
+157,157,BKA,B        Say hello to,BK   Talk About,BKA       Back,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-2,0,,4,4
+158,158,BKB,B        Say hello to,BK   Talk About,BKB       Feeling,,,Self/State,Trained - Repeated,,Single Word,Drawing,Not-Iconic,,,,,-2,1,-1,0,,4,4
+159,159,BKC,B        Say hello to,BK   Talk About,BKC       Temp and Weather,,,Self/State,Trained - Repeated,,Phrase,Photo,Not-Iconic,,,,,-1,1,1,0,,4,4
+160,160,CA,C         Experience,CA   Back,,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,1,,12,12
+161,161,CB,C         Experience,CB   Mom,,,,Family & Friends,Untrained - Discovered,,Single Word,Photo,Iconic,,,,,-2,1,-2,1,,12,12
+162,162,CG,C         Experience,CG  Ellie,,,,Family & Friends,Trained - Repeated,,Single Word,Photo,Iconic,,,,,-3,-1,-3,-1,,12,12
+163,163,CH,C         Experience,CH   Tillie,,,,Family & Friends,Trained - Repeated,,Single Word,Photo,Iconic,,,,,-2,-1,-2,-1,,12,12
+164,164,CI,C         Experience,CI     Isabelle,,,,Family & Friends,Trained - Repeated,,Single Word,Photo,Iconic,,,,,-1,-1,-1,-1,,12,12
+165,165,DA,D        To play,DA  Back,,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,1,,12,12
+166,166,DCA,D        To play,DC   Book,DCA Back,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,1,prev y=0,6,7
+167,167,DCEA,D        To play,DC   Book,DCE Reading Book,DCEA Back,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,DCEA Back,,,,-3,1,-1,0,,3,3
+168,168,DCF,D        To play,DC   Book,DCF Seasonal,,,Navigation,Trained - Repeated,,Single Word,Photo,,,,,,3,1,3,1,prev y=0,6,7
+169,169,DCFA,D        To play,DC   Book,DCF Seasonal,DCFA Back,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,,,,,,-3,1,-2,0,,4,4
+170,170,DCFB,D        To play,DC   Book,DCF Seasonal,DCFB Christmas,,Socio-Cognitive,Trained - Repeated,,Single Word,Drawing,,,,,,-2,1,-1,0,,4,4
+171,171,DCFC,D        To play,DC   Book,DCF Seasonal,DCFC Halloween,,Socio-Cognitive,Trained - Repeated,,Single Word,Photo,,,,,,-1,1,1,0,,4,4
+172,172,DCFD,D        To play,DC   Book,DCF Seasonal,DCFD Easter,,Socio-Cognitive,Trained - Repeated,,Single Word,Photo,,,,,,1,1,2,0,,4,4
+173,173,DCGA,D        To play,DC   Book,DCG Theme,DCGA Back,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,,,,,,-3,1,-1,0,,3,3
+174,174,DCGB,D        To play,DC   Book,DCG Theme,DCGB Fantasy,,Navigation,Trained - Repeated,,Single Word,Drawing,,,,,,-2,1,0,0,prev x=-1,3,3
+175,175,DCGBA,D        To play,DC   Book,DCG Theme,DCGB Fantasy,DCGBA Back,Navigation,Trained - Repeated,,Single Word,Abstract Sign,,,,,,-3,1,0,0,,4,4
+176,176,DCGBB,D        To play,DC   Book,DCG Theme,DCGB Fantasy,DCGBB Unicorns,Socio-Cognitive,Trained - Repeated,,Single Word,Drawing,,,,,,-2,1,-2,0,,4,4
+177,177,DCGBC,D        To play,DC   Book,DCG Theme,DCGB Fantasy,DCGBC Dragons,Socio-Cognitive,Trained - Repeated,,Single Word,Drawing,,,,,,-1,1,-1,0,,4,4
+178,178,DCGBD,D        To play,DC   Book,DCG Theme,DCGB Fantasy,DCGBD Fairies,Socio-Cognitive,Trained - Repeated,,Single Word,Drawing,,,,,,1,1,1,0,,4,4
+179,179,DCGC,D        To play,DC   Book,DCG Theme,DCGC Animals,,Socio-Cognitive,Trained - Repeated,,Single Word,Drawing,,,,,,-1,1,1,0,prev x=-1,2,3
+180,180,DF,D        To play,DF   Tracing,,,,Socio-Cognitive,Trained - Repeated,,Single Word,Photo,Iconic,,,,,3,1,3,1,,12,12
+181,181,DG,D        To play,DG  Play outside,,,,Space-Temporal,Trained - Repeated,,Phrase,Drawing,Not-Iconic,,,,,-3,-1,-3,-1,,12,12
+182,182,DI,D        To play,DI     Games,,,,Socio-Cognitive,Trained - Repeated,,Single Word,Drawing,Not-Iconic,,,,,-1,-1,-1,-1,,12,12
+183,183,E,E         Feeling,,,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,2,1,2,1,,12,12
+184,184,EA,E         Feeling,EA   Back,,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,1,,12,12
+185,185,F,F         Games,,,,,Navigation,Trained - Repeated,,Single Word,Drawing,Not-Iconic,,,,,3,1,3,1,,12,12
+186,186,FA,F         Games,FA   Back,,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,1,,12,12
+187,187,FC,F         Games,FC    Tracing,,,,Socio-Cognitive,Trained - Repeated,,Single Word,Photo,Iconic,,,,,-1,1,-1,1,,12,12
+188,188,GA,G        To eat,GA  Back,,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,1,,12,12
+189,189,HA,H        To drink,HA  Back,,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-2,0,,4,4
+190,190,IA,I           Places,IA     Back,,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,0,,6,6
+191,191,IE,I           Places,IE      Outside Walk,,,,Space-Temporal,Trained - Repeated,,Phrase,Photo,Iconic,,,,,2,1,2,0,,6,6
+192,192,JA,J          Music,JA    Back,,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,1,,7,7
+193,193,KA,K         Cartoons,KA   Back,,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-2,0,,9,9
+194,194,KE,K         Cartoons,KE    Seasonal,,,,Navigation,Trained - Repeated,,Single Word,Photo,Not-Iconic,,,,,2,1,2,1,,9,9
+195,195,KEA,K         Cartoons,KE    Seasonal,KEA       Back,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-2,0,,5,5
+196,196,KFA,K         Cartoons,KF    Themes,KFA       Back,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,1,,6,6
+197,197,KFB,K         Cartoons,KF    Themes,KFB Fantasy,,,Resources,Trained - Repeated,,Single Word,Drawing,Not-Iconic,,,,,-2,1,-2,1,,6,6
+198,198,KFF,K         Cartoons,KF    Themes,KFF Music,,,Resources,Trained - Repeated,,Single Word,Drawing,Not-Iconic,,,,,3,1,3,1,,6,6
+199,199,LA,L         Treats,LA    Back,,,,Navigation,Trained - Repeated,,Single Word,Abstract Sign,Not-Iconic,,,,,-3,1,-3,1,,7,7
+200,200,GG,G        To eat,GG  Cook Breakfast,,,,Action,Untrained - Discovered,"Used in context, had words",Phrase,Abstract Sign,Not-Iconic,,,,,-3,-1,-3,-1,,12,12
+201,201,GH,G        To eat,GH  Mom Cook Dinner,,,,Action,Untrained - Discovered,"Used in context, had words",Phrase,Abstract Sign,Not-Iconic,,,,,-2,-1,-2,-1,,12,12
+202,202,KFC,K         Cartoons,KF    Themes,KFC Plants and Outside,,,Resources,Untrained - Unused,,Phrase,Photo,Iconic,,,,,-1,1,-1,1,,6,6
+203,203,KFD,K         Cartoons,KF    Themes,KFD       Patterns,,,Resources,Untrained - Unused,,Single Word,Photo,Iconic,,,,,1,1,1,1,,6,6
+204,204,KEE,K         Cartoons,KF    Themes,KFE Letters and Words,,,Resources,Untrained - Unused,,Phrase,Photo,Iconic,,,,,2,1,2,1,,6,6
+205,205,KG,K         Cartoons,KG   Bubble Guppies,,,,Resources,Untrained - Unused,,Phrase,Photo,Iconic,,,,,-3,-1,-3,-1,,9,9
+206,206,ABB,A        Talk about,AB   Temp and Weather,ABB        ,,,,,,,,,,,,,-2,1,-2,1,prev y=0,6,12
+207,207,ABCC,A        Talk about,AB   Temp and Weather,ABC       Hot,ABCC               ,,,,,,,,,,,,-1,1,-1,1,,7,7
+208,208,ABDD,A        Talk about,AB   Temp and Weather,ABD      Warm,ABDD              ,,,,,,,,,,,,1,1,1,0,,6,6
+209,209,ABEE,A        Talk about,AB   Temp and Weather,ABE       Cool,ABEE               ,,,,,,,,,,,,2,1,2,0,,6,6
+210,210,ABFF,A        Talk about,AB   Temp and Weather,ABF       Cold,ABFF                ,,,,,,,,,,,,3,1,3,1,,7,7
+211,211,ABG,A        Talk about,AB   Temp and Weather,ABG,,,,,,,,,,,,,-3,-1,-3,-1,,12,12
+212,212,ACC,A        Talk about,AC   Fantasy,ACC         ,,,,,,,,,,,,,-1,1,0,1,,5,5
+213,213,BB,B        Say hello to,BB      ,,,,,,,,,,,,,,-2,1,-2,1,,11,11
+214,214,CC,C         Experience,CC     ,,,,,,,,,,,,,,-1,1,-1,1,,12,12
+215,215,DCC,D        To play,DC   Book,DCC   ,,,,,,,,,,,,,-1,1,-1,1,prev y=0,6,7
+216,216,DD,D        To play,DD      ,,,,,,,,,,,,,,1,1,1,1,,12,12
+217,217,EE,E         Feeling,EE        ,,,,,,,,,,,,,,2,1,2,1,,12,12
+218,218,EG,E         Feeling,EG      ,,,,,,,,,,,,,,-3,-1,-3,-1,,12,12
+219,219,FE,F         Games,FE        ,,,,,,,,,,,,,,2,1,2,1,,12,12
+220,220,GE,G        To eat,GE       ,,,,,,,,,,,,,,2,1,2,1,,12,12

@@ -9,7 +9,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 12,EB,HAPPY,FINAL,Happy,,TO PLAY,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 13,EB,HAPPY,FINAL,Happy,,TO PLAY,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 15,B,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,B,"",B,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
-16,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+16,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 17,BD,GRANDMA,FINAL,Grandma,,SAY HELLO TO,BD,B,D,SAY HELLO TO,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
 18,BG,CAR RIDE,FINAL,Car Ride,,SAY HELLO TO,BG,B,G,SAY HELLO TO,false,,1,Space-Temporal,Trained,Phrase,Drawing,true,CODE_MATCH
 19,BG,CAR RIDE,FINAL,Car Ride,,SAY HELLO TO,BG,B,G,SAY HELLO TO,false,,1,Space-Temporal,Trained,Phrase,Drawing,true,CODE_MATCH
@@ -50,13 +50,13 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 60,ABC,HOT,MENU,,HOT,HOT,ABC,AB,C,TEMP AND WEATHER,true,1,1,Navigation,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 61,A,TALK ABOUT,MENU,,TALK ABOUT ,TALK ABOUT ,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 62,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-63,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+63,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 64,A,TALK ABOUT,MENU,,TALK ABOUT ,TALK ABOUT ,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 65,A,TALK ABOUT,MENU,,TALK ABOUT ,TALK ABOUT ,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 66,A,TALK ABOUT,MENU,,TALK ABOUT ,TALK ABOUT ,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 68,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 69,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-70,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+70,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 71,A,TALK ABOUT,MENU,,TALK ABOUT ,TALK ABOUT ,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 74,ABF,COLD,MENU,,COLD,COLD,ABF,AB,F,TEMP AND WEATHER,true,1,1,Navigation,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 75,ABC,HOT,MENU,,HOT,HOT,ABC,AB,C,TEMP AND WEATHER,true,1,1,Navigation,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -81,8 +81,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 115,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 116,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 117,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-126,BC,MOM,FINAL,Mom,,EXPERIENCE,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-127,BC,MOM,FINAL,Mom,,EXPERIENCE,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+126,BC,MOM,FINAL,Mom,,EXPERIENCE,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+127,BC,MOM,FINAL,Mom,,EXPERIENCE,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 128,BI,OUTSIDE WALK,FINAL,Outside walk,,EXPERIENCE,BI,B,I,SAY HELLO TO,false,,2,Space-Temporal,Trained - Repeated,Phrase,Photo,true,CODE_MATCH
 129,EB,HAPPY,FINAL,Happy,,EXPERIENCE,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 130,EB,HAPPY,FINAL,Happy,,EXPERIENCE,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -93,10 +93,10 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 141,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 142,DF,TRACING,FINAL,Tracing,,EXPERIENCE,DF,D,F,TO PLAY,false,,2,Socio-Cognitive,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 145,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-146,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+146,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 147,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 148,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-149,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+149,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 151,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 154,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
 155,DF,TRACING,FINAL,Tracing,,TO PLAY,DF,D,F,TO PLAY,false,,2,Socio-Cognitive,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -106,8 +106,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 160,DCB,TOUCH AND FEEL,FINAL,Touch and feel,,BOOK,DCB,DC,B,BOOK,false,,1,Socio-Cognitive,Trained,Phrase,Photo,true,CODE_MATCH
 161,DCB,TOUCH AND FEEL,FINAL,Touch and feel,,BOOK,DCB,DC,B,BOOK,false,,1,Socio-Cognitive,Trained,Phrase,Photo,true,CODE_MATCH
 164,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-165,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-166,CB,MOM,FINAL,Mom ,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+165,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+166,CB,MOM,FINAL,Mom ,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 167,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 168,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 169,DC,BOOK,MENU,,BOOK,BOOK,DC,D,C,TO PLAY,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -226,7 +226,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 443,ABCD,I WANT TO FEEL HOT,FINAL,I want to feel hot,,HOT,ABCD,ABC,D,HOT,false,,1,Self/State,Trained,Phrase,Drawing,true,CODE_MATCH
 444,ABCB,I FEEL HOT,FINAL,I feel hot,,HOT,ABCB,ABC,B,HOT,false,,1,Self/State,Trained,Phrase,Drawing,true,CODE_MATCH
 445,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-446,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+446,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 447,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 448,AC,FANTASY,MENU,,FANTASY,FANTASY,AC,A,C,TALK ABOUT,true,2,2,Navigation,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 449,ACB,DRAGON,FINAL,Dragon,,FANTASY,ACB,AC,B,FANTASY,false,,1,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
@@ -282,23 +282,23 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 516,DF,TRACING,FINAL,Tracing,,READING BOOK,DF,D,F,TO PLAY,false,,2,Socio-Cognitive,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 517,DB,SNUGGLE,FINAL,Snuggle,,READING BOOK,DB,D,B,TO PLAY,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
 520,B,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,B,"",B,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
-521,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+521,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 522,BG,CAR RIDE,FINAL,Car ride,,SAY HELLO TO,BG,B,G,SAY HELLO TO,false,,1,Space-Temporal,Trained,Phrase,Drawing,true,CODE_MATCH
 523,BE,CORI,FINAL,Cori,,SAY HELLO TO,BE,B,E,SAY HELLO TO,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
 524,BG,CAR RIDE,FINAL,Car ride,,SAY HELLO TO,BG,B,G,SAY HELLO TO,false,,1,Space-Temporal,Trained,Phrase,Drawing,true,CODE_MATCH
-525,BC,MOM,FINAL,Mom ,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+525,BC,MOM,FINAL,Mom ,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 526,BI,OUTSIDE WALK,FINAL,Outside walk,,SAY HELLO TO,BI,B,I,SAY HELLO TO,false,,2,Space-Temporal,Trained - Repeated,Phrase,Photo,true,CODE_MATCH
-527,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+527,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 529,B,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,B,"",B,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
 530,BJ,SISTERS,MENU,,SISTERS,SISTERS,BJ,B,J,SAY HELLO TO,true,1,1,Navigation,Trained,Single Word,Photo,true,CODE_MATCH
 531,BJD,TILLIE,FINAL,Tillie,,SISTERS,BJD,BJ,D,SISTERS,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 533,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-534,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+534,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 535,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 536,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 538,CK,TASTE,FINAL,Taste,,EXPERIENCE,CK,C,K,EXPERIENCE,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
 539,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-540,CB,MOM,FINAL,mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+540,CB,MOM,FINAL,mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 541,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 542,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 543,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -379,9 +379,9 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 641,CL,SMELL,FINAL,Smell,,EXPERIENCE,CL,C,L,EXPERIENCE,false,,1,Action,Trained,Single Word,Photo,true,CODE_MATCH
 643,CL,SMELL,FINAL,Smell,,EXPERIENCE,CL,C,L,EXPERIENCE,false,,1,Action,Trained,Single Word,Photo,true,CODE_MATCH
 644,C ,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,UNIQUE_MATCH
-645,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+645,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 646,CL,SMELL,FINAL,Smell,,EXPERIENCE,CL,C,L,EXPERIENCE,false,,1,Action,Trained,Single Word,Photo,true,CODE_MATCH
-647,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+647,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 648,CL,SMELL,FINAL,Smell,,EXPERIENCE,CL,C,L,EXPERIENCE,false,,1,Action,Trained,Single Word,Photo,true,CODE_MATCH
 651,KD,TOM AND JERRY,FINAL,Tom and Jerry,,EXPERIENCE,KD,K,D,CARTOONS,false,,1,Resources,Trained,Phrase,Photo,true,CODE_MATCH
 654,L,TREATS,MENU,,TREATS,TREATS,L,"",L,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Photo,true,CODE_MATCH
@@ -419,8 +419,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 698,BI,OUTSIDE WALK,FINAL,Outside walk,,BIRD FRIENDS,BI,B,I,SAY HELLO TO,false,,2,Space-Temporal,Trained - Repeated,Phrase,Photo,true,CODE_MATCH
 699,BH,BIRD FRIENDS,MENU,,BIRD FRIENDS,BIRD FRIENDS,BH,B,H,SAY HELLO TO,true,1,1,Navigation,Trained,Phrase,Photo,true,CODE_MATCH
 700,BHD,"SKITTLES, SQUEE AND YAYA",FINAL,"Skittles, Squee and Yaya",,BIRD FRIENDS,BHD,BH,D,BIRD FRIENDS,false,,1,Family & Friends,Trained,Phrase,Photo,true,CODE_MATCH
-701,BC,MOM,FINAL,Mom,,BIRD FRIENDS,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-702,BC,MOM,FINAL,Mom,,BIRD FRIENDS,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+701,BC,MOM,FINAL,Mom,,BIRD FRIENDS,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+702,BC,MOM,FINAL,Mom,,BIRD FRIENDS,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 703,BG,CAR RIDE,FINAL,Car ride,,BIRD FRIENDS,BG,B,G,SAY HELLO TO,false,,1,Space-Temporal,Trained,Phrase,Drawing,true,CODE_MATCH
 704,BG,CAR RIDE,FINAL,Car ride,,BIRD FRIENDS,BG,B,G,SAY HELLO TO,false,,1,Space-Temporal,Trained,Phrase,Drawing,true,CODE_MATCH
 707,L,TREATS,MENU,,TREATS,TREATS,L,"",L,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Photo,true,CODE_MATCH
@@ -451,7 +451,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 736,BHB,COOKIE,FINAL,Cookie,,SAY HELLO TO,BHB,BH,B,BIRD FRIENDS,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
 737,BHB,COOKIE,FINAL,Cookie,,SAY HELLO TO,BHB,BH,B,BIRD FRIENDS,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
 738,BHB,COOKIE,FINAL,Cookie,,SAY HELLO TO,BHB,BH,B,BIRD FRIENDS,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
-740,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+740,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 741,BG,CAR RIDE,FINAL,Car ride,,SAY HELLO TO,BG,B,G,SAY HELLO TO,false,,1,Space-Temporal,Trained,Phrase,Drawing,true,CODE_MATCH
 742,BG,CAR RIDE,FINAL,Car ride,,SAY HELLO TO,BG,B,G,SAY HELLO TO,false,,1,Space-Temporal,Trained,Phrase,Drawing,true,CODE_MATCH
 743,BG,CAR RIDE,FINAL,Car ride,,SAY HELLO TO,BG,B,G,SAY HELLO TO,false,,1,Space-Temporal,Trained,Phrase,Drawing,true,CODE_MATCH
@@ -480,13 +480,13 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 772,B,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,B,"",B,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
 774,BG,CAR RIDE,FINAL,Car ride,,SAY HELLO TO,BG,B,G,SAY HELLO TO,false,,1,Space-Temporal,Trained,Phrase,Drawing,true,CODE_MATCH
 778,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-779,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+779,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 780,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 782,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 783,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 784,CK,TASTE,FINAL,Taste,,EXPERIENCE,CK,C,K,EXPERIENCE,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
 785,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-786,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+786,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 787,CK,TASTE,FINAL,Taste,,EXPERIENCE,CK,C,K,EXPERIENCE,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
 789,B,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,B,"",B,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
 790,BG,CAR RIDE,FINAL,Car ride,,SAY HELLO TO,BG,B,G,SAY HELLO TO,false,,1,Space-Temporal,Trained,Phrase,Drawing,true,CODE_MATCH
@@ -506,7 +506,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 806,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 807,CK,TASTE,FINAL,Taste,,EXPERIENCE,CK,C,K,EXPERIENCE,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
 808,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-810,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+810,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 811,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 814,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 815,CK,TASTE,FINAL,Taste,,EXPERIENCE,CK,C,K,EXPERIENCE,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -517,10 +517,10 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 820,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 822,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 823,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-824,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+824,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 827,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 828,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-829,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+829,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 837,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 838,BKB,FEELING,MENU,,FEELING,FEELING,BKB,BK,B,TALK ABOUT,false,,1,Self/State,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 839,EB,HAPPY,FINAL,Happy,,FEELING,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -536,8 +536,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 855,EB,HAPPY,FINAL,Happy,,FEELING,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 857,EC,EXCITED,FINAL,Excited,,FEELING,EC,E,C,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 858,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-859,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-860,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+859,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+860,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 862,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 863,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 864,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -566,8 +566,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 905,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 906,CF,HEAR,FINAL,Hear,,EXPERIENCE,CF,C,F,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 907,CF,HEAR,FINAL,Hear,,EXPERIENCE,CF,C,F,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-908,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-909,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+908,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+909,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 910,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 911,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 912,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -664,14 +664,14 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1032,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1033,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1034,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1035,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1036,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1035,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+1036,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1037,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1046,DCB,TOUCH AND FEEL,FINAL,Touch and feel,,EXPERIENCE,DCB,DC,B,BOOK,false,,1,Socio-Cognitive,Trained,Phrase,Photo,true,CODE_MATCH
 1047,DCGC,ANIMALS,FINAL,Animals,,EXPERIENCE,DCGC,DCG,C,THEME,false,,1,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 1049,DCGC,FANTASY,FINAL,Fantasy,,EXPERIENCE,DCGC,DCG,C,THEME,false,,1,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 1052,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-1053,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1053,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1054,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1055,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1056,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -704,11 +704,11 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1099,DCE,READING BOOK,FINAL,Reading book,,BOOK,DCE,DC,E,BOOK,true,1,1,Navigation,Trained,Phrase,Photo,true,CODE_MATCH
 1100,DCEB,ONE WORD,FINAL,One word,,BOOK,DCEB,DCE,B,READING BOOK,false,,1,Socio-Cognitive,Trained,Phrase,Abstract Sign,true,CODE_MATCH
 1103,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-1104,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1104,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1105,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1106,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1108,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-1109,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1109,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1110,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1111,CK,TASTE,FINAL,Taste,,EXPERIENCE,CK,C,K,EXPERIENCE,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
 1112,CK,TASTE,FINAL,Taste,,EXPERIENCE,CK,C,K,EXPERIENCE,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -718,13 +718,13 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1118,BD,GRANDMA,FINAL,Grandma,,SAY HELLO TO,BD,B,D,SAY HELLO TO,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
 1121,BD,GRANDMA,FINAL,Grandma,,SAY HELLO TO,BD,B,D,SAY HELLO TO,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
 1122,BD,GRANDMA,FINAL,Grandma,,SAY HELLO TO,BD,B,D,SAY HELLO TO,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
-1123,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1124,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1123,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+1124,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1125,BD,GRANDMA,FINAL,Grandma,,SAY HELLO TO,BD,B,D,SAY HELLO TO,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
 1126,BJ,SISTERS,MENU,,SISTERS,SISTERS,BJ,B,J,SAY HELLO TO,true,1,1,Navigation,Trained,Single Word,Photo,true,CODE_MATCH
 1131,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 1132,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1133,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1133,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1134,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1135,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1137,DB,SNUGGLE,FINAL,Snuggle,,EXPERIENCE,DB,D,B,TO PLAY,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -750,7 +750,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1163,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1164,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1167,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-1168,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1168,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1169,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1172,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
 1173,DE,WRITING,FINAL,Writing,,TO PLAY,DE,D,E,TO PLAY,false,,1,Socio-Cognitive,Trained,Single Word,Photo,true,CODE_MATCH
@@ -792,7 +792,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1302,CK,TASTE,FINAL,Taste,,EXPERIENCE,CK,C,K,EXPERIENCE,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
 1303,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1304,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1305,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1305,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1306,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1307,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1309,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -800,7 +800,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1311,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1313,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1315,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1316,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1316,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1317,ED,YUM,FINAL,Yum,,EXPERIENCE,ED,E,D,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 1318,EC,EXCITED,FINAL,Excited,,EXPERIENCE,EC,E,C,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 1319,EB,HAPPY,FINAL,Happy,,EXPERIENCE,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -859,16 +859,16 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1406,L,TREATS,MENU,,TREATS,TREATS,L,"",L,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Photo,true,CODE_MATCH
 1407,LB,SUNFLOWER SEEDS,FINAL,Sunflower seeds,,TREATS,LB,L,B,TREATS,false,,1,Resources,Trained,Phrase,Photo,true,CODE_MATCH
 1448,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-1449,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1449,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1450,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1451,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1452,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1453,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1451,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+1452,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+1453,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1455,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 1457,B,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,B,"",B,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
 1459,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 1460,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1461,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1461,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1463,E,FEELING,MENU,,FEELING,FEELING,E,"",E,MAIN MENU,true,1,1,Navigation,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 1464,EB,HAPPY,FINAL,Happy,,FEELING,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 1465,EB,HAPPY,FINAL,Happy,,FEELING,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -886,24 +886,24 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1478,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1479,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1480,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1481,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1481,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1482,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1483,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1484,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1485,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1486,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1487,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1487,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1488,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1489,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1490,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1491,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1492,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1493,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1491,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+1492,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+1493,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1494,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1495,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1496,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1497,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1498,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1497,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+1498,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1499,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1500,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1501,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -915,11 +915,11 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1507,CK,TASTE,FINAL,Taste,,EXPERIENCE,CK,C,K,EXPERIENCE,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
 1508,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1509,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1510,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1511,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1510,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+1511,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1512,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1513,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1514,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1513,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+1514,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1516,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 1517,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1518,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -927,7 +927,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1520,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1522,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1523,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1525,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1525,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1527,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 1528,BG,CAR RIDE,FINAL,Car ride,,TALK ABOUT,BG,B,G,SAY HELLO TO,false,,1,Space-Temporal,Trained,Phrase,Drawing,true,CODE_MATCH
 1529,BG,CAR RIDE,FINAL,Car ride,,TALK ABOUT,BG,B,G,SAY HELLO TO,false,,1,Space-Temporal,Trained,Phrase,Drawing,true,CODE_MATCH
@@ -967,10 +967,10 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1651,LB,SUNFLOWER SEEDS,FINAL,Sunflower seeds,,TREATS,LB,L,B,TREATS,false,,1,Resources,Trained,Phrase,Photo,true,CODE_MATCH
 1652,LB,SUNFLOWER SEEDS,FINAL,Sunflower seeds,,TREATS,LB,L,B,TREATS,false,,1,Resources,Trained,Phrase,Photo,true,CODE_MATCH
 1653,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-1654,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1655,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1656,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1657,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1654,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+1655,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+1656,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+1657,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1658,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1659,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1660,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -978,7 +978,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1662,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1663,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1664,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1665,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1665,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1666,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1667,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1668,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -1104,24 +1104,24 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 1899,CE,SEE,FINAL,See,,TALK ABOUT,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1900,CD,TOUCH,FINAL,Touch,,TALK ABOUT,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1901,CE,SEE,FINAL,See,,TALK ABOUT,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1902,CB,MOM,FINAL,Mom,,TALK ABOUT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1902,CB,MOM,FINAL,Mom,,TALK ABOUT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1903,CE,SEE,FINAL,See,,TALK ABOUT,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1904,CB,MOM,FINAL,Mom,,TALK ABOUT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1904,CB,MOM,FINAL,Mom,,TALK ABOUT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1905,CD,TOUCH,FINAL,Touch,,TALK ABOUT,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1906,CG,ELLIE,FINAL,Ellie,,TALK ABOUT,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1907,CG,ELLIE,FINAL,Ellie,,TALK ABOUT,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1908,CD,TOUCH,FINAL,Touch,,TALK ABOUT,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1909,CB,MOM,FINAL,Mom,,TALK ABOUT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1909,CB,MOM,FINAL,Mom,,TALK ABOUT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1910,CG,ELLIE,FINAL,Ellie,,TALK ABOUT,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1911,CG,ELLIE,FINAL,Ellie,,TALK ABOUT,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 1912,CD,TOUCH,FINAL,Touch,,TALK ABOUT,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-1913,CB,MOM,FINAL,Mom,,TALK ABOUT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1914,CB,MOM,FINAL,Mom,,TALK ABOUT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1915,CB,MOM,FINAL,Mom,,TALK ABOUT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1913,CB,MOM,FINAL,Mom,,TALK ABOUT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+1914,CB,MOM,FINAL,Mom,,TALK ABOUT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+1915,CB,MOM,FINAL,Mom,,TALK ABOUT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1916,CD,TOUCH,FINAL,Touch,,TALK ABOUT,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1917,CG,ELLIE,FINAL,Ellie,,TALK ABOUT,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1918,CB,MOM,FINAL,Mom,,TALK ABOUT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-1919,CB,MOM,FINAL,Mom,,TALK ABOUT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+1918,CB,MOM,FINAL,Mom,,TALK ABOUT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+1919,CB,MOM,FINAL,Mom,,TALK ABOUT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 1920,CE,SEE,FINAL,See,,TALK ABOUT,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1921,CD,TOUCH,FINAL,Touch,,TALK ABOUT,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 1922,CD,TOUCH,FINAL,Touch,,TALK ABOUT,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -1191,7 +1191,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2014,CK,TASTE,FINAL,Taste,,EXPERIENCE,CK,C,K,EXPERIENCE,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
 2015,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2016,CL,SMELL,FINAL,Smell,,EXPERIENCE,CL,C,L,EXPERIENCE,false,,1,Action,Trained,Single Word,Photo,true,CODE_MATCH
-2017,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2017,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2018,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2019,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2020,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -1268,14 +1268,14 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2281,ABCD,I WANT TO FEEL HOT,FINAL,I want to feel hot,,HOT,ABCD,ABC,D,HOT,false,,1,Self/State,Trained,Phrase,Drawing,true,CODE_MATCH
 2282,ABCD,I WANT TO FEEL HOT,FINAL,I want to feel hot,,HOT,ABCD,ABC,D,HOT,false,,1,Self/State,Trained,Phrase,Drawing,true,CODE_MATCH
 2283,EB,HAPPY,FINAL,Happy,,HOT,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
-2284,CB,MOM,FINAL,Mom,,HOT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2284,CB,MOM,FINAL,Mom,,HOT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2285,CD,TOUCH,FINAL,Touch,,HOT,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2286,CD,TOUCH,FINAL,Touch,,HOT,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2287,CH,TILLIE,FINAL,Tillie,,HOT,CH,C,H,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2288,CG,ELLIE,FINAL,Ellie,,HOT,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2289,CG,ELLIE,FINAL,Ellie,,HOT,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2290,CG,ELLIE,FINAL,Ellie,,HOT,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2291,CB,MOM,FINAL,Mom,,HOT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2291,CB,MOM,FINAL,Mom,,HOT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2292,CD,TOUCH,FINAL,Touch,,HOT,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2293,CD,TOUCH,FINAL,Touch,,HOT,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2294,CG,ELLIE,FINAL,Ellie,,HOT,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -1284,14 +1284,14 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2298,CG,ELLIE,FINAL,Ellie,,HOT,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2299,CG,ELLIE,FINAL,Ellie,,HOT,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2300,CD,TOUCH,FINAL,Touch,,HOT,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2301,CB,MOM,FINAL,Mom,,HOT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2302,CB,MOM,FINAL,Mom,,HOT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2301,CB,MOM,FINAL,Mom,,HOT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+2302,CB,MOM,FINAL,Mom,,HOT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2303,CG,ELLIE,FINAL,Ellie,,HOT,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2304,CG,ELLIE,FINAL,Ellie,,HOT,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2305,CD,TOUCH,FINAL,Touch,,HOT,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2306,CD,TOUCH,FINAL,Touch,,HOT,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2307,CB,MOM,FINAL,Mom,,HOT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2308,CB,MOM,FINAL,Mom,,HOT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2307,CB,MOM,FINAL,Mom,,HOT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+2308,CB,MOM,FINAL,Mom,,HOT,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2309,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 2311,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 2312,AB,TEMP AND WEATHER,MENU,,TEMP AND WEATHER,TEMP AND WEATHER,AB,A,B,TALK ABOUT,true,1,1,Navigation,Trained - Repeated,Phrase,Photo,true,CODE_MATCH
@@ -1440,7 +1440,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2757,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2758,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2759,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2760,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2760,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2761,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2762,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2763,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -1450,13 +1450,13 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2767,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2768,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2769,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2770,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2770,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2771,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2772,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2773,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2774,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2775,CL,SMELL,FINAL,Smell,,EXPERIENCE,CL,C,L,EXPERIENCE,false,,1,Action,Trained,Single Word,Photo,true,CODE_MATCH
-2776,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2776,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2777,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2778,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2779,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -1466,7 +1466,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2783,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2784,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2785,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2786,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2786,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2787,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2788,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2789,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -1535,7 +1535,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2871,EC,EXCITED,FINAL,Excited,,FEELING,EC,E,C,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 2872,EB,HAPPY,FINAL,Happy,,FEELING,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 2873,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-2874,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2874,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2875,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 2876,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2877,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -1564,9 +1564,9 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2902,LB,SUNFLOWER SEEDS,FINAL,Sunflower seeds,,TREATS,LB,L,B,TREATS,false,,1,Resources,Trained,Phrase,Photo,true,CODE_MATCH
 2903,LB,SUNFLOWER SEEDS,FINAL,Sunflower seeds,,TREATS,LB,L,B,TREATS,false,,1,Resources,Trained,Phrase,Photo,true,CODE_MATCH
 2904,B,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,B,"",B,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
-2905,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2905,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2906,BG,CAR RIDE,FINAL,Car ride,,SAY HELLO TO,BG,B,G,SAY HELLO TO,false,,1,Space-Temporal,Trained,Phrase,Drawing,true,CODE_MATCH
-2907,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2907,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2908,BG,CAR RIDE,FINAL,Car ride,,SAY HELLO TO,BG,B,G,SAY HELLO TO,false,,1,Space-Temporal,Trained,Phrase,Drawing,true,CODE_MATCH
 2910,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
 2911,DC,BOOK,MENU,,BOOK,BOOK,DC,D,C,TO PLAY,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -1597,12 +1597,12 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2941,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 2942,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2943,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2944,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-2945,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2944,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+2945,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2946,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2947,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2947,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2948,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-2949,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2949,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2950,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2953,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
 2954,DB,SNUGGLE,FINAL,Snuggle,,TO PLAY,DB,D,B,TO PLAY,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -1610,7 +1610,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 2960,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
 2961,DB,SNUGGLE,FINAL,Snuggle,,TO PLAY,DB,D,B,TO PLAY,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
 2964,B,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,B,"",B,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
-2965,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+2965,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 2967,AB,TEMP AND WEATHER,MENU,,TEMP AND WEATHER,TEMP AND WEATHER,AB,A,B,TALK ABOUT,true,1,1,Navigation,Trained - Repeated,Phrase,Photo,true,CODE_MATCH
 2968,ABD,WARM,MENU,,WARM,WARM,ABD,AB,D,TEMP AND WEATHER,true,1,1,Navigation,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 2969,ABDC,I WANT TO FEEL WARM,FINAL,I want to feel warm,,WARM,ABDC,ABD,C,WARM,false,,1,Self/State,Trained,Phrase,Drawing,true,CODE_MATCH
@@ -1681,11 +1681,11 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3042,FK,COLORING,FINAL,Coloring,,GAMES,FK,F,K,GAMES,false,,1,Socio-Cognitive,Trained,Single Word,Photo,true,CODE_MATCH
 3046,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 3047,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-3048,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3048,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 3049,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-3051,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-3052,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-3053,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3051,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+3052,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+3053,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 3055,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3056,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3057,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -1915,12 +1915,12 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3363,CD,TOUCH,FINAL,Touch,,FEELING,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 3364,CD,TOUCH,FINAL,Touch,,FEELING,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 3365,CD,TOUCH,FINAL,Touch,,FEELING,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-3366,CB,MOM,FINAL,Mom,,FEELING,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-3367,CB,MOM,FINAL,Mom,,FEELING,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-3368,CB,MOM,FINAL,Mom,,FEELING,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3366,CB,MOM,FINAL,Mom,,FEELING,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+3367,CB,MOM,FINAL,Mom,,FEELING,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+3368,CB,MOM,FINAL,Mom,,FEELING,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 3369,CD,TOUCH,FINAL,Touch,,FEELING,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 3370,CD,TOUCH,FINAL,Touch,,FEELING,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-3371,CB,MOM,FINAL,Mom,,FEELING,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3371,CB,MOM,FINAL,Mom,,FEELING,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 3373,E,FEELING,MENU,,FEELING,FEELING,E,"",E,MAIN MENU,true,1,1,Navigation,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 3374,ED,YUM,FINAL,Yum,,FEELING,ED,E,D,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 3375,EB,HAPPY,FINAL,Happy,,FEELING,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -1964,7 +1964,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3415,E,FEELING,MENU,,FEELING,FEELING,E,"",E,MAIN MENU,true,1,1,Navigation,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 3416,ED,YUM,FINAL,Yum,,FEELING,ED,E,D,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 3417,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-3418,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3418,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 3419,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 3420,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3421,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -2252,12 +2252,12 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 3888,ABCB,I FEEL HOT,FINAL,I feel hot,,HOT,ABCB,ABC,B,HOT,false,,1,Self/State,Trained,Phrase,Drawing,true,CODE_MATCH
 3889,ABCB,I FEEL HOT,FINAL,I feel hot,,HOT,ABCB,ABC,B,HOT,false,,1,Self/State,Trained,Phrase,Drawing,true,CODE_MATCH
 3891,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-3892,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3892,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 3893,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 3894,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-3895,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3895,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 3896,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-3897,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+3897,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 3898,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 3899,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 3910,ABC,HOT,MENU,,HOT,HOT,ABC,AB,C,TEMP AND WEATHER,true,1,1,Navigation,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -2329,7 +2329,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 4001,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 4002,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 4003,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-4004,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+4004,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 4005,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
 4006,DI,GAMES,FINAL,Games,,TO PLAY,DI,D,I,TO PLAY,false,,1,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 4008,FH,MATCHING GAME,FINAL,Matching game,,TO PLAY,FH,F,H,GAMES,false,,1,Socio-Cognitive,Trained,Phrase,Photo,true,CODE_MATCH
@@ -2339,7 +2339,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 4012,FH,MATCHING GAME,FINAL,Matching game,,TO PLAY,FH,F,H,GAMES,false,,1,Socio-Cognitive,Trained,Phrase,Photo,true,CODE_MATCH
 4013,FH,MATCHING GAME,FINAL,Matching game,,TO PLAY,FH,F,H,GAMES,false,,1,Socio-Cognitive,Trained,Phrase,Photo,true,CODE_MATCH
 4016,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-4017,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+4017,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 4020,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 4021,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 4022,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -2583,7 +2583,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 4463,L,TREATS,MENU,,TREATS,TREATS,L,"",L,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Photo,true,CODE_MATCH
 4464,LB,SEED BALL,FINAL,Seed ball,,TREATS,LB,L,B,TREATS,false,,1,Resources,Trained,Phrase,Photo,true,CODE_MATCH
 4465,B,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,B,"",B,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
-4466,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+4466,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 4467,BI,OUTSIDE WALK,FINAL,Outside walk,,SAY HELLO TO,BI,B,I,SAY HELLO TO,false,,2,Space-Temporal,Trained - Repeated,Phrase,Photo,true,CODE_MATCH
 4468,BG,CAR RIDE,FINAL,Car ride,,SAY HELLO TO,BG,B,G,SAY HELLO TO,false,,1,Space-Temporal,Trained,Phrase,Drawing,true,CODE_MATCH
 4469,BD,GRANDMA,FINAL,Grandma,,SAY HELLO TO,BD,B,D,SAY HELLO TO,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
@@ -2598,14 +2598,14 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 4485,DCD,POP UP,FINAL,Pop Up,,BOOK,DCD,DC,D,BOOK,false,,1,Socio-Cognitive,Trained,Phrase,Photo,true,CODE_MATCH
 4486,DCD,POP UP,FINAL,Pop Up,,BOOK,DCD,DC,D,BOOK,false,,1,Socio-Cognitive,Trained,Phrase,Photo,true,CODE_MATCH
 4488,B,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,B,"",B,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
-4489,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+4489,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 4491,G,TO EAT,MENU,,TO EAT,TO EAT,G,"",G,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
 4492,GB,A TOAST,FINAL,A toast,,TO EAT,GB,G,B,TO EAT,false,,1,Resources,Trained,Phrase,Photo,true,CODE_MATCH
 4493,GB,A TOAST,FINAL,A toast,,TO EAT,GB,G,B,TO EAT,false,,1,Resources,Trained,Phrase,Photo,true,CODE_MATCH
 4494,GB,A TOAST,FINAL,A toast,,TO EAT,GB,G,B,TO EAT,false,,1,Resources,Trained,Phrase,Photo,true,CODE_MATCH
 4495,DB,SNUGGLE,FINAL,Snuggle,,TO EAT,DB,D,B,TO PLAY,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
 4502,B,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,B,"",B,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
-4503,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+4503,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 4504,BD,GRANDMA,FINAL,Grandma,,SAY HELLO TO,BD,B,D,SAY HELLO TO,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
 4505,BH,BIRD FRIENDS,MENU,,BIRD FRIENDS,BIRD FRIENDS,BH,B,H,SAY HELLO TO,true,1,1,Navigation,Trained,Phrase,Photo,true,CODE_MATCH
 4506,BHB,COOKIE,FINAL,Cookie,,BIRD FRIENDS,BHB,BH,B,BIRD FRIENDS,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
@@ -2754,7 +2754,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 4715,LC,NUTS,FINAL,Nuts,,TREATS,LC,L,C,TREATS,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
 4716,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 4717,B,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,B,"",B,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
-4718,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+4718,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 4719,BK,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,BK,B,K,SAY HELLO TO,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 4720,BKD,LEARNING,FINAL,Learning,,TALK ABOUT,BKD,BK,D,TALK ABOUT,false,,1,Socio-Cognitive,Generalized,Single Word,Abstract Sign,true,CODE_MATCH
 4721,BKD,LEARNING,FINAL,Learning,,TALK ABOUT,BKD,BK,D,TALK ABOUT,false,,1,Socio-Cognitive,Generalized,Single Word,Abstract Sign,true,CODE_MATCH
@@ -2823,14 +2823,14 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 4830,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 4831,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 4832,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-4834,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-4835,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+4834,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+4835,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 4836,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 4837,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 4838,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 4839,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 4840,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-4841,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+4841,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 4842,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 4843,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 4844,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -2923,25 +2923,25 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 4961,DCB,TOUCH AND FEEL,FINAL,Touch and feel,,BOOK,DCB,DC,B,BOOK,false,,1,Socio-Cognitive,Trained,Phrase,Photo,true,CODE_MATCH
 4962,DCB,TOUCH AND FEEL,FINAL,Touch and feel,,BOOK,DCB,DC,B,BOOK,false,,1,Socio-Cognitive,Trained,Phrase,Photo,true,CODE_MATCH
 4965,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-4966,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-4967,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-4968,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-4969,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-4970,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-4971,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+4966,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+4967,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+4968,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+4969,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+4970,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+4971,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 4972,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 4973,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 4974,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-4975,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-4976,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+4975,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+4976,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 4977,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 4979,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 4980,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 4981,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 4982,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 4983,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-4984,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-4985,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+4984,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+4985,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 4986,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 4987, CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,UNIQUE_MATCH
 4988,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -2989,14 +2989,14 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 5036,EB,HAPPY,FINAL,Happy,,FEELING,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 5037,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 5038,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-5039,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5039,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5040,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5041,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5042,CK,TASTE,FINAL,Taste,,EXPERIENCE,CK,C,K,EXPERIENCE,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
-5045,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5046,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5047,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5048,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5045,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5046,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5047,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5048,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5049,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5054,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5055,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -3011,8 +3011,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 5067,EB,HAPPY,FINAL,Happy,,FEELING,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 5068,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 5069,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-5070,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5071,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5070,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5071,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5072,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5073,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
 5074,DE,WRITING,FINAL,Writing,,TO PLAY,DE,D,E,TO PLAY,false,,1,Socio-Cognitive,Trained,Single Word,Photo,true,CODE_MATCH
@@ -3039,36 +3039,36 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 5102,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5103,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5104,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-5105,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5105,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5106,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5107,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5108,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5107,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5108,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5109,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5110,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5111,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5112,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5113,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5110,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5111,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5112,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5113,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5114,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 5115,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 5116,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5117,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5118,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-5119,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5120,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5121,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5122,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5123,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5124,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5125,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5126,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5119,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5120,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5121,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5122,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5123,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5124,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5125,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5126,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5127,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5128,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5129,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-5130,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5131,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5132,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5133,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5134,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5130,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5131,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5132,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5133,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5134,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5135,AC,FANTASY,MENU,,FANTASY,FANTASY,AC,A,C,TALK ABOUT,true,2,2,Navigation,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 5136,ACB,DRAGON,FINAL,Dragon,,FANTASY,ACB,AC,B,FANTASY,false,,1,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 5137,ACB,DRAGON,FINAL,Dragon,,FANTASY,ACB,AC,B,FANTASY,false,,1,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
@@ -3077,12 +3077,12 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 5140,KEE,SUMMER,FINAL,Summer,,SEASONAL,KEE,KE,E,SEASONAL,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
 5141,KEE,SUMMER,FINAL,Summer,,SEASONAL,KEE,KE,E,SEASONAL,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
 5143,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-5144,CB,TOUCH,FINAL,Touch,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5145,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5146,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5147,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5148,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5149,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5144,CB,TOUCH,FINAL,Touch,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5145,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5146,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5147,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5148,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5149,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5151,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 5152,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5153,CF,HEAR,FINAL,Hear,,EXPERIENCE,CF,C,F,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -3092,7 +3092,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 5157,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5158,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 5159,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5160,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5160,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5161,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 5162,DB,SNUGGLE,FINAL,Snuggle,,EXPERIENCE,DB,D,B,TO PLAY,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
 5164,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
@@ -3134,7 +3134,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 5204,ABCD,I WANT TO FEEL HOT,FINAL,I want to feel hot,,HOT,ABCD,ABC,D,HOT,false,,1,Self/State,Trained,Phrase,Drawing,true,CODE_MATCH
 5205,ABCD,I WANT TO FEEL HOT,FINAL,I want to feel hot,,HOT,ABCD,ABC,D,HOT,false,,1,Self/State,Trained,Phrase,Drawing,true,CODE_MATCH
 5206,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-5207,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5207,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5208,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5209,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 5210,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -3227,7 +3227,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 5355,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 5356,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5357,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-5358,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5358,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5359,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5360,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5361,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -3265,13 +3265,13 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 5406,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5407,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5408,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-5409,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5409,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5410,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5411,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-5412,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5413,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5414,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5415,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5412,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5413,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5414,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5415,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5416,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5417,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5427,E,FEELING,MENU,,FEELING,FEELING,E,"",E,MAIN MENU,true,1,1,Navigation,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
@@ -3279,9 +3279,9 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 5429,EB,HAPPY,FINAL,Happy,,FEELING,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 5430,EB,HAPPY,FINAL,Happy,,FEELING,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 5431,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-5432,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5433,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5434,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5432,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5433,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5434,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5435,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5436,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5438,E,FEELING,MENU,,FEELING,FEELING,E,"",E,MAIN MENU,true,1,1,Navigation,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
@@ -3294,7 +3294,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 5445,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5446,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5447,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-5448,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5448,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5449,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5450,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5456,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
@@ -3309,34 +3309,34 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 5467,EB,HAPPY,FINAL,Happy,,FEELING,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 5468,EB,HAPPY,FINAL,Happy,,FEELING,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 5470,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-5471,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5472,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5473,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5474,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5475,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5471,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5472,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5473,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5474,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5475,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5476,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5477,CE,SEE,FINAL,See,,EXPERIENCE,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5478,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5479,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5480,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5481,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-5482,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5482,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5483,CK,TASTE,FINAL,Taste,,EXPERIENCE,CK,C,K,EXPERIENCE,false,,1,Action,Trained,Single Word,Drawing,true,CODE_MATCH
 5484,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-5485,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5486,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5487,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5485,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5486,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5487,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5488,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5489,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5490,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5492,EB,HAPPY,FINAL,Happy,,EXPERIENCE,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 5494,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-5495,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5496,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5495,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5496,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5497,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-5498,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5499,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5500,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5498,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5499,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5500,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5501,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5502,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 5503,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -3373,25 +3373,25 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 5537,ABCB,I FEEL HOT,FINAL,I feel hot,,HOT,ABCB,ABC,B,HOT,false,,1,Self/State,Trained,Phrase,Drawing,true,CODE_MATCH
 5538,ABCD,I WANT TO FEEL HOT,FINAL,I want to feel hot,,HOT,ABCD,ABC,D,HOT,false,,1,Self/State,Trained,Phrase,Drawing,true,CODE_MATCH
 5539,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-5540,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5541,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5542,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5543,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5544,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5545,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5546,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5540,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5541,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5542,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5543,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5544,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5545,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5546,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5547,CG,ELLIE,FINAL,Ellie,,EXPERIENCE,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5548,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5549,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5548,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5549,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5550,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 5551,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5552,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5553,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5552,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5553,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5554,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 5555,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 5556,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5557,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5558,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5557,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5558,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5559,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 5560,ABCG,HOT WIND BLOW DRYER,FINAL,Hot wind blow dryer,,EXPERIENCE,ABCG,ABC,G,HOT,false,,1,Resources,Trained,Phrase,Photo,true,CODE_MATCH
 5561,ABCD,I WANT TO FEEL HOT,FINAL,I want to feel hot,,EXPERIENCE,ABCD,ABC,D,HOT,false,,1,Self/State,Trained,Phrase,Drawing,true,CODE_MATCH
@@ -3527,7 +3527,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 5733,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5734,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5735,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5736,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5736,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5737,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5738,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 5739,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -3562,12 +3562,12 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 5772,LB,SUNFLOWER SEEDS,FINAL,Sunflower seeds,,TREATS,LB,L,B,TREATS,false,,1,Resources,Trained,Phrase,Photo,true,CODE_MATCH
 5773,LB,SUNFLOWER SEEDS,FINAL,Sunflower seeds,,TREATS,LB,L,B,TREATS,false,,1,Resources,Trained,Phrase,Photo,true,CODE_MATCH
 5774,B,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,B,"",B,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
-5775,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5776,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5775,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5776,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5777,BD,GRANDMA,FINAL,Grandma,,SAY HELLO TO,BD,B,D,SAY HELLO TO,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
-5778,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5779,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5780,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5778,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5779,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5780,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5781,BE,CORI,FINAL,Cori,,SAY HELLO TO,BE,B,E,SAY HELLO TO,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
 5783,J,MUSIC,MENU,,MUSIC,MUSIC,J,"",J,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 5784,JC,PIANO,FINAL,Piano,,MUSIC,JC,J,C,MUSIC,false,,1,Resources,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -3690,8 +3690,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 5908,ABCD,I WANT TO FEEL HOT,FINAL,I want to feel hot,,HOT,ABCD,ABC,D,HOT,false,,1,Self/State,Trained,Phrase,Drawing,true,CODE_MATCH
 5909,ABCB,I FEEL HOT,FINAL,I feel hot,,HOT,ABCB,ABC,B,HOT,false,,1,Self/State,Trained,Phrase,Drawing,true,CODE_MATCH
 5927,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-5928,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-5929,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5928,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+5929,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5930,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5931,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 5932,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -3724,7 +3724,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 5967,HB,WATER,FINAL,Water,,TO DRINK,HB,H,B,TO DRINK,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
 5970,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 5971,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-5972,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+5972,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 5973,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 5977,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 5979,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
@@ -4012,8 +4012,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 6317,E,FEELING,MENU,,FEELING,FEELING,E,"",E,MAIN MENU,true,1,1,Navigation,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 6318,D,TO PLAY,MENU,,TO PLAY,TO PLAY,D,"",D,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
 6330,B,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,B,"",B,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
-6331,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-6332,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+6331,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+6332,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 6334,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 6335,AC,FANTASY,MENU,,FANTASY,FANTASY,AC,A,C,TALK ABOUT,true,2,2,Navigation,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 6336,ACB,DRAGON,FINAL,Dragon,,FANTASY,ACB,AC,B,FANTASY,false,,1,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
@@ -4038,14 +4038,14 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 6359,DCB,TOUCH AND FEEL,FINAL,Touch and feel,,BOOK,DCB,DC,B,BOOK,false,,1,Socio-Cognitive,Trained,Phrase,Photo,true,CODE_MATCH
 6360,DCB,TOUCH AND FEEL,FINAL,Touch and feel,,BOOK,DCB,DC,B,BOOK,false,,1,Socio-Cognitive,Trained,Phrase,Photo,true,CODE_MATCH
 6362,DCGC,ANIMALS,MENU,,ANIMALS,ANIMALS,DCGC,DCG,C,THEME,false,,1,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
-6364,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+6364,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 6365,DI,ISABELLE,FINAL,Isabelle,,ANIMALS,DI,D,I,TO PLAY,false,,1,Socio-Cognitive,Trained - Repeated,Single Word,Drawing,true,CODE_MATCH
 6366,CD,TOUCH,FINAL,Touch,,ANIMALS,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-6368,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+6368,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 6369,CH,TILLIE,FINAL,Tillie,,ANIMALS,CH,C,H,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 6370,CH,TILLIE,FINAL,Tillie,,ANIMALS,CH,C,H,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 6371,CH,TILLIE,FINAL,Tillie,,ANIMALS,CH,C,H,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-6372,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+6372,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 6373,CE,SEE,FINAL,See,,ANIMALS,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6374,CD,TOUCH,FINAL,Touch,,ANIMALS,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6375,CD,TOUCH,FINAL,Touch,,ANIMALS,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -4054,13 +4054,13 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 6378,CI,ISABELLE,FINAL,Isabelle,,ANIMALS,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 6379,CD,TOUCH,FINAL,Touch,,ANIMALS,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6380,CD,TOUCH,FINAL,Touch,,ANIMALS,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-6381,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+6381,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 6382,CD,TOUCH,FINAL,Touch,,ANIMALS,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6383,CE,SEE,FINAL,See,,ANIMALS,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6384,CD,TOUCH,FINAL,Touch,,ANIMALS,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6385,CD,TOUCH,FINAL,Touch,,ANIMALS,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6386,CD,TOUCH,FINAL,Touch,,ANIMALS,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-6387,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+6387,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 6388,CE,SEE,FINAL,See,,ANIMALS,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6389,CD,TOUCH,FINAL,Touch,,ANIMALS,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6390,CE,SEE,FINAL,See,,ANIMALS,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -4069,13 +4069,13 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 6393,CE,SEE,FINAL,See,,ANIMALS,CE,C,E,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6394,CD,TOUCH,FINAL,Touch,,ANIMALS,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6395,CD,TOUCH,FINAL,Touch,,ANIMALS,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-6396,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-6397,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+6396,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+6397,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 6398,CG,ELLIE,FINAL,Ellie,,ANIMALS,CG,C,G,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 6399,CH,TILLIE,FINAL,Tillie,,ANIMALS,CH,C,H,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-6400,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+6400,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 6401,CD,TOUCH,FINAL,Touch,,ANIMALS,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-6402,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+6402,CB,MOM,FINAL,Mom,,ANIMALS,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 6404,A,TALK ABOUT,MENU,,TALK ABOUT,TALK ABOUT,A,"",A,MAIN MENU,true,2,2,Navigation,Trained - Repeated,Phrase,Abstract Sign,true,CODE_MATCH
 6405,AE,HOLIDAYS,MENU,,HOLIDAYS,HOLIDAYS,AE,A,E,TALK ABOUT,false,,1,Socio-Cognitive,Trained,Single Word,Photo,true,CODE_MATCH
 6416,J,MUSIC,MENU,,MUSIC,MUSIC,J,"",J,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
@@ -4293,8 +4293,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 6650,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6651,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6652,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
-6653,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-6654,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+6653,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+6654,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 6655,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
 6656,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6657,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -4372,7 +4372,7 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 6790,,YES,FINAL,Yes,,SEASONAL,AJB,AJ,B,YES AND NO,false,,1,Affirmations,Trained,Single Word,Abstract Sign,true,UNIQUE_MATCH
 6791,,YES,FINAL,Yes,,SEASONAL,AJB,AJ,B,YES AND NO,false,,1,Affirmations,Trained,Single Word,Abstract Sign,true,UNIQUE_MATCH
 6795,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-6796,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+6796,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 6797,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6798,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6799,CD,TOUCH,FINAL,Touch,,EXPERIENCE,CD,C,D,EXPERIENCE,false,,1,Action,Trained,Single Word,Abstract Sign,true,CODE_MATCH
@@ -4405,8 +4405,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 6832,CJ,READ,FINAL,Read,,EXPERIENCE,CJ,C,J,EXPERIENCE,false,,1,Socio-Cognitive,Trained,Single Word,Abstract Sign,true,CODE_MATCH
 6833,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 6834,CI,ISABELLE,FINAL,Isabelle,,EXPERIENCE,CI,C,I,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-6835,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-6836,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+6835,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+6836,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 6837,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 6838,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
 6839,CH,TILLIE,FINAL,Tillie,,EXPERIENCE,CH,C,H,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
@@ -4514,8 +4514,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 6973,JC,PIANO,FINAL,Piano,,MUSIC,JC,J,C,MUSIC,false,,1,Resources,Trained,Single Word,Drawing,true,CODE_MATCH
 6974,JE,DANCE,FINAL,Dance,,MUSIC,JE,J,E,MUSIC,false,,1,Resources,Trained,Single Word,Photo,true,CODE_MATCH
 6976,B,SAY HELLO TO,MENU,,SAY HELLO TO,SAY HELLO TO,B,"",B,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
-6977,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-6978,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+6977,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+6978,BC,MOM,FINAL,Mom,,SAY HELLO TO,BC,B,C,SAY HELLO TO,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 6979,BE,CORI,FINAL,Cori,,SAY HELLO TO,BE,B,E,SAY HELLO TO,false,,1,Family & Friends,Trained,Single Word,Photo,true,CODE_MATCH
 6982,G,TO EAT,MENU,,TO EAT,TO EAT,G,"",G,MAIN MENU,true,1,1,Navigation,Trained,Phrase,Drawing,true,CODE_MATCH
 6983,GB,A TOAST,FINAL,A toast,,TO EAT,GB,G,B,TO EAT,false,,1,Resources,Trained,Phrase,Photo,true,CODE_MATCH
@@ -4533,8 +4533,8 @@ Line Number,Location path code,selection,source,word,menu,menu_ff,full_pattern,m
 6996,JG,BEETHOVEN & DVORAK,FINAL,Beethoven and Dvorak,,TALK ABOUT,JG,J,G,MUSIC,false,,1,Resources,Trained,Phrase,Drawing,true,CODE_MATCH
 6997,JC,PIANO,FINAL,Piano,,TALK ABOUT,JC,J,C,MUSIC,false,,1,Resources,Trained,Single Word,Drawing,true,CODE_MATCH
 6999,C,EXPERIENCE,MENU,,EXPERIENCE,EXPERIENCE,C,"",C,MAIN MENU,true,1,1,Navigation,Trained,Single Word,Drawing,true,CODE_MATCH
-7000,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
-7001,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Trained - Repeated,Single Word,Photo,true,CODE_MATCH
+7000,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
+7001,CB,MOM,FINAL,Mom,,EXPERIENCE,CB,C,B,EXPERIENCE,false,,2,Family & Friends,Untrained - Discovered,Single Word,Photo,true,CODE_MATCH
 7003,E,FEELING,MENU,,FEELING,FEELING,E,"",E,MAIN MENU,true,1,1,Navigation,Trained - Repeated,Single Word,Abstract Sign,true,CODE_MATCH
 7004,EB,HAPPY,FINAL,Happy,,FEELING,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH
 7005,EB,HAPPY,FINAL,Happy,,FEELING,EB,E,B,FEELING,false,,1,Self/State,Trained,Single Word,Drawing,true,CODE_MATCH

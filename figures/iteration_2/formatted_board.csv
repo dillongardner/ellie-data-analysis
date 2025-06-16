@@ -147,7 +147,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 146,ADA,AD,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,ANIMALS,false,,30
 147,AJA,AJ,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,YES AND NO,false,,30
 148,BA,B,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,SAY HELLO TO,false,,30
-149,BC,B,C,MOM,Family & Friends,Trained - Repeated,Single Word,Photo,SAY HELLO TO,false,,2
+149,BC,B,C,MOM,Family & Friends,Untrained - Discovered,Single Word,Photo,SAY HELLO TO,false,,2
 150,BHA,BH,A,BACK,Navigation,Trained - Repeated,Single Word,Photo,BIRD FRIENDS,false,,30
 151,BI,B,I,OUTSIDE WALK,Space-Temporal,Trained - Repeated,Phrase,Photo,SAY HELLO TO,false,,2
 152,BJA,BJ,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,SISTERS,false,,30
@@ -159,7 +159,7 @@ Line Number,full_pattern,menu_pattern,button,selection,Category,Training/ Sponta
 158,BKB,BK,B,FEELING,Self/State,Trained - Repeated,Single Word,Drawing,TALK ABOUT,false,,1
 159,BKC,BK,C,TEMP AND WEATHER,Self/State,Trained - Repeated,Phrase,Photo,TALK ABOUT,false,,1
 160,CA,C,A,BACK,Navigation,Trained - Repeated,Single Word,Abstract Sign,EXPERIENCE,false,,30
-161,CB,C,B,MOM,Family & Friends,Trained - Repeated,Single Word,Photo,EXPERIENCE,false,,2
+161,CB,C,B,MOM,Family & Friends,Untrained - Discovered,Single Word,Photo,EXPERIENCE,false,,2
 162,CG,C,G,ELLIE,Family & Friends,Trained - Repeated,Single Word,Photo,EXPERIENCE,false,,2
 163,CH,C,H,TILLIE,Family & Friends,Trained - Repeated,Single Word,Photo,EXPERIENCE,false,,2
 164,CI,C,I,ISABELLE,Family & Friends,Trained - Repeated,Single Word,Photo,EXPERIENCE,false,,2
