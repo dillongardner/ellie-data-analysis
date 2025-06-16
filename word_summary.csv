@@ -1,0 +1,703 @@
+selection,iteration,is_menu,len
+,iteration_2,false,1
+,iteration_3,false,56
+"",iteration_2,false,14
+"",iteration_3,false,17
+"""A""",iteration_3,false,1
+"""B""",iteration_3,false,1
+"""D""",iteration_3,false,1
+"""E""",iteration_3,false,1
+"""F""",iteration_3,false,1
+"""L""",iteration_3,false,1
+"""M""",iteration_3,false,1
+"""O""",iteration_3,false,1
+"""P""",iteration_3,false,1
+"""R""",iteration_3,false,1
+"""S""",iteration_3,false,1
+"""T""",iteration_3,false,1
+0,iteration_3,false,1
+1,iteration_3,false,1
+2,iteration_3,false,1
+3,iteration_3,false,1
+4,iteration_3,false,1
+5,iteration_3,false,1
+6,iteration_3,false,1
+7,iteration_3,false,1
+8,iteration_3,false,1
+A BANANA,iteration_1,false,1
+A BANANA,iteration_2,false,1
+A BANANA,iteration_3,false,1
+A PANCAKE,iteration_1,false,1
+A PANCAKE,iteration_2,false,1
+A PANCAKE,iteration_3,false,1
+A TOAST,iteration_1,false,1
+A TOAST,iteration_2,false,1
+A TOAST,iteration_3,false,1
+ABOUT ME,iteration_3,true,1
+ACORN,iteration_3,false,1
+AFRAID,iteration_2,false,1
+AFRAID,iteration_3,false,3
+AFRAID,iteration_3,true,1
+AFRAID OUCH,iteration_3,false,1
+ALEXA,iteration_3,true,1
+ALEXA CANCEL,iteration_3,false,1
+ALEXA PLAY BEETHOVEN ON SPOTIFY,iteration_3,false,1
+ALEXA PLAY CARTOONS ALEXA PLAY NUMBER 1,iteration_3,false,1
+ALEXA PLAY COLDPLAY ON PANDORA,iteration_3,false,1
+ALEXA PLAY HALLOWEEN MUSIC,iteration_3,false,1
+ALEXA PLAY HANDEL,iteration_3,false,1
+ALEXA PLAY HOOKED ON A FEELING ON PANDORA,iteration_3,false,1
+ALEXA PLAY MEDITATION MUSIC,iteration_3,false,1
+ALEXA PLAY PEPPA PIG CARTOONS,iteration_3,false,1
+ALEXA PLAY VIVALDI,iteration_3,false,1
+ALEXA PLAY WILL ACKERMAN,iteration_3,false,1
+ALEXA PLAY YIRUMA,iteration_3,false,1
+ALEXA THUMBS DOWN,iteration_3,false,1
+ALEXA THUMBS UP,iteration_3,false,1
+ALEXA VOLUME 3,iteration_3,false,1
+ALEXA VOLUME 5,iteration_3,false,1
+ALMOND,iteration_2,false,1
+ALMOND,iteration_3,false,1
+AN APPLE,iteration_1,false,1
+AN APPLE,iteration_2,false,1
+AN APPLE,iteration_3,false,1
+AND,iteration_1,false,1
+ANIMALS,iteration_2,false,1
+ANIMALS,iteration_2,true,1
+ANIMALS,iteration_3,true,3
+ANT,iteration_3,false,1
+AUNTIE ANGIE,iteration_1,false,1
+BABY ANIMALS,iteration_3,false,3
+BABY ANIMALS,iteration_3,true,1
+BABY UNICORN,iteration_2,false,1
+BABY UNICORN,iteration_3,false,1
+BACH,iteration_3,false,1
+BACH & VIVALDI,iteration_2,false,1
+BACK,iteration_1,false,7
+BACK,iteration_2,false,30
+BACK,iteration_3,false,81
+BACKYARD ANIMALS,iteration_3,false,2
+BACKYARD ANIMALS,iteration_3,true,1
+BALLOON POP,iteration_2,false,1
+BALLOON POP,iteration_3,false,1
+BANANA STRAW,iteration_3,false,1
+BAROQUE,iteration_3,true,1
+BASKET,iteration_3,false,1
+BEETHOVEN,iteration_3,false,1
+BEETHOVEN & DVORAK,iteration_2,false,1
+BIG,iteration_3,false,1
+BIRD,iteration_3,false,1
+BIRD FRIENDS,iteration_2,true,1
+BIRD FRIENDS,iteration_3,false,1
+BLACK CAT,iteration_3,false,1
+BLUE,iteration_3,false,2
+BOARD,iteration_1,false,1
+BODY,iteration_3,false,2
+BODY,iteration_3,true,1
+BONE OUCH,iteration_3,false,1
+BOOK,iteration_1,false,1
+BOOK,iteration_2,true,1
+BOOK,iteration_3,false,13
+BOOK,iteration_3,true,1
+BORING,iteration_3,false,1
+BROKEN,iteration_3,false,5
+BROWN,iteration_3,false,1
+BUBBLE GUPPIES,iteration_1,false,1
+BUBBLE GUPPIES,iteration_2,false,1
+BUGS,iteration_3,false,1
+BUGS,iteration_3,true,1
+BUNNY,iteration_3,false,1
+BUTTERFLY,iteration_3,false,2
+CAGE TABLET,iteration_2,false,1
+CAGES,iteration_3,false,1
+CALENDAR,iteration_3,false,1
+CANCER,iteration_3,false,1
+CAR RIDE,iteration_2,false,1
+CAR RIDE,iteration_3,false,1
+CARD GAME,iteration_3,false,4
+CARD GAMES,iteration_3,false,2
+CARD MATCH,iteration_3,false,1
+CARDS,iteration_1,false,1
+CARDS,iteration_2,false,1
+CARDS,iteration_3,false,1
+CARTOONS,iteration_2,true,1
+CARTOONS,iteration_3,true,1
+CEREAL,iteration_1,false,1
+CHASE,iteration_1,false,1
+CHICK,iteration_3,false,1
+CHOP,iteration_2,false,1
+CHOP,iteration_3,false,1
+CHRIS,iteration_3,false,1
+CHRISTMAS,iteration_2,false,1
+CHRISTMAS,iteration_3,false,2
+CHRISTMAS,iteration_3,true,1
+CHRISTMAS CARTOONS,iteration_3,false,1
+CHRISTMAS LIGHTS,iteration_3,false,1
+CHRISTMAS MUSIC,iteration_3,false,1
+CHRISTMAS TREE,iteration_3,false,1
+CLEAN,iteration_3,true,1
+CLOUD,iteration_2,false,1
+CLOUD,iteration_3,false,1
+CLOUDBABIES,iteration_2,false,1
+CLOUDBABIES,iteration_3,false,1
+CLOUDS,iteration_3,false,1
+COLD,iteration_2,true,1
+COLD,iteration_3,false,1
+COLD,iteration_3,true,1
+COLD INSIDE,iteration_2,false,1
+COLD INSIDE,iteration_3,false,1
+COLD OUTSIDE,iteration_2,false,1
+COLD OUTSIDE,iteration_3,false,1
+COLD WIND AIR CONDITIONER,iteration_2,false,1
+COLOR GAME,iteration_1,false,1
+COLORING,iteration_1,false,1
+COLORING,iteration_2,false,1
+COLORING,iteration_3,false,1
+CONNECT THE DOTS,iteration_2,false,1
+COOK BREAKFAST,iteration_2,false,1
+COOK BREAKFAST,iteration_3,false,1
+COOK DINNER,iteration_3,false,1
+COOKIE,iteration_2,false,1
+COOL,iteration_2,true,1
+COOL,iteration_3,false,1
+COOL,iteration_3,true,1
+COOL INSIDE,iteration_2,false,1
+COOL INSIDE,iteration_3,false,1
+COOL OUTSIDE,iteration_2,false,1
+COOL OUTSIDE,iteration_3,false,4
+CORI,iteration_2,false,1
+CORI,iteration_3,false,1
+CRAB,iteration_3,false,1
+CRAFT,iteration_1,false,1
+CRAFT,iteration_3,false,7
+CRAFTS,iteration_2,false,1
+CRAFTS,iteration_3,false,1
+CURTAIN,iteration_3,false,1
+DANCE,iteration_1,false,1
+DANCE,iteration_2,false,1
+DANCE,iteration_3,true,1
+DARK,iteration_3,false,2
+DAY / SUN,iteration_2,false,1
+DAY SUN,iteration_3,false,1
+DEATH AND SAD,iteration_3,false,1
+DEBUSSY,iteration_3,false,1
+DEER,iteration_3,false,1
+DESCRIPTIONS AND PREFERENCES,iteration_3,true,1
+DIRT,iteration_3,false,1
+DOLPHIN,iteration_3,false,1
+DOWN LOW,iteration_3,false,4
+DRAGON,iteration_2,false,1
+DRAGON,iteration_3,false,3
+DRAGONS,iteration_2,false,1
+DRAW WHAT I SEE,iteration_3,false,1
+DUCK,iteration_3,false,1
+EASTER,iteration_2,false,1
+EASTER,iteration_3,false,2
+EASTER,iteration_3,true,1
+EASTER BABIES,iteration_2,false,1
+EASTER BASKET,iteration_3,false,1
+EASTER BUNNY,iteration_3,false,1
+EASTER CARTOONS,iteration_3,false,1
+EASTER EGG,iteration_3,false,1
+EASTER MUSIC,iteration_3,false,1
+EASY,iteration_3,false,1
+EGGS,iteration_2,false,1
+EGGS,iteration_3,false,1
+ELEPHANT,iteration_3,false,1
+ELF,iteration_3,false,3
+ELLIE,iteration_1,false,1
+ELLIE,iteration_2,false,2
+ELLIE,iteration_3,false,10
+EMPTY,iteration_3,false,1
+ENTERTAINMENT,iteration_3,true,1
+EWW,iteration_2,false,1
+EWW,iteration_3,false,1
+EXCITED,iteration_2,false,1
+EXCITED,iteration_3,false,2
+EXCITED,iteration_3,true,1
+EXPERIENCE,iteration_1,true,1
+EXPERIENCE,iteration_2,true,1
+EXPERIENCE,iteration_3,true,1
+FAIRIES,iteration_2,false,1
+FAIRY,iteration_2,false,1
+FAIRY,iteration_3,false,3
+FALL,iteration_2,false,1
+FALL,iteration_3,false,2
+FALL,iteration_3,true,1
+FALL CARTOONS,iteration_3,false,1
+FALL MUSIC,iteration_3,false,1
+FANTASY,iteration_2,false,1
+FANTASY,iteration_2,true,2
+FANTASY,iteration_3,true,3
+FAST,iteration_3,false,3
+FEEL,iteration_3,false,1
+FEEL GOOD,iteration_3,false,1
+FEELING,iteration_1,false,1
+FEELING,iteration_2,false,1
+FEELING,iteration_2,true,1
+FEELING,iteration_3,true,1
+FIREPLACE,iteration_3,false,2
+FIREWORKS,iteration_3,false,1
+FISH,iteration_3,false,1
+FIX,iteration_3,false,4
+FIX PLEASE,iteration_3,true,1
+FIXED,iteration_3,false,1
+FLOOR,iteration_3,false,1
+FLOWERS,iteration_3,false,1
+FLY,iteration_3,false,1
+FOOD AND DRINKS,iteration_3,true,1
+FOOT,iteration_3,false,1
+FREE WRITING PRACTICE,iteration_3,false,1
+FROSTY,iteration_3,false,1
+FULL,iteration_3,false,1
+FUTURE,iteration_3,false,12
+GAME,iteration_3,false,12
+GAMES,iteration_2,false,1
+GAMES,iteration_2,true,1
+GHOST,iteration_3,false,1
+GIRAFFE,iteration_3,false,1
+GNOME,iteration_3,false,3
+GOLF CART RIDE,iteration_3,false,3
+GORILLA,iteration_3,false,1
+GRANDMA,iteration_1,false,1
+GRANDMA,iteration_2,false,1
+GRANDMA,iteration_3,false,1
+GRASS,iteration_3,false,1
+GRAY,iteration_3,false,1
+GUITAR,iteration_3,false,1
+HALLOWEEN,iteration_2,false,1
+HALLOWEEN,iteration_3,false,2
+HALLOWEEN,iteration_3,true,1
+HALLOWEEN CARTOONS,iteration_3,false,1
+HALLOWEEN LIGHTS,iteration_3,false,1
+HANDEL,iteration_3,false,1
+HANDFUL OF TREATS,iteration_3,false,1
+HANG DRUM,iteration_3,false,1
+HAPPY,iteration_2,false,1
+HAPPY,iteration_3,false,3
+HAPPY,iteration_3,true,1
+HARD,iteration_3,false,1
+HAUNTED HOUSE,iteration_3,false,1
+HEAD,iteration_3,false,1
+HEAR,iteration_1,false,1
+HEAR,iteration_2,false,1
+HEAR,iteration_3,false,1
+HIGH UP,iteration_3,false,3
+HOLIDAYS,iteration_2,false,1
+HOLIDAYS,iteration_3,true,3
+HOT,iteration_2,true,1
+HOT,iteration_3,true,2
+HOT INSIDE,iteration_2,false,1
+HOT INSIDE,iteration_3,false,2
+HOT OUTSIDE,iteration_2,false,1
+HOT OUTSIDE,iteration_3,false,3
+HOT TEA,iteration_3,false,1
+HOT WIND BLOW DRYER,iteration_2,false,1
+HOT WIND HEATER,iteration_3,false,1
+HOW?,iteration_3,false,1
+I DONT KNOW,iteration_3,false,1
+I FEEL AFRAID,iteration_3,false,1
+I FEEL COLD,iteration_2,false,1
+I FEEL COLD,iteration_3,false,1
+I FEEL COOL,iteration_2,false,1
+I FEEL COOL,iteration_3,false,1
+I FEEL EXCITED,iteration_3,false,1
+I FEEL HAPPY,iteration_3,false,1
+I FEEL HOT,iteration_2,false,1
+I FEEL HOT,iteration_3,false,1
+I FEEL MAD,iteration_3,false,1
+I FEEL OUCH,iteration_3,false,1
+I FEEL SAD,iteration_3,false,1
+I FEEL WARM,iteration_2,false,1
+I FEEL WARM,iteration_3,false,1
+I FELT AFRAID,iteration_3,false,1
+I FELT COLD,iteration_3,false,1
+I FELT COOL,iteration_3,false,1
+I FELT EXCITED,iteration_3,false,1
+I FELT HAPPY,iteration_3,false,1
+I FELT HOT,iteration_3,false,1
+I FELT MAD,iteration_3,false,1
+I FELT OUCH,iteration_3,false,1
+I FELT SAD,iteration_3,false,1
+I FELT WARM,iteration_3,false,1
+I HELP,iteration_3,false,1
+I KNOW!,iteration_3,false,1
+I LOVE YOU,iteration_3,false,2
+I PLAY,iteration_3,false,1
+I WANT TO FEEL AFRAID,iteration_3,false,1
+I WANT TO FEEL COLD,iteration_2,false,1
+I WANT TO FEEL COLD,iteration_3,false,1
+I WANT TO FEEL COOL,iteration_2,false,1
+I WANT TO FEEL COOL,iteration_3,false,1
+I WANT TO FEEL EXCITED,iteration_3,false,1
+I WANT TO FEEL HAPPY,iteration_3,false,1
+I WANT TO FEEL HOT,iteration_2,false,1
+I WANT TO FEEL HOT,iteration_3,false,1
+I WANT TO FEEL MAD,iteration_3,false,1
+I WANT TO FEEL SAD,iteration_3,false,1
+I WANT TO FEEL WARM,iteration_2,false,1
+I WANT TO FEEL WARM,iteration_3,false,1
+I WILL FEEL AFRAID,iteration_3,false,1
+I WILL FEEL COLD,iteration_3,false,1
+I WILL FEEL COOL,iteration_3,false,1
+I WILL FEEL EXCITED,iteration_3,false,1
+I WILL FEEL HAPPY,iteration_3,false,1
+I WILL FEEL HOT,iteration_3,false,1
+I WILL FEEL MAD,iteration_3,false,1
+I WILL FEEL OUCH,iteration_3,false,1
+I WILL FEEL SAD,iteration_3,false,1
+I WILL FEEL WARM,iteration_3,false,1
+I'M NOT SURE,iteration_2,false,1
+I'M NOT SURE,iteration_3,false,1
+IGUANA,iteration_3,false,1
+IMPRESSIONIST ERA,iteration_3,true,1
+IN,iteration_3,false,1
+INSIDE,iteration_3,false,2
+INSIDE OUCH,iteration_3,false,1
+INSTRUMENTAL,iteration_3,true,1
+INTERESTING,iteration_3,false,1
+ISABELLE,iteration_1,false,1
+ISABELLE,iteration_2,false,2
+ISABELLE,iteration_3,false,10
+ISABELLE'S HOUSE,iteration_3,false,1
+ISABELLE’S HOUSE,iteration_2,false,1
+JUICE,iteration_1,false,1
+JUICE,iteration_2,false,1
+JUICE,iteration_3,false,1
+JUMP,iteration_3,false,1
+JUNGLE ANIMALS,iteration_3,false,2
+JUNGLE ANIMALS,iteration_3,true,1
+KATURI,iteration_1,false,1
+KATURI,iteration_2,false,1
+KATURI,iteration_3,false,1
+KINDERGARTEN LINES,iteration_3,false,1
+KITTEN,iteration_3,false,1
+LAMB,iteration_3,false,1
+LEAF WRESTLE,iteration_3,false,1
+LEARN NEW WORDS,iteration_3,false,1
+LEARN SOMETHING NEW,iteration_2,false,1
+LEARN SOMETHING NEW,iteration_3,false,2
+LEARNING,iteration_2,false,1
+LEARNING THEME,iteration_3,false,1
+LEAVES,iteration_3,false,1
+LETTER PRACTICE,iteration_3,false,1
+LETTERS AND PHONICS,iteration_2,false,1
+LETTERS AND WORDS,iteration_2,false,1
+LIGHT,iteration_3,false,2
+LIGHTNING THUNDER CHEESE GAME,iteration_3,false,2
+LIKE,iteration_2,false,1
+LIKE,iteration_3,false,31
+LILY,iteration_3,false,1
+LION,iteration_3,false,1
+LITTLE,iteration_3,false,1
+LITTLE KINGDOM,iteration_1,false,1
+LITTLE KINGDOM,iteration_2,false,1
+LITTLE KINGDOM,iteration_3,false,1
+LITTLE LOU,iteration_2,false,1
+LOOK,iteration_1,false,1
+LOOK AT ART,iteration_3,false,8
+LOOK AT PICTURES,iteration_3,false,3
+LOUD,iteration_3,false,1
+LOVE,iteration_3,false,1
+MAD,iteration_2,false,1
+MAD,iteration_3,false,1
+MAD,iteration_3,true,1
+MANGO,iteration_2,false,1
+MANGO,iteration_3,false,1
+MATCHING GAME,iteration_2,false,1
+MATH,iteration_2,false,1
+MATH,iteration_3,true,1
+MEDICINE,iteration_1,false,1
+MEDICINE,iteration_2,false,1
+MEDICINE,iteration_3,false,1
+MEDICINE,iteration_3,true,1
+MEMORY AND TIME,iteration_3,true,1
+MERMAID,iteration_3,false,3
+MOM,iteration_1,false,2
+MOM,iteration_2,false,2
+MOM,iteration_3,false,12
+MOM COOK DINNER,iteration_2,false,1
+MONKEY,iteration_3,false,1
+MONSTER,iteration_3,false,1
+MOON,iteration_3,false,1
+MOON CLOSE BIG,iteration_3,false,1
+MOON FAR SMALL,iteration_3,false,1
+MOONLIGHT,iteration_3,false,1
+MORE,iteration_1,false,1
+MOVEMENT,iteration_3,true,1
+MUSIC,iteration_1,false,1
+MUSIC,iteration_2,false,2
+MUSIC,iteration_2,true,1
+MUSIC,iteration_3,true,1
+NEIGHBOR,iteration_1,false,1
+NIGHT - STAR,iteration_3,false,1
+NIGHT / MOON,iteration_2,false,1
+NIGHT MOON,iteration_3,false,1
+NO,iteration_1,false,1
+NO,iteration_2,false,1
+NO,iteration_3,false,1
+NO LIKE,iteration_2,false,1
+NO LIKE,iteration_3,false,31
+NUMBER MATCH,iteration_2,false,1
+NUMBER MATCH,iteration_3,false,1
+NUT,iteration_1,false,1
+NUTS,iteration_2,false,1
+NUTS,iteration_3,false,1
+OCTOPUS,iteration_3,false,1
+OLD HOUSE,iteration_3,false,1
+OLDIES,iteration_2,false,1
+OMELET,iteration_1,false,1
+ONE WORD,iteration_2,false,1
+ONE WORD,iteration_3,false,1
+OPPOSITES,iteration_3,true,1
+OUCH,iteration_3,false,1
+OUCH MEDICINE,iteration_3,false,1
+OUT,iteration_3,false,1
+OUTSIDE,iteration_1,false,1
+OUTSIDE,iteration_3,false,2
+OUTSIDE AVIARY,iteration_3,false,2
+OUTSIDE OUCH,iteration_3,false,1
+OUTSIDE SHOWER,iteration_2,false,1
+OUTSIDE SHOWER,iteration_3,false,1
+OUTSIDE WALK,iteration_2,false,2
+OUTSIDE WALK,iteration_3,false,3
+PAPERS,iteration_3,false,1
+PAST,iteration_3,false,13
+PATTERNS,iteration_2,false,1
+PEAR,iteration_3,false,1
+PEPPA PIG,iteration_1,false,1
+PEPPA PIG,iteration_2,false,1
+PEPPA PIG,iteration_3,false,1
+PIANO,iteration_2,false,1
+PIANO,iteration_3,false,1
+PLACES,iteration_2,true,1
+PLACES,iteration_3,true,1
+PLANETS CLOSE BIG,iteration_3,false,1
+PLANETS FAR SMALL,iteration_3,false,1
+PLANTS,iteration_3,false,1
+PLANTS AND OUTSIDE,iteration_2,false,1
+PLAY OUTSIDE,iteration_2,false,1
+PLAY OUTSIDE,iteration_3,false,1
+PLAY STAND,iteration_2,false,1
+PLAYSTAND,iteration_3,false,1
+POP IMAGINE DRAGONS,iteration_3,false,1
+POP JASON MRAZ,iteration_3,false,1
+POP UP,iteration_2,false,1
+POP-UP,iteration_3,false,1
+PRESENTS,iteration_3,false,1
+PUMPKIN,iteration_3,false,2
+PUPPY,iteration_3,false,1
+PUZZLE,iteration_2,false,1
+PUZZLE,iteration_3,false,1
+PUZZLE WORLD,iteration_3,false,1
+QUESTIONS,iteration_3,true,1
+QUIET,iteration_3,false,1
+RABBIT,iteration_3,false,1
+RACCOON,iteration_3,false,1
+RAIN,iteration_2,false,1
+RAIN,iteration_3,false,3
+READ,iteration_2,false,1
+READ,iteration_3,false,1
+READING AND PHONICS,iteration_3,false,1
+READING BOOK,iteration_2,true,1
+READING BOOK,iteration_3,true,1
+REMEMBER,iteration_3,true,1
+RIMSKY-KORSAKAV,iteration_3,false,1
+RIVER AVIARY,iteration_3,false,1
+ROMANTIC ERA,iteration_3,true,1
+RUN,iteration_3,false,1
+SAD,iteration_2,false,1
+SAD,iteration_3,false,2
+SAD,iteration_3,true,1
+SAINT SEANS,iteration_3,false,1
+SANTA,iteration_3,false,1
+SAXOPHONE,iteration_3,false,1
+SAY HELLO TO,iteration_2,true,1
+SEAHORSE,iteration_3,false,1
+SEASONAL,iteration_2,true,2
+SEASONAL,iteration_3,true,4
+SEASONAL AND HOLIDAYS,iteration_3,true,1
+SECOND OLD HOUSE,iteration_3,false,1
+SEE,iteration_2,false,1
+SEE,iteration_3,false,1
+SEED BALL,iteration_1,false,1
+SEED BALL,iteration_2,false,1
+SEED BALL,iteration_3,false,1
+SENSORY BOWL,iteration_3,false,1
+SENTENCE BOOK,iteration_2,false,1
+SENTENCE BOOK,iteration_3,false,1
+SHOWER,iteration_1,false,1
+SICK MEDICINE,iteration_3,false,1
+SICK OUCH,iteration_3,false,1
+SIERRA,iteration_2,false,1
+SIERRA,iteration_3,false,1
+SISTERS,iteration_2,true,1
+SIT,iteration_3,false,1
+"SKITTLES, SQUEE AND YAYA",iteration_2,false,1
+SLOW,iteration_3,false,3
+SMELL,iteration_2,false,1
+SMELL,iteration_3,false,1
+SNOWFLAKE,iteration_3,false,1
+SNOWMAN,iteration_3,false,1
+SNUGGLE,iteration_1,false,1
+SNUGGLE,iteration_2,false,1
+SNUGGLE,iteration_3,false,2
+SOFA BASKET,iteration_2,false,1
+SOMEONE ELSE,iteration_3,false,1
+SOMETHING ELSE,iteration_2,false,1
+SOMETHING ELSE,iteration_3,false,1
+SOUP,iteration_3,false,1
+SPACE SKY,iteration_3,true,1
+SPAGHETTI,iteration_2,false,1
+SPAGHETTI,iteration_3,false,1
+SPELLING,iteration_3,false,1
+SPRING,iteration_2,false,1
+SPRING,iteration_3,false,2
+SPRING,iteration_3,true,1
+SPRING CARTOONS,iteration_3,false,1
+SPRING MUSIC,iteration_3,false,1
+SPROUTS,iteration_3,false,1
+SQUIRREL,iteration_3,false,2
+SQUIRREL MUSIC,iteration_3,false,1
+SQUIRRELS,iteration_3,true,1
+STARS CLOSE BIG,iteration_3,false,1
+STARS FAR SMALL,iteration_3,false,1
+SUMMER,iteration_2,false,1
+SUMMER,iteration_3,false,2
+SUMMER,iteration_3,true,1
+SUMMER CARTOON,iteration_3,false,1
+SUMMER MUSIC,iteration_3,false,1
+SUN,iteration_3,false,2
+SUN CLOSE BIG,iteration_3,false,1
+SUN FAR SMALL,iteration_3,false,1
+SUNFLOWER SEEDS,iteration_2,false,1
+SUNFLOWER SEEDS,iteration_3,false,1
+SWEEP BROOM,iteration_3,false,1
+SWIM,iteration_3,false,1
+TABLET,iteration_3,false,2
+TABLET GAME,iteration_3,false,1
+TABLET GAMES,iteration_3,true,1
+TACO,iteration_1,false,1
+TALK ABOUT,iteration_2,true,2
+TALK ABOUT,iteration_3,false,11
+TALK ABOUT,iteration_3,true,1
+TALK ABOUT FEELINGS,iteration_3,false,1
+TALK OR LEARN,iteration_3,false,1
+TASTE,iteration_2,false,1
+TASTE,iteration_3,false,1
+TCHAIKOVSKY,iteration_3,false,1
+TEA,iteration_1,false,1
+TEA,iteration_2,false,1
+TEA,iteration_3,false,1
+TEA ROOM AVIARY,iteration_3,false,1
+TECHNO DANCE,iteration_3,false,1
+TELL A STORY,iteration_3,false,1
+TEMP AND WEATHER,iteration_2,false,1
+TEMP AND WEATHER,iteration_2,true,1
+TEMP AND WEATHER,iteration_3,true,1
+TEMPERATURE,iteration_3,true,1
+THEME,iteration_2,true,1
+THEME,iteration_3,true,1
+THEMES,iteration_2,true,1
+THUNDER,iteration_3,false,1
+TILLIE,iteration_2,false,2
+TILLIE,iteration_3,false,10
+TILLIE'S HOUSE,iteration_3,false,1
+TILLIE'S OLD HOUSE,iteration_3,false,1
+TIME,iteration_3,true,1
+TO DRINK,iteration_1,true,1
+TO DRINK,iteration_2,true,1
+TO DRINK,iteration_3,true,1
+TO EAT,iteration_1,true,1
+TO EAT,iteration_2,true,1
+TO EAT,iteration_3,true,1
+TO PLAY,iteration_1,true,1
+TO PLAY,iteration_2,true,1
+TO PLAY,iteration_3,true,1
+TO SAY HELLO TO,iteration_1,true,1
+TO SAY HELLO TO,iteration_3,true,1
+TO WATCH,iteration_1,true,1
+TODAY,iteration_3,false,13
+TOFU,iteration_2,false,1
+TOFU,iteration_3,false,1
+TOM AND JERRY,iteration_1,false,1
+TOM AND JERRY,iteration_2,false,1
+TOMORROW,iteration_3,false,1
+TOUCH,iteration_2,false,1
+TOUCH,iteration_3,false,1
+TOUCH ,iteration_1,false,1
+TOUCH AND FEEL,iteration_2,false,1
+TOUCH AND FEEL,iteration_3,false,1
+TOYS,iteration_2,false,1
+TRACING,iteration_1,false,1
+TRACING,iteration_2,false,2
+TRACING,iteration_3,false,1
+TRACING AND WRITING,iteration_3,true,1
+TREAT,iteration_1,false,1
+TREAT SYRINGE,iteration_3,false,1
+TREATS,iteration_2,true,1
+TREATS,iteration_3,true,1
+TREES,iteration_3,false,1
+TRUMPET,iteration_3,false,1
+TUMMY,iteration_3,false,1
+TURTLE,iteration_3,false,1
+TYPE,iteration_3,true,1
+TYPES OF OUCH,iteration_3,true,1
+TYPING,iteration_2,false,1
+TYPING,iteration_3,false,1
+UNDERWATER ANIMALS,iteration_3,false,2
+UNDERWATER ANIMALS,iteration_3,true,1
+UNICORN,iteration_2,false,1
+UNICORN,iteration_3,false,3
+UNICORNS,iteration_2,false,1
+UP HIGH,iteration_3,false,1
+VIDEO CALL,iteration_3,false,1
+VIOLIN,iteration_2,false,1
+VIOLIN,iteration_3,false,1
+VIVALDI,iteration_3,false,1
+WALK,iteration_3,false,1
+WANT,iteration_1,false,2
+WANT,iteration_3,false,5
+WARM,iteration_2,true,1
+WARM,iteration_3,true,2
+WARM CLOTHES,iteration_3,false,1
+WARM INSIDE,iteration_2,false,1
+WARM INSIDE,iteration_3,false,2
+WARM OUTSIDE,iteration_2,false,1
+WARM OUTSIDE,iteration_3,false,4
+WATER,iteration_1,false,1
+WATER,iteration_2,false,1
+WATER,iteration_3,false,1
+WHAT IS IT?,iteration_3,false,1
+WHAT IS THAT?,iteration_3,false,1
+WHAT TYPE OF OUCH?,iteration_3,false,1
+WHEN?,iteration_3,false,1
+WHERE ARE YOU GOING?,iteration_3,false,1
+WHERE IS SOMEONE?,iteration_3,false,1
+WHICH ONE?,iteration_2,false,1
+WHITE,iteration_3,false,1
+WHO IS THAT?,iteration_3,false,1
+WHY?,iteration_3,false,1
+WIND,iteration_2,false,1
+WIND,iteration_3,false,2
+WING,iteration_3,false,1
+WINTER,iteration_2,false,1
+WINTER,iteration_3,false,2
+WINTER,iteration_3,true,1
+WINTER CARTOON,iteration_3,false,1
+WINTER MUSIC,iteration_3,false,1
+WITCH,iteration_3,false,1
+WRITE WORDS,iteration_3,false,1
+WRITING,iteration_1,false,1
+WRITING,iteration_2,false,1
+YANNI,iteration_3,false,1
+YELLOW,iteration_3,false,1
+YES,iteration_1,false,1
+YES,iteration_2,false,1
+YES,iteration_3,false,1
+YES AND NO,iteration_2,true,1
+YES AND NO,iteration_3,true,1
+YESTERDAY,iteration_3,false,1
+YUCK BUG,iteration_3,false,1
+YUM,iteration_2,false,1
+ZEBRA,iteration_3,false,1
