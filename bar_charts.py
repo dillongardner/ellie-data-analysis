@@ -70,12 +70,16 @@ def make_barchart(df: pd.DataFrame, col: str, title:str):
     ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
     return fig, ax
 
+#%%
+
 for group_col in group_cols:
     selections_title = f"Distributions of Selections\nBy {group_col}"
     selections_name = f"selections_{group_col}"
     fig, ax = make_barchart(df=all_selections, 
                             col=group_col,
                             title=selections_title)
+    if group_col == "Category":
+        ax.set_yticks([0,5,10,15,20,25,30,35,40,45,50])
     plt.tight_layout()
     fig.savefig(os.path.join(OUTPUT_DIR,selections_name))
     plt.close(fig)
@@ -92,6 +96,17 @@ for group_col in group_cols:
 
 
 
+
+
+# %%
+
+group_col = "Category"
+board_title = f"Distributions of Board Items\nBy {group_col}"
+board_name = f"board_{group_col}"
+fig, ax = make_barchart(df=all_boards, 
+                        col=group_col,
+                        title=board_title)
+ax.set_yticks([0,10,20,30])
 
 
 # %%
